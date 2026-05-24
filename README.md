@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 15:44 UTC
+> ⏰ Last updated: 2026-05-24 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [choral-io/choral-skills](https://github.com/choral-io/choral-skills) | 1 | — | 2026-05-24 | Public Agent Skills from Choral, including a repository-backed Knowledge Workflow suite. |
-| 2 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-05-24 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
-| 3 | [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | 126 | Python | 2026-05-24 | DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research note |
-| 4 | [sarveshhome/UPSC_Agents](https://github.com/sarveshhome/UPSC_Agents) | 0 | JavaScript | 2026-05-24 | UPSC Agents AI |
-| 5 | [haru0416-dev/quaere](https://github.com/haru0416-dev/quaere) | 1 | Python | 2026-05-24 | Process-correction skills that make coding agents ask before they act. |
-| 6 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 79 | Python | 2026-05-24 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
-| 7 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-05-24 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 8 | [chatchai98/Agent-SWI](https://github.com/chatchai98/Agent-SWI) | 0 | PowerShell | 2026-05-24 |  Markdown-only "Second Brain" convention for AI coding agents — one folder,   one contract, so every agent recovers the  |
-| 9 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 87 | Kotlin | 2026-05-24 | Helping the Agents Compose the Things |
-| 10 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 0 | Python | 2026-05-24 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 11 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 0 | Python | 2026-05-24 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 12 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-24 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-24 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 0 | Python | 2026-05-24 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [choral-io/choral-skills](https://github.com/choral-io/choral-skills) | 1 | — | 2026-05-24 | Public Agent Skills from Choral, including a repository-backed Knowledge Workflow suite. |
+| 4 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-05-24 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
+| 5 | [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | 126 | Python | 2026-05-24 | DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research note |
+| 6 | [sarveshhome/UPSC_Agents](https://github.com/sarveshhome/UPSC_Agents) | 0 | JavaScript | 2026-05-24 | UPSC Agents AI |
+| 7 | [haru0416-dev/quaere](https://github.com/haru0416-dev/quaere) | 1 | Python | 2026-05-24 | Process-correction skills that make coding agents ask before they act. |
+| 8 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 79 | Python | 2026-05-24 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
+| 9 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-05-24 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 10 | [chatchai98/Agent-SWI](https://github.com/chatchai98/Agent-SWI) | 0 | PowerShell | 2026-05-24 |  Markdown-only "Second Brain" convention for AI coding agents — one folder,   one contract, so every agent recovers the  |
+| 11 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 87 | Kotlin | 2026-05-24 | Helping the Agents Compose the Things |
+| 12 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 0 | Python | 2026-05-24 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 13 | [joshua-zyy/academic-paper-writer](https://github.com/joshua-zyy/academic-paper-writer) | 8 | HTML | 2026-05-24 | 面向 CS / AI / ML 领域的证据驱动、分节推进的论文写作 Agent Skill。 |
 | 14 | [jerseycheese/agent-skills](https://github.com/jerseycheese/agent-skills) | 1 | — | 2026-05-24 | Agent skills for Claude Code, Codex, and Gemini CLI — shared workflows for testing, code review, issue triage, and dev l |
 | 15 | [agentcarousel/agentcarousel](https://github.com/agentcarousel/agentcarousel) | 7 | Rust | 2026-05-24 | Unit tests for AI agents |
