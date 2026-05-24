@@ -67,3 +67,16 @@ an issue.
 ## 📜 License
 
 MIT — see `LICENSE`.
+
+## More from linny006
+
+
+- [**Awesome Agent Skills**](https://github.com/linny006/awesome-agent-skills) — Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, and open-source agents (⭐ 0)
+
+- [**Agent Skills Daily Tracker**](https://github.com/linny006/skills-tracker) — Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend (⭐ 0)
+
+- [**Agent Eval Harness**](https://github.com/linny006/agent-eval-harness) — Live, open-source benchmark for comparing AI coding agents on real GitHub issues (⭐ 0)
+
+- [**Prompt Tools Live**](https://github.com/linny006/prompt-tools-live) — Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 minutes (⭐ 0)
+
+- [**LLMOps Radar**](https://github.com/linny006/llmops-radar) — Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment (⭐ 0)
