@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 10:59 UTC
+> ⏰ Last updated: 2026-05-25 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [apache/airflow-steward](https://github.com/apache/airflow-steward) | 11 | Python | 2026-05-25 | Agent-assisted maintainership and development framework for Apache projects — Triage and Drafting (agent-authored fixes  |
-| 2 | [jimezsa/opencolab](https://github.com/jimezsa/opencolab) | 11 | TypeScript | 2026-05-25 | 🐙 Accelerating Scientific Discovery — Turn your research into an always-on autonomous lab |
-| 3 | [runxhq/runx](https://github.com/runxhq/runx) | 3 | TypeScript | 2026-05-25 | the governed runtime for agent skills |
-| 4 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 59 | Python | 2026-05-25 | 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ |
-| 5 | [POWR-DATA/mtx-skills](https://github.com/POWR-DATA/mtx-skills) | 0 | — | 2026-05-25 | Reusable AI agent skills for application development, data, architecture, domain modelling and delivery workflows. |
-| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 51701 | TypeScript | 2026-05-25 | 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · de |
-| 7 | [b-mendoza/agent-skills](https://github.com/b-mendoza/agent-skills) | 0 | — | 2026-05-25 | A collection of reusable skills for AI-assisted development workflows |
-| 8 | [izyanrajwani/agent-skills-library](https://github.com/izyanrajwani/agent-skills-library) | 4 | TypeScript | 2026-05-25 | 🛠️ Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann |
-| 9 | [jrmapa/awesome-agent-skills](https://github.com/jrmapa/awesome-agent-skills) | 7 | — | 2026-05-25 | 🚀 Explore modular agent skills for dynamic AI development, enabling on-demand knowledge injection through standardized ` |
-| 10 | [charlieviettq/awesome-agent-skill](https://github.com/charlieviettq/awesome-agent-skill) | 12 | Python | 2026-05-25 | Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready). |
-| 11 | [GoseFhindla/outlookctl](https://github.com/GoseFhindla/outlookctl) | 0 | Python | 2026-05-25 | 📧 Automate Outlook Classic on Windows using COM, simplifying email and calendar management without API keys or OAuth. Le |
-| 12 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-25 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 13 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-05-25 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
-| 14 | [gungarp/agent-runner](https://github.com/gungarp/agent-runner) | 0 | Python | 2026-05-25 | 🤖 Automate workflows with the Claude Agent Framework, allowing flexible execution and seamless integration for efficient |
-| 15 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 0 | Python | 2026-05-25 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 16 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 0 | Python | 2026-05-25 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 17 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-25 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-25 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 0 | Python | 2026-05-25 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [apache/airflow-steward](https://github.com/apache/airflow-steward) | 11 | Python | 2026-05-25 | Agent-assisted maintainership and development framework for Apache projects — Triage and Drafting (agent-authored fixes  |
+| 4 | [jimezsa/opencolab](https://github.com/jimezsa/opencolab) | 11 | TypeScript | 2026-05-25 | 🐙 Accelerating Scientific Discovery — Turn your research into an always-on autonomous lab |
+| 5 | [runxhq/runx](https://github.com/runxhq/runx) | 3 | TypeScript | 2026-05-25 | the governed runtime for agent skills |
+| 6 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 59 | Python | 2026-05-25 | 13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ |
+| 7 | [POWR-DATA/mtx-skills](https://github.com/POWR-DATA/mtx-skills) | 0 | — | 2026-05-25 | Reusable AI agent skills for application development, data, architecture, domain modelling and delivery workflows. |
+| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 51701 | TypeScript | 2026-05-25 | 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · de |
+| 9 | [b-mendoza/agent-skills](https://github.com/b-mendoza/agent-skills) | 0 | — | 2026-05-25 | A collection of reusable skills for AI-assisted development workflows |
+| 10 | [izyanrajwani/agent-skills-library](https://github.com/izyanrajwani/agent-skills-library) | 4 | TypeScript | 2026-05-25 | 🛠️ Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann |
+| 11 | [jrmapa/awesome-agent-skills](https://github.com/jrmapa/awesome-agent-skills) | 7 | — | 2026-05-25 | 🚀 Explore modular agent skills for dynamic AI development, enabling on-demand knowledge injection through standardized ` |
+| 12 | [charlieviettq/awesome-agent-skill](https://github.com/charlieviettq/awesome-agent-skill) | 12 | Python | 2026-05-25 | Curated skill pack for LLM agents in engineer and science workflow (Cursor & Claude ready). |
+| 13 | [GoseFhindla/outlookctl](https://github.com/GoseFhindla/outlookctl) | 0 | Python | 2026-05-25 | 📧 Automate Outlook Classic on Windows using COM, simplifying email and calendar management without API keys or OAuth. Le |
+| 14 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-25 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 15 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-05-25 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
+| 16 | [gungarp/agent-runner](https://github.com/gungarp/agent-runner) | 0 | Python | 2026-05-25 | 🤖 Automate workflows with the Claude Agent Framework, allowing flexible execution and seamless integration for efficient |
+| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 0 | Python | 2026-05-25 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 18 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-05-25 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 19 | [bukowski777/client-delivery-guardrails-skill](https://github.com/bukowski777/client-delivery-guardrails-skill) | 0 | Shell | 2026-05-25 | Reusable Agent Skill for client delivery guardrails in Codex and Claude Code |
 | 20 | [Ethosism/ethos-rig](https://github.com/Ethosism/ethos-rig) | 0 | JavaScript | 2026-05-25 | Agentic harness for turning Ethosism into a complete, print-ready book system. |
