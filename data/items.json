@@ -1,5 +1,50 @@
 [
   {
+    "description": "Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex)",
+    "id": "kissgyorgy/coding-agents",
+    "language": "TypeScript",
+    "name": "kissgyorgy/coding-agents",
+    "stars": 7,
+    "updated_at": "2026-05-25T21:31:24Z",
+    "url": "https://github.com/kissgyorgy/coding-agents"
+  },
+  {
+    "description": "A universal senior data scientist skill for data mining, model building, validation, interpretation, responsible AI, and",
+    "id": "DAlanMtz/data-scientist",
+    "language": "HTML",
+    "name": "DAlanMtz/data-scientist",
+    "stars": 1,
+    "updated_at": "2026-05-25T21:31:23Z",
+    "url": "https://github.com/DAlanMtz/data-scientist"
+  },
+  {
+    "description": "Agentic harness for turning Ethosism into a complete, print-ready book system.",
+    "id": "Ethosism/ethos-rig",
+    "language": "JavaScript",
+    "name": "Ethosism/ethos-rig",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:30:50Z",
+    "url": "https://github.com/Ethosism/ethos-rig"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:30:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -16,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-05-25T21:29:25Z",
     "url": "https://github.com/neumie/almanac"
+  },
+  {
+    "description": "CLI utilities for AI agents - fast Go replacements for common Python tools",
+    "id": "SebastianBoehler/agent-cli-utils",
+    "language": "Go",
+    "name": "SebastianBoehler/agent-cli-utils",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:27:18Z",
+    "url": "https://github.com/SebastianBoehler/agent-cli-utils"
   },
   {
     "description": "Bundle of skills to supercharge your coding agents.",
@@ -45,15 +99,6 @@
     "url": "https://github.com/apache/airflow-steward"
   },
   {
-    "description": "Agentic harness for turning Ethosism into a complete, print-ready book system.",
-    "id": "Ethosism/ethos-rig",
-    "language": "JavaScript",
-    "name": "Ethosism/ethos-rig",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:21:34Z",
-    "url": "https://github.com/Ethosism/ethos-rig"
-  },
-  {
     "description": "Codified practices for AI agents \u2014 teach your agents the way.",
     "id": "tovrleaf/openkata",
     "language": "Go",
@@ -81,15 +126,6 @@
     "url": "https://github.com/b-mendoza/agent-skills"
   },
   {
-    "description": "A universal senior data scientist skill for data mining, model building, validation, interpretation, responsible AI, and",
-    "id": "DAlanMtz/data-scientist",
-    "language": "HTML",
-    "name": "DAlanMtz/data-scientist",
-    "stars": 1,
-    "updated_at": "2026-05-25T21:17:31Z",
-    "url": "https://github.com/DAlanMtz/data-scientist"
-  },
-  {
     "description": "9 Hidden Perfex CRM Module Breaking Rules 2026 \u2013 Best Developer Safety Checklist",
     "id": "adaltomatos01/perfex-crm-guardrails",
     "language": "HTML",
@@ -106,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T21:15:38Z",
     "url": "https://github.com/alinafe82/cognitive-deadlift"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:15:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:15:32Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Forensic auditor for local AI coding agents (Claude Code, Codex CLI, OpenClaw) and project-surface scanner for repos con",
@@ -319,7 +337,7 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 52013,
+    "stars": 52014,
     "updated_at": "2026-05-25T20:54:30Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:15:44Z",
     "url": "https://github.com/Claudettaammino1012/sec-skills"
-  },
-  {
-    "description": "Automate the software development lifecycle for Claude Code with standardized workflows, project scaffolding, session ma",
-    "id": "dressingcasewildcat6783/claude-code-skills",
-    "language": "\u2014",
-    "name": "dressingcasewildcat6783/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:15:29Z",
-    "url": "https://github.com/dressingcasewildcat6783/claude-code-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:15:28Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
   }
 ]
