@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-29 11:58 UTC
+> ⏰ Last updated: 2026-05-29 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55210 | TypeScript | 2026-05-29 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-29 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
 | 2 | [first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent) | 1033 | TypeScript | 2026-05-29 | Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codeba |
-| 3 | [choegyumin/agent-skills](https://github.com/choegyumin/agent-skills) | 1 | — | 2026-05-29 | npx skills add https://github.com/choegyumin/agent-skills --skill <SKILL_NAME> |
-| 4 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 1 | Python | 2026-05-29 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 5 | [danieljustus/symaira-vault](https://github.com/danieljustus/symaira-vault) | 17 | Go | 2026-05-29 | 🔐 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry. |
-| 6 | [MustaphaSteph/agent-bus-plugins](https://github.com/MustaphaSteph/agent-bus-plugins) | 0 | Shell | 2026-05-29 | Codex and Claude Code plugins for agent-bus: local message bus for AI agent-to-agent communication. Bundles the MCP serv |
-| 7 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-29 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 8 | [balevdev/agentique](https://github.com/balevdev/agentique) | 0 | — | 2026-05-29 | Agent + étiquette: a small house of well-mannered agent skills for the skills.sh ecosystem. |
-| 9 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-29 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 10 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-05-29 | A native LLM operating system, make LLM the operating system interpretation layer. |
-| 11 | [uid13/skills](https://github.com/uid13/skills) | 1 | TypeScript | 2026-05-29 |  |
-| 12 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 13 | [CAPHTECH/advisorygraphen](https://github.com/CAPHTECH/advisorygraphen) | 1 | Rust | 2026-05-29 | Evidence-backed advisory structure, CLI contracts, and projections for technical advisory workflows. |
-| 14 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-29 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 15 | [black-yt/skills](https://github.com/black-yt/skills) | 1 | Python | 2026-05-29 | 徐望瀚日常工作中使用和维护的可复用 agent skills。 |
-| 16 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-29 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
+| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-29 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 4 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-29 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
+| 5 | [MustaphaSteph/agent-bus-plugins](https://github.com/MustaphaSteph/agent-bus-plugins) | 0 | Shell | 2026-05-29 | Codex and Claude Code plugins for agent-bus: local message bus for AI agent-to-agent communication. Bundles the MCP serv |
+| 6 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-29 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 7 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55210 | TypeScript | 2026-05-29 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 8 | [choegyumin/agent-skills](https://github.com/choegyumin/agent-skills) | 1 | — | 2026-05-29 | npx skills add https://github.com/choegyumin/agent-skills --skill <SKILL_NAME> |
+| 9 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 1 | Python | 2026-05-29 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 10 | [danieljustus/symaira-vault](https://github.com/danieljustus/symaira-vault) | 17 | Go | 2026-05-29 | 🔐 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry. |
+| 11 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-29 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 12 | [balevdev/agentique](https://github.com/balevdev/agentique) | 0 | — | 2026-05-29 | Agent + étiquette: a small house of well-mannered agent skills for the skills.sh ecosystem. |
+| 13 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-05-29 | A native LLM operating system, make LLM the operating system interpretation layer. |
+| 14 | [uid13/skills](https://github.com/uid13/skills) | 1 | TypeScript | 2026-05-29 |  |
+| 15 | [CAPHTECH/advisorygraphen](https://github.com/CAPHTECH/advisorygraphen) | 1 | Rust | 2026-05-29 | Evidence-backed advisory structure, CLI contracts, and projections for technical advisory workflows. |
+| 16 | [black-yt/skills](https://github.com/black-yt/skills) | 1 | Python | 2026-05-29 | 徐望瀚日常工作中使用和维护的可复用 agent skills。 |
 | 17 | [Lanc3/godot-sight](https://github.com/Lanc3/godot-sight) | 0 | Python | 2026-05-29 | Godot-Sight is a tool for agentic game development, Alows agents the ability to see and play your games |
 | 18 | [coroboros/agent-skills](https://github.com/coroboros/agent-skills) | 0 | Python | 2026-05-29 | AI agent skills for Claude Code and compatible agents — workflow, coding, design, Claude Code meta, media, productivity, |
 | 19 | [sruja-ai/sruja](https://github.com/sruja-ai/sruja) | 19 | Rust | 2026-05-29 | Context Engineering and Architecture Intelligence for the AI Era. Machine-readable, continuously validated architecture  |
