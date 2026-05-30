@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 12:15 UTC
+> ⏰ Last updated: 2026-05-30 12:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-30 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [MustaphaSteph/agent-bus-plugins](https://github.com/MustaphaSteph/agent-bus-plugins) | 0 | Shell | 2026-05-30 | Codex and Claude Code plugins for agent-bus: local message bus for AI agent-to-agent communication. Bundles the MCP serv |
-| 3 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 1 | Python | 2026-05-30 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 4 | [radustefandumitru/AgenticSupercharge](https://github.com/radustefandumitru/AgenticSupercharge) | 1 | JavaScript | 2026-05-30 | Bundle of skills to supercharge your coding agents. |
-| 5 | [rundrill/rundrill](https://github.com/rundrill/rundrill) | 0 | — | 2026-05-30 | RunDrill — courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro |
-| 6 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-30 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
-| 7 | [bostonaholic/team](https://github.com/bostonaholic/team) | 2 | TypeScript | 2026-05-30 | Drive a feature from idea to PR with a team of Claude Code agents. |
-| 8 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-30 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 9 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-05-30 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
-| 10 | [hamadou-08/roboclaw-reports](https://github.com/hamadou-08/roboclaw-reports) | 0 | HTML | 2026-05-30 | AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports |
-| 11 | [launchdarkly/ai-tooling](https://github.com/launchdarkly/ai-tooling) | 13 | JavaScript | 2026-05-30 | LaunchDarkly's official AI tooling |
-| 12 | [StarryKit/starry-slides](https://github.com/StarryKit/starry-slides) | 61 | TypeScript | 2026-05-30 | AI slides and presentation editor. Agent slides and presentation skills. HTML as source files. HTML editor. AI PPT 幻灯片编辑 |
-| 13 | [gurutersesat24/ai-site-forge](https://github.com/gurutersesat24/ai-site-forge) | 0 | HTML | 2026-05-30 | Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor |
-| 14 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-05-30 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 15 | [adaltomatos01/perfex-crm-guardrails](https://github.com/adaltomatos01/perfex-crm-guardrails) | 1 | HTML | 2026-05-30 | 9 Hidden Perfex CRM Module Breaking Rules 2026 – Best Developer Safety Checklist |
-| 16 | [haru0416-dev/quaere](https://github.com/haru0416-dev/quaere) | 4 | Python | 2026-05-30 | Process-correction skills that make coding agents ask before they act. |
-| 17 | [SupernovifieD/naar](https://github.com/SupernovifieD/naar) | 0 | TypeScript | 2026-05-30 | A repo-aware CLI that recommends and safely installs AI agent skills. |
-| 18 | [sarveshhome/UPSC_Agents](https://github.com/sarveshhome/UPSC_Agents) | 0 | JavaScript | 2026-05-30 | UPSC Agents AI |
-| 19 | [lzehrung/codegraph](https://github.com/lzehrung/codegraph) | 1 | TypeScript | 2026-05-30 | A tool for agents and humans to understand a repo, assess diff impact/risk, navigate code, and answer questions fast. |
-| 20 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-30 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 1 | Python | 2026-05-30 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-30 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-30 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [MustaphaSteph/agent-bus-plugins](https://github.com/MustaphaSteph/agent-bus-plugins) | 0 | Shell | 2026-05-30 | Codex and Claude Code plugins for agent-bus: local message bus for AI agent-to-agent communication. Bundles the MCP serv |
+| 5 | [radustefandumitru/AgenticSupercharge](https://github.com/radustefandumitru/AgenticSupercharge) | 1 | JavaScript | 2026-05-30 | Bundle of skills to supercharge your coding agents. |
+| 6 | [rundrill/rundrill](https://github.com/rundrill/rundrill) | 0 | — | 2026-05-30 | RunDrill — courses that run inside your AI agent. Public install index for Claude Code, Codex & Antigravity: drills, pro |
+| 7 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-30 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
+| 8 | [bostonaholic/team](https://github.com/bostonaholic/team) | 2 | TypeScript | 2026-05-30 | Drive a feature from idea to PR with a team of Claude Code agents. |
+| 9 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-30 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 10 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-05-30 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 11 | [hamadou-08/roboclaw-reports](https://github.com/hamadou-08/roboclaw-reports) | 0 | HTML | 2026-05-30 | AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports |
+| 12 | [launchdarkly/ai-tooling](https://github.com/launchdarkly/ai-tooling) | 13 | JavaScript | 2026-05-30 | LaunchDarkly's official AI tooling |
+| 13 | [StarryKit/starry-slides](https://github.com/StarryKit/starry-slides) | 61 | TypeScript | 2026-05-30 | AI slides and presentation editor. Agent slides and presentation skills. HTML as source files. HTML editor. AI PPT 幻灯片编辑 |
+| 14 | [gurutersesat24/ai-site-forge](https://github.com/gurutersesat24/ai-site-forge) | 0 | HTML | 2026-05-30 | Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor |
+| 15 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-05-30 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 16 | [adaltomatos01/perfex-crm-guardrails](https://github.com/adaltomatos01/perfex-crm-guardrails) | 1 | HTML | 2026-05-30 | 9 Hidden Perfex CRM Module Breaking Rules 2026 – Best Developer Safety Checklist |
+| 17 | [haru0416-dev/quaere](https://github.com/haru0416-dev/quaere) | 4 | Python | 2026-05-30 | Process-correction skills that make coding agents ask before they act. |
+| 18 | [SupernovifieD/naar](https://github.com/SupernovifieD/naar) | 0 | TypeScript | 2026-05-30 | A repo-aware CLI that recommends and safely installs AI agent skills. |
+| 19 | [sarveshhome/UPSC_Agents](https://github.com/sarveshhome/UPSC_Agents) | 0 | JavaScript | 2026-05-30 | UPSC Agents AI |
+| 20 | [lzehrung/codegraph](https://github.com/lzehrung/codegraph) | 1 | TypeScript | 2026-05-30 | A tool for agents and humans to understand a repo, assess diff impact/risk, navigate code, and answer questions fast. |
 | 21 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-05-30 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
 | 22 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 64 | TypeScript | 2026-05-30 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
 | 23 | [ecukalla/feature-loop](https://github.com/ecukalla/feature-loop) | 1 | Shell | 2026-05-30 | Autonomous build → verify → fix loop for any repo — a Claude Code plugin built on agent-skills |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [gjczone/repomap](https://github.com/gjczone/repomap) | 0 | Python | 2026-05-30 | Codebase awareness for coding agents: tree-sitter AST maps, 17-language LSP, pre/post-edit impact analysis |
 | 31 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-05-30 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
 | 32 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-05-30 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 33 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55697 | TypeScript | 2026-05-30 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 33 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 55698 | TypeScript | 2026-05-30 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
 | 34 | [tale-project/tale](https://github.com/tale-project/tale) | 7 | TypeScript | 2026-05-30 | The Sovereign AI Platform​ — Local AI models, agents, skills, and automations — on your own infrastructure, connected to |
 | 35 | [puissant-familypsilophytaceae582/awesome-ai-tools](https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools) | 0 | — | 2026-05-30 | Browse a curated directory of AI models, frameworks, and tools for modern development projects. |
 | 36 | [Leeanninsular877/gemini-antigravity-cli](https://github.com/Leeanninsular877/gemini-antigravity-cli) | 0 | TypeScript | 2026-05-30 | Run terminal tasks with this AI agent for Google Gemini and Antigravity. Features include MCP support, coding assistance |
