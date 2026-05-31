@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-31 21:15 UTC
+> ⏰ Last updated: 2026-05-31 21:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-31 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-05-31 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
-| 3 | [zivtech/a11y-meta-skills](https://github.com/zivtech/a11y-meta-skills) | 2 | Python | 2026-05-31 | Accessibility planner-critic skill pair for Claude Code — WCAG implementation planning + ARIA/focus/semantic review |
-| 4 | [Biolytics-AI/rhetoric-engine](https://github.com/Biolytics-AI/rhetoric-engine) | 1 | Python | 2026-05-31 | Biolytics Rhetoric Engine: a staged presentation cognition pipeline for user-led slide creation |
-| 5 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-31 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 6 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 89 | Kotlin | 2026-05-31 | Helping the Agents Compose the Things |
-| 7 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-31 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
-| 8 | [Kaelio/ktx-ai-data-agents-context](https://github.com/Kaelio/ktx-ai-data-agents-context) | 668 | TypeScript | 2026-05-31 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query d |
-| 9 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-05-31 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
-| 10 | [devctllabs/mockapi](https://github.com/devctllabs/mockapi) | 2 | Python | 2026-05-31 | Agent skill for stateful OpenAPI mock servers |
-| 11 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-05-31 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 12 | [bonigarcia/context-engineering](https://github.com/bonigarcia/context-engineering) | 65 | Python | 2026-05-31 | Context Engineering: Building Consistent, Accurate, Predictable AI Systems |
-| 13 | [igmarin/rails-agent-skills](https://github.com/igmarin/rails-agent-skills) | 19 | Ruby | 2026-05-31 | This is my personal configuration of skills as a Ruby on Rails Dev |
-| 14 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-05-31 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 15 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-31 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 16 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 2 | Python | 2026-05-31 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 1 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 1 | Python | 2026-05-31 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 2 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 2 | Python | 2026-05-31 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-05-31 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-05-31 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
+| 5 | [zivtech/a11y-meta-skills](https://github.com/zivtech/a11y-meta-skills) | 2 | Python | 2026-05-31 | Accessibility planner-critic skill pair for Claude Code — WCAG implementation planning + ARIA/focus/semantic review |
+| 6 | [Biolytics-AI/rhetoric-engine](https://github.com/Biolytics-AI/rhetoric-engine) | 1 | Python | 2026-05-31 | Biolytics Rhetoric Engine: a staged presentation cognition pipeline for user-led slide creation |
+| 7 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-05-31 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 89 | Kotlin | 2026-05-31 | Helping the Agents Compose the Things |
+| 9 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-05-31 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
+| 10 | [Kaelio/ktx-ai-data-agents-context](https://github.com/Kaelio/ktx-ai-data-agents-context) | 668 | TypeScript | 2026-05-31 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query d |
+| 11 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-05-31 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
+| 12 | [devctllabs/mockapi](https://github.com/devctllabs/mockapi) | 2 | Python | 2026-05-31 | Agent skill for stateful OpenAPI mock servers |
+| 13 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-05-31 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 14 | [bonigarcia/context-engineering](https://github.com/bonigarcia/context-engineering) | 65 | Python | 2026-05-31 | Context Engineering: Building Consistent, Accurate, Predictable AI Systems |
+| 15 | [igmarin/rails-agent-skills](https://github.com/igmarin/rails-agent-skills) | 19 | Ruby | 2026-05-31 | This is my personal configuration of skills as a Ruby on Rails Dev |
+| 16 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-05-31 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
 | 17 | [helderberto/agent-skills](https://github.com/helderberto/agent-skills) | 10 | Python | 2026-05-31 | My personal SDLC toolbelt for AI coding agents — PRD to ship. |
 | 18 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-05-31 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 19 | [srinitude/building-deterministic-skills](https://github.com/srinitude/building-deterministic-skills) | 1 | Python | 2026-05-31 | Meta Agent Skill: author deterministic, weak-model-friendly Agent Skills validated against the Hermes runtime. agentskil |
