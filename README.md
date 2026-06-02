@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-02 17:26 UTC
+> ⏰ Last updated: 2026-06-02 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MN755/Codex-Mission_Control](https://github.com/MN755/Codex-Mission_Control) | 1 | Python | 2026-06-02 | An Open Source Platform For Building Projects With OpenAI's Codex, Claude CLI, And Other Coding LLMs Using Multi-Agent S |
-| 2 | [geekjourneyx/video-ad-director](https://github.com/geekjourneyx/video-ad-director) | 1 | JavaScript | 2026-06-02 | AI agent skill for HyperFrames video ads: briefs, scripts, storyboards, GSAP motion maps, validation gates, renders, and |
-| 3 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 153 | Python | 2026-06-02 | Cross-runtime skills for Claude Code, Codex, and multi-agent workflows. |
-| 4 | [glasschan/mastercss-skill](https://github.com/glasschan/mastercss-skill) | 0 | — | 2026-06-02 | Agent skill for Master CSS (@master/css) — utility-first CSS with structured syntax. Use with pi, Claude Code, or any Ag |
-| 5 | [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) | 73 | — | 2026-06-02 | Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/ |
-| 6 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-06-02 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
-| 7 | [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) | 209 | TypeScript | 2026-06-02 | GitHub Copilot for Azure |
-| 8 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 57492 | TypeScript | 2026-06-02 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 9 | [amsbangs1975-collab/unity-shader-agent-canvas](https://github.com/amsbangs1975-collab/unity-shader-agent-canvas) | 0 | HTML | 2026-06-02 | Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL |
-| 10 | [dhruvanoopkatare31/terminal-wits](https://github.com/dhruvanoopkatare31/terminal-wits) | 0 | HTML | 2026-06-02 | AI Code Hygiene 2026: Best Repo Cleanup & Commit Guard Tools |
-| 11 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 81 | Python | 2026-06-02 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
-| 12 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-06-02 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
-| 13 | [runxhq/runx](https://github.com/runxhq/runx) | 3 | TypeScript | 2026-06-02 | the governed runtime for agent skills |
-| 14 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 2046 | Python | 2026-06-02 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
-| 15 | [yakhandler/one2rule_them_all](https://github.com/yakhandler/one2rule_them_all) | 0 | Python | 2026-06-02 | Two Claude Code Agent Skills that sync MCP server definitions and Agent Skills across every AI tool on your machine (Cla |
-| 16 | [sakshisantoshthorat/artisan-dev-handbook](https://github.com/sakshisantoshthorat/artisan-dev-handbook) | 0 | HTML | 2026-06-02 | Top Dev Skill Builder 2026: Master Git Worktrees, Code Reviews & DDD |
-| 17 | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | 5099 | Rust | 2026-06-02 | Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI codi |
-| 18 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 255 | MDX | 2026-06-02 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 19 | [LC044/TrailSnap](https://github.com/LC044/TrailSnap) | 484 | Python | 2026-06-02 | TrailSnap (行影集) \| AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴） |
-| 20 | [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) | 1206 | JavaScript | 2026-06-02 | Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr |
-| 21 | [AlainRic/ralph-wiggum-codex-review-triage](https://github.com/AlainRic/ralph-wiggum-codex-review-triage) | 0 | HTML | 2026-06-02 | Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification |
-| 22 | [blessings1234/skill-shipyard-pipeline](https://github.com/blessings1234/skill-shipyard-pipeline) | 0 | HTML | 2026-06-02 | Skill Package 2026: Ultimate AI Skills Deployment Tool – Plugin, ZIP & CI/CD |
-| 23 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 2 | Python | 2026-06-02 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 24 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 2 | Python | 2026-06-02 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 25 | [Nova1390/obsidian-memory-closeout](https://github.com/Nova1390/obsidian-memory-closeout) | 0 | Python | 2026-06-02 | Privacy-first Codex skill for curated Obsidian memory closeouts |
-| 26 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-06-02 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 0 | Python | 2026-06-02 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 255 | MDX | 2026-06-02 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 3 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 2 | Python | 2026-06-02 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 4 | [MN755/Codex-Mission_Control](https://github.com/MN755/Codex-Mission_Control) | 1 | Python | 2026-06-02 | An Open Source Platform For Building Projects With OpenAI's Codex, Claude CLI, And Other Coding LLMs Using Multi-Agent S |
+| 5 | [geekjourneyx/video-ad-director](https://github.com/geekjourneyx/video-ad-director) | 1 | JavaScript | 2026-06-02 | AI agent skill for HyperFrames video ads: briefs, scripts, storyboards, GSAP motion maps, validation gates, renders, and |
+| 6 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 153 | Python | 2026-06-02 | Cross-runtime skills for Claude Code, Codex, and multi-agent workflows. |
+| 7 | [glasschan/mastercss-skill](https://github.com/glasschan/mastercss-skill) | 0 | — | 2026-06-02 | Agent skill for Master CSS (@master/css) — utility-first CSS with structured syntax. Use with pi, Claude Code, or any Ag |
+| 8 | [Agents365-ai/excalidraw-skill](https://github.com/Agents365-ai/excalidraw-skill) | 73 | — | 2026-06-02 | Hand-drawn Excalidraw diagrams from natural language. 5 patterns, 8-color semantic palette, Kroki API or local CLI. PNG/ |
+| 9 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-06-02 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
+| 10 | [microsoft/GitHub-Copilot-for-Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure) | 209 | TypeScript | 2026-06-02 | GitHub Copilot for Azure |
+| 11 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 57493 | TypeScript | 2026-06-02 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 12 | [amsbangs1975-collab/unity-shader-agent-canvas](https://github.com/amsbangs1975-collab/unity-shader-agent-canvas) | 0 | HTML | 2026-06-02 | Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL |
+| 13 | [dhruvanoopkatare31/terminal-wits](https://github.com/dhruvanoopkatare31/terminal-wits) | 0 | HTML | 2026-06-02 | AI Code Hygiene 2026: Best Repo Cleanup & Commit Guard Tools |
+| 14 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 81 | Python | 2026-06-02 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
+| 15 | [bbismm/ibitlabs](https://github.com/bbismm/ibitlabs) | 0 | HTML | 2026-06-02 | Public-record $1,000 → $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH |
+| 16 | [runxhq/runx](https://github.com/runxhq/runx) | 3 | TypeScript | 2026-06-02 | the governed runtime for agent skills |
+| 17 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 2047 | Python | 2026-06-02 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
+| 18 | [yakhandler/one2rule_them_all](https://github.com/yakhandler/one2rule_them_all) | 0 | Python | 2026-06-02 | Two Claude Code Agent Skills that sync MCP server definitions and Agent Skills across every AI tool on your machine (Cla |
+| 19 | [sakshisantoshthorat/artisan-dev-handbook](https://github.com/sakshisantoshthorat/artisan-dev-handbook) | 0 | HTML | 2026-06-02 | Top Dev Skill Builder 2026: Master Git Worktrees, Code Reviews & DDD |
+| 20 | [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) | 5099 | Rust | 2026-06-02 | Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI codi |
+| 21 | [LC044/TrailSnap](https://github.com/LC044/TrailSnap) | 484 | Python | 2026-06-02 | TrailSnap (行影集) \| AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴） |
+| 22 | [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) | 1208 | JavaScript | 2026-06-02 | Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows thr |
+| 23 | [AlainRic/ralph-wiggum-codex-review-triage](https://github.com/AlainRic/ralph-wiggum-codex-review-triage) | 0 | HTML | 2026-06-02 | Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification |
+| 24 | [blessings1234/skill-shipyard-pipeline](https://github.com/blessings1234/skill-shipyard-pipeline) | 0 | HTML | 2026-06-02 | Skill Package 2026: Ultimate AI Skills Deployment Tool – Plugin, ZIP & CI/CD |
+| 25 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 2 | Python | 2026-06-02 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 26 | [Nova1390/obsidian-memory-closeout](https://github.com/Nova1390/obsidian-memory-closeout) | 0 | Python | 2026-06-02 | Privacy-first Codex skill for curated Obsidian memory closeouts |
 | 27 | [Utopai-Research/pai-pro](https://github.com/Utopai-Research/pai-pro) | 67 | JavaScript | 2026-06-02 | Local AI filmmaking studio — skills, canvas, timeline — driven from your coding agent. |
 | 28 | [oceanfsdfsvfdsvs/practical-agent-skills](https://github.com/oceanfsdfsvfdsvs/practical-agent-skills) | 0 | Python | 2026-06-02 | Practical local-first agent skills for Codex, Claude Code, and OpenClaw｜实用本地优先 Agent Skills |
 | 29 | [SupernovifieD/naar](https://github.com/SupernovifieD/naar) | 2 | TypeScript | 2026-06-02 | A repo-aware package manager for AI-agent skills, rules, and instructions. |
