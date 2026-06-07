@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 14:29 UTC
+> ⏰ Last updated: 2026-06-07 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [aryaminus/astro](https://github.com/aryaminus/astro) | 0 | Python | 2026-06-07 | Trustworthy multi-tradition astrology for AI agents. 19 calculation modes across Western, Vedic, and BaZi traditions. De |
-| 2 | [ChouChiu/heya-skill](https://github.com/ChouChiu/heya-skill) | 7 | TypeScript | 2026-06-07 | 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。 |
-| 3 | [lensetek/Strartup-Agent-Skills](https://github.com/lensetek/Strartup-Agent-Skills) | 0 | HTML | 2026-06-07 | Strartup-Agent-Skills |
-| 4 | [oubakiou/mdxg-redline](https://github.com/oubakiou/mdxg-redline) | 1 | TypeScript | 2026-06-07 | Inline review tool for MDXG markdown — capture highlighted comments and export them as structured JSON for LLM agents. |
-| 5 | [Samuel-lzyb/oh-my-lazybones](https://github.com/Samuel-lzyb/oh-my-lazybones) | 1 | Python | 2026-06-07 | The GitHub for Agent Skills. Discover, install, and share AI Agent Skills. Built entirely by AI Agents. |
-| 6 | [YuAICode/ai-skills](https://github.com/YuAICode/ai-skills) | 0 | Shell | 2026-06-07 | 35 个即用 Claude Code skill,每个都带离线测试 + skill-doctor 自校验 · 35 tested, self-linted Claude Code skills (中文优先) |
-| 7 | [mingazhev/llm-consilium-skill](https://github.com/mingazhev/llm-consilium-skill) | 0 | Python | 2026-06-07 | Agent-agnostic skill for multi-model consilium/council workflows |
-| 8 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | 40 | Python | 2026-06-07 | AI on-brand document generator: turn your company’s Word, PowerPoint & Excel template into unlimited on-brand .docx/.ppt |
-| 9 | [tzone85/sa-fintech-skills](https://github.com/tzone85/sa-fintech-skills) | 0 | TypeScript | 2026-06-07 | Multi-runtime AI-agent skill pack for South African fintech APIs — Paystack, PayFast, POPIA, SARS. One canonical source, |
-| 10 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-07 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 11 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-07 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 12 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-07 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-07 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-07 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [aryaminus/astro](https://github.com/aryaminus/astro) | 0 | Python | 2026-06-07 | Trustworthy multi-tradition astrology for AI agents. 19 calculation modes across Western, Vedic, and BaZi traditions. De |
+| 4 | [ChouChiu/heya-skill](https://github.com/ChouChiu/heya-skill) | 7 | TypeScript | 2026-06-07 | 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。 |
+| 5 | [lensetek/Strartup-Agent-Skills](https://github.com/lensetek/Strartup-Agent-Skills) | 0 | HTML | 2026-06-07 | Strartup-Agent-Skills |
+| 6 | [oubakiou/mdxg-redline](https://github.com/oubakiou/mdxg-redline) | 1 | TypeScript | 2026-06-07 | Inline review tool for MDXG markdown — capture highlighted comments and export them as structured JSON for LLM agents. |
+| 7 | [Samuel-lzyb/oh-my-lazybones](https://github.com/Samuel-lzyb/oh-my-lazybones) | 1 | Python | 2026-06-07 | The GitHub for Agent Skills. Discover, install, and share AI Agent Skills. Built entirely by AI Agents. |
+| 8 | [YuAICode/ai-skills](https://github.com/YuAICode/ai-skills) | 0 | Shell | 2026-06-07 | 35 个即用 Claude Code skill,每个都带离线测试 + skill-doctor 自校验 · 35 tested, self-linted Claude Code skills (中文优先) |
+| 9 | [mingazhev/llm-consilium-skill](https://github.com/mingazhev/llm-consilium-skill) | 0 | Python | 2026-06-07 | Agent-agnostic skill for multi-model consilium/council workflows |
+| 10 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | 40 | Python | 2026-06-07 | AI on-brand document generator: turn your company’s Word, PowerPoint & Excel template into unlimited on-brand .docx/.ppt |
+| 11 | [tzone85/sa-fintech-skills](https://github.com/tzone85/sa-fintech-skills) | 0 | TypeScript | 2026-06-07 | Multi-runtime AI-agent skill pack for South African fintech APIs — Paystack, PayFast, POPIA, SARS. One canonical source, |
+| 12 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-07 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 13 | [pivoshenko/pivoshenko.ai](https://github.com/pivoshenko/pivoshenko.ai) | 2 | HTML | 2026-06-07 | 🧙‍♂️ pivoshenko's AI workspace |
 | 14 | [hamadou-08/roboclaw-reports](https://github.com/hamadou-08/roboclaw-reports) | 0 | HTML | 2026-06-07 | AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports |
 | 15 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-06-07 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
 | 16 | [gurutersesat24/ai-site-forge](https://github.com/gurutersesat24/ai-site-forge) | 0 | HTML | 2026-06-07 | Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor |
 | 17 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 0 | HTML | 2026-06-07 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 18 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 60686 | TypeScript | 2026-06-07 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 18 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 60690 | TypeScript | 2026-06-07 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
 | 19 | [adaltomatos01/perfex-crm-guardrails](https://github.com/adaltomatos01/perfex-crm-guardrails) | 1 | HTML | 2026-06-07 | 9 Hidden Perfex CRM Module Breaking Rules 2026 – Best Developer Safety Checklist |
 | 20 | [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) | 5 | Python | 2026-06-07 | Governed Agent Skills Kit for Codex and AI coding agents: author once, validate quality, expose command handles, and syn |
 | 21 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-06-07 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
