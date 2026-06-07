@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 21:39 UTC
+> ⏰ Last updated: 2026-06-07 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [derio-net/super-fr](https://github.com/derio-net/super-fr) | 0 | Python | 2026-06-07 | Claude Code plugin suite: superpowers-wrapped planning, devcontainer+worktree isolation, goal-to-PR autonomy, and phase  |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-07 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
 | 2 | [LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills) | 0 | JavaScript | 2026-06-07 | Production go-to-market playbooks for AI agents. 67 skills for Claude Code, Cursor, and Codex — sales, cold email, prosp |
-| 3 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-07 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 3 | [vishnujchandran/.agents](https://github.com/vishnujchandran/.agents) | 0 | JavaScript | 2026-06-07 | A curated collection of reusable AI agent skills, playbooks, and prompts for security audits, engineering workflows, and |
 | 4 | [air-gapped/skills](https://github.com/air-gapped/skills) | 3 | Python | 2026-06-07 | Claude Code plugin marketplace — 40+ installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester,  |
-| 5 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-07 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 6 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-06-07 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 7 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-07 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 8 | [y-a-v-a/session-export](https://github.com/y-a-v-a/session-export) | 0 | JavaScript | 2026-06-07 | Export Claude conversation sessions to HTML |
-| 9 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-07 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
-| 10 | [vishnujchandran/.agents](https://github.com/vishnujchandran/.agents) | 0 | JavaScript | 2026-06-07 | A curated collection of reusable AI agent skills, playbooks, and prompts for security audits, engineering workflows, and |
-| 11 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-07 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 5 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-07 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 6 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-07 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 7 | [derio-net/super-fr](https://github.com/derio-net/super-fr) | 0 | Python | 2026-06-07 | Claude Code plugin suite: superpowers-wrapped planning, devcontainer+worktree isolation, goal-to-PR autonomy, and phase  |
+| 8 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-06-07 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 9 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-07 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 10 | [y-a-v-a/session-export](https://github.com/y-a-v-a/session-export) | 0 | JavaScript | 2026-06-07 | Export Claude conversation sessions to HTML |
+| 11 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-07 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
 | 12 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-06-07 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
 | 13 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-06-07 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 14 | [Kaelio/ktx](https://github.com/Kaelio/ktx) | 942 | TypeScript | 2026-06-07 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query d |
