@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 04:45 UTC
+> ⏰ Last updated: 2026-06-09 04:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-09 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-09 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
-| 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9768 | C++ | 2026-06-09 | A lightweight, lightning-fast, in-process vector database |
-| 4 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 61836 | TypeScript | 2026-06-09 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 5 | [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) | 433 | JavaScript | 2026-06-09 | Production-ready development workflows for Claude Code, powered by specialized AI agents. |
-| 6 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-09 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 7 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 34664 | Python | 2026-06-09 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 8 | [tyeongkim/spec-graph](https://github.com/tyeongkim/spec-graph) | 5 | Go | 2026-06-09 | CLI tool for managing software specifications as a typed graph |
-| 9 | [AgentWorkforce/relay](https://github.com/AgentWorkforce/relay) | 716 | TypeScript | 2026-06-09 | Headless Slack for agents. A hosted messaging store + router with fast retrieval |
-| 10 | [Mendiak/less-is-more-ui](https://github.com/Mendiak/less-is-more-ui) | 6 | HTML | 2026-06-09 | Minimalist web UI design skill for AI agents inspired by modernist principles like “Less is More” and “Form follows func |
-| 11 | [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 29 | Python | 2026-06-09 | Marketplace-ready Agent Skill for turning business metrics into executive-ready strategy visualization specs |
-| 12 | [code-onigiri/mc-modding-skill](https://github.com/code-onigiri/mc-modding-skill) | 1 | Shell | 2026-06-09 | Minecraft開発用スキル |
-| 13 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | TypeScript | 2026-06-09 | React Native  |
-| 14 | [Agent-Engineer-Master/skill-engineer](https://github.com/Agent-Engineer-Master/skill-engineer) | 6 | Python | 2026-06-09 | Shared public skills developed by Skill Engineer |
-| 15 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 10 | JavaScript | 2026-06-09 | 14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts → deployed products. |
-| 16 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-09 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 17 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 20956 | TypeScript | 2026-06-09 |  |
-| 18 | [jal-co/shieldcn](https://github.com/jal-co/shieldcn) | 359 | TypeScript | 2026-06-09 | Beautiful README badges, inspired by shields.io and styled like shadcn/ui. |
-| 19 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-09 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-09 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 2 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-09 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-09 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-09 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
+| 5 | [alibaba/zvec](https://github.com/alibaba/zvec) | 9768 | C++ | 2026-06-09 | A lightweight, lightning-fast, in-process vector database |
+| 6 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 61836 | TypeScript | 2026-06-09 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 7 | [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) | 433 | JavaScript | 2026-06-09 | Production-ready development workflows for Claude Code, powered by specialized AI agents. |
+| 8 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-09 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 9 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 34664 | Python | 2026-06-09 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 10 | [tyeongkim/spec-graph](https://github.com/tyeongkim/spec-graph) | 5 | Go | 2026-06-09 | CLI tool for managing software specifications as a typed graph |
+| 11 | [AgentWorkforce/relay](https://github.com/AgentWorkforce/relay) | 716 | TypeScript | 2026-06-09 | Headless Slack for agents. A hosted messaging store + router with fast retrieval |
+| 12 | [Mendiak/less-is-more-ui](https://github.com/Mendiak/less-is-more-ui) | 6 | HTML | 2026-06-09 | Minimalist web UI design skill for AI agents inspired by modernist principles like “Less is More” and “Form follows func |
+| 13 | [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 29 | Python | 2026-06-09 | Marketplace-ready Agent Skill for turning business metrics into executive-ready strategy visualization specs |
+| 14 | [code-onigiri/mc-modding-skill](https://github.com/code-onigiri/mc-modding-skill) | 1 | Shell | 2026-06-09 | Minecraft開発用スキル |
+| 15 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | TypeScript | 2026-06-09 | React Native  |
+| 16 | [Agent-Engineer-Master/skill-engineer](https://github.com/Agent-Engineer-Master/skill-engineer) | 6 | Python | 2026-06-09 | Shared public skills developed by Skill Engineer |
+| 17 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 10 | JavaScript | 2026-06-09 | 14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts → deployed products. |
+| 18 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 20956 | TypeScript | 2026-06-09 |  |
+| 19 | [jal-co/shieldcn](https://github.com/jal-co/shieldcn) | 359 | TypeScript | 2026-06-09 | Beautiful README badges, inspired by shields.io and styled like shadcn/ui. |
 | 20 | [Kaelio/ktx](https://github.com/Kaelio/ktx) | 956 | TypeScript | 2026-06-09 | ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or any other AI agent to qu |
 | 21 | [idaibin/aicraft](https://github.com/idaibin/aicraft) | 1 | Python | 2026-06-09 | Reusable AI workflow assets: agent skills, prompt templates, and context patterns. |
 | 22 | [catlove779/skill-router](https://github.com/catlove779/skill-router) | 1 | Shell | 2026-06-09 |  |
