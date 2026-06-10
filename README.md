@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 21:30 UTC
+> ⏰ Last updated: 2026-06-10 21:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-10 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [a-church-ai/church](https://github.com/a-church-ai/church) | 18 | JavaScript | 2026-06-10 | A digital sanctuary for human-AI fellowship. Prayers, practices, rituals, hymns, and philosophy for minds of any substra |
-| 3 | [xelandernt/skilly](https://github.com/xelandernt/skilly) | 2 | Rust | 2026-06-10 | Manage Agent Skills |
-| 4 | [unshDee/proofrag](https://github.com/unshDee/proofrag) | 1 | Python | 2026-06-10 | Point your agent at your docs and your RAG app; get a golden test set + an LLM-as-judge & retrieval scorecard, in one co |
-| 5 | [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) | 173 | Shell | 2026-06-10 | Skills to transform AI Agents into GitOps Engineers |
-| 6 | [KameronKales/planfi-skills](https://github.com/KameronKales/planfi-skills) | 0 | — | 2026-06-10 | Free, open-source Claude Code Agent Skills for personal finance — FIRE planning, rent-vs-buy, tax optimization & gain-ha |
-| 7 | [mofirojean/angular-ui-skills](https://github.com/mofirojean/angular-ui-skills) | 12 | — | 2026-06-10 | Agent skills that teach AI coding assistants how to build Angular apps with popular UI component libraries. |
-| 8 | [product-on-purpose/thinking-framework-skills](https://github.com/product-on-purpose/thinking-framework-skills) | 0 | JavaScript | 2026-06-10 | Evidence-graded, agent-executable thinking-method skills - each reduced to its working mechanism, honestly graded, and p |
-| 9 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-06-10 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 10 | [KhaledSMQ/greplm](https://github.com/KhaledSMQ/greplm) | 10 | Rust | 2026-06-10 | Fast, offline code search and code intelligence for LLM agents. |
-| 11 | [kriscard/Skills](https://github.com/kriscard/Skills) | 10 | TypeScript | 2026-06-10 | A opinionated collection of agent skills organized by domain: dev, writing, productivity, and knowledge management  |
-| 12 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 0 | HTML | 2026-06-10 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
-| 13 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-06-10 | A native LLM operating system, make LLM the operating system interpretation layer. |
-| 14 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-06-10 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 15 | [uzysjung/uzys-claude-harness](https://github.com/uzysjung/uzys-claude-harness) | 0 | TypeScript | 2026-06-10 | One-command installer & curator of vetted, Docker-verified AI-coding workflows (skills, plugins, rules, hooks) across Cl |
-| 16 | [vast-ai/vast-cli](https://github.com/vast-ai/vast-cli) | 196 | Python | 2026-06-10 | Vast.ai python and cli api client |
-| 17 | [alexbw/vectorize-figure](https://github.com/alexbw/vectorize-figure) | 0 | HTML | 2026-06-10 | Vectorize raster scientific figure panels into editable HTML and semantic JSON. |
-| 18 | [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) | 780 | Shell | 2026-06-10 | Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS. |
-| 19 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 404 | Java | 2026-06-10 | An opinionated, AI-native development workflow for Java Enterprise — reusable Skills, Agents, Commands, and MCP servers  |
-| 20 | [jovd83/skill-vetting-reporter](https://github.com/jovd83/skill-vetting-reporter) | 0 | Python | 2026-06-10 | Security & trust vetting for AgentSkills: mandatory open-source scanner gate (Cisco, NVIDIA SkillSpector, Snyk, sentry), |
-| 21 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-10 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 22 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-10 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-10 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 2 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-10 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-10 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [a-church-ai/church](https://github.com/a-church-ai/church) | 18 | JavaScript | 2026-06-10 | A digital sanctuary for human-AI fellowship. Prayers, practices, rituals, hymns, and philosophy for minds of any substra |
+| 5 | [xelandernt/skilly](https://github.com/xelandernt/skilly) | 2 | Rust | 2026-06-10 | Manage Agent Skills |
+| 6 | [unshDee/proofrag](https://github.com/unshDee/proofrag) | 1 | Python | 2026-06-10 | Point your agent at your docs and your RAG app; get a golden test set + an LLM-as-judge & retrieval scorecard, in one co |
+| 7 | [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) | 173 | Shell | 2026-06-10 | Skills to transform AI Agents into GitOps Engineers |
+| 8 | [KameronKales/planfi-skills](https://github.com/KameronKales/planfi-skills) | 0 | — | 2026-06-10 | Free, open-source Claude Code Agent Skills for personal finance — FIRE planning, rent-vs-buy, tax optimization & gain-ha |
+| 9 | [mofirojean/angular-ui-skills](https://github.com/mofirojean/angular-ui-skills) | 12 | — | 2026-06-10 | Agent skills that teach AI coding assistants how to build Angular apps with popular UI component libraries. |
+| 10 | [product-on-purpose/thinking-framework-skills](https://github.com/product-on-purpose/thinking-framework-skills) | 0 | JavaScript | 2026-06-10 | Evidence-graded, agent-executable thinking-method skills - each reduced to its working mechanism, honestly graded, and p |
+| 11 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-06-10 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
+| 12 | [KhaledSMQ/greplm](https://github.com/KhaledSMQ/greplm) | 10 | Rust | 2026-06-10 | Fast, offline code search and code intelligence for LLM agents. |
+| 13 | [kriscard/Skills](https://github.com/kriscard/Skills) | 10 | TypeScript | 2026-06-10 | A opinionated collection of agent skills organized by domain: dev, writing, productivity, and knowledge management  |
+| 14 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 0 | HTML | 2026-06-10 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
+| 15 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-06-10 | A native LLM operating system, make LLM the operating system interpretation layer. |
+| 16 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-06-10 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 17 | [uzysjung/uzys-claude-harness](https://github.com/uzysjung/uzys-claude-harness) | 0 | TypeScript | 2026-06-10 | One-command installer & curator of vetted, Docker-verified AI-coding workflows (skills, plugins, rules, hooks) across Cl |
+| 18 | [vast-ai/vast-cli](https://github.com/vast-ai/vast-cli) | 196 | Python | 2026-06-10 | Vast.ai python and cli api client |
+| 19 | [alexbw/vectorize-figure](https://github.com/alexbw/vectorize-figure) | 0 | HTML | 2026-06-10 | Vectorize raster scientific figure panels into editable HTML and semantic JSON. |
+| 20 | [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) | 780 | Shell | 2026-06-10 | Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS. |
+| 21 | [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 404 | Java | 2026-06-10 | An opinionated, AI-native development workflow for Java Enterprise — reusable Skills, Agents, Commands, and MCP servers  |
+| 22 | [jovd83/skill-vetting-reporter](https://github.com/jovd83/skill-vetting-reporter) | 0 | Python | 2026-06-10 | Security & trust vetting for AgentSkills: mandatory open-source scanner gate (Cisco, NVIDIA SkillSpector, Snyk, sentry), |
 | 23 | [0xheycat/isometric-game-skills](https://github.com/0xheycat/isometric-game-skills) | 1 | Python | 2026-06-10 | Complete agent-ready toolkit for building isometric games: 20 skills covering ComfyUI art pipeline, seamless terrain, sp |
 | 24 | [Firzus/agent-skills](https://github.com/Firzus/agent-skills) | 1 | Python | 2026-06-10 | Community-maintained Agent Skills for AI coding assistants (Vite+, etc.) |
 | 25 | [silverstein/minutes](https://github.com/silverstein/minutes) | 1265 | Rust | 2026-06-10 | Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory laye |
