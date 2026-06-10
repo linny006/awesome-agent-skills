@@ -1,12 +1,57 @@
 [
   {
+    "description": "Six Claude Code skills that harden Opus 4.8 toward frontier behavior \u2014 written by Fable 5, pressure-tested on the target",
+    "id": "DizzyMii/fable-skills",
+    "language": "\u2014",
+    "name": "DizzyMii/fable-skills",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:30:10Z",
+    "url": "https://github.com/DizzyMii/fable-skills"
+  },
+  {
+    "description": "A tool for agents and humans to understand a repo, assess diff impact/risk, navigate code, and answer questions fast.",
+    "id": "lzehrung/codegraph",
+    "language": "TypeScript",
+    "name": "lzehrung/codegraph",
+    "stars": 1,
+    "updated_at": "2026-06-10T16:30:08Z",
+    "url": "https://github.com/lzehrung/codegraph"
+  },
+  {
     "description": "Portable agent skill library for Codex, Claude Code, and other AGENTS-aware tools. Covers eval loops, research, writing,",
     "id": "mattdweigand-sketch/agent-skills",
     "language": "\u2014",
     "name": "mattdweigand-sketch/agent-skills",
     "stars": 1,
-    "updated_at": "2026-06-10T16:26:17Z",
+    "updated_at": "2026-06-10T16:29:37Z",
     "url": "https://github.com/mattdweigand-sketch/agent-skills"
+  },
+  {
+    "description": "Agent skill for controlling Pi worker agents in cmux on macOS",
+    "id": "Timur00Kh/cmux-agent-control-skill",
+    "language": "\u2014",
+    "name": "Timur00Kh/cmux-agent-control-skill",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:27:29Z",
+    "url": "https://github.com/Timur00Kh/cmux-agent-control-skill"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 5,
+    "updated_at": "2026-06-10T16:26:41Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Claude Code plugins, MCP servers & skills by CodeCrafters Automation. Includes Change Claude Profile (ccp): hand off / t",
+    "id": "codecraftersautomation/claude-code",
+    "language": "Shell",
+    "name": "codecraftersautomation/claude-code",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:25:57Z",
+    "url": "https://github.com/codecraftersautomation/claude-code"
   },
   {
     "description": "File-based group chat for Claude Code instances \u2014 group channels + DMs, namespaced per project. Installable as a skill o",
@@ -16,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-06-10T16:25:57Z",
     "url": "https://github.com/msanchezdev/agent-bridge"
+  },
+  {
+    "description": "\ud83d\udce7 Automate Outlook Classic on Windows using COM, simplifying email and calendar management without API keys or OAuth. Le",
+    "id": "GoseFhindla/outlookctl",
+    "language": "Python",
+    "name": "GoseFhindla/outlookctl",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:25:31Z",
+    "url": "https://github.com/GoseFhindla/outlookctl"
   },
   {
     "description": "Self-learning AI companion \u2014 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak",
@@ -31,7 +85,7 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 62821,
+    "stars": 62822,
     "updated_at": "2026-06-10T16:24:07Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -77,7 +131,7 @@
     "language": "JavaScript",
     "name": "jnMetaCode/skillet",
     "stars": 0,
-    "updated_at": "2026-06-10T16:20:34Z",
+    "updated_at": "2026-06-10T16:27:16Z",
     "url": "https://github.com/jnMetaCode/skillet"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/linny006/skills-tracker"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 5,
-    "updated_at": "2026-06-10T16:15:44Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
     "name": "linny006/claude-code-plugin-tracker",
     "stars": 1,
-    "updated_at": "2026-06-10T16:15:23Z",
+    "updated_at": "2026-06-10T16:30:29Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-06-10T16:14:18Z",
     "url": "https://github.com/ChouChiu/heya-skill"
-  },
-  {
-    "description": "A tool for agents and humans to understand a repo, assess diff impact/risk, navigate code, and answer questions fast.",
-    "id": "lzehrung/codegraph",
-    "language": "TypeScript",
-    "name": "lzehrung/codegraph",
-    "stars": 1,
-    "updated_at": "2026-06-10T16:13:22Z",
-    "url": "https://github.com/lzehrung/codegraph"
   },
   {
     "description": "Claude Code skill that makes Claude reason with explicit probabilities, base rates, and falsifiers. Distilled from 51 bo",
@@ -643,7 +679,7 @@
     "id": "Kaelio/ktx",
     "language": "TypeScript",
     "name": "Kaelio/ktx",
-    "stars": 1056,
+    "stars": 1057,
     "updated_at": "2026-06-10T14:47:36Z",
     "url": "https://github.com/Kaelio/ktx"
   },
@@ -662,7 +698,7 @@
     "language": "Python",
     "name": "Firzus/agent-skills",
     "stars": 1,
-    "updated_at": "2026-06-10T15:57:41Z",
+    "updated_at": "2026-06-10T16:27:58Z",
     "url": "https://github.com/Firzus/agent-skills"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T14:43:18Z",
     "url": "https://github.com/NjoyimPeguy/augments"
-  },
-  {
-    "description": "Skills for creating 1v1 interactive courses with AI-Shifu",
-    "id": "ai-shifu/skills",
-    "language": "Python",
-    "name": "ai-shifu/skills",
-    "stars": 7,
-    "updated_at": "2026-06-10T14:27:23Z",
-    "url": "https://github.com/ai-shifu/skills"
-  },
-  {
-    "description": "A curated marketplace of plugins for Claude Code, built from first principles.",
-    "id": "netopsengineer/axiom",
-    "language": "Shell",
-    "name": "netopsengineer/axiom",
-    "stars": 1,
-    "updated_at": "2026-06-10T14:26:25Z",
-    "url": "https://github.com/netopsengineer/axiom"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:26:10Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "AI agent skill for managing Microsoft Outlook via CLI \u2014 email, calendar, tasks, notes. COM automation, no Azure/OAuth re",
-    "id": "ob-cheng/outlook-cli-skill",
-    "language": "Python",
-    "name": "ob-cheng/outlook-cli-skill",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:24:43Z",
-    "url": "https://github.com/ob-cheng/outlook-cli-skill"
   }
 ]
