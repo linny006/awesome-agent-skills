@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 19:14 UTC
+> ⏰ Last updated: 2026-06-10 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,23 +43,23 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Norma-Vault/recall-quiz](https://github.com/Norma-Vault/recall-quiz) | 0 | — | 2026-06-10 | Agent Skill that quizzes you on its own answers — one multiple-choice question after each substantive reply, graded and  |
-| 2 | [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 68 | Go | 2026-06-10 | HEY CLI and Agent Skills |
-| 3 | [eljoujat/sapcc-skill](https://github.com/eljoujat/sapcc-skill) | 1 | JavaScript | 2026-06-10 | A skill that turns natural-language requests into Groovy scripts , FlexibleSearch queries and executes them live on a SA |
-| 4 | [oneworks-ai/app](https://github.com/oneworks-ai/app) | 0 | TypeScript | 2026-06-10 | One Works application monorepo for the CLI, desktop app, web client, and shared packages. |
-| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 62867 | TypeScript | 2026-06-10 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 6 | [shenmali/gh-agent-master](https://github.com/shenmali/gh-agent-master) | 0 | Python | 2026-06-10 | Set up GitHub superpowers for any AI coding agent in one command. |
-| 7 | [barcelosvinicius/basic-engineering](https://github.com/barcelosvinicius/basic-engineering) | 0 | JavaScript | 2026-06-10 | Claude Code plugin + npm base for AI-assisted engineering: 25 skills, 12 agents, slash commands, session-continuity hook |
-| 8 | [KoStard/forgecad-public-kit](https://github.com/KoStard/forgecad-public-kit) | 846 | Python | 2026-06-10 | Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking. The hosted CAD app and core s |
-| 9 | [antonioshaman/aura-companion](https://github.com/antonioshaman/aura-companion) | 0 | TypeScript | 2026-06-10 | Self-learning AI companion — 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak |
-| 10 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-10 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 11 | [leonhoffmann86/lhtask-plugin](https://github.com/leonhoffmann86/lhtask-plugin) | 1 | Shell | 2026-06-10 | 🤖 Autonomous plan→implement→review for Claude Code — git-hook multi-agent chain with isolated worktree, deterministic ga |
-| 12 | [zakarya526/fable-skill](https://github.com/zakarya526/fable-skill) | 0 | — | 2026-06-10 | Point Fable 5 at a codebase — it audits and writes plans any agent can execute. A Fable 5 fork of shadcn/improve. |
-| 13 | [jonnyzzz/mcp-steroid](https://github.com/jonnyzzz/mcp-steroid) | 48 | Kotlin | 2026-06-10 | Give your AI Agent a whole IDE, not just the files |
-| 14 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-10 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
-| 15 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 8 | TypeScript | 2026-06-10 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
-| 16 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-10 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-10 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 18 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-10 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 1 | Python | 2026-06-10 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 3 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-10 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 4 | [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 68 | Go | 2026-06-10 | HEY CLI and Agent Skills |
+| 5 | [eljoujat/sapcc-skill](https://github.com/eljoujat/sapcc-skill) | 1 | JavaScript | 2026-06-10 | A skill that turns natural-language requests into Groovy scripts , FlexibleSearch queries and executes them live on a SA |
+| 6 | [oneworks-ai/app](https://github.com/oneworks-ai/app) | 0 | TypeScript | 2026-06-10 | One Works application monorepo for the CLI, desktop app, web client, and shared packages. |
+| 7 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 62868 | TypeScript | 2026-06-10 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 8 | [shenmali/gh-agent-master](https://github.com/shenmali/gh-agent-master) | 0 | Python | 2026-06-10 | Set up GitHub superpowers for any AI coding agent in one command. |
+| 9 | [barcelosvinicius/basic-engineering](https://github.com/barcelosvinicius/basic-engineering) | 0 | JavaScript | 2026-06-10 | Claude Code plugin + npm base for AI-assisted engineering: 25 skills, 12 agents, slash commands, session-continuity hook |
+| 10 | [KoStard/forgecad-public-kit](https://github.com/KoStard/forgecad-public-kit) | 846 | Python | 2026-06-10 | Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking. The hosted CAD app and core s |
+| 11 | [antonioshaman/aura-companion](https://github.com/antonioshaman/aura-companion) | 0 | TypeScript | 2026-06-10 | Self-learning AI companion — 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak |
+| 12 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 65 | TypeScript | 2026-06-10 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 13 | [leonhoffmann86/lhtask-plugin](https://github.com/leonhoffmann86/lhtask-plugin) | 1 | Shell | 2026-06-10 | 🤖 Autonomous plan→implement→review for Claude Code — git-hook multi-agent chain with isolated worktree, deterministic ga |
+| 14 | [zakarya526/fable-skill](https://github.com/zakarya526/fable-skill) | 0 | — | 2026-06-10 | Point Fable 5 at a codebase — it audits and writes plans any agent can execute. A Fable 5 fork of shadcn/improve. |
+| 15 | [jonnyzzz/mcp-steroid](https://github.com/jonnyzzz/mcp-steroid) | 48 | Kotlin | 2026-06-10 | Give your AI Agent a whole IDE, not just the files |
+| 16 | [chf3198/megingjord-harness](https://github.com/chf3198/megingjord-harness) | 0 | JavaScript | 2026-06-10 | AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla |
+| 17 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 8 | TypeScript | 2026-06-10 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
+| 18 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-10 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 19 | [project-nomos/nomos](https://github.com/project-nomos/nomos) | 22 | TypeScript | 2026-06-10 | Your AI digital clone — learns who you are, acts on your behalf, remembers everything. Persistent vector memory, multi-a |
 | 20 | [listfold/botfile](https://github.com/listfold/botfile) | 0 | Go | 2026-06-10 | This is a mirror, active development happens on codeberg: https://codeberg.org/botfile/botfile |
 | 21 | [kayba-ai/Kyoko](https://github.com/kayba-ai/Kyoko) | 4 | Python | 2026-06-10 | 🔨 Kyoko is the all-in-one, fully local tool for debugging and improving your AI agents. |
