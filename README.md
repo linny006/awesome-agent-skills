@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [flurdy/agent-skills](https://github.com/flurdy/agent-skills) | 4 | Shell | 2026-06-12 | Shared AI agent skills |
-| 2 | [dannote/dot-pi](https://github.com/dannote/dot-pi) | 42 | TypeScript | 2026-06-12 | Curated Pi package with extensions, skills, prompt shortcuts, and rules |
-| 3 | [jamestexas/agents](https://github.com/jamestexas/agents) | 2 | Shell | 2026-06-12 | Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in |
-| 4 | [GAJETOso/financeskills](https://github.com/GAJETOso/financeskills) | 1 | Python | 2026-06-12 | AI-powered skills for financial professionals. Comprehensive collection of finance, accounting, audit, and compliance sk |
-| 5 | [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | 5248 | Shell | 2026-06-12 | 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win |
-| 6 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-06-12 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
-| 7 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-06-12 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 8 | [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 0 | Python | 2026-06-12 | ex-cog — externalized cognition. Four Claude Code plugins. vasana-system — cross-session pattern memory (forms, not just |
-| 9 | [hamza-ali-shahjahan/hamzaish](https://github.com/hamza-ali-shahjahan/hamzaish) | 2 | TypeScript | 2026-06-12 | Personal AI co-builder and OS for Claude Code. The mission: Simplifying the builder spirit as a momentum-first, strategy |
-| 10 | [Supersynergy/awesome-ai-video-editing](https://github.com/Supersynergy/awesome-ai-video-editing) | 0 | — | 2026-06-12 | A curated list of AI video editing & production tools — agent-native focus: Claude Code skills, MCP servers, CLI pipelin |
-| 11 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-12 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 12 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-12 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 13 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-12 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-12 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 5 | Python | 2026-06-12 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [flurdy/agent-skills](https://github.com/flurdy/agent-skills) | 4 | Shell | 2026-06-12 | Shared AI agent skills |
+| 4 | [dannote/dot-pi](https://github.com/dannote/dot-pi) | 42 | TypeScript | 2026-06-12 | Curated Pi package with extensions, skills, prompt shortcuts, and rules |
+| 5 | [jamestexas/agents](https://github.com/jamestexas/agents) | 2 | Shell | 2026-06-12 | Curated library of Claude Code subagents and skills (23 agents, 20 skills) with an idempotent installer that symlinks in |
+| 6 | [GAJETOso/financeskills](https://github.com/GAJETOso/financeskills) | 1 | Python | 2026-06-12 | AI-powered skills for financial professionals. Comprehensive collection of finance, accounting, audit, and compliance sk |
+| 7 | [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | 5248 | Shell | 2026-06-12 | 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win |
+| 8 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-06-12 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
+| 9 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-06-12 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 10 | [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 0 | Python | 2026-06-12 | ex-cog — externalized cognition. Four Claude Code plugins. vasana-system — cross-session pattern memory (forms, not just |
+| 11 | [hamza-ali-shahjahan/hamzaish](https://github.com/hamza-ali-shahjahan/hamzaish) | 2 | TypeScript | 2026-06-12 | Personal AI co-builder and OS for Claude Code. The mission: Simplifying the builder spirit as a momentum-first, strategy |
+| 12 | [Supersynergy/awesome-ai-video-editing](https://github.com/Supersynergy/awesome-ai-video-editing) | 0 | — | 2026-06-12 | A curated list of AI video editing & production tools — agent-native focus: Claude Code skills, MCP servers, CLI pipelin |
+| 13 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-12 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 14 | [hamadou-08/roboclaw-reports](https://github.com/hamadou-08/roboclaw-reports) | 0 | HTML | 2026-06-12 | AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports |
 | 15 | [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 1 | Python | 2026-06-12 | Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows |
 | 16 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-06-12 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
