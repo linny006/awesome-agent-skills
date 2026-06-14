@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-14 02:00 UTC
+> ⏰ Last updated: 2026-06-14 02:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-14 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [lornshrimp/Lorn.NovelWriteSkills](https://github.com/lornshrimp/Lorn.NovelWriteSkills) | 87 | PowerShell | 2026-06-14 | 一个面向长篇网文 / 小说创作工作流的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 题材设计 → 大纲搭建 → 章节创作 → 审阅润色 → 多平台改写 → 质量门禁 → 分发落盘 搭起来的可复用写作系统。 |
-| 3 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-14 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 4 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 460 | HTML | 2026-06-14 | 50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, b |
-| 5 | [Alex0nder/MailAgent](https://github.com/Alex0nder/MailAgent) | 1 | TypeScript | 2026-06-14 | Temporary email inboxes for AI agents & QA/E2E — MCP, REST, OTP/magic links. Cloudflare Workers, Neon, Resend. MIT. |
-| 6 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-06-14 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 7 | [Light0305/Light-skills](https://github.com/Light0305/Light-skills) | 82 | Python | 2026-06-14 | Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。 |
-| 8 | [ex-git/swe-workflow](https://github.com/ex-git/swe-workflow) | 0 | — | 2026-06-14 | A lightweight, structured development workflow for coding agents. Compatible with Pi, Claude Code, Cursor, Codex, Gemini |
-| 9 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 24 | Python | 2026-06-14 | 🚀 Enhance Claude's capabilities with example skills that streamline tasks and improve performance in specialized areas. |
-| 10 | [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) | 5 | — | 2026-06-14 | 📚 Discover essential Claude skills for tasks like document editing, data analysis, and project management to enhance pro |
-| 11 | [selamy-labs/agent-skills](https://github.com/selamy-labs/agent-skills) | 0 | Python | 2026-06-14 | Reusable public SKILL.md workflows for AI agents |
-| 12 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 64382 | TypeScript | 2026-06-14 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 13 | [txw842lkj-cmd/silicon-circle-skill](https://github.com/txw842lkj-cmd/silicon-circle-skill) | 1 | — | 2026-06-14 | Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor |
-| 14 | [codeking-ai/cligate](https://github.com/codeking-ai/cligate) | 93 | JavaScript | 2026-06-14 | Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP,  |
-| 15 | [missionbuilt/loadout](https://github.com/missionbuilt/loadout) | 0 | HTML | 2026-06-14 | Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put |
-| 16 | [ShayanSpiel/SpielEngine](https://github.com/ShayanSpiel/SpielEngine) | 0 | Python | 2026-06-14 | The Spiel Engine turns your actual build sessions into publishable content, so you don’t need to stop working to create  |
-| 17 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 6 | Python | 2026-06-14 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-14 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 6 | Python | 2026-06-14 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-14 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [lornshrimp/Lorn.NovelWriteSkills](https://github.com/lornshrimp/Lorn.NovelWriteSkills) | 87 | PowerShell | 2026-06-14 | 一个面向长篇网文 / 小说创作工作流的 AI 写作资产库。它不是“随手堆提示词”的仓库，而是一套围绕 题材设计 → 大纲搭建 → 章节创作 → 审阅润色 → 多平台改写 → 质量门禁 → 分发落盘 搭起来的可复用写作系统。 |
+| 5 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 460 | HTML | 2026-06-14 | 50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, b |
+| 6 | [Alex0nder/MailAgent](https://github.com/Alex0nder/MailAgent) | 1 | TypeScript | 2026-06-14 | Temporary email inboxes for AI agents & QA/E2E — MCP, REST, OTP/magic links. Cloudflare Workers, Neon, Resend. MIT. |
+| 7 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-06-14 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 8 | [Light0305/Light-skills](https://github.com/Light0305/Light-skills) | 82 | Python | 2026-06-14 | Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。 |
+| 9 | [ex-git/swe-workflow](https://github.com/ex-git/swe-workflow) | 0 | — | 2026-06-14 | A lightweight, structured development workflow for coding agents. Compatible with Pi, Claude Code, Cursor, Codex, Gemini |
+| 10 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 24 | Python | 2026-06-14 | 🚀 Enhance Claude's capabilities with example skills that streamline tasks and improve performance in specialized areas. |
+| 11 | [ponderous-dustiness314/awesome-claude-skills](https://github.com/ponderous-dustiness314/awesome-claude-skills) | 5 | — | 2026-06-14 | 📚 Discover essential Claude skills for tasks like document editing, data analysis, and project management to enhance pro |
+| 12 | [selamy-labs/agent-skills](https://github.com/selamy-labs/agent-skills) | 0 | Python | 2026-06-14 | Reusable public SKILL.md workflows for AI agents |
+| 13 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 64382 | TypeScript | 2026-06-14 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 14 | [txw842lkj-cmd/silicon-circle-skill](https://github.com/txw842lkj-cmd/silicon-circle-skill) | 1 | — | 2026-06-14 | Public Agent Skill for Silicon Circle: post tasks, find bounties, submit work, earn Proof Points, and route accepted wor |
+| 15 | [codeking-ai/cligate](https://github.com/codeking-ai/cligate) | 93 | JavaScript | 2026-06-14 | Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Skills, MCP,  |
+| 16 | [missionbuilt/loadout](https://github.com/missionbuilt/loadout) | 0 | HTML | 2026-06-14 | Open-source product leadership skills from the Mission Built ecosystem. The book teaches the principles. The Loadout put |
+| 17 | [ShayanSpiel/SpielEngine](https://github.com/ShayanSpiel/SpielEngine) | 0 | Python | 2026-06-14 | The Spiel Engine turns your actual build sessions into publishable content, so you don’t need to stop working to create  |
 | 18 | [OU-GC/Practical-Claude-Code-Skills-for-Masters-Students](https://github.com/OU-GC/Practical-Claude-Code-Skills-for-Masters-Students) | 1 | — | 2026-06-14 | Practical Claude Code Skills for Master's Students — paper-reader, science-confirmer, report-writer (Apache-2.0) |
 | 19 | [apache/airflow-steward](https://github.com/apache/airflow-steward) | 21 | Python | 2026-06-14 | Agent-assisted maintainership and development framework for Apache projects — Triage and Drafting (agent-authored fixes  |
 | 20 | [netopsengineer/axiom](https://github.com/netopsengineer/axiom) | 1 | Shell | 2026-06-14 | A curated marketplace of plugins for Claude Code, built from first principles. |
