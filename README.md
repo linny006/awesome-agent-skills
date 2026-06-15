@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 10:45 UTC
+> ⏰ Last updated: 2026-06-15 10:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-15 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [YforC/AntoSkills](https://github.com/YforC/AntoSkills) | 0 | TypeScript | 2026-06-15 | A package manager for Agent Skills — MCP server that recommends, safety-scans, and pin-installs skills into Claude Code  |
-| 3 | [YunyueLi/greenroom](https://github.com/YunyueLi/greenroom) | 1 | HTML | 2026-06-15 | An open-source AI workbench to ace any interview — one-click prep, plus a live in-round copilot. 帮你拿下任何面试的开源 AI 工作台：一键准备 |
-| 4 | [mofirojean/angular-ui-skills](https://github.com/mofirojean/angular-ui-skills) | 13 | — | 2026-06-15 | Agent skills that teach AI coding assistants how to build Angular apps with popular UI component libraries. |
-| 5 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 47354 | TypeScript | 2026-06-15 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| 6 | [IsmaelMartinez/delegate-local](https://github.com/IsmaelMartinez/delegate-local) | 1 | Shell | 2026-06-15 | Claude Code skill that delegates summarisation, log triage, and bulk-text tasks to local models. Saves API tokens, keeps |
-| 7 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | HTML | 2026-06-15 | React Native  |
-| 8 | [hashbulla/deep-research](https://github.com/hashbulla/deep-research) | 1 | Python | 2026-06-15 | A human-gated, 7-phase agentic deep-research skill for Claude Code. Sources graded on the NATO Admiralty A–F scale, grou |
-| 9 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 65139 | TypeScript | 2026-06-15 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 10 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 3438 | Python | 2026-06-15 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
-| 11 | [O0000-code/awesome-academic-skills](https://github.com/O0000-code/awesome-academic-skills) | 6 | Python | 2026-06-15 | An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each sk |
-| 12 | [dstackai/dstack](https://github.com/dstackai/dstack) | 2160 | Python | 2026-06-15 | Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on  |
-| 13 | [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) | 2384 | JavaScript | 2026-06-15 | ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + ope |
-| 14 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-15 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
-| 15 | [DDDDanteeeeeee/skill-radar](https://github.com/DDDDanteeeeeee/skill-radar) | 0 | Python | 2026-06-15 | Demand-first recommender for agent and Codex skills. |
-| 16 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-06-15 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-15 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 18 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 6 | Python | 2026-06-15 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [hashbulla/deep-research](https://github.com/hashbulla/deep-research) | 1 | Python | 2026-06-15 | A human-gated, 7-phase agentic deep-research skill for Claude Code. Sources graded on the NATO Admiralty A–F scale, grou |
+| 2 | [mofirojean/angular-ui-skills](https://github.com/mofirojean/angular-ui-skills) | 13 | — | 2026-06-15 | Agent skills that teach AI coding assistants how to build Angular apps with popular UI component libraries. |
+| 3 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 3440 | Python | 2026-06-15 | Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-d |
+| 4 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | HTML | 2026-06-15 | React Native  |
+| 5 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 6 | Python | 2026-06-15 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 6 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 3 | Python | 2026-06-15 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 7 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-15 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 8 | [YforC/AntoSkills](https://github.com/YforC/AntoSkills) | 0 | TypeScript | 2026-06-15 | A package manager for Agent Skills — MCP server that recommends, safety-scans, and pin-installs skills into Claude Code  |
+| 9 | [YunyueLi/greenroom](https://github.com/YunyueLi/greenroom) | 1 | HTML | 2026-06-15 | An open-source AI workbench to ace any interview — one-click prep, plus a live in-round copilot. 帮你拿下任何面试的开源 AI 工作台：一键准备 |
+| 10 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 47354 | TypeScript | 2026-06-15 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 11 | [IsmaelMartinez/delegate-local](https://github.com/IsmaelMartinez/delegate-local) | 1 | Shell | 2026-06-15 | Claude Code skill that delegates summarisation, log triage, and bulk-text tasks to local models. Saves API tokens, keeps |
+| 12 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 65140 | TypeScript | 2026-06-15 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 13 | [O0000-code/awesome-academic-skills](https://github.com/O0000-code/awesome-academic-skills) | 6 | Python | 2026-06-15 | An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each sk |
+| 14 | [dstackai/dstack](https://github.com/dstackai/dstack) | 2160 | Python | 2026-06-15 | Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on  |
+| 15 | [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) | 2384 | JavaScript | 2026-06-15 | ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + ope |
+| 16 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 1 | HTML | 2026-06-15 | One Claude Code skill that turns a single project into a complete brand launch — 12 files (positioning, hero line, 30-da |
+| 17 | [DDDDanteeeeeee/skill-radar](https://github.com/DDDDanteeeeeee/skill-radar) | 0 | Python | 2026-06-15 | Demand-first recommender for agent and Codex skills. |
+| 18 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 0 | HTML | 2026-06-15 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
 | 19 | [black-yt/skills](https://github.com/black-yt/skills) | 2 | Python | 2026-06-15 | 徐望瀚日常工作中使用和维护的可复用 agent skills。 |
 | 20 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 3088 | Python | 2026-06-15 | A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Sear |
 | 21 | [akunzai/agent-skills](https://github.com/akunzai/agent-skills) | 0 | Shell | 2026-06-15 | My personal agent skills for AI coding assistants |
