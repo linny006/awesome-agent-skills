@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 11:00 UTC
+> ⏰ Last updated: 2026-06-18 11:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-18 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 265 | MDX | 2026-06-18 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 47501 | TypeScript | 2026-06-18 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| 4 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17893 | Python | 2026-06-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 5 | [onfire7777/universal-ai-skills-library](https://github.com/onfire7777/universal-ai-skills-library) | 7 | Python | 2026-06-18 | Router-first AI skill system for Codex, Claude, Cursor, Hermes, Paperclip, OpenCode, and local AI stacks: search, prefli |
-| 6 | [ni-shiliu/neil-control](https://github.com/ni-shiliu/neil-control) | 1 | Python | 2026-06-18 | music-control-skill，暂时支持spotify |
-| 7 | [Hans-Vader/squadjs-plugin-creator-skill](https://github.com/Hans-Vader/squadjs-plugin-creator-skill) | 0 | JavaScript | 2026-06-18 | Creating, writing, or scaffolding a SquadJS plugin, adding a server-side feature to a Squad server via SquadJS, or decid |
-| 8 | [netresearch/git-workflow-skill](https://github.com/netresearch/git-workflow-skill) | 25 | Shell | 2026-06-18 | Agent Skill for Git workflow best practices - branching, commits, PR workflows \| Claude Code compatible |
-| 9 | [chaunsin/agent-skills](https://github.com/chaunsin/agent-skills) | 1 | Python | 2026-06-18 | Some practical agent skills for AI coding agents (Claude Code, Cursor, Copilot, Codex, etc.), |
-| 10 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-06-18 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
-| 11 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 5 | Python | 2026-06-18 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 12 | [tuannv0069/claude-doc-genome](https://github.com/tuannv0069/claude-doc-genome) | 0 | Shell | 2026-06-18 | One-shot Claude Code plugin to bootstrap an AI-agent documentation system (CLAUDE.md + rules + agent-guide). |
-| 13 | [LIghtJUNction/lightjunction](https://github.com/LIghtJUNction/lightjunction) | 2 | Shell | 2026-06-18 | I'M LIghtJUNction |
-| 14 | [hifly81/bikescout](https://github.com/hifly81/bikescout) | 19 | Python | 2026-06-18 | AI for tactical cycling intelligence: Predictive mud logic, S-Scale terrain analysis, and AI-powered GPX routing |
-| 15 | [VincenzoImp/create-academic-research](https://github.com/VincenzoImp/create-academic-research) | 0 | JavaScript | 2026-06-18 | Scaffold agent-ready academic research repositories with SOTA files, source ledgers, wiki memory, MCP setup, and project |
-| 16 | [ranbot-ai/awesome-skills](https://github.com/ranbot-ai/awesome-skills) | 5 | TypeScript | 2026-06-18 | Awesome Claude Skills, Tools for Customizing Claude AI workflows |
-| 17 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 8 | Python | 2026-06-18 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 8 | Python | 2026-06-18 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 2 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 5 | Python | 2026-06-18 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-18 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 265 | MDX | 2026-06-18 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 5 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 47501 | TypeScript | 2026-06-18 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 17893 | Python | 2026-06-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 7 | [onfire7777/universal-ai-skills-library](https://github.com/onfire7777/universal-ai-skills-library) | 7 | Python | 2026-06-18 | Router-first AI skill system for Codex, Claude, Cursor, Hermes, Paperclip, OpenCode, and local AI stacks: search, prefli |
+| 8 | [ni-shiliu/neil-control](https://github.com/ni-shiliu/neil-control) | 1 | Python | 2026-06-18 | music-control-skill，暂时支持spotify |
+| 9 | [Hans-Vader/squadjs-plugin-creator-skill](https://github.com/Hans-Vader/squadjs-plugin-creator-skill) | 0 | JavaScript | 2026-06-18 | Creating, writing, or scaffolding a SquadJS plugin, adding a server-side feature to a Squad server via SquadJS, or decid |
+| 10 | [netresearch/git-workflow-skill](https://github.com/netresearch/git-workflow-skill) | 25 | Shell | 2026-06-18 | Agent Skill for Git workflow best practices - branching, commits, PR workflows \| Claude Code compatible |
+| 11 | [chaunsin/agent-skills](https://github.com/chaunsin/agent-skills) | 1 | Python | 2026-06-18 | Some practical agent skills for AI coding agents (Claude Code, Cursor, Copilot, Codex, etc.), |
+| 12 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-06-18 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
+| 13 | [tuannv0069/claude-doc-genome](https://github.com/tuannv0069/claude-doc-genome) | 0 | Shell | 2026-06-18 | One-shot Claude Code plugin to bootstrap an AI-agent documentation system (CLAUDE.md + rules + agent-guide). |
+| 14 | [LIghtJUNction/lightjunction](https://github.com/LIghtJUNction/lightjunction) | 2 | Shell | 2026-06-18 | I'M LIghtJUNction |
+| 15 | [hifly81/bikescout](https://github.com/hifly81/bikescout) | 19 | Python | 2026-06-18 | AI for tactical cycling intelligence: Predictive mud logic, S-Scale terrain analysis, and AI-powered GPX routing |
+| 16 | [VincenzoImp/create-academic-research](https://github.com/VincenzoImp/create-academic-research) | 0 | JavaScript | 2026-06-18 | Scaffold agent-ready academic research repositories with SOTA files, source ledgers, wiki memory, MCP setup, and project |
+| 17 | [ranbot-ai/awesome-skills](https://github.com/ranbot-ai/awesome-skills) | 5 | TypeScript | 2026-06-18 | Awesome Claude Skills, Tools for Customizing Claude AI workflows |
 | 18 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1397 | TypeScript | 2026-06-18 | Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review.  |
 | 19 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-06-18 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
 | 20 | [rookiestar28/Agentique-CLI](https://github.com/rookiestar28/Agentique-CLI) | 12 | JavaScript | 2026-06-18 | An open-source companion repo for Agentique.io: a free community hub for discovering, sharing, and reusing trusted AI ag |
