@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 21:44 UTC
+> ⏰ Last updated: 2026-06-19 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) | 12 | Jupyter Notebook | 2026-06-19 | AI Models for Strategy Recommendations in Formula 1 races. Final Thesis Project of UIE Intelligent Systems Engineering ( |
-| 2 | [openjck/agent-skills](https://github.com/openjck/agent-skills) | 0 | JavaScript | 2026-06-19 | Agent skills for my personal needs, some of which may be useful to others |
-| 3 | [Joe-Simo/skills](https://github.com/Joe-Simo/skills) | 1 | — | 2026-06-19 | Community Agent Skills by joe-simo, including a Vercel Geist design-system skill for polished UI and companion routing. |
-| 4 | [ifBars/youtube-video-context](https://github.com/ifBars/youtube-video-context) | 0 | Python | 2026-06-19 | Agent skill for turning YouTube videos, playlists, and search topics into timestamped context packs |
-| 5 | [HighBridgeDragon/jp-diet-minutes-skill](https://github.com/HighBridgeDragon/jp-diet-minutes-skill) | 0 | Shell | 2026-06-19 | Search Japanese Diet (Kokkai) meeting minutes via the official NDL Kokkai API — an Agent Skill for Claude Code / Cursor  |
-| 6 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-06-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 7 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) | 109 | Python | 2026-06-19 | Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. |
-| 8 | [CorpusIQ/corpusiq-docs](https://github.com/CorpusIQ/corpusiq-docs) | 8 | HTML | 2026-06-19 | The largest Hermes Agent knowledge base — 302+ tools, skills, MCP servers, agents, blueprints, and case studies. Everyth |
-| 9 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-19 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 10 | [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | 5619 | JavaScript | 2026-06-19 | 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win |
-| 11 | [bird-chinese-community/BIRD.skills](https://github.com/bird-chinese-community/BIRD.skills) | 0 | Python | 2026-06-19 | BIRDCC agent skills registry |
-| 12 | [ejklock/living-docs-skill](https://github.com/ejklock/living-docs-skill) | 0 | Shell | 2026-06-19 | Living Docs — a Claude Code / AI agent skill that runs your project's documentation as a living system: constitution, AD |
-| 13 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 266 | MDX | 2026-06-19 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 14 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 5 | Python | 2026-06-19 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 15 | [Aevum-Technology/litei18n-skills](https://github.com/Aevum-Technology/litei18n-skills) | 0 | Python | 2026-06-19 | Agent skills for LiteI18n MCP and OTA localization workflows |
-| 16 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 9 | TypeScript | 2026-06-19 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
-| 17 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 8 | Python | 2026-06-19 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 18 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-19 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-19 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [VforVitorio/F1-StratLab](https://github.com/VforVitorio/F1-StratLab) | 12 | Jupyter Notebook | 2026-06-19 | AI Models for Strategy Recommendations in Formula 1 races. Final Thesis Project of UIE Intelligent Systems Engineering ( |
+| 3 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 8 | Python | 2026-06-19 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 4 | [openjck/agent-skills](https://github.com/openjck/agent-skills) | 0 | JavaScript | 2026-06-19 | Agent skills for my personal needs, some of which may be useful to others |
+| 5 | [Joe-Simo/skills](https://github.com/Joe-Simo/skills) | 1 | — | 2026-06-19 | Community Agent Skills by joe-simo, including a Vercel Geist design-system skill for polished UI and companion routing. |
+| 6 | [ifBars/youtube-video-context](https://github.com/ifBars/youtube-video-context) | 0 | Python | 2026-06-19 | Agent skill for turning YouTube videos, playlists, and search topics into timestamped context packs |
+| 7 | [HighBridgeDragon/jp-diet-minutes-skill](https://github.com/HighBridgeDragon/jp-diet-minutes-skill) | 0 | Shell | 2026-06-19 | Search Japanese Diet (Kokkai) meeting minutes via the official NDL Kokkai API — an Agent Skill for Claude Code / Cursor  |
+| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-06-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 9 | [alexgreensh/repo-forensics](https://github.com/alexgreensh/repo-forensics) | 109 | Python | 2026-06-19 | Offline security scanner for AI-agent repos, skills, plugins, and MCP servers. |
+| 10 | [CorpusIQ/corpusiq-docs](https://github.com/CorpusIQ/corpusiq-docs) | 8 | HTML | 2026-06-19 | The largest Hermes Agent knowledge base — 302+ tools, skills, MCP servers, agents, blueprints, and case studies. Everyth |
+| 11 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-19 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 12 | [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | 5619 | JavaScript | 2026-06-19 | 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Win |
+| 13 | [bird-chinese-community/BIRD.skills](https://github.com/bird-chinese-community/BIRD.skills) | 0 | Python | 2026-06-19 | BIRDCC agent skills registry |
+| 14 | [ejklock/living-docs-skill](https://github.com/ejklock/living-docs-skill) | 0 | Shell | 2026-06-19 | Living Docs — a Claude Code / AI agent skill that runs your project's documentation as a living system: constitution, AD |
+| 15 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 266 | MDX | 2026-06-19 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 16 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 5 | Python | 2026-06-19 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 17 | [Aevum-Technology/litei18n-skills](https://github.com/Aevum-Technology/litei18n-skills) | 0 | Python | 2026-06-19 | Agent skills for LiteI18n MCP and OTA localization workflows |
+| 18 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 9 | TypeScript | 2026-06-19 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
 | 19 | [milady-ai/milady](https://github.com/milady-ai/milady) | 366 | TypeScript | 2026-06-19 | terminally online |
 | 20 | [jscraik/Agent-Skills](https://github.com/jscraik/Agent-Skills) | 5 | Python | 2026-06-19 | Governed Agent Skills Kit for Codex and AI coding agents: author once, validate quality, expose command handles, and syn |
 | 21 | [evo-hq/evo](https://github.com/evo-hq/evo) | 1197 | Python | 2026-06-19 | turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree sea |
