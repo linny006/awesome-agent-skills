@@ -1,5 +1,77 @@
 [
   {
+    "description": "The Forge Skills Plugin bundles several Forge-focused skills plus MCP-backed tooling so your agent can scaffold apps, re",
+    "id": "atlassian/forge-skills",
+    "language": "Python",
+    "name": "atlassian/forge-skills",
+    "stars": 14,
+    "updated_at": "2026-06-19T00:09:46Z",
+    "url": "https://github.com/atlassian/forge-skills"
+  },
+  {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "id": "DietrichGebert/ponytail",
+    "language": "JavaScript",
+    "name": "DietrichGebert/ponytail",
+    "stars": 36661,
+    "updated_at": "2026-06-19T00:09:31Z",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "description": "Upkeep \u2014 an AI audit crew for your repo. Catches docs/spec/asset drift with evidence; output-only. Claude Code plugin/sk",
+    "id": "wei18/Upkeep",
+    "language": "TypeScript",
+    "name": "wei18/Upkeep",
+    "stars": 2,
+    "updated_at": "2026-06-19T00:09:03Z",
+    "url": "https://github.com/wei18/Upkeep"
+  },
+  {
+    "description": "CLI tool for managing multi-repo AI agent workspaces with plugin synchronization across multiple AI clients.",
+    "id": "EntityProcess/allagents",
+    "language": "TypeScript",
+    "name": "EntityProcess/allagents",
+    "stars": 9,
+    "updated_at": "2026-06-19T00:07:00Z",
+    "url": "https://github.com/EntityProcess/allagents"
+  },
+  {
+    "description": "Apple platform development skills for Claude Code, Cursor, Kimi Code, Antigravity, Codex CLI, and Agy.",
+    "id": "markdavidgan/apple-dev-skills",
+    "language": "JavaScript",
+    "name": "markdavidgan/apple-dev-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T00:05:03Z",
+    "url": "https://github.com/markdavidgan/apple-dev-skills"
+  },
+  {
+    "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 a",
+    "id": "voidmatcha/e2e-skills",
+    "language": "Shell",
+    "name": "voidmatcha/e2e-skills",
+    "stars": 2,
+    "updated_at": "2026-06-19T00:04:59Z",
+    "url": "https://github.com/voidmatcha/e2e-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 265,
+    "updated_at": "2026-06-19T00:08:54Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-19T00:00:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -43,42 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T23:59:03Z",
     "url": "https://github.com/Sebuska29190/Nexus-AI-Buildier"
-  },
-  {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 265,
-    "updated_at": "2026-06-18T23:57:22Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "id": "DietrichGebert/ponytail",
-    "language": "JavaScript",
-    "name": "DietrichGebert/ponytail",
-    "stars": 36639,
-    "updated_at": "2026-06-18T23:57:02Z",
-    "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "description": "AI agent testing toolkit for Playwright and Cypress: generate E2E tests from scratch, review existing specs against 24 a",
-    "id": "voidmatcha/e2e-skills",
-    "language": "Shell",
-    "name": "voidmatcha/e2e-skills",
-    "stars": 2,
-    "updated_at": "2026-06-18T23:57:00Z",
-    "url": "https://github.com/voidmatcha/e2e-skills"
-  },
-  {
-    "description": "CLI tool for managing multi-repo AI agent workspaces with plugin synchronization across multiple AI clients.",
-    "id": "EntityProcess/allagents",
-    "language": "TypeScript",
-    "name": "EntityProcess/allagents",
-    "stars": 9,
-    "updated_at": "2026-06-18T23:56:52Z",
-    "url": "https://github.com/EntityProcess/allagents"
   },
   {
     "description": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codeba",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:47:57Z",
     "url": "https://github.com/Magithar/SKILLmama"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-18T23:45:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "the governed runtime for agent skills",
@@ -274,7 +301,7 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 67433,
+    "stars": 67434,
     "updated_at": "2026-06-18T23:32:08Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -491,7 +518,7 @@
     "language": "Python",
     "name": "jscraik/Agent-Skills",
     "stars": 5,
-    "updated_at": "2026-06-18T23:55:05Z",
+    "updated_at": "2026-06-19T00:04:44Z",
     "url": "https://github.com/jscraik/Agent-Skills"
   },
   {
@@ -621,6 +648,15 @@
     "url": "https://github.com/Sathvikkrishna2520/pev-framework-ts"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 17902,
+    "updated_at": "2026-06-18T22:09:18Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -662,7 +698,7 @@
     "language": "TypeScript",
     "name": "AgentWorkforce/relay",
     "stars": 729,
-    "updated_at": "2026-06-18T23:58:42Z",
+    "updated_at": "2026-06-19T00:08:04Z",
     "url": "https://github.com/AgentWorkforce/relay"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T21:12:04Z",
     "url": "https://github.com/rakibulism/agent-skills-os"
-  },
-  {
-    "description": "Agent Skill: TYPO3 extension conformance checker - validates against official standards | Claude Code compatible",
-    "id": "netresearch/typo3-conformance-skill",
-    "language": "Shell",
-    "name": "netresearch/typo3-conformance-skill",
-    "stars": 6,
-    "updated_at": "2026-06-18T21:04:49Z",
-    "url": "https://github.com/netresearch/typo3-conformance-skill"
-  },
-  {
-    "description": "\ud83d\udd10 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry.",
-    "id": "danieljustus/symaira-vault",
-    "language": "Go",
-    "name": "danieljustus/symaira-vault",
-    "stars": 20,
-    "updated_at": "2026-06-18T21:54:41Z",
-    "url": "https://github.com/danieljustus/symaira-vault"
-  },
-  {
-    "description": "A practical operating system for senior UX/UI and Product Designers who want to use advanced AI across the full product ",
-    "id": "monikazapisekstudio/design-engineering-playbook",
-    "language": "\u2014",
-    "name": "monikazapisekstudio/design-engineering-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-18T21:02:41Z",
-    "url": "https://github.com/monikazapisekstudio/design-engineering-playbook"
-  },
-  {
-    "description": "Native-first FinOps agent skill for AWS, GCP & Azure \u2014 find cloud savings inside Claude Code, Cursor, Gemini & any SKILL",
-    "id": "dautovri/cloud-cost-agent",
-    "language": "Shell",
-    "name": "dautovri/cloud-cost-agent",
-    "stars": 1,
-    "updated_at": "2026-06-18T21:00:53Z",
-    "url": "https://github.com/dautovri/cloud-cost-agent"
   }
 ]
