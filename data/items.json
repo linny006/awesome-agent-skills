@@ -1,5 +1,68 @@
 [
   {
+    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
+    "id": "jgsystemsconsulting/jgs-goal-spec",
+    "language": "Python",
+    "name": "jgsystemsconsulting/jgs-goal-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:49:21Z",
+    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
+  },
+  {
+    "description": "Drop-in scaffold of agents, skills, and conventions for spec-driven development with Claude Code, Codex, and similar CLI",
+    "id": "giostriquer/agent-workshop",
+    "language": "PowerShell",
+    "name": "giostriquer/agent-workshop",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:49:18Z",
+    "url": "https://github.com/giostriquer/agent-workshop"
+  },
+  {
+    "description": "",
+    "id": "LevNas/ccmemo",
+    "language": "Python",
+    "name": "LevNas/ccmemo",
+    "stars": 3,
+    "updated_at": "2026-06-19T13:48:10Z",
+    "url": "https://github.com/LevNas/ccmemo"
+  },
+  {
+    "description": "Get your agents talking. A hosted messaging store + router with fast retrieval. Useful for orchestrating agents.",
+    "id": "AgentWorkforce/relay",
+    "language": "TypeScript",
+    "name": "AgentWorkforce/relay",
+    "stars": 729,
+    "updated_at": "2026-06-19T13:45:49Z",
+    "url": "https://github.com/AgentWorkforce/relay"
+  },
+  {
+    "description": "Identity context protocol for the agent internet -- an MCP where the context is you.",
+    "id": "houstongolden/youmd",
+    "language": "TypeScript",
+    "name": "houstongolden/youmd",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:45:43Z",
+    "url": "https://github.com/houstongolden/youmd"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-19T13:45:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-19T13:45:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -14,17 +77,8 @@
     "language": "Rust",
     "name": "Raishin/vanguard-frontier-agentic",
     "stars": 19,
-    "updated_at": "2026-06-19T13:45:13Z",
+    "updated_at": "2026-06-19T13:45:42Z",
     "url": "https://github.com/Raishin/vanguard-frontier-agentic"
-  },
-  {
-    "description": "Get your agents talking. A hosted messaging store + router with fast retrieval. Useful for orchestrating agents.",
-    "id": "AgentWorkforce/relay",
-    "language": "TypeScript",
-    "name": "AgentWorkforce/relay",
-    "stars": 729,
-    "updated_at": "2026-06-19T13:44:47Z",
-    "url": "https://github.com/AgentWorkforce/relay"
   },
   {
     "description": "\ud83e\udea2 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt managemen",
@@ -32,17 +86,8 @@
     "language": "MDX",
     "name": "langfuse/langfuse-docs",
     "stars": 211,
-    "updated_at": "2026-06-19T13:43:38Z",
+    "updated_at": "2026-06-19T13:46:38Z",
     "url": "https://github.com/langfuse/langfuse-docs"
-  },
-  {
-    "description": "Turn a rough idea into a hardened engineering spec: goal-formatter -> goal-spec -> spec-review. Tool-agnostic Claude Cod",
-    "id": "jgsystemsconsulting/jgs-goal-spec",
-    "language": "Python",
-    "name": "jgsystemsconsulting/jgs-goal-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:43:14Z",
-    "url": "https://github.com/jgsystemsconsulting/jgs-goal-spec"
   },
   {
     "description": "Give your AI Agent a whole IDE, not just the files",
@@ -144,24 +189,6 @@
     "url": "https://github.com/ultimatile/arxiv-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-19T13:30:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-19T13:30:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
     "id": "Kenny27lokku/prompt-integrity-validator",
     "language": "HTML",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:29:17Z",
     "url": "https://github.com/kyt19970215/codex-skill-evolution-framework"
-  },
-  {
-    "description": "Identity context protocol for the agent internet -- an MCP where the context is you.",
-    "id": "houstongolden/youmd",
-    "language": "TypeScript",
-    "name": "houstongolden/youmd",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:28:37Z",
-    "url": "https://github.com/houstongolden/youmd"
   },
   {
     "description": "\ud83d\udd10 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry.",
@@ -239,17 +257,8 @@
     "language": "JavaScript",
     "name": "heshengtao/super-agent-party",
     "stars": 2399,
-    "updated_at": "2026-06-19T13:25:28Z",
+    "updated_at": "2026-06-19T13:45:45Z",
     "url": "https://github.com/heshengtao/super-agent-party"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 3,
-    "updated_at": "2026-06-19T13:22:35Z",
-    "url": "https://github.com/LevNas/ccmemo"
   },
   {
     "description": "\ud83e\udde9 A type-safe and composable architecture for modular monolith development in TypeScript.",
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T11:16:43Z",
     "url": "https://github.com/blessings1234/skill-shipyard-pipeline"
-  },
-  {
-    "description": "Turn GitHub issues into ready-to-run task packs for coding agents.",
-    "id": "itscloud0/issue-to-agent",
-    "language": "Python",
-    "name": "itscloud0/issue-to-agent",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:15:03Z",
-    "url": "https://github.com/itscloud0/issue-to-agent"
   }
 ]
