@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code plugin marketplace: 145 framework-aware code-review skills plus AI-writing detection, doc and test-plan gene",
+    "id": "existential-birds/beagle",
+    "language": "Shell",
+    "name": "existential-birds/beagle",
+    "stars": 65,
+    "updated_at": "2026-06-20T12:18:05Z",
+    "url": "https://github.com/existential-birds/beagle"
+  },
+  {
+    "description": "Identity context protocol for the agent internet -- an MCP where the context is you.",
+    "id": "houstongolden/youmd",
+    "language": "TypeScript",
+    "name": "houstongolden/youmd",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:17:29Z",
+    "url": "https://github.com/houstongolden/youmd"
+  },
+  {
+    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "JavaScript",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 991,
+    "updated_at": "2026-06-20T12:17:17Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Token Efficiency Toolkit \u2014 Reduce AI token consumption with proven patterns, local hardware acceleration, and smart work",
+    "id": "zedarvates/botte-secrete",
+    "language": "Python",
+    "name": "zedarvates/botte-secrete",
+    "stars": 1,
+    "updated_at": "2026-06-20T12:15:46Z",
+    "url": "https://github.com/zedarvates/botte-secrete"
+  },
+  {
+    "description": "Get into Builder Mode \u2014 an AI-native startup factory and OS you point Claude Code (or Cursor/Codex/Windsurf) at.",
+    "id": "hamza-ali-shahjahan/hamzaish",
+    "language": "TypeScript",
+    "name": "hamza-ali-shahjahan/hamzaish",
+    "stars": 5,
+    "updated_at": "2026-06-20T12:15:30Z",
+    "url": "https://github.com/hamza-ali-shahjahan/hamzaish"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-20T12:15:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-20T12:15:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -81,15 +144,6 @@
     "url": "https://github.com/gaoguo/pg-skill-forge"
   },
   {
-    "description": "Identity context protocol for the agent internet -- an MCP where the context is you.",
-    "id": "houstongolden/youmd",
-    "language": "TypeScript",
-    "name": "houstongolden/youmd",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:08:54Z",
-    "url": "https://github.com/houstongolden/youmd"
-  },
-  {
     "description": "Language- and framework-agnostic audit checklists for AI coding agents \u2014 security, correctness, and operability. Works w",
     "id": "danygiguere/audit-skills",
     "language": "Python",
@@ -135,15 +189,6 @@
     "url": "https://github.com/PaulRBerg/agent-skills"
   },
   {
-    "description": "174 professional Agent Skills (SKILL.md) + subagents + slash commands for Claude, ChatGPT, Gemini, Cursor, Codex & Herme",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "JavaScript",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 991,
-    "updated_at": "2026-06-20T12:03:25Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
     "description": "Health check for AI agent skills. skill-doctor diagnoses why a SKILL.md won't reliably trigger, runs a routing-recall te",
     "id": "Zane456/skill-doctor",
     "language": "Python",
@@ -160,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T12:01:04Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-20T12:00:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-20T12:00:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "A collection of AI agent Skills for Claude Code, Cursor, and Codex. Install with: npx yashpatkar-skills",
@@ -275,7 +302,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 91,
-    "updated_at": "2026-06-20T12:11:53Z",
+    "updated_at": "2026-06-20T12:17:02Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 2,
-    "updated_at": "2026-06-20T12:12:53Z",
+    "updated_at": "2026-06-20T12:15:49Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -823,7 +850,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 18064,
+    "stars": 18068,
     "updated_at": "2026-06-20T10:19:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T10:06:48Z",
     "url": "https://github.com/SoulChildTc/soulchild-skills"
-  },
-  {
-    "description": "One-command BMAD METHOD + Odoo dev environment for Claude Code (BA skill, Odoo subagents, agent overrides, Visual-QC)",
-    "id": "baolinhtb/BMAD-Odoo-Skills",
-    "language": "HTML",
-    "name": "baolinhtb/BMAD-Odoo-Skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:06:08Z",
-    "url": "https://github.com/baolinhtb/BMAD-Odoo-Skills"
-  },
-  {
-    "description": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codeba",
-    "id": "first-fluke/oh-my-agent",
-    "language": "TypeScript",
-    "name": "first-fluke/oh-my-agent",
-    "stars": 1100,
-    "updated_at": "2026-06-20T10:03:11Z",
-    "url": "https://github.com/first-fluke/oh-my-agent"
-  },
-  {
-    "description": "Shape rough requests into evidence-backed /goal completion contracts \u2014 an Agent Skill for Claude Code and Codex",
-    "id": "gotalab/goal-setter-skill",
-    "language": "Python",
-    "name": "gotalab/goal-setter-skill",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:59:59Z",
-    "url": "https://github.com/gotalab/goal-setter-skill"
   }
 ]
