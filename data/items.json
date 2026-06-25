@@ -1,5 +1,77 @@
 [
   {
+    "description": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Story",
+    "id": "QinghongLin/data2story-skill",
+    "language": "Python",
+    "name": "QinghongLin/data2story-skill",
+    "stars": 124,
+    "updated_at": "2026-06-25T22:49:56Z",
+    "url": "https://github.com/QinghongLin/data2story-skill"
+  },
+  {
+    "description": "Beautiful, AI-native markdown editor and LLM Wiki",
+    "id": "inkeep/open-knowledge",
+    "language": "TypeScript",
+    "name": "inkeep/open-knowledge",
+    "stars": 247,
+    "updated_at": "2026-06-25T22:49:38Z",
+    "url": "https://github.com/inkeep/open-knowledge"
+  },
+  {
+    "description": "Claude Code plugin + MCP server for ComfyUI \u2014 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing fr",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 184,
+    "updated_at": "2026-06-25T22:49:31Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Prompt-to-repo authoring system with one-sentence generation, demo assets, diagrams, and installable Hermes Agent profil",
+    "id": "codegraphtheory/hermes-profile-template",
+    "language": "Python",
+    "name": "codegraphtheory/hermes-profile-template",
+    "stars": 20,
+    "updated_at": "2026-06-25T22:48:37Z",
+    "url": "https://github.com/codegraphtheory/hermes-profile-template"
+  },
+  {
+    "description": "Supercharge BMAD with Claude Code Goal Mode, Auto Mode, and Auto Memory. Transform Epics into autonomous run-until-done ",
+    "id": "armelhbobdad/bmad-module-ultracode-goal",
+    "language": "Python",
+    "name": "armelhbobdad/bmad-module-ultracode-goal",
+    "stars": 0,
+    "updated_at": "2026-06-25T22:47:49Z",
+    "url": "https://github.com/armelhbobdad/bmad-module-ultracode-goal"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance Claude's capabilities with example skills that streamline tasks and improve performance in specialized areas.",
+    "id": "shajith003/awesome-claude-skills",
+    "language": "Python",
+    "name": "shajith003/awesome-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-06-25T22:47:22Z",
+    "url": "https://github.com/shajith003/awesome-claude-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 9,
+    "updated_at": "2026-06-25T22:45:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-25T22:45:27Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-25T22:45:15Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
-    "description": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Story",
-    "id": "QinghongLin/data2story-skill",
-    "language": "Python",
-    "name": "QinghongLin/data2story-skill",
-    "stars": 124,
-    "updated_at": "2026-06-25T22:45:09Z",
-    "url": "https://github.com/QinghongLin/data2story-skill"
   },
   {
     "description": "Wonda CLI \u2014 AI-powered content creation from your terminal",
@@ -41,7 +104,7 @@
     "language": "Java",
     "name": "jabrena/cursor-rules-java",
     "stars": 409,
-    "updated_at": "2026-06-25T22:43:10Z",
+    "updated_at": "2026-06-25T22:47:28Z",
     "url": "https://github.com/jabrena/cursor-rules-java"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T22:33:04Z",
     "url": "https://github.com/wvdsh/ai"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-25T22:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 9,
-    "updated_at": "2026-06-25T22:30:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "In-session compliance enforcement skill for Claude Code (paper Sec 6 dogfood). Per-user adaptive threshold + chaos-teste",
@@ -265,7 +310,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 57910,
+    "stars": 57915,
     "updated_at": "2026-06-25T22:23:00Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T22:19:49Z",
     "url": "https://github.com/Rookage/skillbrew"
-  },
-  {
-    "description": "Beautiful, AI-native markdown editor and LLM Wiki",
-    "id": "inkeep/open-knowledge",
-    "language": "TypeScript",
-    "name": "inkeep/open-knowledge",
-    "stars": 242,
-    "updated_at": "2026-06-25T22:19:12Z",
-    "url": "https://github.com/inkeep/open-knowledge"
   },
   {
     "description": "Claude Code skills for medical research \u2014 literature search, reporting guidelines, statistical analysis, publication fig",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T21:50:39Z",
     "url": "https://github.com/Axelendometrial4386/russian-text-quality"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 1,
-    "updated_at": "2026-06-25T21:50:27Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Import Excel and PowerPoint skills into Claude Code to automate spreadsheets and presentations using local filesystem ac",
-    "id": "Borjani1577/claude-office-skills",
-    "language": "Python",
-    "name": "Borjani1577/claude-office-skills",
-    "stars": 0,
-    "updated_at": "2026-06-25T21:50:27Z",
-    "url": "https://github.com/Borjani1577/claude-office-skills"
-  },
-  {
-    "description": "Simulate university counselor interactions to practice communication, navigate school policies, and roleplay professiona",
-    "id": "icebaggoldenrule1862/counselor.skill",
-    "language": "Python",
-    "name": "icebaggoldenrule1862/counselor.skill",
-    "stars": 0,
-    "updated_at": "2026-06-25T21:50:16Z",
-    "url": "https://github.com/icebaggoldenrule1862/counselor.skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-06-25T21:50:16Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
   }
 ]
