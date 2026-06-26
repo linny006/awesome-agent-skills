@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [finetension/toss-openapi-cli-skills](https://github.com/finetension/toss-openapi-cli-skills) | 0 | — | 2026-06-26 | Agent skills for using tosscli with Toss Open APIs |
-| 2 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-26 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 3 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 822 | TypeScript | 2026-06-26 | Beautiful, AI-native markdown editor and LLM Wiki |
-| 4 | [Ezeafk/awesome-agent-skills](https://github.com/Ezeafk/awesome-agent-skills) | 7 | — | 2026-06-26 | Curated reusable skills, workflows, and tool-backed capabilities for AI agents. |
-| 5 | [Stanestane/game-design-skills-bundle](https://github.com/Stanestane/game-design-skills-bundle) | 25 | Python | 2026-06-26 | A public OpenClaw and ClawHub-ready bundle of game design skills for emotional direction, feature workflows, audits, FTU |
-| 6 | [bmaltais/skills](https://github.com/bmaltais/skills) | 0 | Python | 2026-06-26 |  |
-| 7 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 71497 | TypeScript | 2026-06-26 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 22836 | Python | 2026-06-26 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 9 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 68 | TypeScript | 2026-06-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 10 | [CloudChef/atlasclaw-providers](https://github.com/CloudChef/atlasclaw-providers) | 12 | Python | 2026-06-26 | atlasclaw-providers are the integration with enterprise systems through skills and webhook. |
-| 11 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1445 | TypeScript | 2026-06-26 | The control plane for AI coding agents. |
-| 12 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-26 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 13 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-26 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 14 | [tale-project/tale](https://github.com/tale-project/tale) | 12 | TypeScript | 2026-06-26 | The Orchestrator for AI Agents — Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P |
-| 15 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-26 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [finetension/tosscli-skills](https://github.com/finetension/tosscli-skills) | 0 | — | 2026-06-26 | Agent skills for using tosscli with Toss Open APIs |
+| 4 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-06-26 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 5 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 822 | TypeScript | 2026-06-26 | Beautiful, AI-native markdown editor and LLM Wiki |
+| 6 | [Ezeafk/awesome-agent-skills](https://github.com/Ezeafk/awesome-agent-skills) | 7 | — | 2026-06-26 | Curated reusable skills, workflows, and tool-backed capabilities for AI agents. |
+| 7 | [Stanestane/game-design-skills-bundle](https://github.com/Stanestane/game-design-skills-bundle) | 25 | Python | 2026-06-26 | A public OpenClaw and ClawHub-ready bundle of game design skills for emotional direction, feature workflows, audits, FTU |
+| 8 | [bmaltais/skills](https://github.com/bmaltais/skills) | 0 | Python | 2026-06-26 |  |
+| 9 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 71497 | TypeScript | 2026-06-26 | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ We |
+| 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 22836 | Python | 2026-06-26 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 11 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 68 | TypeScript | 2026-06-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 12 | [CloudChef/atlasclaw-providers](https://github.com/CloudChef/atlasclaw-providers) | 12 | Python | 2026-06-26 | atlasclaw-providers are the integration with enterprise systems through skills and webhook. |
+| 13 | [codeaholicguy/ai-devkit](https://github.com/codeaholicguy/ai-devkit) | 1445 | TypeScript | 2026-06-26 | The control plane for AI coding agents. |
+| 14 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-26 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 15 | [tale-project/tale](https://github.com/tale-project/tale) | 12 | TypeScript | 2026-06-26 | The Orchestrator for AI Agents — Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P |
 | 16 | [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) | 214 | MDX | 2026-06-26 | 🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt managemen |
 | 17 | [akunzai/agent-skills](https://github.com/akunzai/agent-skills) | 0 | Shell | 2026-06-26 | My personal agent skills for AI coding assistants |
 | 18 | [Doist/todoist-cli](https://github.com/Doist/todoist-cli) | 234 | TypeScript | 2026-06-26 | Command-line interface for Todoist. |
