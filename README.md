@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | HTML | 2026-06-26 | React Native  |
-| 3 | [slowdini/slow-powers](https://github.com/slowdini/slow-powers) | 1 | TypeScript | 2026-06-26 | Eval-backed agent skills for Claude Code, Codex & OpenCode — for developers who hate skills. |
-| 4 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | Python | 2026-06-26 | Person research for AI agents through Serper.dev |
-| 5 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | Python | 2026-06-26 | Waterfall email enrichment through trykitt, Icypeas, MillionVerifier, and Scrubby |
-| 6 | [ItamarZand88/awesome-agent-conventions](https://github.com/ItamarZand88/awesome-agent-conventions) | 21 | Python | 2026-06-26 | A curated guide to convention files AI agents read, write, and act on: AGENTS.md, CLAUDE.md, SKILL.md, llms.txt, MCP con |
-| 7 | [SuperMarioYL/skillprov](https://github.com/SuperMarioYL/skillprov) | 1 | Go | 2026-06-26 | skillprov v0.3.0 — value-level exec command allowlist: declaring commands:[git] no longer lets a skill quietly curl \| sh |
-| 8 | [armelhbobdad/bmad-module-ultracode-goal](https://github.com/armelhbobdad/bmad-module-ultracode-goal) | 0 | Python | 2026-06-26 | Supercharge BMAD with Claude Code Goal Mode, Auto Mode, and Auto Memory. Transform Epics into autonomous run-until-done  |
-| 9 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 1034 | TypeScript | 2026-06-26 | Beautiful, AI-native markdown editor and LLM Wiki |
-| 10 | [EntityProcess/agentv](https://github.com/EntityProcess/agentv) | 13 | TypeScript | 2026-06-26 | Light-weight AI agent evaluation and optimization framework |
-| 11 | [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) | 186 | Python | 2026-06-26 | One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, ski |
-| 12 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-26 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 13 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-26 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 1 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-26 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-26 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [Marketingtool-pro/AiMarketingtool-pro-fbaf2fad](https://github.com/Marketingtool-pro/AiMarketingtool-pro-fbaf2fad) | 0 | HTML | 2026-06-26 | React Native  |
+| 5 | [slowdini/slow-powers](https://github.com/slowdini/slow-powers) | 1 | TypeScript | 2026-06-26 | Eval-backed agent skills for Claude Code, Codex & OpenCode — for developers who hate skills. |
+| 6 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | Python | 2026-06-26 | Person research for AI agents through Serper.dev |
+| 7 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | Python | 2026-06-26 | Waterfall email enrichment through trykitt, Icypeas, MillionVerifier, and Scrubby |
+| 8 | [ItamarZand88/awesome-agent-conventions](https://github.com/ItamarZand88/awesome-agent-conventions) | 21 | Python | 2026-06-26 | A curated guide to convention files AI agents read, write, and act on: AGENTS.md, CLAUDE.md, SKILL.md, llms.txt, MCP con |
+| 9 | [SuperMarioYL/skillprov](https://github.com/SuperMarioYL/skillprov) | 1 | Go | 2026-06-26 | skillprov v0.3.0 — value-level exec command allowlist: declaring commands:[git] no longer lets a skill quietly curl \| sh |
+| 10 | [armelhbobdad/bmad-module-ultracode-goal](https://github.com/armelhbobdad/bmad-module-ultracode-goal) | 0 | Python | 2026-06-26 | Supercharge BMAD with Claude Code Goal Mode, Auto Mode, and Auto Memory. Transform Epics into autonomous run-until-done  |
+| 11 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 1034 | TypeScript | 2026-06-26 | Beautiful, AI-native markdown editor and LLM Wiki |
+| 12 | [EntityProcess/agentv](https://github.com/EntityProcess/agentv) | 13 | TypeScript | 2026-06-26 | Light-weight AI agent evaluation and optimization framework |
+| 13 | [yzhao062/anywhere-agents](https://github.com/yzhao062/anywhere-agents) | 186 | Python | 2026-06-26 | One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, ski |
 | 14 | [netresearch/skill-repo-skill](https://github.com/netresearch/skill-repo-skill) | 14 | Shell | 2026-06-26 | Agent Skill guide for structuring skill repositories - multi-channel distribution \| Claude Code compatible |
 | 15 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 28874 | Rust | 2026-06-26 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamicall |
 | 16 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 68 | TypeScript | 2026-06-26 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
