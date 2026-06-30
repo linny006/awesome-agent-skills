@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-30 18:59 UTC
+> ⏰ Last updated: 2026-06-30 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [athal7/dotfiles](https://github.com/athal7/dotfiles) | 6 | Shell | 2026-06-30 |  |
-| 2 | [eugenelim/agent-ready-repo](https://github.com/eugenelim/agent-ready-repo) | 11 | Python | 2026-06-30 | The sharpest loop engineering out there in the flagship pack. Plus a catalogue system with additional packs of subagents |
-| 3 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 21 | Python | 2026-06-30 | A self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and pru |
-| 4 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | 819 | TypeScript | 2026-06-30 | AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with  |
-| 5 | [blessings1234/skill-shipyard-pipeline](https://github.com/blessings1234/skill-shipyard-pipeline) | 2 | HTML | 2026-06-30 | Skill Package 2026: Ultimate AI Skills Deployment Tool – Plugin, ZIP & CI/CD |
-| 6 | [AlainRic/ralph-wiggum-codex-review-triage](https://github.com/AlainRic/ralph-wiggum-codex-review-triage) | 0 | HTML | 2026-06-30 | Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification |
-| 7 | [Chariton-kyp/Memgentic](https://github.com/Chariton-kyp/Memgentic) | 2 | Python | 2026-06-30 | Universal AI memory layer — your second brain across every AI tool. Local-first, open source, MCP-compatible. |
-| 8 | [vineetu/simple-host](https://github.com/vineetu/simple-host) | 0 | HTML | 2026-06-30 | Deploy websites to simple-host.app from your coding agent (Claude Code, Codex, Cursor) — one-command install. Static hos |
-| 9 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 0 | HTML | 2026-06-30 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
-| 10 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 0 | JavaScript | 2026-06-30 | Curated, eval-backed skills for AI agents. |
-| 11 | [fjilvi-afk/growthlens](https://github.com/fjilvi-afk/growthlens) | 0 | — | 2026-06-30 | AI-agent skills for marketers, growth & business analysts — competitor teardowns, funnel audits, pricing analysis & more |
-| 12 | [alexbobkovv/db-migration-safe](https://github.com/alexbobkovv/db-migration-safe) | 0 | Python | 2026-06-30 | Zero-downtime SQL migration safety as an Agent Skill: detect lock hazards, rewrite unsafe DDL, auto-generate rollbacks,  |
-| 13 | [baserproject/baser-skills](https://github.com/baserproject/baser-skills) | 0 | Python | 2026-06-30 |  |
-| 14 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1100 | JavaScript | 2026-06-30 | In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
-| 15 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-30 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 16 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-30 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 17 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 11 | TypeScript | 2026-06-30 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
-| 18 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-30 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-06-30 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-06-30 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [athal7/dotfiles](https://github.com/athal7/dotfiles) | 6 | Shell | 2026-06-30 |  |
+| 4 | [eugenelim/agent-ready-repo](https://github.com/eugenelim/agent-ready-repo) | 11 | Python | 2026-06-30 | The sharpest loop engineering out there in the flagship pack. Plus a catalogue system with additional packs of subagents |
+| 5 | [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) | 21 | Python | 2026-06-30 | A self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and pru |
+| 6 | [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) | 819 | TypeScript | 2026-06-30 | AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with  |
+| 7 | [blessings1234/skill-shipyard-pipeline](https://github.com/blessings1234/skill-shipyard-pipeline) | 2 | HTML | 2026-06-30 | Skill Package 2026: Ultimate AI Skills Deployment Tool – Plugin, ZIP & CI/CD |
+| 8 | [AlainRic/ralph-wiggum-codex-review-triage](https://github.com/AlainRic/ralph-wiggum-codex-review-triage) | 0 | HTML | 2026-06-30 | Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification |
+| 9 | [Chariton-kyp/Memgentic](https://github.com/Chariton-kyp/Memgentic) | 2 | Python | 2026-06-30 | Universal AI memory layer — your second brain across every AI tool. Local-first, open source, MCP-compatible. |
+| 10 | [vineetu/simple-host](https://github.com/vineetu/simple-host) | 0 | HTML | 2026-06-30 | Deploy websites to simple-host.app from your coding agent (Claude Code, Codex, Cursor) — one-command install. Static hos |
+| 11 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 0 | HTML | 2026-06-30 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
+| 12 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 0 | JavaScript | 2026-06-30 | Curated, eval-backed skills for AI agents. |
+| 13 | [fjilvi-afk/growthlens](https://github.com/fjilvi-afk/growthlens) | 0 | — | 2026-06-30 | AI-agent skills for marketers, growth & business analysts — competitor teardowns, funnel audits, pricing analysis & more |
+| 14 | [alexbobkovv/db-migration-safe](https://github.com/alexbobkovv/db-migration-safe) | 0 | Python | 2026-06-30 | Zero-downtime SQL migration safety as an Agent Skill: detect lock hazards, rewrite unsafe DDL, auto-generate rollbacks,  |
+| 15 | [baserproject/baser-skills](https://github.com/baserproject/baser-skills) | 0 | Python | 2026-06-30 |  |
+| 16 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1100 | JavaScript | 2026-06-30 | In Anthropic's official Claude plugin directory · 313 professional Agent Skills (PRDs, launches, compliance, CVs & more) |
+| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-06-30 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 18 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 11 | TypeScript | 2026-06-30 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
 | 19 | [AgentWorkforce/relay](https://github.com/AgentWorkforce/relay) | 744 | TypeScript | 2026-06-30 | Get your agents talking. A hosted messaging store + router with fast retrieval. Useful for orchestrating agents. |
 | 20 | [static-var/Keystone](https://github.com/static-var/Keystone) | 0 | Python | 2026-06-30 |  |
 | 21 | [antonioshaman/aura-companion](https://github.com/antonioshaman/aura-companion) | 0 | TypeScript | 2026-06-30 | Self-learning AI companion — 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak |
