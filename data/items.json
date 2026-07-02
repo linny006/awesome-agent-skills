@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
+    "description": "Evidence-first Codex skill for research papers, thesis writing, literature reviews, rebuttals, and academic integrity.",
+    "id": "xcl2005/academic-paper-writing-skill",
     "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 2,
-    "updated_at": "2026-07-02T22:15:19Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+    "name": "xcl2005/academic-paper-writing-skill",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:19:20Z",
+    "url": "https://github.com/xcl2005/academic-paper-writing-skill"
+  },
+  {
+    "description": "Discover, score, install, and audit Codex Agent Skills from GitHub with safety-first governance.",
+    "id": "xcl2005/github-skill-curator",
+    "language": "Python",
+    "name": "xcl2005/github-skill-curator",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:19:20Z",
+    "url": "https://github.com/xcl2005/github-skill-curator"
+  },
+  {
+    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
+    "id": "jeremylongshore/claude-code-plugins-plus-skills",
+    "language": "Python",
+    "name": "jeremylongshore/claude-code-plugins-plus-skills",
+    "stars": 2467,
+    "updated_at": "2026-07-02T22:19:18Z",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
   },
   {
     "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
@@ -14,8 +32,53 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 253,
-    "updated_at": "2026-07-02T22:15:12Z",
+    "updated_at": "2026-07-02T22:19:11Z",
     "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Skills for use with Hermes that work with local models",
+    "id": "fnord123/hermes-skills",
+    "language": "Python",
+    "name": "fnord123/hermes-skills",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:17:07Z",
+    "url": "https://github.com/fnord123/hermes-skills"
+  },
+  {
+    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
+    "id": "amadeus-dlc/amadeus",
+    "language": "TypeScript",
+    "name": "amadeus-dlc/amadeus",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:16:40Z",
+    "url": "https://github.com/amadeus-dlc/amadeus"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-02T22:15:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-02T22:15:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-02T22:15:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "React Native ",
@@ -184,7 +247,7 @@
     "id": "addyosmani/agent-skills",
     "language": "Shell",
     "name": "addyosmani/agent-skills",
-    "stars": 68591,
+    "stars": 68590,
     "updated_at": "2026-07-02T22:05:05Z",
     "url": "https://github.com/addyosmani/agent-skills"
   },
@@ -234,15 +297,6 @@
     "url": "https://github.com/weklund/fiduciary"
   },
   {
-    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
-    "id": "amadeus-dlc/amadeus",
-    "language": "TypeScript",
-    "name": "amadeus-dlc/amadeus",
-    "stars": 1,
-    "updated_at": "2026-07-02T22:12:41Z",
-    "url": "https://github.com/amadeus-dlc/amadeus"
-  },
-  {
     "description": "RFC v0.2 + implementaci\u00f3n de referencia para publicar Agent Skills a trav\u00e9s de llms.txt. Incluye parser, validador, sche",
     "id": "MauricioPerera/llms-txt-skills",
     "language": "Python",
@@ -250,24 +304,6 @@
     "stars": 2,
     "updated_at": "2026-07-02T22:01:03Z",
     "url": "https://github.com/MauricioPerera/llms-txt-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-07-02T22:00:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-02T22:00:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "EDPA \u2014 Evidence-Driven Proportional Allocation. Derive hours from Git evidence. No timesheets.",
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-02T21:59:01Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Evidence-first Codex skill for research papers, thesis writing, literature reviews, rebuttals, and academic integrity.",
-    "id": "xcl2005/academic-paper-writing-skill",
-    "language": "Python",
-    "name": "xcl2005/academic-paper-writing-skill",
-    "stars": 1,
-    "updated_at": "2026-07-02T21:58:52Z",
-    "url": "https://github.com/xcl2005/academic-paper-writing-skill"
   },
   {
     "description": "Temporal Awareness for AI Agents 2026 - Time-Passing Lightweight Hooks + Skill SDK",
@@ -477,15 +504,6 @@
     "url": "https://github.com/MarcoZorn/agencykit"
   },
   {
-    "description": "Discover, score, install, and audit Codex Agent Skills from GitHub with safety-first governance.",
-    "id": "xcl2005/github-skill-curator",
-    "language": "Python",
-    "name": "xcl2005/github-skill-curator",
-    "stars": 1,
-    "updated_at": "2026-07-02T21:40:57Z",
-    "url": "https://github.com/xcl2005/github-skill-curator"
-  },
-  {
     "description": "Claude Code plugin suite: superpowers-wrapped planning, devcontainer+worktree isolation, goal-to-PR autonomy, and phase ",
     "id": "derio-net/super-fr",
     "language": "Python",
@@ -601,15 +619,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:27:55Z",
     "url": "https://github.com/Udalefourfold471/remote-gpu-trainer"
-  },
-  {
-    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
-    "id": "jeremylongshore/claude-code-plugins-plus-skills",
-    "language": "Python",
-    "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 2467,
-    "updated_at": "2026-07-02T21:27:42Z",
-    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
   },
   {
     "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:21:01Z",
     "url": "https://github.com/incandescent-gallus977/skill"
-  },
-  {
-    "description": "KWeaver DIP is an enterprise-level digital employee platform, built on KWeaver Core. It provides an AI-native environmen",
-    "id": "kweaver-ai/kweaver-dip",
-    "language": "TypeScript",
-    "name": "kweaver-ai/kweaver-dip",
-    "stars": 288,
-    "updated_at": "2026-07-02T21:20:57Z",
-    "url": "https://github.com/kweaver-ai/kweaver-dip"
   }
 ]
