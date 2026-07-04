@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:30:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A structured collection of reusable Agent and Codex skills for software engineering, knowledge management, and professio",
+    "id": "VectorPeak/vectorpeak-agent-skills",
+    "language": "Python",
+    "name": "VectorPeak/vectorpeak-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:30:10Z",
+    "url": "https://github.com/VectorPeak/vectorpeak-agent-skills"
+  },
+  {
+    "description": "Router Learning System + macOS desktop automation skills for AI agents using Cua Driver \u2014 task routing, fallback chains,",
+    "id": "ChrisLamDev/cua-desktop-automation-skills",
+    "language": "\u2014",
+    "name": "ChrisLamDev/cua-desktop-automation-skills",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:27:16Z",
+    "url": "https://github.com/ChrisLamDev/cua-desktop-automation-skills"
+  },
+  {
+    "description": "17 executable AI agent skills for Cocos Creator 3.x debugging",
+    "id": "ChrisLamDev/cocos-creator-debug-skills",
+    "language": "\u2014",
+    "name": "ChrisLamDev/cocos-creator-debug-skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T03:27:12Z",
+    "url": "https://github.com/ChrisLamDev/cocos-creator-debug-skills"
+  },
+  {
+    "description": "Run and verify code changes by driving the real app \u2014 run, verify, and run-skill-generator skills for Claude Code, Codex",
+    "id": "pleaseai/run-verify-plugin",
+    "language": "\u2014",
+    "name": "pleaseai/run-verify-plugin",
+    "stars": 0,
+    "updated_at": "2026-07-04T03:25:40Z",
+    "url": "https://github.com/pleaseai/run-verify-plugin"
+  },
+  {
     "description": "A fast, native RSS reader \u2014 plus an agent-facing CLI so your AI agent can read, search and triage your feeds from the sh",
     "id": "l0ng-ai/papr",
     "language": "Rust",
     "name": "l0ng-ai/papr",
     "stars": 457,
-    "updated_at": "2026-07-04T03:23:11Z",
+    "updated_at": "2026-07-04T03:25:37Z",
     "url": "https://github.com/l0ng-ai/papr"
+  },
+  {
+    "description": "Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex)",
+    "id": "kissgyorgy/coding-agents",
+    "language": "TypeScript",
+    "name": "kissgyorgy/coding-agents",
+    "stars": 11,
+    "updated_at": "2026-07-04T03:25:17Z",
+    "url": "https://github.com/kissgyorgy/coding-agents"
+  },
+  {
+    "description": "Lifecycle Management for Agent Skills",
+    "id": "smith-horn/skillsmith",
+    "language": "TypeScript",
+    "name": "smith-horn/skillsmith",
+    "stars": 72,
+    "updated_at": "2026-07-04T03:30:24Z",
+    "url": "https://github.com/smith-horn/skillsmith"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-04T03:23:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "AI skills for right-sized technical design, review loops, and enforceable architecture boundaries.",
@@ -59,26 +131,8 @@
     "language": "Python",
     "name": "linny006/skills-tracker",
     "stars": 7,
-    "updated_at": "2026-07-04T03:15:29Z",
+    "updated_at": "2026-07-04T03:30:29Z",
     "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-07-04T03:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 2,
-    "updated_at": "2026-07-04T03:15:15Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Turns GitHub issues into merged PRs with zero human intervention. Powered by OpenClaw, supports Claude Code, Codex CLI, ",
@@ -86,7 +140,7 @@
     "language": "Shell",
     "name": "zxkane/autonomous-dev-team",
     "stars": 21,
-    "updated_at": "2026-07-04T03:12:41Z",
+    "updated_at": "2026-07-04T03:25:55Z",
     "url": "https://github.com/zxkane/autonomous-dev-team"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas"
   },
   {
-    "description": "Router Learning System + macOS desktop automation skills for AI agents using Cua Driver \u2014 task routing, fallback chains,",
-    "id": "ChrisLamDev/cua-desktop-automation-skills",
-    "language": "\u2014",
-    "name": "ChrisLamDev/cua-desktop-automation-skills",
-    "stars": 2,
-    "updated_at": "2026-07-04T02:44:28Z",
-    "url": "https://github.com/ChrisLamDev/cua-desktop-automation-skills"
-  },
-  {
     "description": "Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks",
     "id": "tolimcn7786/skills",
     "language": "Python",
@@ -358,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T02:41:57Z",
     "url": "https://github.com/pugnacious-yezo931/Local-Agent-Studio"
-  },
-  {
-    "description": "17 executable AI agent skills for Cocos Creator 3.x debugging",
-    "id": "ChrisLamDev/cocos-creator-debug-skills",
-    "language": "\u2014",
-    "name": "ChrisLamDev/cocos-creator-debug-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:42:16Z",
-    "url": "https://github.com/ChrisLamDev/cocos-creator-debug-skills"
   },
   {
     "description": "\u6d59\u5927MEM\u5de5\u7a0b\u7ba1\u7406\u7855\u58eb\u5b66\u4f4d\u8bba\u6587\u5168\u6d41\u7a0b\u5199\u4f5c\u6280\u80fd\u5305\uff5c21\u4e2aClaude Code+Codex\u6280\u80fd\uff1a\u5199\u4f5c\u00b7\u8303\u6587\u8bed\u4f53\u00b7\u964dAIGC\u53bbAI\u5473\u00b7\u6587\u732e\u00b7\u5ba1\u7a3f\u00b7LaTeX(zjuthesis)\u00b7Word\u00b7\u7b54\u8fa9 | MEM master thesis writ",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T02:28:07Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Simulate university counselor interactions to practice communication, navigate school policies, and roleplay professiona",
-    "id": "icebaggoldenrule1862/counselor.skill",
-    "language": "Python",
-    "name": "icebaggoldenrule1862/counselor.skill",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:28:06Z",
-    "url": "https://github.com/icebaggoldenrule1862/counselor.skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:28:05Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug",
-    "id": "sublimate-toe9304/craftcms-claude-skills",
-    "language": "Shell",
-    "name": "sublimate-toe9304/craftcms-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-07-04T02:27:54Z",
-    "url": "https://github.com/sublimate-toe9304/craftcms-claude-skills"
-  },
-  {
-    "description": "Automate the software development lifecycle for Claude Code with standardized workflows, project scaffolding, session ma",
-    "id": "dressingcasewildcat6783/claude-code-skills",
-    "language": "\u2014",
-    "name": "dressingcasewildcat6783/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:27:45Z",
-    "url": "https://github.com/dressingcasewildcat6783/claude-code-skills"
   }
 ]
