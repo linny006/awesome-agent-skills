@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 15:30 UTC
+> ⏰ Last updated: 2026-07-04 15:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vins13pattar/dpdpa-compliance](https://github.com/vins13pattar/dpdpa-compliance) | 0 | Shell | 2026-07-04 | DPDPA 2023 compliance skill for AI coding agents — audit, implement, remediate |
-| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-04 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 3 | [nledford/agent-skills](https://github.com/nledford/agent-skills) | 0 | Python | 2026-07-04 | A collection of AI agent skills I have written |
-| 4 | [rtwsvj/skill-switch](https://github.com/rtwsvj/skill-switch) | 1 | TypeScript | 2026-07-04 | Local-first governance + a security gate for the skills you install across AI coding agents (Claude Code, Codex, Gemini  |
-| 5 | [jal-co/shieldcn](https://github.com/jal-co/shieldcn) | 550 | TypeScript | 2026-07-04 | Beautiful README badges, inspired by shields.io and styled like shadcn/ui. |
-| 6 | [gxgeek-n/wenqu-mem](https://github.com/gxgeek-n/wenqu-mem) | 0 | Python | 2026-07-04 | 浙大MEM工程管理硕士学位论文全流程写作技能包｜21个Claude Code+Codex技能：写作·范文语体·降AIGC去AI味·文献·审稿·LaTeX(zjuthesis)·Word·答辩 \| MEM master thesis writ |
-| 7 | [gungarp/agent-runner](https://github.com/gungarp/agent-runner) | 0 | Python | 2026-07-04 | 🤖 Automate workflows with the Claude Agent Framework, allowing flexible execution and seamless integration for efficient |
-| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-04 | Helping the Agents Compose the Things |
-| 9 | [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) | 955 | — | 2026-07-04 | Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs |
-| 10 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 48003 | Python | 2026-07-04 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion |
-| 11 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | Python | 2026-07-04 | 📦 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an |
-| 12 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 1 | TypeScript | 2026-07-04 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
-| 13 | [lensetek/SkillForge](https://github.com/lensetek/SkillForge) | 0 | HTML | 2026-07-04 | SkillForge is a workspace customization framework designed to build, manage, and orchestrate personalized AI Sub-Agents  |
-| 14 | [igapyon/igapyon-agent-skills](https://github.com/igapyon/igapyon-agent-skills) | 0 | JavaScript | 2026-07-04 |   A personal repository for managing Agent Skills used for Japanese Note/Qiita   article writing, companion-style techni |
-| 15 | [yike-gunshi/forge-skills](https://github.com/yike-gunshi/forge-skills) | 11 | Python | 2026-07-04 | Forge — 文档驱动的 AI 辅助开发框架 \| Document-driven AI development framework with 14 Skills covering brainstorm → PRD → design → e |
-| 16 | [oneworks-ai/app](https://github.com/oneworks-ai/app) | 10 | TypeScript | 2026-07-04 | One Works application monorepo for AI agents, plugins, desktop, web, CLI, and Relay. |
-| 17 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-07-04 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
-| 18 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-07-04 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 19 | [HumanBean17/agent-mindset-skills](https://github.com/HumanBean17/agent-mindset-skills) | 0 | — | 2026-07-04 | A collection of 13 manually-invoked working-posture skills for AI coding agents (Claude Code) — each sets an operating m |
-| 20 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 277 | MDX | 2026-07-04 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 21 | [Facujuli6/antigravity-agent](https://github.com/Facujuli6/antigravity-agent) | 2 | — | 2026-07-04 | 🚀 Manage your Antigravity accounts effortlessly with this cross-platform tool, supporting Windows, MacOS, and Linux for  |
-| 22 | [tinh2/skills-hub-registry](https://github.com/tinh2/skills-hub-registry) | 7 | Python | 2026-07-04 | Open registry of community-contributed AI coding skills (SKILL.md files) — daily-synced to skills-hub.ai. Install across |
-| 23 | [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | 608 | Shell | 2026-07-04 | Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. |
-| 24 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-07-04 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 277 | MDX | 2026-07-04 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-07-04 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-07-04 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 4 | [vins13pattar/dpdpa-compliance](https://github.com/vins13pattar/dpdpa-compliance) | 0 | Shell | 2026-07-04 | DPDPA 2023 compliance skill for AI coding agents — audit, implement, remediate |
+| 5 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-04 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 6 | [nledford/agent-skills](https://github.com/nledford/agent-skills) | 0 | Python | 2026-07-04 | A collection of AI agent skills I have written |
+| 7 | [rtwsvj/skill-switch](https://github.com/rtwsvj/skill-switch) | 1 | TypeScript | 2026-07-04 | Local-first governance + a security gate for the skills you install across AI coding agents (Claude Code, Codex, Gemini  |
+| 8 | [jal-co/shieldcn](https://github.com/jal-co/shieldcn) | 550 | TypeScript | 2026-07-04 | Beautiful README badges, inspired by shields.io and styled like shadcn/ui. |
+| 9 | [gxgeek-n/wenqu-mem](https://github.com/gxgeek-n/wenqu-mem) | 0 | Python | 2026-07-04 | 浙大MEM工程管理硕士学位论文全流程写作技能包｜21个Claude Code+Codex技能：写作·范文语体·降AIGC去AI味·文献·审稿·LaTeX(zjuthesis)·Word·答辩 \| MEM master thesis writ |
+| 10 | [gungarp/agent-runner](https://github.com/gungarp/agent-runner) | 0 | Python | 2026-07-04 | 🤖 Automate workflows with the Claude Agent Framework, allowing flexible execution and seamless integration for efficient |
+| 11 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 93 | Kotlin | 2026-07-04 | Helping the Agents Compose the Things |
+| 12 | [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills) | 955 | — | 2026-07-04 | Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs |
+| 13 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 48003 | Python | 2026-07-04 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion |
+| 14 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | Python | 2026-07-04 | 📦 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an |
+| 15 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 1 | TypeScript | 2026-07-04 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
+| 16 | [lensetek/SkillForge](https://github.com/lensetek/SkillForge) | 0 | HTML | 2026-07-04 | SkillForge is a workspace customization framework designed to build, manage, and orchestrate personalized AI Sub-Agents  |
+| 17 | [igapyon/igapyon-agent-skills](https://github.com/igapyon/igapyon-agent-skills) | 0 | JavaScript | 2026-07-04 |   A personal repository for managing Agent Skills used for Japanese Note/Qiita   article writing, companion-style techni |
+| 18 | [yike-gunshi/forge-skills](https://github.com/yike-gunshi/forge-skills) | 11 | Python | 2026-07-04 | Forge — 文档驱动的 AI 辅助开发框架 \| Document-driven AI development framework with 14 Skills covering brainstorm → PRD → design → e |
+| 19 | [oneworks-ai/app](https://github.com/oneworks-ai/app) | 10 | TypeScript | 2026-07-04 | One Works application monorepo for AI agents, plugins, desktop, web, CLI, and Relay. |
+| 20 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 3 | Python | 2026-07-04 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
+| 21 | [HumanBean17/agent-mindset-skills](https://github.com/HumanBean17/agent-mindset-skills) | 0 | — | 2026-07-04 | A collection of 13 manually-invoked working-posture skills for AI coding agents (Claude Code) — each sets an operating m |
+| 22 | [Facujuli6/antigravity-agent](https://github.com/Facujuli6/antigravity-agent) | 2 | — | 2026-07-04 | 🚀 Manage your Antigravity accounts effortlessly with this cross-platform tool, supporting Windows, MacOS, and Linux for  |
+| 23 | [tinh2/skills-hub-registry](https://github.com/tinh2/skills-hub-registry) | 7 | Python | 2026-07-04 | Open registry of community-contributed AI coding skills (SKILL.md files) — daily-synced to skills-hub.ai. Install across |
+| 24 | [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | 608 | Shell | 2026-07-04 | Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. |
 | 25 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-07-04 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
 | 26 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 48144 | TypeScript | 2026-07-04 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
 | 27 | [yuri-semenenko/ai-engineering-workspace](https://github.com/yuri-semenenko/ai-engineering-workspace) | 0 | PowerShell | 2026-07-04 | One engineering workflow across Claude Code, Codex, Copilot, and Gemini CLI. A portable persona canon, process skills, a |
