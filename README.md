@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-06 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [cfregly/gpu-perf-tune](https://github.com/cfregly/gpu-perf-tune) | 0 | Python | 2026-07-06 | 31 GPU inference profiling and optimization skills for Claude Code, with a bundled MCP server |
-| 3 | [wonsukchoi/domain-experts](https://github.com/wonsukchoi/domain-experts) | 4 | Python | 2026-07-06 | all human experts into AI agents |
-| 4 | [MaruPelkar/vaaya-mcp](https://github.com/MaruPelkar/vaaya-mcp) | 13 | — | 2026-07-06 | Vaaya MCP server — pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping, |
-| 5 | [LIghtJUNction/lightjunction](https://github.com/LIghtJUNction/lightjunction) | 3 | Python | 2026-07-06 | I'M LIghtJUNction |
-| 6 | [sociilabs/claude-content-writer](https://github.com/sociilabs/claude-content-writer) | 41 | JavaScript | 2026-07-06 | Write blog posts, social content, emails, and sales copy that sound like you wrote them. A Claude Code skill with phased |
-| 7 | [aussieOS/aussieOS](https://github.com/aussieOS/aussieOS) | 0 | HTML | 2026-07-06 | Hall of Mirrors — free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam |
-| 8 | [dustinkeeton/wafflestack](https://github.com/dustinkeeton/wafflestack) | 0 | JavaScript | 2026-07-06 | 🧇 One batter, every repo — reusable AI agent & skill definitions rendered into harness-native files (.claude/, .codex/,  |
-| 9 | [vichaarone/code-compass](https://github.com/vichaarone/code-compass) | 2 | Shell | 2026-07-06 | A portable Agent Skill that teaches coding agents to research, plan, verify, and debug like senior engineers — and run l |
-| 10 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-07-06 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 11 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-07-06 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 1 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 10 | Python | 2026-07-06 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 2 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 7 | Python | 2026-07-06 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-06 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [cfregly/gpu-perf-tune](https://github.com/cfregly/gpu-perf-tune) | 0 | Python | 2026-07-06 | 31 GPU inference profiling and optimization skills for Claude Code, with a bundled MCP server |
+| 5 | [wonsukchoi/domain-experts](https://github.com/wonsukchoi/domain-experts) | 4 | Python | 2026-07-06 | all human experts into AI agents |
+| 6 | [MaruPelkar/vaaya-mcp](https://github.com/MaruPelkar/vaaya-mcp) | 13 | — | 2026-07-06 | Vaaya MCP server — pay-per-call agent superpowers: media & video generation, product demo videos, web search & scraping, |
+| 7 | [LIghtJUNction/lightjunction](https://github.com/LIghtJUNction/lightjunction) | 3 | Python | 2026-07-06 | I'M LIghtJUNction |
+| 8 | [sociilabs/claude-content-writer](https://github.com/sociilabs/claude-content-writer) | 41 | JavaScript | 2026-07-06 | Write blog posts, social content, emails, and sales copy that sound like you wrote them. A Claude Code skill with phased |
+| 9 | [aussieOS/aussieOS](https://github.com/aussieOS/aussieOS) | 0 | HTML | 2026-07-06 | Hall of Mirrors — free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam |
+| 10 | [dustinkeeton/wafflestack](https://github.com/dustinkeeton/wafflestack) | 0 | JavaScript | 2026-07-06 | 🧇 One batter, every repo — reusable AI agent & skill definitions rendered into harness-native files (.claude/, .codex/,  |
+| 11 | [vichaarone/code-compass](https://github.com/vichaarone/code-compass) | 2 | Shell | 2026-07-06 | A portable Agent Skill that teaches coding agents to research, plan, verify, and debug like senior engineers — and run l |
 | 12 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 27254 | Python | 2026-07-06 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 13 | [blyatiful1/fable-protocol](https://github.com/blyatiful1/fable-protocol) | 0 | Python | 2026-07-06 | Claude Fable 5's succession kit — run Claude Opus 4.8 at Fable-grade discipline in Claude Code. Doctrine + adversarial v |
 | 14 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 278 | MDX | 2026-07-06 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
