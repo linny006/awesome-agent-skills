@@ -1,5 +1,59 @@
 [
   {
+    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
+    "id": "ndisisnd/msg",
+    "language": "HTML",
+    "name": "ndisisnd/msg",
+    "stars": 1,
+    "updated_at": "2026-07-07T10:32:14Z",
+    "url": "https://github.com/ndisisnd/msg"
+  },
+  {
+    "description": "Compose agent skills (SKILL.md / commands) from reusable bricks, with a drift-gate.",
+    "id": "nbpadilha/nbp-skillforge",
+    "language": "JavaScript",
+    "name": "nbpadilha/nbp-skillforge",
+    "stars": 8,
+    "updated_at": "2026-07-07T10:31:36Z",
+    "url": "https://github.com/nbpadilha/nbp-skillforge"
+  },
+  {
+    "description": "Codex skill for compact project-maintenance documentation",
+    "id": "pygent-ai/project-maintainer",
+    "language": "Python",
+    "name": "pygent-ai/project-maintainer",
+    "stars": 0,
+    "updated_at": "2026-07-07T10:31:30Z",
+    "url": "https://github.com/pygent-ai/project-maintainer"
+  },
+  {
+    "description": "Agentic coding skills for backtesting trading strategies using VectorBT. Supports Indian, US, and Crypto markets    with",
+    "id": "marketcalls/vectorbt-backtesting-skills",
+    "language": "Python",
+    "name": "marketcalls/vectorbt-backtesting-skills",
+    "stars": 166,
+    "updated_at": "2026-07-07T10:31:03Z",
+    "url": "https://github.com/marketcalls/vectorbt-backtesting-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-07T10:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-07T10:30:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 1153,
     "updated_at": "2026-07-07T10:28:53Z",
     "url": "https://github.com/first-fluke/oh-my-agent"
-  },
-  {
-    "description": "Agentic coding skills for backtesting trading strategies using VectorBT. Supports Indian, US, and Crypto markets    with",
-    "id": "marketcalls/vectorbt-backtesting-skills",
-    "language": "Python",
-    "name": "marketcalls/vectorbt-backtesting-skills",
-    "stars": 166,
-    "updated_at": "2026-07-07T10:27:00Z",
-    "url": "https://github.com/marketcalls/vectorbt-backtesting-skills"
   },
   {
     "description": "\u77ad\u671b \u2014 \u8ba9 AI \u5b66\u4f1a\u9884\u89c1\u7684 agent skill\uff1a\u751f\u547d\u529b\u5224\u65ad \u00b7 \u57fa\u672c\u56e0\u7d20\u63a8\u6f14 \u00b7 \u8f6c\u6298\u6761\u4ef6 \u00b7 \u63d0\u524d\u5e03\u5b50 | An agent skill for structured foresight",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "nexu-io/open-design",
     "stars": 75786,
-    "updated_at": "2026-07-07T10:20:56Z",
+    "updated_at": "2026-07-07T10:31:10Z",
     "url": "https://github.com/nexu-io/open-design"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/oila-gmbh/skill-bill"
   },
   {
-    "description": "End-to-end engineering harness for Claude Code \u2014 go from planning to building to reviewing in one workflow. 8 agents wit",
-    "id": "ndisisnd/msg",
-    "language": "HTML",
-    "name": "ndisisnd/msg",
-    "stars": 1,
-    "updated_at": "2026-07-07T10:19:00Z",
-    "url": "https://github.com/ndisisnd/msg"
-  },
-  {
     "description": "all human experts into AI agents",
     "id": "wonsukchoi/domain-experts",
     "language": "Python",
@@ -243,24 +279,6 @@
     "url": "https://github.com/Mary2241/seo-skills-agent-toolbox"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-07-07T10:15:46Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-07T10:15:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
     "id": "agentlas-ai/Hephaestus",
     "language": "Python",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-07T10:13:41Z",
+    "updated_at": "2026-07-07T10:31:31Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -293,7 +311,7 @@
     "language": "HTML",
     "name": "ahump20/Austin-Writing---Communication-Style-Archive",
     "stars": 2,
-    "updated_at": "2026-07-07T10:12:10Z",
+    "updated_at": "2026-07-07T10:32:33Z",
     "url": "https://github.com/ahump20/Austin-Writing---Communication-Style-Archive"
   },
   {
@@ -464,7 +482,7 @@
     "language": "Python",
     "name": "vouchdev/vouch",
     "stars": 155,
-    "updated_at": "2026-07-07T10:27:26Z",
+    "updated_at": "2026-07-07T10:30:35Z",
     "url": "https://github.com/vouchdev/vouch"
   },
   {
@@ -646,15 +664,6 @@
     "stars": 3,
     "updated_at": "2026-07-07T09:37:35Z",
     "url": "https://github.com/rvdbreemen/adr-kit"
-  },
-  {
-    "description": "Codex skill for compact project-maintenance documentation",
-    "id": "pygent-ai/project-maintainer",
-    "language": "Python",
-    "name": "pygent-ai/project-maintainer",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:39:11Z",
-    "url": "https://github.com/pygent-ai/project-maintainer"
   },
   {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T09:23:52Z",
     "url": "https://github.com/Udalefourfold471/remote-gpu-trainer"
-  },
-  {
-    "description": "Automate project security hardening by using AI agents to analyze codebase behavior and identify necessary security impr",
-    "id": "impliedtrustwencher377/blue-spec",
-    "language": "TypeScript",
-    "name": "impliedtrustwencher377/blue-spec",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:23:31Z",
-    "url": "https://github.com/impliedtrustwencher377/blue-spec"
   }
 ]
