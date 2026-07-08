@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-08 06:29 UTC
+> ⏰ Last updated: 2026-07-08 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | 5 | Rust | 2026-07-08 | Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid |
-| 2 | [sruja-ai/sruja](https://github.com/sruja-ai/sruja) | 22 | Rust | 2026-07-08 | A CLI-first autonomous coding agent where the actor never grades itself. Every edit is grounded in your repo's real topo |
-| 3 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 76086 | TypeScript | 2026-07-08 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: |
-| 4 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 10124 | Go | 2026-07-08 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + L |
-| 5 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 124 | Python | 2026-07-08 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
-| 6 | [aufamubarak/plan-execute-verify-claude-code](https://github.com/aufamubarak/plan-execute-verify-claude-code) | 151 | HTML | 2026-07-08 | Best AI Coding Workflow Plugin Pipeline 2026 |
-| 7 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-08 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
-| 8 | [kintzhao/anySkills](https://github.com/kintzhao/anySkills) | 3 | — | 2026-07-08 | Claude Code Skills、Agent Skills 和 OpenClaw Skills 的统一集合仓库 |
-| 9 | [satoshiman/mdsvr](https://github.com/satoshiman/mdsvr) | 3 | TypeScript | 2026-07-08 | Markdown folder → website. One command. Zero config. |
-| 10 | [zaventh/dotagents-standard-skill](https://github.com/zaventh/dotagents-standard-skill) | 1 | — | 2026-07-08 | An agent skill for organizing AI agent context with the dotagents standard (AGENTS.md + .agents/) |
-| 11 | [Agents365-ai/imagenCN](https://github.com/Agents365-ai/imagenCN) | 10 | Python | 2026-07-08 | Claude Code skill for AI image generation using Alibaba Cloud Bailian API (通义千问/通义万相) |
-| 12 | [amalshaji/cafeblr](https://github.com/amalshaji/cafeblr) | 3 | TypeScript | 2026-07-08 | Nice cafes in Bengaluru, found by the internet — a crowdsourced directory built from X posts people actually loved. Add  |
-| 13 | [kaskilling/autonomous-work-loops](https://github.com/kaskilling/autonomous-work-loops) | 0 | Shell | 2026-07-08 | Local GitHub issue-to-PR agent loop with proof, adversarial review, and human-gated merge. |
-| 14 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-07-08 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 15 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 278 | MDX | 2026-07-08 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 16 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 12 | Python | 2026-07-08 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 8 | Python | 2026-07-08 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 18 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-08 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-08 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 12 | Python | 2026-07-08 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | 5 | Rust | 2026-07-08 | Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid |
+| 4 | [sruja-ai/sruja](https://github.com/sruja-ai/sruja) | 22 | Rust | 2026-07-08 | A CLI-first autonomous coding agent where the actor never grades itself. Every edit is grounded in your repo's real topo |
+| 5 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 76087 | TypeScript | 2026-07-08 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: |
+| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 10124 | Go | 2026-07-08 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + L |
+| 7 | [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) | 124 | Python | 2026-07-08 | Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model. |
+| 8 | [aufamubarak/plan-execute-verify-claude-code](https://github.com/aufamubarak/plan-execute-verify-claude-code) | 151 | HTML | 2026-07-08 | Best AI Coding Workflow Plugin Pipeline 2026 |
+| 9 | [anukulgosavi1-coder/sqlitedata-extensions-playbook](https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook) | 1 | HTML | 2026-07-08 | Top Swift SQLiteData Alternatives 2026 – Best GRDB Skills Kit |
+| 10 | [kintzhao/anySkills](https://github.com/kintzhao/anySkills) | 3 | — | 2026-07-08 | Claude Code Skills、Agent Skills 和 OpenClaw Skills 的统一集合仓库 |
+| 11 | [satoshiman/mdsvr](https://github.com/satoshiman/mdsvr) | 3 | TypeScript | 2026-07-08 | Markdown folder → website. One command. Zero config. |
+| 12 | [zaventh/dotagents-standard-skill](https://github.com/zaventh/dotagents-standard-skill) | 1 | — | 2026-07-08 | An agent skill for organizing AI agent context with the dotagents standard (AGENTS.md + .agents/) |
+| 13 | [Agents365-ai/imagenCN](https://github.com/Agents365-ai/imagenCN) | 10 | Python | 2026-07-08 | Claude Code skill for AI image generation using Alibaba Cloud Bailian API (通义千问/通义万相) |
+| 14 | [amalshaji/cafeblr](https://github.com/amalshaji/cafeblr) | 3 | TypeScript | 2026-07-08 | Nice cafes in Bengaluru, found by the internet — a crowdsourced directory built from X posts people actually loved. Add  |
+| 15 | [kaskilling/autonomous-work-loops](https://github.com/kaskilling/autonomous-work-loops) | 0 | Shell | 2026-07-08 | Local GitHub issue-to-PR agent loop with proof, adversarial review, and human-gated merge. |
+| 16 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-07-08 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 17 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 278 | MDX | 2026-07-08 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 18 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 8 | Python | 2026-07-08 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 19 | [San-Z1/skill-doctor](https://github.com/San-Z1/skill-doctor) | 1 | Python | 2026-07-08 | CI quality gate for Agent Skills. |
 | 20 | [kaile9/apostle-skills](https://github.com/kaile9/apostle-skills) | 0 | — | 2026-07-08 | Load-bearing Agent Skills for serious thinking, reading, and translation — by KL9 & Firefly Studio (萤火社). AGPL-3.0-or-la |
 | 21 | [bonigarcia/context-engineering](https://github.com/bonigarcia/context-engineering) | 95 | Python | 2026-07-08 | Context Engineering: Build Consistent, Accurate, Predictable AI Systems |
