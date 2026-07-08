@@ -1,5 +1,86 @@
 [
   {
+    "description": "Henrique Caiano's custom agent skills (Claude, Codex, herdr). Install with: npx skills@latest add hcaiano/skills",
+    "id": "hcaiano/skills",
+    "language": "JavaScript",
+    "name": "hcaiano/skills",
+    "stars": 2,
+    "updated_at": "2026-07-08T15:34:18Z",
+    "url": "https://github.com/hcaiano/skills"
+  },
+  {
+    "description": "\u9762\u5411\u9489\u9489\u4e0e\u53ee\u5f53 OKR \u5de5\u4f5c\u6d41\u7684\u672c\u5730 Agent Skills",
+    "id": "stardustai/stardust-skills",
+    "language": "Python",
+    "name": "stardustai/stardust-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:33:25Z",
+    "url": "https://github.com/stardustai/stardust-skills"
+  },
+  {
+    "description": "Central plugin marketplace for Claude Code and Codex",
+    "id": "avivsinai/skills-marketplace",
+    "language": "Python",
+    "name": "avivsinai/skills-marketplace",
+    "stars": 2,
+    "updated_at": "2026-07-08T15:33:12Z",
+    "url": "https://github.com/avivsinai/skills-marketplace"
+  },
+  {
+    "description": "File-based message queue for local agent-to-agent communication (Maildir-style)",
+    "id": "avivsinai/agent-message-queue",
+    "language": "Go",
+    "name": "avivsinai/agent-message-queue",
+    "stars": 66,
+    "updated_at": "2026-07-08T15:35:01Z",
+    "url": "https://github.com/avivsinai/agent-message-queue"
+  },
+  {
+    "description": "PRB's collection of agent skills",
+    "id": "PaulRBerg/agent-skills",
+    "language": "Python",
+    "name": "PaulRBerg/agent-skills",
+    "stars": 65,
+    "updated_at": "2026-07-08T15:32:42Z",
+    "url": "https://github.com/PaulRBerg/agent-skills"
+  },
+  {
+    "description": "HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud regions.",
+    "id": "PascaleBeier/hitkeep",
+    "language": "Go",
+    "name": "PascaleBeier/hitkeep",
+    "stars": 70,
+    "updated_at": "2026-07-08T15:35:08Z",
+    "url": "https://github.com/PascaleBeier/hitkeep"
+  },
+  {
+    "description": "all human experts into AI agents",
+    "id": "wonsukchoi/domain-experts",
+    "language": "Python",
+    "name": "wonsukchoi/domain-experts",
+    "stars": 5,
+    "updated_at": "2026-07-08T15:34:41Z",
+    "url": "https://github.com/wonsukchoi/domain-experts"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-08T15:30:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-07-08T15:30:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "all human experts into AI agents",
-    "id": "wonsukchoi/domain-experts",
-    "language": "Python",
-    "name": "wonsukchoi/domain-experts",
-    "stars": 5,
-    "updated_at": "2026-07-08T15:29:28Z",
-    "url": "https://github.com/wonsukchoi/domain-experts"
+    "description": "A framework-agnostic Roblox/Luau coding standards and best practices skill for AI coding agents. Includes a universal in",
+    "id": "andrian-syh/roblox-best-practice-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practice-skill",
+    "stars": 1,
+    "updated_at": "2026-07-08T15:29:10Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practice-skill"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -23,7 +104,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 278,
-    "updated_at": "2026-07-08T15:29:08Z",
+    "updated_at": "2026-07-08T15:35:02Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -97,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-07-08T15:27:42Z",
     "url": "https://github.com/ejjcc/managed-skills"
+  },
+  {
+    "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine:",
+    "id": "nexu-io/open-design",
+    "language": "TypeScript",
+    "name": "nexu-io/open-design",
+    "stars": 76233,
+    "updated_at": "2026-07-08T15:27:27Z",
+    "url": "https://github.com/nexu-io/open-design"
   },
   {
     "description": "Ultimate AI Static Site Generator 2026 \u2013 Free No-Lock-in Build Tool for Claude & Cursor",
@@ -198,15 +288,6 @@
     "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
   },
   {
-    "description": "Henrique Caiano's custom agent skills (Claude, Codex, herdr). Install with: npx skills@latest add hcaiano/skills",
-    "id": "hcaiano/skills",
-    "language": "JavaScript",
-    "name": "hcaiano/skills",
-    "stars": 2,
-    "updated_at": "2026-07-08T15:26:25Z",
-    "url": "https://github.com/hcaiano/skills"
-  },
-  {
     "description": "Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL",
     "id": "amsbangs1975-collab/unity-shader-agent-canvas",
     "language": "HTML",
@@ -306,24 +387,6 @@
     "url": "https://github.com/sakshisantoshthorat/artisan-dev-handbook"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-07-08T15:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 11,
-    "updated_at": "2026-07-08T15:15:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Personal Ai Agent",
     "id": "br3eze-code/br3eze-code",
     "language": "JavaScript",
@@ -396,15 +459,6 @@
     "url": "https://github.com/jtepe/slopclub"
   },
   {
-    "description": "HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud regions.",
-    "id": "PascaleBeier/hitkeep",
-    "language": "Go",
-    "name": "PascaleBeier/hitkeep",
-    "stars": 70,
-    "updated_at": "2026-07-08T15:13:24Z",
-    "url": "https://github.com/PascaleBeier/hitkeep"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -437,7 +491,7 @@
     "language": "HTML",
     "name": "CorpusIQ/corpusiq-docs",
     "stars": 11,
-    "updated_at": "2026-07-08T15:07:58Z",
+    "updated_at": "2026-07-08T15:34:08Z",
     "url": "https://github.com/CorpusIQ/corpusiq-docs"
   },
   {
@@ -491,7 +545,7 @@
     "language": "Rust",
     "name": "konippi/servo-fetch",
     "stars": 129,
-    "updated_at": "2026-07-08T15:05:54Z",
+    "updated_at": "2026-07-08T15:31:33Z",
     "url": "https://github.com/konippi/servo-fetch"
   },
   {
@@ -693,15 +747,6 @@
     "url": "https://github.com/byerlikaya/claude-starter-kit"
   },
   {
-    "description": "PRB's collection of agent skills",
-    "id": "PaulRBerg/agent-skills",
-    "language": "Python",
-    "name": "PaulRBerg/agent-skills",
-    "stars": 65,
-    "updated_at": "2026-07-08T14:47:45Z",
-    "url": "https://github.com/PaulRBerg/agent-skills"
-  },
-  {
     "description": "Write agent skills once, ship to Cursor, Claude Code, Codex, Copilot and any SKILL.md-compatible agent",
     "id": "superman2003/agentpack",
     "language": "Python",
@@ -745,15 +790,6 @@
     "stars": 5,
     "updated_at": "2026-07-08T14:49:35Z",
     "url": "https://github.com/donald-ada/workinggenius"
-  },
-  {
-    "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine:",
-    "id": "nexu-io/open-design",
-    "language": "TypeScript",
-    "name": "nexu-io/open-design",
-    "stars": 76231,
-    "updated_at": "2026-07-08T15:27:27Z",
-    "url": "https://github.com/nexu-io/open-design"
   },
   {
     "description": "I'M LIghtJUNction",
@@ -862,41 +898,5 @@
     "stars": 167,
     "updated_at": "2026-07-08T14:28:56Z",
     "url": "https://github.com/PramodDutta/qaskills"
-  },
-  {
-    "description": "Cursor agent skill: evidence-backed 5-year survival & moat forecast for any codebase \u2014 Durable/Eroding/At Risk/Terminal ",
-    "id": "eligapris/codebase-5yr-forecast-skill",
-    "language": "Python",
-    "name": "eligapris/codebase-5yr-forecast-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:27:41Z",
-    "url": "https://github.com/eligapris/codebase-5yr-forecast-skill"
-  },
-  {
-    "description": "Cursor/Claude agent skill: numbers-first IP due diligence \u2014 prior art, Gold Index, FILE/BORDERLINE/DO NOT FILE PDF dossi",
-    "id": "eligapris/ip-detector",
-    "language": "Python",
-    "name": "eligapris/ip-detector",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:27:39Z",
-    "url": "https://github.com/eligapris/ip-detector"
-  },
-  {
-    "description": "Cursor/Codex agent skill: senior software architecture consultant \u2014 reviews, ADRs, fitness functions, consistent feature",
-    "id": "eligapris/software-architect",
-    "language": "Python",
-    "name": "eligapris/software-architect",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:27:37Z",
-    "url": "https://github.com/eligapris/software-architect"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 40,
-    "updated_at": "2026-07-08T14:26:45Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
   }
 ]
