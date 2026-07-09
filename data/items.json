@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-09T23:30:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Specification and documentation for Agent Skills",
+    "id": "agentskills/agentskills",
+    "language": "Python",
+    "name": "agentskills/agentskills",
+    "stars": 22765,
+    "updated_at": "2026-07-09T23:30:13Z",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "description": "AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla",
+    "id": "chf3198/megingjord-harness",
+    "language": "JavaScript",
+    "name": "chf3198/megingjord-harness",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:30:11Z",
+    "url": "https://github.com/chf3198/megingjord-harness"
+  },
+  {
+    "description": "\ud83d\ude80 Manage your Antigravity accounts effortlessly with this cross-platform tool, supporting Windows, MacOS, and Linux for ",
+    "id": "Facujuli6/antigravity-agent",
+    "language": "\u2014",
+    "name": "Facujuli6/antigravity-agent",
+    "stars": 2,
+    "updated_at": "2026-07-09T23:29:42Z",
+    "url": "https://github.com/Facujuli6/antigravity-agent"
+  },
+  {
+    "description": "Product release note registry, made for agents",
+    "id": "buildinternet/releases",
+    "language": "TypeScript",
+    "name": "buildinternet/releases",
+    "stars": 2,
+    "updated_at": "2026-07-09T23:29:36Z",
+    "url": "https://github.com/buildinternet/releases"
+  },
+  {
+    "description": "rldyour Antigravity CLI configuration: native extensions, GEMINI.md context, commands, skills, subagents, hooks, MCP, br",
+    "id": "NDDev-it-com/rldyour-antigravity-cli",
+    "language": "Python",
+    "name": "NDDev-it-com/rldyour-antigravity-cli",
+    "stars": 2,
+    "updated_at": "2026-07-09T23:29:31Z",
+    "url": "https://github.com/NDDev-it-com/rldyour-antigravity-cli"
+  },
+  {
+    "description": "rldyour AI CLI configuration for MiMoCode: native .mimocode config, build/plan/compose agents, persistent memory project",
+    "id": "NDDev-it-com/rldyour-mimocode",
+    "language": "Python",
+    "name": "NDDev-it-com/rldyour-mimocode",
+    "stars": 1,
+    "updated_at": "2026-07-09T23:29:28Z",
+    "url": "https://github.com/NDDev-it-com/rldyour-mimocode"
+  },
+  {
+    "description": "Personal multi-skill repository for reusable Codex workflows.",
+    "id": "Nick2bad4u/codex-skills",
+    "language": "Python",
+    "name": "Nick2bad4u/codex-skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:25:23Z",
+    "url": "https://github.com/Nick2bad4u/codex-skills"
+  },
+  {
+    "description": "A quality pack for Claude Code that ships with its own eval harness and honest A/B evidence \u2014 rules with receipts, not v",
+    "id": "ralfyishere/rules-with-receipts",
+    "language": "Shell",
+    "name": "ralfyishere/rules-with-receipts",
+    "stars": 2,
+    "updated_at": "2026-07-09T23:22:30Z",
+    "url": "https://github.com/ralfyishere/rules-with-receipts"
+  },
+  {
+    "description": "Free LinkedIn & content skills for AI agents \u2014 by Liftli (liftli.ai). Install: npx skills add liftli-ai/skills",
+    "id": "liftli-ai/skills",
+    "language": "\u2014",
+    "name": "liftli-ai/skills",
+    "stars": 0,
+    "updated_at": "2026-07-09T23:22:30Z",
+    "url": "https://github.com/liftli-ai/skills"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 338,
+    "updated_at": "2026-07-09T23:23:04Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 12,
+    "updated_at": "2026-07-09T23:20:57Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolid",
     "id": "TerminallyLazy/Tree-Ring-Memory",
     "language": "Rust",
@@ -27,21 +135,12 @@
     "url": "https://github.com/aka-luan/doc-cleanup"
   },
   {
-    "description": "Product release note registry, made for agents",
-    "id": "buildinternet/releases",
-    "language": "TypeScript",
-    "name": "buildinternet/releases",
-    "stars": 2,
-    "updated_at": "2026-07-09T23:19:07Z",
-    "url": "https://github.com/buildinternet/releases"
-  },
-  {
     "description": "Agent-friendly CLI for searching the Releases.sh catalog of release notes, changelogs, and product announcements",
     "id": "buildinternet/releases-cli",
     "language": "TypeScript",
     "name": "buildinternet/releases-cli",
     "stars": 3,
-    "updated_at": "2026-07-09T23:18:27Z",
+    "updated_at": "2026-07-09T23:28:23Z",
     "url": "https://github.com/buildinternet/releases-cli"
   },
   {
@@ -67,18 +166,9 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 79174,
+    "stars": 79177,
     "updated_at": "2026-07-09T23:16:30Z",
     "url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "description": "Personal multi-skill repository for reusable Codex workflows.",
-    "id": "Nick2bad4u/codex-skills",
-    "language": "Python",
-    "name": "Nick2bad4u/codex-skills",
-    "stars": 0,
-    "updated_at": "2026-07-09T23:16:05Z",
-    "url": "https://github.com/Nick2bad4u/codex-skills"
   },
   {
     "description": "Nika plugin marketplace \u2014 the nika-authoring skill + MCP oracle for Codex and Claude Code \u00b7 install: codex/claude plugin",
@@ -90,15 +180,6 @@
     "url": "https://github.com/supernovae-st/nika-agents"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 12,
-    "updated_at": "2026-07-09T23:15:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -106,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-07-09T23:15:26Z",
     "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 2,
-    "updated_at": "2026-07-09T23:15:17Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "tale-project/tale",
     "stars": 13,
-    "updated_at": "2026-07-09T23:18:56Z",
+    "updated_at": "2026-07-09T23:27:17Z",
     "url": "https://github.com/tale-project/tale"
   },
   {
@@ -211,7 +283,7 @@
     "id": "inkeep/open-knowledge",
     "language": "TypeScript",
     "name": "inkeep/open-knowledge",
-    "stars": 2136,
+    "stars": 2139,
     "updated_at": "2026-07-09T23:07:58Z",
     "url": "https://github.com/inkeep/open-knowledge"
   },
@@ -286,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T23:02:12Z",
     "url": "https://github.com/Karthiknarsimsetty22/temporal-canvas"
-  },
-  {
-    "description": "AI agent governance harness: baton workflow, fleet LLM routing (Ollama/Claude/OpenRouter), and CI gates for Copilot, Cla",
-    "id": "chf3198/megingjord-harness",
-    "language": "JavaScript",
-    "name": "chf3198/megingjord-harness",
-    "stars": 0,
-    "updated_at": "2026-07-09T23:20:13Z",
-    "url": "https://github.com/chf3198/megingjord-harness"
   },
   {
     "description": "Claude Code AI Pipeline 2026 \u2013 PEV Framework Harness Plugin for Developers",
@@ -419,7 +482,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 27430,
-    "updated_at": "2026-07-09T23:18:36Z",
+    "updated_at": "2026-07-09T23:22:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -472,7 +535,7 @@
     "id": "dotnet/skills",
     "language": "C#",
     "name": "dotnet/skills",
-    "stars": 4485,
+    "stars": 4486,
     "updated_at": "2026-07-09T22:48:57Z",
     "url": "https://github.com/dotnet/skills"
   },
@@ -565,15 +628,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T22:37:38Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 337,
-    "updated_at": "2026-07-09T23:20:28Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -707,7 +761,7 @@
     "language": "JavaScript",
     "name": "dustinkeeton/wafflestack",
     "stars": 0,
-    "updated_at": "2026-07-09T22:52:52Z",
+    "updated_at": "2026-07-09T23:23:46Z",
     "url": "https://github.com/dustinkeeton/wafflestack"
   },
   {
@@ -815,7 +869,7 @@
     "language": "TypeScript",
     "name": "kdr/overcast",
     "stars": 0,
-    "updated_at": "2026-07-09T23:05:53Z",
+    "updated_at": "2026-07-09T23:26:39Z",
     "url": "https://github.com/kdr/overcast"
   },
   {
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T22:26:10Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Audit codebases using AI agents to generate scored reports and actionable verdicts directly in your chat interface.",
-    "id": "hashmis7144/codeauditor",
-    "language": "Shell",
-    "name": "hashmis7144/codeauditor",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:26:05Z",
-    "url": "https://github.com/hashmis7144/codeauditor"
-  },
-  {
-    "description": "Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL",
-    "id": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "language": "HTML",
-    "name": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:25:55Z",
-    "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas"
-  },
-  {
-    "description": "Automate AI content production for images, videos, and audio by orchestrating task workflows and custom skills via an ag",
-    "id": "Candilefthand269/shotfun-creator",
-    "language": "JavaScript",
-    "name": "Candilefthand269/shotfun-creator",
-    "stars": 1,
-    "updated_at": "2026-07-09T22:25:47Z",
-    "url": "https://github.com/Candilefthand269/shotfun-creator"
-  },
-  {
-    "description": "Automate coding tasks and manage git workflows inside your terminal using this agentic Claude-powered interface.",
-    "id": "Maxiesuggestive393/claude-code-cli",
-    "language": "TypeScript",
-    "name": "Maxiesuggestive393/claude-code-cli",
-    "stars": 1,
-    "updated_at": "2026-07-09T22:25:32Z",
-    "url": "https://github.com/Maxiesuggestive393/claude-code-cli"
-  },
-  {
-    "description": "Optimize frozen LLM agents for HotpotQA with reusable natural language skills trained through iterative validation cycle",
-    "id": "norhayat1509/skillopt-qa",
-    "language": "\u2014",
-    "name": "norhayat1509/skillopt-qa",
-    "stars": 1,
-    "updated_at": "2026-07-09T22:25:32Z",
-    "url": "https://github.com/norhayat1509/skillopt-qa"
-  },
-  {
-    "description": "Optimize local AI agent workflows and system prompts using an iterative evaluate-and-refine process while keeping your m",
-    "id": "shawnselfproduced888/SkillOpt",
-    "language": "\u2014",
-    "name": "shawnselfproduced888/SkillOpt",
-    "stars": 0,
-    "updated_at": "2026-07-09T22:25:10Z",
-    "url": "https://github.com/shawnselfproduced888/SkillOpt"
   }
 ]
