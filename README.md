@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 04:29 UTC
+> ⏰ Last updated: 2026-07-11 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [deciqAI/knowledge-skills](https://github.com/deciqAI/knowledge-skills) | 3 | Python | 2026-07-11 | Open-source thinking-framework skills that make rigorous reasoning executable for AI agents — first-principles, inversio |
-| 2 | [broomva/skills](https://github.com/broomva/skills) | 3 | Python | 2026-07-11 | Broomva agent-skills monorepo — 48 Tier-2 skills compatible with Claude Code, Codex, Cursor, Gemini CLI, Goose, Copilot. |
-| 3 | [cabbagecachekid/red-pen](https://github.com/cabbagecachekid/red-pen) | 1 | — | 2026-07-11 | Keep AI-assisted writing honest and yours: an AI-written check, a cringe check, and a full-review orchestrator (anti-inf |
-| 4 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 281 | MDX | 2026-07-11 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
-| 5 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-11 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 6 | [cabbagecachekid/neon-jetpack](https://github.com/cabbagecachekid/neon-jetpack) | 0 | — | 2026-07-11 | Free Claude skills that keep AI-assisted writing honest and yours: line edits, AI-tell checks, tone audits, full reviews |
-| 7 | [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) | 833 | Python | 2026-07-11 | Codebase harness + loop engineer |
-| 8 | [cogpros/ghost-hours](https://github.com/cogpros/ghost-hours) | 0 | Shell | 2026-07-11 | Measure what AI actually does for you. Measurement framework for AI-assisted productivity and capability expansion. Poll |
-| 9 | [zxkane/autonomous-dev-team](https://github.com/zxkane/autonomous-dev-team) | 24 | Shell | 2026-07-11 | Turns issues into merged PRs/MRs with zero human intervention — supports GitHub and GitLab, and Claude Code, Codex CLI,  |
-| 10 | [buildinternet/uploads](https://github.com/buildinternet/uploads) | 1 | TypeScript | 2026-07-11 | Lightweight upload gateway for agents. Upload screenshots during development to an R2 bucket and include image links in  |
-| 11 | [contextosai/skills](https://github.com/contextosai/skills) | 1 | JavaScript | 2026-07-11 | A collection of Agent Skills — self-contained folders that teach AI agents to perform specialized tasks. Includes a prod |
-| 12 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-07-11 | A native LLM operating system, make LLM the operating system interpretation layer. |
-| 13 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 1 | TypeScript | 2026-07-11 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
-| 14 | [rafaelghif/antigravity-agents](https://github.com/rafaelghif/antigravity-agents) | 2 | Python | 2026-07-11 | Antigravity Agents – An AI-powered agentic system engineered to automate complex software development workflows. This pr |
-| 15 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 16 | [Robertmorrisluminousenergy177/paper-deep-reading-skill](https://github.com/Robertmorrisluminousenergy177/paper-deep-reading-skill) | 0 | Python | 2026-07-11 | Convert research paper PDFs into structured Obsidian notes with automated translations, figure analysis, and concept exp |
-| 17 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-11 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
-| 18 | [hewieextracellular787/humanize-ai-writing](https://github.com/hewieextracellular787/humanize-ai-writing) | 0 | JavaScript | 2026-07-11 | Use this system prompt to strip AI-generated style patterns and force chatbots to write natural, human-like text across  |
-| 19 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 2 | JavaScript | 2026-07-11 | Evidence-first Agent Skills lab with a small install surface, non-installable incubator, and replayable evaluation gates |
-| 20 | [tolimcn7786/skills](https://github.com/tolimcn7786/skills) | 0 | Python | 2026-07-11 | Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks |
-| 21 | [pugnacious-yezo931/Local-Agent-Studio](https://github.com/pugnacious-yezo931/Local-Agent-Studio) | 0 | JavaScript | 2026-07-11 | Connect local tools, databases, and LLMs through a desktop interface for Windows, Linux, and macOS. |
-| 22 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-07-11 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
-| 23 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 9 | Python | 2026-07-11 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 24 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 13 | Python | 2026-07-11 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 2 | Python | 2026-07-11 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 13 | Python | 2026-07-11 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [deciqAI/knowledge-skills](https://github.com/deciqAI/knowledge-skills) | 3 | Python | 2026-07-11 | Open-source thinking-framework skills that make rigorous reasoning executable for AI agents — first-principles, inversio |
+| 4 | [broomva/skills](https://github.com/broomva/skills) | 3 | Python | 2026-07-11 | Broomva agent-skills monorepo — 48 Tier-2 skills compatible with Claude Code, Codex, Cursor, Gemini CLI, Goose, Copilot. |
+| 5 | [cabbagecachekid/red-pen](https://github.com/cabbagecachekid/red-pen) | 1 | — | 2026-07-11 | Keep AI-assisted writing honest and yours: an AI-written check, a cringe check, and a full-review orchestrator (anti-inf |
+| 6 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 281 | MDX | 2026-07-11 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
+| 7 | [cabbagecachekid/neon-jetpack](https://github.com/cabbagecachekid/neon-jetpack) | 0 | — | 2026-07-11 | Free Claude skills that keep AI-assisted writing honest and yours: line edits, AI-tell checks, tone audits, full reviews |
+| 8 | [AI-Builder-Club/skills](https://github.com/AI-Builder-Club/skills) | 833 | Python | 2026-07-11 | Codebase harness + loop engineer |
+| 9 | [cogpros/ghost-hours](https://github.com/cogpros/ghost-hours) | 0 | Shell | 2026-07-11 | Measure what AI actually does for you. Measurement framework for AI-assisted productivity and capability expansion. Poll |
+| 10 | [zxkane/autonomous-dev-team](https://github.com/zxkane/autonomous-dev-team) | 24 | Shell | 2026-07-11 | Turns issues into merged PRs/MRs with zero human intervention — supports GitHub and GitLab, and Claude Code, Codex CLI,  |
+| 11 | [buildinternet/uploads](https://github.com/buildinternet/uploads) | 1 | TypeScript | 2026-07-11 | Lightweight upload gateway for agents. Upload screenshots during development to an R2 bucket and include image links in  |
+| 12 | [contextosai/skills](https://github.com/contextosai/skills) | 1 | JavaScript | 2026-07-11 | A collection of Agent Skills — self-contained folders that teach AI agents to perform specialized tasks. Includes a prod |
+| 13 | [HippoxHQ/hippoxOS](https://github.com/HippoxHQ/hippoxOS) | 1 | TypeScript | 2026-07-11 | A native LLM operating system, make LLM the operating system interpretation layer. |
+| 14 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 1 | TypeScript | 2026-07-11 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
+| 15 | [rafaelghif/antigravity-agents](https://github.com/rafaelghif/antigravity-agents) | 2 | Python | 2026-07-11 | Antigravity Agents – An AI-powered agentic system engineered to automate complex software development workflows. This pr |
+| 16 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-07-11 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 17 | [Robertmorrisluminousenergy177/paper-deep-reading-skill](https://github.com/Robertmorrisluminousenergy177/paper-deep-reading-skill) | 0 | Python | 2026-07-11 | Convert research paper PDFs into structured Obsidian notes with automated translations, figure analysis, and concept exp |
+| 18 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-11 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
+| 19 | [hewieextracellular787/humanize-ai-writing](https://github.com/hewieextracellular787/humanize-ai-writing) | 0 | JavaScript | 2026-07-11 | Use this system prompt to strip AI-generated style patterns and force chatbots to write natural, human-like text across  |
+| 20 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 2 | JavaScript | 2026-07-11 | Evidence-first Agent Skills lab with a small install surface, non-installable incubator, and replayable evaluation gates |
+| 21 | [tolimcn7786/skills](https://github.com/tolimcn7786/skills) | 0 | Python | 2026-07-11 | Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks |
+| 22 | [pugnacious-yezo931/Local-Agent-Studio](https://github.com/pugnacious-yezo931/Local-Agent-Studio) | 0 | JavaScript | 2026-07-11 | Connect local tools, databases, and LLMs through a desktop interface for Windows, Linux, and macOS. |
+| 23 | [Glad-oboedacaccia408/design.md](https://github.com/Glad-oboedacaccia408/design.md) | 1 | TypeScript | 2026-07-11 | Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h |
+| 24 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 9 | Python | 2026-07-11 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 25 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-07-11 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
 | 26 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 12 | TypeScript | 2026-07-11 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
 | 27 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-11 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
