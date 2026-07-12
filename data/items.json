@@ -1,12 +1,75 @@
 [
   {
+    "description": "Turns any AI agent with persistent memory into a quit-smoking sponsor. Evidence-based protocols + a sponsor decision tre",
+    "id": "metrox-eth/quit-sponsor",
+    "language": "\u2014",
+    "name": "metrox-eth/quit-sponsor",
+    "stars": 1,
+    "updated_at": "2026-07-12T19:51:55Z",
+    "url": "https://github.com/metrox-eth/quit-sponsor"
+  },
+  {
+    "description": "Specification-Driven Development for AI agents \u2014 7-role orchestrator with filesystem memory. Works in Cursor, Claude Cod",
+    "id": "JMSolorzano-13/sdd-skill",
+    "language": "\u2014",
+    "name": "JMSolorzano-13/sdd-skill",
+    "stars": 0,
+    "updated_at": "2026-07-12T19:51:52Z",
+    "url": "https://github.com/JMSolorzano-13/sdd-skill"
+  },
+  {
+    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern",
+    "id": "Ar9av/obsidian-wiki",
+    "language": "Python",
+    "name": "Ar9av/obsidian-wiki",
+    "stars": 2818,
+    "updated_at": "2026-07-12T19:51:38Z",
+    "url": "https://github.com/Ar9av/obsidian-wiki"
+  },
+  {
+    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 366,
+    "updated_at": "2026-07-12T19:51:59Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
+    "id": "jeremylongshore/claude-code-plugins-plus-skills",
+    "language": "Python",
+    "name": "jeremylongshore/claude-code-plugins-plus-skills",
+    "stars": 2507,
+    "updated_at": "2026-07-12T19:49:59Z",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+  },
+  {
+    "description": "Universal package manager CLI for Agent Skills \u2014 manifest, lockfile, multi-agent sync (Cursor, Claude, Codex, Gemini). N",
+    "id": "xFurti/skillctl",
+    "language": "TypeScript",
+    "name": "xFurti/skillctl",
+    "stars": 2,
+    "updated_at": "2026-07-12T19:49:07Z",
+    "url": "https://github.com/xFurti/skillctl"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
     "name": "linny006/claude-code-plugin-tracker",
     "stars": 2,
-    "updated_at": "2026-07-12T19:45:20Z",
+    "updated_at": "2026-07-12T19:49:02Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A human-governed AI coding workflow that distills ephemeral session context into persistent project memory\u2014making work t",
+    "id": "postmelee/hyper-waterfall",
+    "language": "JavaScript",
+    "name": "postmelee/hyper-waterfall",
+    "stars": 60,
+    "updated_at": "2026-07-12T19:50:01Z",
+    "url": "https://github.com/postmelee/hyper-waterfall"
   },
   {
     "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
@@ -14,8 +77,26 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-12T19:45:09Z",
+    "updated_at": "2026-07-12T19:47:22Z",
     "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 10,
+    "updated_at": "2026-07-12T19:46:47Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-12T19:45:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Agent-assisted maintainership and development framework for Apache projects \u2014 Triage, Mentoring, Drafting (agent-authore",
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "scalefocus/skilly",
     "stars": 1,
-    "updated_at": "2026-07-12T19:43:36Z",
+    "updated_at": "2026-07-12T19:51:32Z",
     "url": "https://github.com/scalefocus/skilly"
-  },
-  {
-    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern",
-    "id": "Ar9av/obsidian-wiki",
-    "language": "Python",
-    "name": "Ar9av/obsidian-wiki",
-    "stars": 2818,
-    "updated_at": "2026-07-12T19:43:24Z",
-    "url": "https://github.com/Ar9av/obsidian-wiki"
   },
   {
     "description": "My personal skills for agentic GitHub development workflows",
@@ -99,24 +171,6 @@
     "url": "https://github.com/ningzimu/codex-ppt-skill"
   },
   {
-    "description": "The local-first, agent-native control plane for ComfyUI \u2014 MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 366,
-    "updated_at": "2026-07-12T19:38:51Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Specification-Driven Development for AI agents \u2014 7-role orchestrator with filesystem memory. Works in Cursor, Claude Cod",
-    "id": "JMSolorzano-13/sdd-skill",
-    "language": "\u2014",
-    "name": "JMSolorzano-13/sdd-skill",
-    "stars": 0,
-    "updated_at": "2026-07-12T19:37:25Z",
-    "url": "https://github.com/JMSolorzano-13/sdd-skill"
-  },
-  {
     "description": "ex-cog \u2014 externalized cognition. Four Claude Code plugins. research-toolkit \u2014 self-checking investigation & verification",
     "id": "bogheorghiu/ex-cog-dev",
     "language": "Python",
@@ -140,7 +194,7 @@
     "language": "Shell",
     "name": "wakqasahmed/ai-engineering-workflow-skills",
     "stars": 2,
-    "updated_at": "2026-07-12T19:34:45Z",
+    "updated_at": "2026-07-12T19:48:07Z",
     "url": "https://github.com/wakqasahmed/ai-engineering-workflow-skills"
   },
   {
@@ -187,24 +241,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T19:37:09Z",
     "url": "https://github.com/nordicnode/skillpack"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-12T19:30:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 10,
-    "updated_at": "2026-07-12T19:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
@@ -297,21 +333,12 @@
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
-    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
-    "id": "jeremylongshore/claude-code-plugins-plus-skills",
-    "language": "Python",
-    "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 2507,
-    "updated_at": "2026-07-12T19:43:36Z",
-    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-  },
-  {
     "description": "Single source of truth for AI coding rules across Claude Code, Cursor, Copilot, Codex, and more. Write once, sync everyw",
     "id": "ainova-systems/intelligence-sync",
     "language": "Shell",
     "name": "ainova-systems/intelligence-sync",
     "stars": 3,
-    "updated_at": "2026-07-12T19:22:49Z",
+    "updated_at": "2026-07-12T19:50:46Z",
     "url": "https://github.com/ainova-systems/intelligence-sync"
   },
   {
@@ -428,7 +455,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 95,
-    "updated_at": "2026-07-12T19:41:41Z",
+    "updated_at": "2026-07-12T19:45:42Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -536,7 +563,7 @@
     "language": "TypeScript",
     "name": "buildinternet/uploads",
     "stars": 1,
-    "updated_at": "2026-07-12T19:35:27Z",
+    "updated_at": "2026-07-12T19:49:55Z",
     "url": "https://github.com/buildinternet/uploads"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T18:56:41Z",
     "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-  },
-  {
-    "description": "Install KDNA domain cognition for AI agents to improve domain detection, axiom application, and response accuracy using ",
-    "id": "quickchange-frog81/kdna-skills",
-    "language": "Shell",
-    "name": "quickchange-frog81/kdna-skills",
-    "stars": 0,
-    "updated_at": "2026-07-12T18:56:35Z",
-    "url": "https://github.com/quickchange-frog81/kdna-skills"
-  },
-  {
-    "description": "",
-    "id": "Maxivisual883/awesome-skills",
-    "language": "\u2014",
-    "name": "Maxivisual883/awesome-skills",
-    "stars": 1,
-    "updated_at": "2026-07-12T18:56:26Z",
-    "url": "https://github.com/Maxivisual883/awesome-skills"
-  },
-  {
-    "description": "Scan an AI agent skill for prompt injection, hidden Unicode, dangerous commands, and leaked secrets before you install i",
-    "id": "munzzyy/skillxray",
-    "language": "Python",
-    "name": "munzzyy/skillxray",
-    "stars": 1,
-    "updated_at": "2026-07-12T18:59:24Z",
-    "url": "https://github.com/munzzyy/skillxray"
   }
 ]
