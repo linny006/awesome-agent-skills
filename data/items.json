@@ -1,21 +1,30 @@
 [
   {
+    "description": "Homebrew taps for AI agent skills. Agent-agnostic. Install from any git host or npm registry, search across taps and sea",
+    "id": "nklisch/skilltap",
+    "language": "Rust",
+    "name": "nklisch/skilltap",
+    "stars": 6,
+    "updated_at": "2026-07-12T22:30:15Z",
+    "url": "https://github.com/nklisch/skilltap"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
     "name": "linny006/claude-code-plugin-tracker",
     "stars": 2,
-    "updated_at": "2026-07-12T22:15:18Z",
+    "updated_at": "2026-07-12T22:30:11Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "Reverse engineer anything with agents: one CLI and MCP server to inspect any app, understand it fully down to the binary",
-    "id": "morluto/rea",
-    "language": "TypeScript",
-    "name": "morluto/rea",
-    "stars": 6,
-    "updated_at": "2026-07-12T22:15:21Z",
-    "url": "https://github.com/morluto/rea"
+    "description": "Install a versioned catalog of AI-agent skills into any CLI agent (Claude, Codex, Gemini, Kimi, GLM, opencode).",
+    "id": "NaderNabil216/skillsmith",
+    "language": "JavaScript",
+    "name": "NaderNabil216/skillsmith",
+    "stars": 1,
+    "updated_at": "2026-07-12T22:29:56Z",
+    "url": "https://github.com/NaderNabil216/skillsmith"
   },
   {
     "description": "Skills, plugins, and hooks that change how coding agents work \u2014 Claude Code, Codex, OpenCode, Antigravity. Measured, not",
@@ -23,8 +32,107 @@
     "language": "Shell",
     "name": "lawzava/megapowers",
     "stars": 1,
-    "updated_at": "2026-07-12T22:14:55Z",
+    "updated_at": "2026-07-12T22:29:34Z",
     "url": "https://github.com/lawzava/megapowers"
+  },
+  {
+    "description": "Fast, model-agnostic AI coding harness and CLI in Rust \u2014 routes every task to the optimal model for cost \u00d7 capability.",
+    "id": "adulari/forge",
+    "language": "Rust",
+    "name": "adulari/forge",
+    "stars": 5,
+    "updated_at": "2026-07-12T22:29:08Z",
+    "url": "https://github.com/adulari/forge"
+  },
+  {
+    "description": "Public derivative of bradautomates/claude-video. Adds opt-in question-aware evidence retrieval; one initial video test u",
+    "id": "abe238/claude-video-plus-archive",
+    "language": "Python",
+    "name": "abe238/claude-video-plus-archive",
+    "stars": 0,
+    "updated_at": "2026-07-12T22:25:59Z",
+    "url": "https://github.com/abe238/claude-video-plus-archive"
+  },
+  {
+    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
+    "id": "amadeus-dlc/amadeus",
+    "language": "TypeScript",
+    "name": "amadeus-dlc/amadeus",
+    "stars": 3,
+    "updated_at": "2026-07-12T22:24:52Z",
+    "url": "https://github.com/amadeus-dlc/amadeus"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 10,
+    "updated_at": "2026-07-12T22:22:44Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "A native MeTTa decision gate that ranks agent actions against explicit goals, policy norms, and graded evidence.",
+    "id": "MesTTo/oh-my-goals",
+    "language": "TypeScript",
+    "name": "MesTTo/oh-my-goals",
+    "stars": 0,
+    "updated_at": "2026-07-12T22:22:32Z",
+    "url": "https://github.com/MesTTo/oh-my-goals"
+  },
+  {
+    "description": "Evidence-first strategy engine as agent skills \u2014 positioning, messaging, vision, and brand projected from a provenance-l",
+    "id": "stephen-oshaughnessy/burgess",
+    "language": "Python",
+    "name": "stephen-oshaughnessy/burgess",
+    "stars": 0,
+    "updated_at": "2026-07-12T22:20:19Z",
+    "url": "https://github.com/stephen-oshaughnessy/burgess"
+  },
+  {
+    "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
+    "id": "jeremylongshore/claude-code-plugins-plus-skills",
+    "language": "Python",
+    "name": "jeremylongshore/claude-code-plugins-plus-skills",
+    "stars": 2508,
+    "updated_at": "2026-07-12T22:20:06Z",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+  },
+  {
+    "description": "Shareable skills and tools for AI agents",
+    "id": "swiftpostlabs/agentic-tools",
+    "language": "Python",
+    "name": "swiftpostlabs/agentic-tools",
+    "stars": 0,
+    "updated_at": "2026-07-12T22:22:09Z",
+    "url": "https://github.com/swiftpostlabs/agentic-tools"
+  },
+  {
+    "description": "AI life-design coach for Claude Code and Codex. Find the question under your career and life goal, map your future paths",
+    "id": "wei-wei-hu/life-designer-pro",
+    "language": "Python",
+    "name": "wei-wei-hu/life-designer-pro",
+    "stars": 1,
+    "updated_at": "2026-07-12T22:18:03Z",
+    "url": "https://github.com/wei-wei-hu/life-designer-pro"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-12T22:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Reverse engineer anything with agents: one CLI and MCP server to inspect any app, understand it fully down to the binary",
+    "id": "morluto/rea",
+    "language": "TypeScript",
+    "name": "morluto/rea",
+    "stars": 6,
+    "updated_at": "2026-07-12T22:28:40Z",
+    "url": "https://github.com/morluto/rea"
   },
   {
     "description": "Lifecycle Management for Agent Skills",
@@ -34,15 +142,6 @@
     "stars": 72,
     "updated_at": "2026-07-12T22:14:39Z",
     "url": "https://github.com/smith-horn/skillsmith"
-  },
-  {
-    "description": "Evidence-first strategy engine as agent skills \u2014 positioning, messaging, vision, and brand projected from a provenance-l",
-    "id": "stephen-oshaughnessy/burgess",
-    "language": "Python",
-    "name": "stephen-oshaughnessy/burgess",
-    "stars": 0,
-    "updated_at": "2026-07-12T22:14:37Z",
-    "url": "https://github.com/stephen-oshaughnessy/burgess"
   },
   {
     "description": "Convert research paper PDFs into structured Obsidian notes with automated translations, figure analysis, and concept exp",
@@ -432,6 +531,15 @@
     "url": "https://github.com/quickchange-frog81/kdna-skills"
   },
   {
+    "description": "Open-source guardrails between AI agents and FHIR clinical data \u2014 PHI redaction, immutable audit, step-up auth, tenant i",
+    "id": "aks129/HealthClawGuardrails",
+    "language": "Python",
+    "name": "aks129/HealthClawGuardrails",
+    "stars": 26,
+    "updated_at": "2026-07-12T22:24:39Z",
+    "url": "https://github.com/aks129/HealthClawGuardrails"
+  },
+  {
     "description": "",
     "id": "Maxivisual883/awesome-skills",
     "language": "\u2014",
@@ -448,15 +556,6 @@
     "stars": 1,
     "updated_at": "2026-07-12T22:02:49Z",
     "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-  },
-  {
-    "description": "Open-source guardrails between AI agents and FHIR clinical data \u2014 PHI redaction, immutable audit, step-up auth, tenant i",
-    "id": "aks129/HealthClawGuardrails",
-    "language": "Python",
-    "name": "aks129/HealthClawGuardrails",
-    "stars": 26,
-    "updated_at": "2026-07-12T22:03:09Z",
-    "url": "https://github.com/aks129/HealthClawGuardrails"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -531,15 +630,6 @@
     "url": "https://github.com/Overhand-cool515/loader-openclaw-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 10,
-    "updated_at": "2026-07-12T22:00:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Verify AI agent output with actionable evidence for non-engineers. Build better prompts by auditing AI claims and checki",
     "id": "recollective-genuseptatretus377/askproof-skill",
     "language": "Python",
@@ -547,15 +637,6 @@
     "stars": 2,
     "updated_at": "2026-07-12T22:00:28Z",
     "url": "https://github.com/recollective-genuseptatretus377/askproof-skill"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-12T22:00:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
@@ -610,15 +691,6 @@
     "stars": 448,
     "updated_at": "2026-07-12T21:59:56Z",
     "url": "https://github.com/computerlovetech/agr"
-  },
-  {
-    "description": "Fast, model-agnostic AI coding harness and CLI in Rust \u2014 routes every task to the optimal model for cost \u00d7 capability.",
-    "id": "adulari/forge",
-    "language": "Rust",
-    "name": "adulari/forge",
-    "stars": 5,
-    "updated_at": "2026-07-12T22:10:23Z",
-    "url": "https://github.com/adulari/forge"
   },
   {
     "description": "Manage agent configurations across projects with a single AGENTS.md file to standardize rules, skills, and permissions f",
@@ -826,77 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T21:57:01Z",
     "url": "https://github.com/hostile-shorepatrol81/polanyi-stack"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-07-12T21:56:54Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Build persistent knowledge bases and wikis using Claude Code skills to organize information and maintain structured docu",
-    "id": "sergsrgsg/rock-star-skills",
-    "language": "\u2014",
-    "name": "sergsrgsg/rock-star-skills",
-    "stars": 0,
-    "updated_at": "2026-07-12T21:56:53Z",
-    "url": "https://github.com/sergsrgsg/rock-star-skills"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-07-12T21:56:49Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Curate resources and methodologies for persona distillation to extract communication styles, decision frameworks, and in",
-    "id": "Jolyjumbo536/awesome-persona-distill-skills",
-    "language": "JavaScript",
-    "name": "Jolyjumbo536/awesome-persona-distill-skills",
-    "stars": 2,
-    "updated_at": "2026-07-12T21:56:47Z",
-    "url": "https://github.com/Jolyjumbo536/awesome-persona-distill-skills"
-  },
-  {
-    "description": "Optimiza campa\u00f1as de Paid Ads en el mercado espa\u00f1ol con skills de IA compatibles con Claude Code, Cursor y agentes que s",
-    "id": "Myracoagulable91/paid-ads-skills-spain",
-    "language": "\u2014",
-    "name": "Myracoagulable91/paid-ads-skills-spain",
-    "stars": 0,
-    "updated_at": "2026-07-12T21:56:39Z",
-    "url": "https://github.com/Myracoagulable91/paid-ads-skills-spain"
-  },
-  {
-    "description": "The decisions-only orchestration discipline for AI agent fleets. One markdown skill, any model \u2014 Claude Code, Codex, Cur",
-    "id": "hurttlocker/token-lean",
-    "language": "Shell",
-    "name": "hurttlocker/token-lean",
-    "stars": 7,
-    "updated_at": "2026-07-12T21:58:22Z",
-    "url": "https://github.com/hurttlocker/token-lean"
-  },
-  {
-    "description": "Companion repo for Agentic Graph RAG (O'Reilly, Anthony Alcaraz & Sam Julien) \u2014 50 runnable skills + 8 pedagogical noteb",
-    "id": "AnthonyAlcaraz/agentic-graph-rag-skills",
-    "language": "Python",
-    "name": "AnthonyAlcaraz/agentic-graph-rag-skills",
-    "stars": 1,
-    "updated_at": "2026-07-12T21:56:34Z",
-    "url": "https://github.com/AnthonyAlcaraz/agentic-graph-rag-skills"
-  },
-  {
-    "description": "Automate Reddit tasks using your actual browser and account with support for AI agents and the SKILL.md format.",
-    "id": "beggarticksarthurtatum121/reddit-skills",
-    "language": "Python",
-    "name": "beggarticksarthurtatum121/reddit-skills",
-    "stars": 3,
-    "updated_at": "2026-07-12T21:56:29Z",
-    "url": "https://github.com/beggarticksarthurtatum121/reddit-skills"
   }
 ]
