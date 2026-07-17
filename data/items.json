@@ -1,5 +1,95 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 97,
+    "updated_at": "2026-07-17T21:33:55Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud regions.",
+    "id": "PascaleBeier/hitkeep",
+    "language": "Go",
+    "name": "PascaleBeier/hitkeep",
+    "stars": 71,
+    "updated_at": "2026-07-17T21:33:39Z",
+    "url": "https://github.com/PascaleBeier/hitkeep"
+  },
+  {
+    "description": "Read-only iOS App Store pre-submission check: scans 20 rejection vectors, wraps Apple's fastlane precheck, watches guide",
+    "id": "berkayturk/appstore-precheck",
+    "language": "Shell",
+    "name": "berkayturk/appstore-precheck",
+    "stars": 2,
+    "updated_at": "2026-07-17T21:32:48Z",
+    "url": "https://github.com/berkayturk/appstore-precheck"
+  },
+  {
+    "description": "2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring",
+    "id": "saiahi/env-vault-agent",
+    "language": "HTML",
+    "name": "saiahi/env-vault-agent",
+    "stars": 1,
+    "updated_at": "2026-07-17T21:31:47Z",
+    "url": "https://github.com/saiahi/env-vault-agent"
+  },
+  {
+    "description": "Tool-neutral AI Engineering System: 174 reusable skills (installable as Claude Code plugins) for planning and building s",
+    "id": "ahtishamshahzad/ai-engineering-system",
+    "language": "\u2014",
+    "name": "ahtishamshahzad/ai-engineering-system",
+    "stars": 0,
+    "updated_at": "2026-07-17T21:32:00Z",
+    "url": "https://github.com/ahtishamshahzad/ai-engineering-system"
+  },
+  {
+    "description": "OPC \u8bc4\u8bba\u7ebf\u7d22\u96f7\u8fbe Skill: turn Douyin, Xiaohongshu, and Kuaishou comments into lead signals, customer pools, and outreach script",
+    "id": "yuanjian068yuan/opc-comment-lead-radar",
+    "language": "\u2014",
+    "name": "yuanjian068yuan/opc-comment-lead-radar",
+    "stars": 2,
+    "updated_at": "2026-07-17T21:31:05Z",
+    "url": "https://github.com/yuanjian068yuan/opc-comment-lead-radar"
+  },
+  {
+    "description": "The official skills marketplace for Agents Inc, an agent composition framework that builds stacks and compiles specializ",
+    "id": "agents-inc/skills",
+    "language": "\u2014",
+    "name": "agents-inc/skills",
+    "stars": 14,
+    "updated_at": "2026-07-17T21:30:52Z",
+    "url": "https://github.com/agents-inc/skills"
+  },
+  {
+    "description": "the governed runtime for agent skill workflows, off the leash but on the record",
+    "id": "runxhq/runx",
+    "language": "Rust",
+    "name": "runxhq/runx",
+    "stars": 74,
+    "updated_at": "2026-07-17T21:30:35Z",
+    "url": "https://github.com/runxhq/runx"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-17T21:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-17T21:30:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -9,22 +99,13 @@
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud regions.",
-    "id": "PascaleBeier/hitkeep",
-    "language": "Go",
-    "name": "PascaleBeier/hitkeep",
-    "stars": 71,
-    "updated_at": "2026-07-17T21:30:17Z",
-    "url": "https://github.com/PascaleBeier/hitkeep"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
+    "description": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antig",
+    "id": "sickn33/agentic-awesome-skills",
     "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-17T21:29:08Z",
-    "url": "https://github.com/linny006/skills-tracker"
+    "name": "sickn33/agentic-awesome-skills",
+    "stars": 43493,
+    "updated_at": "2026-07-17T21:29:24Z",
+    "url": "https://github.com/sickn33/agentic-awesome-skills"
   },
   {
     "description": "An open standard for making apps steerable, shipped with a reference runtime and a skill that lets a coding agent implem",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T21:28:49Z",
     "url": "https://github.com/soltraveler-sri/Steerable-Protocol"
-  },
-  {
-    "description": "Tool-neutral AI Engineering System: 174 reusable skills (installable as Claude Code plugins) for planning and building s",
-    "id": "ahtishamshahzad/ai-engineering-system",
-    "language": "\u2014",
-    "name": "ahtishamshahzad/ai-engineering-system",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:28:55Z",
-    "url": "https://github.com/ahtishamshahzad/ai-engineering-system"
   },
   {
     "description": "Source-backed loyalty intelligence for points, miles, travel cards, and loyalty ecosystems.",
@@ -97,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T21:25:22Z",
     "url": "https://github.com/Perdolique/workflow"
-  },
-  {
-    "description": "the governed runtime for agent skill workflows, off the leash but on the record",
-    "id": "runxhq/runx",
-    "language": "Rust",
-    "name": "runxhq/runx",
-    "stars": 74,
-    "updated_at": "2026-07-17T21:25:10Z",
-    "url": "https://github.com/runxhq/runx"
-  },
-  {
-    "description": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antig",
-    "id": "sickn33/agentic-awesome-skills",
-    "language": "Python",
-    "name": "sickn33/agentic-awesome-skills",
-    "stars": 43493,
-    "updated_at": "2026-07-17T21:29:24Z",
-    "url": "https://github.com/sickn33/agentic-awesome-skills"
-  },
-  {
-    "description": "OPC \u8bc4\u8bba\u7ebf\u7d22\u96f7\u8fbe Skill: turn Douyin, Xiaohongshu, and Kuaishou comments into lead signals, customer pools, and outreach script",
-    "id": "yuanjian068yuan/opc-comment-lead-radar",
-    "language": "\u2014",
-    "name": "yuanjian068yuan/opc-comment-lead-radar",
-    "stars": 2,
-    "updated_at": "2026-07-17T21:22:35Z",
-    "url": "https://github.com/yuanjian068yuan/opc-comment-lead-radar"
   },
   {
     "description": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory laye",
@@ -198,15 +243,6 @@
     "url": "https://github.com/filippolmt/skills"
   },
   {
-    "description": "Read-only iOS App Store pre-submission check: scans 20 rejection vectors, wraps Apple's fastlane precheck, watches guide",
-    "id": "berkayturk/appstore-precheck",
-    "language": "Shell",
-    "name": "berkayturk/appstore-precheck",
-    "stars": 2,
-    "updated_at": "2026-07-17T21:16:28Z",
-    "url": "https://github.com/berkayturk/appstore-precheck"
-  },
-  {
     "description": "Custom elements catalog for all kind of projects and frameworks.",
     "id": "Polydile/dile-components",
     "language": "JavaScript",
@@ -232,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-07-17T21:15:40Z",
     "url": "https://github.com/buildinternet/uploads"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-17T21:15:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Pipeline-first Claude Code skills pack \u2014 19 composable skills for structured feature delivery from shape to ship",
@@ -288,15 +315,6 @@
     "url": "https://github.com/saturrrrrrr/hugin-v0-omnibus"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 97,
-    "updated_at": "2026-07-17T21:26:34Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Curated, portable Agent Skills",
     "id": "iurysza/agent-skills",
     "language": "JavaScript",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "jscraik/Agent-Skills",
     "stars": 8,
-    "updated_at": "2026-07-17T21:27:34Z",
+    "updated_at": "2026-07-17T21:31:52Z",
     "url": "https://github.com/jscraik/Agent-Skills"
   },
   {
@@ -590,7 +608,7 @@
     "language": "TypeScript",
     "name": "martinffx/atelier",
     "stars": 36,
-    "updated_at": "2026-07-17T20:57:03Z",
+    "updated_at": "2026-07-17T21:33:25Z",
     "url": "https://github.com/martinffx/atelier"
   },
   {
@@ -880,23 +898,5 @@
     "stars": 2,
     "updated_at": "2026-07-17T20:49:20Z",
     "url": "https://github.com/Immoderate-humulin783/odoo-skills"
-  },
-  {
-    "description": "Automate the installation and management of OpenClaw skills without manual configuration.",
-    "id": "Overhand-cool515/loader-openclaw-skills",
-    "language": "\u2014",
-    "name": "Overhand-cool515/loader-openclaw-skills",
-    "stars": 2,
-    "updated_at": "2026-07-17T20:49:11Z",
-    "url": "https://github.com/Overhand-cool515/loader-openclaw-skills"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 1,
-    "updated_at": "2026-07-17T20:49:09Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
