@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 23:29 UTC
+> ⏰ Last updated: 2026-07-18 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [taylorbanks/page-foundry](https://github.com/taylorbanks/page-foundry) | 2 | Shell | 2026-07-18 | Turn one brief into a finished homepage, landing page, or sales page: high-converting, written in your voice, fast, acce |
-| 2 | [Ceratops-Code/AI-Agent-Skills](https://github.com/Ceratops-Code/AI-Agent-Skills) | 0 | Python | 2026-07-18 | Ceratops Codex skills |
-| 3 | [iCodeCraft/anti-slop](https://github.com/iCodeCraft/anti-slop) | 7 | — | 2026-07-18 | Drop-in skills that stop AI coding agents from shipping garbage — kill-slop, security-review, PR hygiene |
-| 4 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 1 | JavaScript | 2026-07-18 | Public agent skills from SylphxAI — standards, product procedures, and one-command sync for Codex, Claude Code, and Grok |
-| 5 | [YosefHayim/planpage](https://github.com/YosefHayim/planpage) | 2 | TypeScript | 2026-07-18 | TypeScript CLI and Preact render kit for turning agent plans and review gates into local HTML with optional approvals. |
-| 6 | [KeshariPiyush24/agent-skills](https://github.com/KeshariPiyush24/agent-skills) | 0 | — | 2026-07-18 | Agent skills monorepo — DPDP compliance and more for Cursor, Claude Code, Codex, and other AI agents |
-| 7 | [mehrad-dm/mastermind](https://github.com/mehrad-dm/mastermind) | 12 | Python | 2026-07-18 | ⚗️ Experimental — A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to  |
-| 8 | [muend/geoai-skills](https://github.com/muend/geoai-skills) | 1 | Python | 2026-07-18 | Production-grade Agent Skills for GeoAI and geospatial data science—remote sensing, spatial statistics, PostGIS, Earth E |
-| 9 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 0 | — | 2026-07-18 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
-| 10 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 401 | TypeScript | 2026-07-18 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
-| 11 | [Julesbladed538/baidu-netdisk-transfer](https://github.com/Julesbladed538/baidu-netdisk-transfer) | 0 | — | 2026-07-18 | Transfer files between Linux systems and Baidu Netdisk using bypy and aria2c with high speeds and no root access require |
-| 12 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-18 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 13 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 13 | Python | 2026-07-18 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 14 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-18 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
-| 15 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-18 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-18 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 13 | Python | 2026-07-18 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [taylorbanks/page-foundry](https://github.com/taylorbanks/page-foundry) | 2 | Shell | 2026-07-18 | Turn one brief into a finished homepage, landing page, or sales page: high-converting, written in your voice, fast, acce |
+| 4 | [Ceratops-Code/AI-Agent-Skills](https://github.com/Ceratops-Code/AI-Agent-Skills) | 0 | Python | 2026-07-18 | Ceratops Codex skills |
+| 5 | [iCodeCraft/anti-slop](https://github.com/iCodeCraft/anti-slop) | 7 | — | 2026-07-18 | Drop-in skills that stop AI coding agents from shipping garbage — kill-slop, security-review, PR hygiene |
+| 6 | [SylphxAI/skills](https://github.com/SylphxAI/skills) | 1 | JavaScript | 2026-07-18 | Public agent skills from SylphxAI — standards, product procedures, and one-command sync for Codex, Claude Code, and Grok |
+| 7 | [YosefHayim/planpage](https://github.com/YosefHayim/planpage) | 2 | TypeScript | 2026-07-18 | TypeScript CLI and Preact render kit for turning agent plans and review gates into local HTML with optional approvals. |
+| 8 | [KeshariPiyush24/agent-skills](https://github.com/KeshariPiyush24/agent-skills) | 0 | — | 2026-07-18 | Agent skills monorepo — DPDP compliance and more for Cursor, Claude Code, Codex, and other AI agents |
+| 9 | [mehrad-dm/mastermind](https://github.com/mehrad-dm/mastermind) | 12 | Python | 2026-07-18 | ⚗️ Experimental — A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to  |
+| 10 | [muend/geoai-skills](https://github.com/muend/geoai-skills) | 1 | Python | 2026-07-18 | Production-grade Agent Skills for GeoAI and geospatial data science—remote sensing, spatial statistics, PostGIS, Earth E |
+| 11 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 0 | — | 2026-07-18 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
+| 12 | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 401 | TypeScript | 2026-07-18 | The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux |
+| 13 | [Julesbladed538/baidu-netdisk-transfer](https://github.com/Julesbladed538/baidu-netdisk-transfer) | 0 | — | 2026-07-18 | Transfer files between Linux systems and Baidu Netdisk using bypy and aria2c with high speeds and no root access require |
+| 14 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-18 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 15 | [unpronounceable-ordersphenisciformes466/roblox-best-practices-skill](https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill) | 0 | JavaScript | 2026-07-18 | Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts. |
 | 16 | [andr-ca/agentharness](https://github.com/andr-ca/agentharness) | 0 | Python | 2026-07-18 | Portable engineering policies for coding agents — git, testing, logging, and language conventions written once and refer |
 | 17 | [Robertmorrisluminousenergy177/paper-deep-reading-skill](https://github.com/Robertmorrisluminousenergy177/paper-deep-reading-skill) | 0 | Python | 2026-07-18 | Convert research paper PDFs into structured Obsidian notes with automated translations, figure analysis, and concept exp |
 | 18 | [Bitcoindefi/agente-smith](https://github.com/Bitcoindefi/agente-smith) | 0 | JavaScript | 2026-07-18 | Agente Smith — agente de práctica jurídica argentina para Claude Code (Defensoría de Pobres y Ausentes · CABA/Nacional · |
