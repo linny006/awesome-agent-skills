@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-18T21:30:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Security scanner for third-party AI agent-skill files (SKILL.md manifests, hooks, bundled scripts). CLI, library, and Gi",
+    "id": "RudrenduPaul/skillguard",
+    "language": "TypeScript",
+    "name": "RudrenduPaul/skillguard",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:30:00Z",
+    "url": "https://github.com/RudrenduPaul/skillguard"
+  },
+  {
+    "description": "Agent skills distilled from real-world usage \u2014 codex-implementation-loop: delegate coding to Codex, keep review/gate/shi",
+    "id": "olddonkey/olddonkey-skills",
+    "language": "Shell",
+    "name": "olddonkey/olddonkey-skills",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:29:26Z",
+    "url": "https://github.com/olddonkey/olddonkey-skills"
+  },
+  {
+    "description": "Agent skills for shipping SaaS: product definition, secure build-and-launch, and safe maintenance on Next.js + Supabase ",
+    "id": "Naveen-95/saas-skills",
+    "language": "\u2014",
+    "name": "Naveen-95/saas-skills",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:29:19Z",
+    "url": "https://github.com/Naveen-95/saas-skills"
+  },
+  {
+    "description": "Claude/agent skill: Baidu search results as structured JSON. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-baidu-search-api",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-baidu-search-api",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:29:15Z",
+    "url": "https://github.com/johnisanerd/claude-skill-baidu-search-api"
+  },
+  {
+    "description": "Claude/agent skill: turn App Store reviews into ASO and product feedback insight. Installs via npx skills add.",
+    "id": "johnisanerd/claude-skill-app-store-optimization-reviews",
+    "language": "\u2014",
+    "name": "johnisanerd/claude-skill-app-store-optimization-reviews",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:28:25Z",
+    "url": "https://github.com/johnisanerd/claude-skill-app-store-optimization-reviews"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-18T21:28:21Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Claude/agent skill: scrape Apple App Store reviews into structured JSON. Installs via npx skills add.",
     "id": "johnisanerd/claude-skill-app-store-reviews-scraper",
     "language": "\u2014",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T21:27:37Z",
     "url": "https://github.com/Meizu1330/neural-context-archive"
-  },
-  {
-    "description": "Agent skills distilled from real-world usage \u2014 codex-implementation-loop: delegate coding to Codex, keep review/gate/shi",
-    "id": "olddonkey/donkey-skills",
-    "language": "Shell",
-    "name": "olddonkey/donkey-skills",
-    "stars": 0,
-    "updated_at": "2026-07-18T21:27:05Z",
-    "url": "https://github.com/olddonkey/donkey-skills"
   },
   {
     "description": "Claude/agent skill: track newly filed Congress trading disclosures on a schedule. Installs via npx skills add.",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T21:26:03Z",
     "url": "https://github.com/saiahi/env-vault-agent"
-  },
-  {
-    "description": "Agent skills for shipping SaaS: product definition, secure build-and-launch, and safe maintenance on Next.js + Supabase ",
-    "id": "Naveen-95/saas-skills",
-    "language": "\u2014",
-    "name": "Naveen-95/saas-skills",
-    "stars": 0,
-    "updated_at": "2026-07-18T21:25:59Z",
-    "url": "https://github.com/Naveen-95/saas-skills"
   },
   {
     "description": "Claude/agent skill: scheduled hotel rate snapshots for rate drop alerts and competitor watching. Installs via npx skills",
@@ -153,13 +198,13 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Security scanner for third-party AI agent-skill files (SKILL.md manifests, hooks, bundled scripts). CLI, library, and Gi",
-    "id": "RudrenduPaul/skillguard",
-    "language": "TypeScript",
-    "name": "RudrenduPaul/skillguard",
-    "stars": 0,
-    "updated_at": "2026-07-18T21:21:51Z",
-    "url": "https://github.com/RudrenduPaul/skillguard"
+    "description": "OpenAI Codex plugin for evidence-first code review, audits, fact checks, run contracts, and bounded subagent workflows.",
+    "id": "rhein1/fable5-codex",
+    "language": "JavaScript",
+    "name": "rhein1/fable5-codex",
+    "stars": 2,
+    "updated_at": "2026-07-18T21:20:11Z",
+    "url": "https://github.com/rhein1/fable5-codex"
   },
   {
     "description": "Cross-agent frontend design skill for Claude Code and Codex CLI: seeded aesthetic variance, evidence-derived anti-slop r",
@@ -180,15 +225,6 @@
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-18T21:15:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T21:15:18Z",
     "url": "https://github.com/laulpogan/oss-ready"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 3,
-    "updated_at": "2026-07-18T21:15:17Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Evidence-bounded cannabis cultivation operations Augment for crop plans, diagnostics, calculations, harvest review, and ",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T20:01:01Z",
     "url": "https://github.com/AlainRic/ralph-wiggum-codex-review-triage"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:00:33Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "Use this system prompt to strip AI-generated style patterns and force chatbots to write natural, human-like text across ",
-    "id": "hewieextracellular787/humanize-ai-writing",
-    "language": "JavaScript",
-    "name": "hewieextracellular787/humanize-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:00:31Z",
-    "url": "https://github.com/hewieextracellular787/humanize-ai-writing"
-  },
-  {
-    "description": "Compile natural language specs into local neural functions for text classification, extraction, and fuzzy matching tasks",
-    "id": "tolimcn7786/skills",
-    "language": "Python",
-    "name": "tolimcn7786/skills",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:00:23Z",
-    "url": "https://github.com/tolimcn7786/skills"
   }
 ]
