@@ -1,12 +1,12 @@
 [
   {
-    "description": "Keep all your harnesses on the same page.",
-    "id": "sgolovine/distributor",
-    "language": "TypeScript",
-    "name": "sgolovine/distributor",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:27:37Z",
-    "url": "https://github.com/sgolovine/distributor"
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-19T18:30:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Video editing for AI agents \u2014 edit podcasts, make YouTube Shorts with burned-in subtitles, sync multicam, master audio f",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "computerlovetech/video-edit-cli",
     "stars": 0,
-    "updated_at": "2026-07-19T18:27:29Z",
+    "updated_at": "2026-07-19T18:29:25Z",
     "url": "https://github.com/computerlovetech/video-edit-cli"
+  },
+  {
+    "description": "GPTaria MCP server, Agent Skills & REST API docs \u2014 connect your AI assistant (Claude, Cursor, \u2026) to GPTaria.",
+    "id": "gptaria-mcp/gptaria-mcp",
+    "language": "JavaScript",
+    "name": "gptaria-mcp/gptaria-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:29:23Z",
+    "url": "https://github.com/gptaria-mcp/gptaria-mcp"
+  },
+  {
+    "description": "A test runner for Claude Code skills \u2014 write YAML cases, run them through `claude -p`, check that each skill triggers th",
+    "id": "junghwan16/skillevel",
+    "language": "JavaScript",
+    "name": "junghwan16/skillevel",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:28:57Z",
+    "url": "https://github.com/junghwan16/skillevel"
+  },
+  {
+    "description": "Private, read-only escalation for coding agents: consult Codex GPT-5.6 Sol Max, preserve exact follow-up threads, and is",
+    "id": "y40881110-lang/master-consult",
+    "language": "Python",
+    "name": "y40881110-lang/master-consult",
+    "stars": 1,
+    "updated_at": "2026-07-19T18:28:17Z",
+    "url": "https://github.com/y40881110-lang/master-consult"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-19T18:27:45Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Keep all your harnesses on the same page.",
+    "id": "sgolovine/distributor",
+    "language": "TypeScript",
+    "name": "sgolovine/distributor",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:27:37Z",
+    "url": "https://github.com/sgolovine/distributor"
   },
   {
     "description": "Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, evidence-gated done",
@@ -72,15 +117,6 @@
     "url": "https://github.com/designgrappler/agent-os"
   },
   {
-    "description": "GPTaria MCP server, Agent Skills & REST API docs \u2014 connect your AI assistant (Claude, Cursor, \u2026) to GPTaria.",
-    "id": "gptaria-mcp/gptaria-mcp",
-    "language": "JavaScript",
-    "name": "gptaria-mcp/gptaria-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:20:06Z",
-    "url": "https://github.com/gptaria-mcp/gptaria-mcp"
-  },
-  {
     "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion",
     "id": "hesreallyhim/awesome-claude-code",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/linny006/skills-tracker"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 13,
-    "updated_at": "2026-07-19T18:15:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Open agent skills for the skills.sh ecosystem \u2014 browser, docs, mail, media, security, networking, orchestration, and mor",
     "id": "DrOlu/agent-skills",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:15:16Z",
     "url": "https://github.com/DrOlu/agent-skills"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 3,
-    "updated_at": "2026-07-19T18:15:16Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "In Anthropic's official Claude plugin directory \u00b7 515 professional Agent Skills (PRDs, launches, compliance, CVs & more)",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T18:10:08Z",
     "url": "https://github.com/zw008/VMware-Harden"
-  },
-  {
-    "description": "Private, read-only escalation for coding agents: consult Codex GPT-5.6 Sol Max, preserve exact follow-up threads, and is",
-    "id": "y40881110-lang/master-consult",
-    "language": "Python",
-    "name": "y40881110-lang/master-consult",
-    "stars": 1,
-    "updated_at": "2026-07-19T18:08:48Z",
-    "url": "https://github.com/y40881110-lang/master-consult"
   },
   {
     "description": "My reusable coding-agent conventions and a curated skill set, pulled into any project like a versioned package.",
@@ -394,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:01:37Z",
     "url": "https://github.com/zhoy0409-debug/polish-sci-figures"
-  },
-  {
-    "description": "A test runner for Claude Code skills \u2014 write YAML cases, run them through `claude -p`, check that each skill triggers th",
-    "id": "junghwan16/skillevel",
-    "language": "JavaScript",
-    "name": "junghwan16/skillevel",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:59:03Z",
-    "url": "https://github.com/junghwan16/skillevel"
   },
   {
     "description": "VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops ",
@@ -626,7 +626,7 @@
     "language": "Python",
     "name": "eugenelim/agent-ready-repo",
     "stars": 13,
-    "updated_at": "2026-07-19T18:27:36Z",
+    "updated_at": "2026-07-19T18:29:34Z",
     "url": "https://github.com/eugenelim/agent-ready-repo"
   },
   {
