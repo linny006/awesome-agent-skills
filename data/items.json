@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-22T11:30:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Agent skills for Silverstripe CMS development \u2014 version upgrades, Elemental, the Essentials stack, and deployment workfl",
+    "id": "jsirish/silverstripe-skills",
+    "language": "PHP",
+    "name": "jsirish/silverstripe-skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:30:24Z",
+    "url": "https://github.com/jsirish/silverstripe-skills"
+  },
+  {
+    "description": "Cross-runtime development harness for Claude Code, Codex, and OpenCode \u2014 skills, verifiable pipeline, and project templa",
+    "id": "createusernam/setup_project",
+    "language": "Python",
+    "name": "createusernam/setup_project",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:28:30Z",
+    "url": "https://github.com/createusernam/setup_project"
+  },
+  {
+    "description": "AgentSkills library: reusable skills for AI coding agents (AI SDK, Codex, LangGraph, Supabase, Docker, Vitest, pytest, S",
+    "id": "BjornMelin/dev-skills",
+    "language": "Rust",
+    "name": "BjornMelin/dev-skills",
+    "stars": 3,
+    "updated_at": "2026-07-22T11:28:02Z",
+    "url": "https://github.com/BjornMelin/dev-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-22T11:27:57Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Lightweight upload gateway for agents to add screenshots and recordings to pull requests and issues. Cloud and self-host",
+    "id": "buildinternet/uploads",
+    "language": "TypeScript",
+    "name": "buildinternet/uploads",
+    "stars": 3,
+    "updated_at": "2026-07-22T11:28:38Z",
+    "url": "https://github.com/buildinternet/uploads"
+  },
+  {
+    "description": "Shipshape is a context-isolated spec-driven development workflow for coding agents.  Specs are durable. Code is disposab",
+    "id": "dmytri/shipshape",
+    "language": "Shell",
+    "name": "dmytri/shipshape",
+    "stars": 6,
+    "updated_at": "2026-07-22T11:27:43Z",
+    "url": "https://github.com/dmytri/shipshape"
+  },
+  {
+    "description": "A coherent, opinionated toolkit for documentation-driven development with twin-model adversarial checks.",
+    "id": "supermodo/skills",
+    "language": "TypeScript",
+    "name": "supermodo/skills",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:28:25Z",
+    "url": "https://github.com/supermodo/skills"
+  },
+  {
+    "description": "An Agent Skill that lets your coding agent ask the other AI models on your machine for help: GPT, GLM, Grok, Gemini, Cla",
+    "id": "dorukardahan/headless-relay",
+    "language": "Shell",
+    "name": "dorukardahan/headless-relay",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:27:33Z",
+    "url": "https://github.com/dorukardahan/headless-relay"
+  },
+  {
+    "description": "Native Outlook skill for coding agents - COM automation + offline OST/PST parsing + Word-safe HTML drafts + server-side ",
+    "id": "mc856/outlook-native",
+    "language": "PowerShell",
+    "name": "mc856/outlook-native",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:27:25Z",
+    "url": "https://github.com/mc856/outlook-native"
+  },
+  {
+    "description": "Agents Skills",
+    "id": "pantheon-org/tekhne",
+    "language": "HCL",
+    "name": "pantheon-org/tekhne",
+    "stars": 9,
+    "updated_at": "2026-07-22T11:25:34Z",
+    "url": "https://github.com/pantheon-org/tekhne"
+  },
+  {
+    "description": "Portable engineering policies for coding agents \u2014 git, testing, logging, and language conventions written once and refer",
+    "id": "andr-ca/agentharness",
+    "language": "Python",
+    "name": "andr-ca/agentharness",
+    "stars": 1,
+    "updated_at": "2026-07-22T11:25:10Z",
+    "url": "https://github.com/andr-ca/agentharness"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-22T11:24:59Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Encrypted-only, fully AI agents playable gambling CLI for Ape Church on ApeChain",
     "id": "n0ther-coder/apechurch-cli",
     "language": "JavaScript",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:22:36Z",
     "url": "https://github.com/rustok-org/mcp"
-  },
-  {
-    "description": "Agents Skills",
-    "id": "pantheon-org/tekhne",
-    "language": "HCL",
-    "name": "pantheon-org/tekhne",
-    "stars": 9,
-    "updated_at": "2026-07-22T11:23:45Z",
-    "url": "https://github.com/pantheon-org/tekhne"
   },
   {
     "description": "Central plugin marketplace for Claude Code and Codex",
@@ -153,33 +261,6 @@
     "url": "https://github.com/dinghaochen1004-blip/requirement-clarifier"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-22T11:15:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-07-22T11:15:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:15:20Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
     "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
     "id": "eai-org/agent-toolkit",
     "language": "Shell",
@@ -220,7 +301,7 @@
     "id": "alibaba/open-code-review",
     "language": "Go",
     "name": "alibaba/open-code-review",
-    "stars": 10912,
+    "stars": 10913,
     "updated_at": "2026-07-22T11:12:54Z",
     "url": "https://github.com/alibaba/open-code-review"
   },
@@ -248,7 +329,7 @@
     "language": "TypeScript",
     "name": "scalefocus/skilly",
     "stars": 4,
-    "updated_at": "2026-07-22T11:10:22Z",
+    "updated_at": "2026-07-22T11:27:13Z",
     "url": "https://github.com/scalefocus/skilly"
   },
   {
@@ -265,7 +346,7 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 80592,
+    "stars": 80594,
     "updated_at": "2026-07-22T11:09:59Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -310,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29099,
+    "stars": 29102,
     "updated_at": "2026-07-22T11:07:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,15 +466,6 @@
     "stars": 5,
     "updated_at": "2026-07-22T11:04:20Z",
     "url": "https://github.com/netresearch/cli-tools-skill"
-  },
-  {
-    "description": "Native Outlook skill for coding agents - COM automation + offline OST/PST parsing + Word-safe HTML drafts + server-side ",
-    "id": "mc856/outlook-native",
-    "language": "PowerShell",
-    "name": "mc856/outlook-native",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:04:12Z",
-    "url": "https://github.com/mc856/outlook-native"
   },
   {
     "description": "Agent Skill for Git workflow best practices - branching, commits, PR workflows | Claude Code compatible",
@@ -500,7 +572,7 @@
     "language": "Go",
     "name": "danieljustus/symaira-vault",
     "stars": 22,
-    "updated_at": "2026-07-22T11:16:34Z",
+    "updated_at": "2026-07-22T11:28:44Z",
     "url": "https://github.com/danieljustus/symaira-vault"
   },
   {
@@ -527,7 +599,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 208,
-    "updated_at": "2026-07-22T11:24:28Z",
+    "updated_at": "2026-07-22T11:27:22Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -625,7 +697,7 @@
     "id": "tt-a1i/archify",
     "language": "HTML",
     "name": "tt-a1i/archify",
-    "stars": 6864,
+    "stars": 6865,
     "updated_at": "2026-07-22T10:50:12Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -682,15 +754,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:47:23Z",
     "url": "https://github.com/AI-Deep-Labs/3A-Factory"
-  },
-  {
-    "description": "Lightweight upload gateway for agents to add screenshots and recordings to pull requests and issues. Cloud and self-host",
-    "id": "buildinternet/uploads",
-    "language": "TypeScript",
-    "name": "buildinternet/uploads",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:06:25Z",
-    "url": "https://github.com/buildinternet/uploads"
   },
   {
     "description": "DevExpress AI Skills for coding agents (.NET, JS/TS)",
@@ -754,15 +817,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:34:01Z",
     "url": "https://github.com/Chulinuwu/skillloom"
-  },
-  {
-    "description": "AgentSkills library: reusable skills for AI coding agents (AI SDK, Codex, LangGraph, Supabase, Docker, Vitest, pytest, S",
-    "id": "BjornMelin/dev-skills",
-    "language": "Rust",
-    "name": "BjornMelin/dev-skills",
-    "stars": 3,
-    "updated_at": "2026-07-22T11:21:03Z",
-    "url": "https://github.com/BjornMelin/dev-skills"
   },
   {
     "description": "Agent Skill for sending plain-text email through macOS /usr/bin/mail with Postfix queue verification",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T10:27:53Z",
     "url": "https://github.com/Mimirs402/bountyverdict-mcp-skill"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:27:50Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 99,
-    "updated_at": "2026-07-22T11:15:02Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/skills",
-    "language": "Shell",
-    "name": "yschimke/skills",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:26:43Z",
-    "url": "https://github.com/yschimke/skills"
-  },
-  {
-    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
-    "id": "KKenny0/Tracework",
-    "language": "Python",
-    "name": "KKenny0/Tracework",
-    "stars": 2,
-    "updated_at": "2026-07-22T10:26:25Z",
-    "url": "https://github.com/KKenny0/Tracework"
-  },
-  {
-    "description": "Torii: Agent plugin for SUMO with OSM-to-SUMO tools, TLS review, routeability probes, and evidence-aware feedback diagno",
-    "id": "Tarard/Torii-SUMO",
-    "language": "Python",
-    "name": "Tarard/Torii-SUMO",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:26:05Z",
-    "url": "https://github.com/Tarard/Torii-SUMO"
-  },
-  {
-    "description": "Select one product-specific advertising domain and develop it before copywriting. \u4e3a\u5546\u54c1\u786e\u5b9a\u5355\u4e00\u5782\u76f4\u9886\u57df\u5e76\u7eb5\u6df1\u53d1\u5c55\u5df2\u786e\u8ba4\u5356\u70b9\u3002",
-    "id": "lccccc2002-a11y/develop-vertical-ad-direction",
-    "language": "\u2014",
-    "name": "lccccc2002-a11y/develop-vertical-ad-direction",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:28:42Z",
-    "url": "https://github.com/lccccc2002-a11y/develop-vertical-ad-direction"
   }
 ]
