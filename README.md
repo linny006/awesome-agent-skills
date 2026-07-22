@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-22 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [FixAdmin/skillsmp-search](https://github.com/FixAdmin/skillsmp-search) | 0 | JavaScript | 2026-07-22 | Find agent skills by reading what they actually do. |
-| 3 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-22 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 4 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-07-22 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 5 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3081 | TypeScript | 2026-07-22 | Beautiful, AI-native markdown IDE and LLM wiki |
-| 6 | [Thitic9203/helix](https://github.com/Thitic9203/helix) | 0 | Shell | 2026-07-22 | Portable QA skill pack for AI coding agents: FE/API test-case prep (AC/EC + Swagger coverage review), Playwright ticket  |
-| 7 | [luucabg/terseforge](https://github.com/luucabg/terseforge) | 0 | TypeScript | 2026-07-22 | Local CLI for reducing context and tool-output noise in Claude Code, Codex, Gemini CLI, and other AI coding agents - wit |
-| 8 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 13 | TypeScript | 2026-07-22 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
-| 9 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-22 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
-| 10 | [Sathvikkrishna2520/pev-framework-ts](https://github.com/Sathvikkrishna2520/pev-framework-ts) | 1 | HTML | 2026-07-22 | Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool |
-| 11 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | 909 | Python | 2026-07-22 | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI a |
-| 12 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 13 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-07-22 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
-| 14 | [yakoshiq/skills](https://github.com/yakoshiq/skills) | 0 | — | 2026-07-22 | Agent skills for intentional code: clear domain meaning, honest failures, comments that earn their place. |
-| 15 | [shahshrey/fal-portrait-lora-skills](https://github.com/shahshrey/fal-portrait-lora-skills) | 0 | Python | 2026-07-22 | Cursor Agent Skills for preparing portrait LoRA datasets and training them with fal-ai/flux-lora-portrait-trainer |
-| 16 | [asanabrial/issue-flow](https://github.com/asanabrial/issue-flow) | 0 | PowerShell | 2026-07-22 | Two-role workflow for AI coding agents (Claude Code, Codex) over GitHub Issues, Linear or Trello: an analyst files evide |
-| 17 | [amsbangs1975-collab/unity-shader-agent-canvas](https://github.com/amsbangs1975-collab/unity-shader-agent-canvas) | 0 | HTML | 2026-07-22 | Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL |
-| 18 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 14 | Python | 2026-07-22 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-22 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 14 | Python | 2026-07-22 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-22 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [FixAdmin/skillsmp-search](https://github.com/FixAdmin/skillsmp-search) | 0 | JavaScript | 2026-07-22 | Find agent skills by reading what they actually do. |
+| 5 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-07-22 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 6 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3081 | TypeScript | 2026-07-22 | Beautiful, AI-native markdown IDE and LLM wiki |
+| 7 | [Thitic9203/helix](https://github.com/Thitic9203/helix) | 0 | Shell | 2026-07-22 | Portable QA skill pack for AI coding agents: FE/API test-case prep (AC/EC + Swagger coverage review), Playwright ticket  |
+| 8 | [luucabg/terseforge](https://github.com/luucabg/terseforge) | 0 | TypeScript | 2026-07-22 | Local CLI for reducing context and tool-output noise in Claude Code, Codex, Gemini CLI, and other AI coding agents - wit |
+| 9 | [kissgyorgy/coding-agents](https://github.com/kissgyorgy/coding-agents) | 13 | TypeScript | 2026-07-22 | Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex) |
+| 10 | [mohamoudj6-del/AlterLab-FC-Agent-Playbook](https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook) | 0 | HTML | 2026-07-22 | AlterLab FC 2026 AI Playbook 🚀 Ultimate Skills & Strategy Guide |
+| 11 | [Sathvikkrishna2520/pev-framework-ts](https://github.com/Sathvikkrishna2520/pev-framework-ts) | 1 | HTML | 2026-07-22 | Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool |
+| 12 | [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) | 909 | Python | 2026-07-22 | Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI a |
+| 13 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 0 | HTML | 2026-07-22 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 14 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-07-22 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
+| 15 | [yakoshiq/skills](https://github.com/yakoshiq/skills) | 0 | — | 2026-07-22 | Agent skills for intentional code: clear domain meaning, honest failures, comments that earn their place. |
+| 16 | [shahshrey/fal-portrait-lora-skills](https://github.com/shahshrey/fal-portrait-lora-skills) | 0 | Python | 2026-07-22 | Cursor Agent Skills for preparing portrait LoRA datasets and training them with fal-ai/flux-lora-portrait-trainer |
+| 17 | [asanabrial/issue-flow](https://github.com/asanabrial/issue-flow) | 0 | PowerShell | 2026-07-22 | Two-role workflow for AI coding agents (Claude Code, Codex) over GitHub Issues, Linear or Trello: an analyst files evide |
+| 18 | [amsbangs1975-collab/unity-shader-agent-canvas](https://github.com/amsbangs1975-collab/unity-shader-agent-canvas) | 0 | HTML | 2026-07-22 | Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL |
 | 19 | [dhruvanoopkatare31/terminal-wits](https://github.com/dhruvanoopkatare31/terminal-wits) | 0 | HTML | 2026-07-22 | AI Code Hygiene 2026: Best Repo Cleanup & Commit Guard Tools |
 | 20 | [AlexHagemeister/gnadd](https://github.com/AlexHagemeister/gnadd) | 1 | Shell | 2026-07-22 | Git-Native Agent-Driven Development — a GitHub-native workflow for coding agents (Cursor, Claude Code, and more), enforc |
 | 21 | [aufamubarak/plan-execute-verify-claude-code](https://github.com/aufamubarak/plan-execute-verify-claude-code) | 151 | HTML | 2026-07-22 | Best AI Coding Workflow Plugin Pipeline 2026 |
