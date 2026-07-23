@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 21:43 UTC
+> ⏰ Last updated: 2026-07-23 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zby/commonplace](https://github.com/zby/commonplace) | 81 | Python | 2026-07-23 | The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown  |
-| 2 | [exmergo/dex](https://github.com/exmergo/dex) | 14 | Python | 2026-07-23 | Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la |
-| 3 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3091 | TypeScript | 2026-07-23 | Beautiful, AI-native markdown IDE and LLM wiki |
-| 4 | [berkayturk/appstore-precheck](https://github.com/berkayturk/appstore-precheck) | 2 | Shell | 2026-07-23 | Read-only iOS App Store pre-submission check: scans 20 rejection vectors, wraps Apple's fastlane precheck, watches guide |
-| 5 | [fxjim/agent-commerce-guard](https://github.com/fxjim/agent-commerce-guard) | 0 | HTML | 2026-07-23 | x402-paid agent workflow validator and approval gates for wallet spend, deployments, command risk, tokens, and credentia |
-| 6 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | HTML | 2026-07-23 | The Revenant packs marketplace — Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a |
-| 7 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | 105 | JavaScript | 2026-07-23 | Agent skills for fallow, codebase intelligence for TypeScript and JavaScript. Teaches AI agents how to find unused code, |
-| 8 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-07-23 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 9 | [SohrabZ/liquid-glass-skills](https://github.com/SohrabZ/liquid-glass-skills) | 0 | Swift | 2026-07-23 | AI coding agent skills for building iOS 26 Liquid Glass UIs with SwiftUI + UIKit. Install: npx skills add SohrabZ/liquid |
-| 10 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 73 | TypeScript | 2026-07-23 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 11 | [filippolmt/skills](https://github.com/filippolmt/skills) | 0 | JavaScript | 2026-07-23 | Claude Code plugin marketplace — install skills individually (one skill per plugin). External skills are referenced upst |
-| 12 | [moeru-ai/auv](https://github.com/moeru-ai/auv) | 20 | Rust | 2026-07-23 | 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost |
-| 13 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-07-23 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 14 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-23 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 15 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 14 | Python | 2026-07-23 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 16 | [jayantak/vaultmem](https://github.com/jayantak/vaultmem) | 0 | Shell | 2026-07-23 | Agent memory over an Obsidian vault — bash + ripgrep, no database. A restricted-TOML vault registry, a curated Agent Ind |
-| 17 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-23 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 18 | [gabros20/product-skill](https://github.com/gabros20/product-skill) | 1 | HTML | 2026-07-23 | Agent skill for product discovery, strategy, and PRDs — decide what to build, for whom, and why, across websites, web/Sa |
+| 1 | [gabros20/product-skill](https://github.com/gabros20/product-skill) | 1 | HTML | 2026-07-23 | Agent skill for product discovery, strategy, and PRDs — decide what to build, for whom, and why, across websites, web/Sa |
+| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-07-23 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 3 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | HTML | 2026-07-23 | The Revenant packs marketplace — Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a |
+| 4 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 14 | Python | 2026-07-23 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 5 | [zby/commonplace](https://github.com/zby/commonplace) | 81 | Python | 2026-07-23 | The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown  |
+| 6 | [exmergo/dex](https://github.com/exmergo/dex) | 14 | Python | 2026-07-23 | Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la |
+| 7 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3091 | TypeScript | 2026-07-23 | Beautiful, AI-native markdown IDE and LLM wiki |
+| 8 | [berkayturk/appstore-precheck](https://github.com/berkayturk/appstore-precheck) | 2 | Shell | 2026-07-23 | Read-only iOS App Store pre-submission check: scans 20 rejection vectors, wraps Apple's fastlane precheck, watches guide |
+| 9 | [fxjim/agent-commerce-guard](https://github.com/fxjim/agent-commerce-guard) | 0 | HTML | 2026-07-23 | x402-paid agent workflow validator and approval gates for wallet spend, deployments, command risk, tokens, and credentia |
+| 10 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | 105 | JavaScript | 2026-07-23 | Agent skills for fallow, codebase intelligence for TypeScript and JavaScript. Teaches AI agents how to find unused code, |
+| 11 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-07-23 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 12 | [SohrabZ/liquid-glass-skills](https://github.com/SohrabZ/liquid-glass-skills) | 0 | Swift | 2026-07-23 | AI coding agent skills for building iOS 26 Liquid Glass UIs with SwiftUI + UIKit. Install: npx skills add SohrabZ/liquid |
+| 13 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 73 | TypeScript | 2026-07-23 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 14 | [filippolmt/skills](https://github.com/filippolmt/skills) | 0 | JavaScript | 2026-07-23 | Claude Code plugin marketplace — install skills individually (one skill per plugin). External skills are referenced upst |
+| 15 | [moeru-ai/auv](https://github.com/moeru-ai/auv) | 20 | Rust | 2026-07-23 | 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost |
+| 16 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-07-23 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 17 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-07-23 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 18 | [jayantak/vaultmem](https://github.com/jayantak/vaultmem) | 0 | Shell | 2026-07-23 | Agent memory over an Obsidian vault — bash + ripgrep, no database. A restricted-TOML vault registry, a curated Agent Ind |
 | 19 | [goshippo/ai](https://github.com/goshippo/ai) | 1 | JavaScript | 2026-07-23 | Shippo's AI distribution surfaces: Agent Skills + plugins for Claude Code, OpenAI Codex, ClawHub, and the Claude apps. |
 | 20 | [diamitani/rostr-agent](https://github.com/diamitani/rostr-agent) | 1 | Python | 2026-07-23 | ROSTR Agent — Self-improving multi-agent framework with built-in PAL, NPAO, RAG DAL, and Rostr Hub. Built on Hermes Agen |
 | 21 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 281 | MDX | 2026-07-23 | HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, |
