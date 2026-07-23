@@ -1,5 +1,86 @@
 [
   {
+    "description": "Claude Code plugin / Agent Skills pack \u2014 verb-split skills for design, review, TDD, and PR flow, with deterministic git ",
+    "id": "hayashiii-ghub/hikizan",
+    "language": "Shell",
+    "name": "hayashiii-ghub/hikizan",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:34:11Z",
+    "url": "https://github.com/hayashiii-ghub/hikizan"
+  },
+  {
+    "description": "the governed runtime for agent skill workflows, off the leash but on the record",
+    "id": "runxhq/runx",
+    "language": "Rust",
+    "name": "runxhq/runx",
+    "stars": 75,
+    "updated_at": "2026-07-23T04:33:25Z",
+    "url": "https://github.com/runxhq/runx"
+  },
+  {
+    "description": "Collective intelligence runtime for AI agents. Knowledge graph + persistent memory.",
+    "id": "hyperb1iss/sibyl",
+    "language": "Python",
+    "name": "hyperb1iss/sibyl",
+    "stars": 45,
+    "updated_at": "2026-07-23T04:33:25Z",
+    "url": "https://github.com/hyperb1iss/sibyl"
+  },
+  {
+    "description": "Skills for use with Hermes that work with local models",
+    "id": "fnord123/hermes-skills",
+    "language": "Python",
+    "name": "fnord123/hermes-skills",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:32:14Z",
+    "url": "https://github.com/fnord123/hermes-skills"
+  },
+  {
+    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
+    "id": "amadeus-dlc/amadeus",
+    "language": "TypeScript",
+    "name": "amadeus-dlc/amadeus",
+    "stars": 5,
+    "updated_at": "2026-07-23T04:34:14Z",
+    "url": "https://github.com/amadeus-dlc/amadeus"
+  },
+  {
+    "description": "MrCha Skills \u2014 portable Agent Skills for ChatGPT, Codex, and compatible agents",
+    "id": "mrcha033/skills",
+    "language": "Python",
+    "name": "mrcha033/skills",
+    "stars": 0,
+    "updated_at": "2026-07-23T04:31:29Z",
+    "url": "https://github.com/mrcha033/skills"
+  },
+  {
+    "description": "\ud83e\udd16\ud83e\udd2e Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze ",
+    "id": "moeru-ai/alint",
+    "language": "TypeScript",
+    "name": "moeru-ai/alint",
+    "stars": 2,
+    "updated_at": "2026-07-23T04:30:33Z",
+    "url": "https://github.com/moeru-ai/alint"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-07-23T04:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-23T04:30:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -7,6 +88,15 @@
     "stars": 3,
     "updated_at": "2026-07-23T04:30:16Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A collection of reusable skills for AI-assisted development workflows",
+    "id": "b-mendoza/agent-skills",
+    "language": "Shell",
+    "name": "b-mendoza/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-07-23T04:30:08Z",
+    "url": "https://github.com/b-mendoza/agent-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:29:51Z",
     "url": "https://github.com/volkkov/agent-forge"
-  },
-  {
-    "description": "Collective intelligence runtime for AI agents. Knowledge graph + persistent memory.",
-    "id": "hyperb1iss/sibyl",
-    "language": "Python",
-    "name": "hyperb1iss/sibyl",
-    "stars": 45,
-    "updated_at": "2026-07-23T04:30:16Z",
-    "url": "https://github.com/hyperb1iss/sibyl"
   },
   {
     "description": "Local zero-LLM PR QA designer: turns commits and diffs into behavior lifecycles, QA scenarios, and deterministic automat",
@@ -63,12 +144,21 @@
     "url": "https://github.com/Erich956389473/skill-compass"
   },
   {
+    "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine:",
+    "id": "nexu-io/open-design",
+    "language": "TypeScript",
+    "name": "nexu-io/open-design",
+    "stars": 80790,
+    "updated_at": "2026-07-23T04:27:41Z",
+    "url": "https://github.com/nexu-io/open-design"
+  },
+  {
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
     "id": "CherryHQ/cherry-studio",
     "language": "TypeScript",
     "name": "CherryHQ/cherry-studio",
     "stars": 48884,
-    "updated_at": "2026-07-23T04:30:01Z",
+    "updated_at": "2026-07-23T04:31:11Z",
     "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:29:58Z",
     "url": "https://github.com/andr-ca/agentharness"
-  },
-  {
-    "description": "\ud83c\udfa8 The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine:",
-    "id": "nexu-io/open-design",
-    "language": "TypeScript",
-    "name": "nexu-io/open-design",
-    "stars": 80788,
-    "updated_at": "2026-07-23T04:27:41Z",
-    "url": "https://github.com/nexu-io/open-design"
   },
   {
     "description": "Agent skills for working with Zapier, maintained by Zapier teams. Indexed by skills.sh.",
@@ -234,24 +315,6 @@
     "url": "https://github.com/Meizu1330/neural-context-archive"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-07-23T04:15:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-07-23T04:15:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Cheese your code \ud83e\uddc0 \u2014 high-quality results as easy as cheese. A portable, harness-agnostic Agent Skills toolkit.",
     "id": "paulnsorensen/easy-cheese",
     "language": "Python",
@@ -315,24 +378,6 @@
     "url": "https://github.com/gitt510/agent-skills"
   },
   {
-    "description": "the governed runtime for agent skill workflows, off the leash but on the record",
-    "id": "runxhq/runx",
-    "language": "Rust",
-    "name": "runxhq/runx",
-    "stars": 75,
-    "updated_at": "2026-07-23T04:08:28Z",
-    "url": "https://github.com/runxhq/runx"
-  },
-  {
-    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
-    "id": "amadeus-dlc/amadeus",
-    "language": "TypeScript",
-    "name": "amadeus-dlc/amadeus",
-    "stars": 5,
-    "updated_at": "2026-07-23T04:27:58Z",
-    "url": "https://github.com/amadeus-dlc/amadeus"
-  },
-  {
     "description": "Publish docs from your AI agent \u2014 connect Claude Code, Codex & Cursor to Basalt over MCP and turn markdown into a govern",
     "id": "cofoundy/basalt-plugin",
     "language": "Shell",
@@ -355,7 +400,7 @@
     "id": "smixs/humanizer-ru",
     "language": "Python",
     "name": "smixs/humanizer-ru",
-    "stars": 104,
+    "stars": 105,
     "updated_at": "2026-07-23T04:07:01Z",
     "url": "https://github.com/smixs/humanizer-ru"
   },
@@ -414,15 +459,6 @@
     "url": "https://github.com/pactflow/pactflow-agent-skills"
   },
   {
-    "description": "\ud83e\udd16\ud83e\udd2e Hate the yuck codes that agents generated? Try `alint`, a ESLint like toolchain for intent driven code check, freeze ",
-    "id": "moeru-ai/alint",
-    "language": "TypeScript",
-    "name": "moeru-ai/alint",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:01:26Z",
-    "url": "https://github.com/moeru-ai/alint"
-  },
-  {
     "description": "Paper Claw sends personalized daily research digests from arXiv and beyond straight to your inbox, featuring customizabl",
     "id": "PigeonDan1/paper_claw",
     "language": "Python",
@@ -450,21 +486,12 @@
     "url": "https://github.com/nshkrdotcom/elixir_agent_debug"
   },
   {
-    "description": "Claude Code plugin / Agent Skills pack \u2014 verb-split skills for design, review, TDD, and PR flow, with deterministic git ",
-    "id": "hayashiii-ghub/hikizan",
-    "language": "Shell",
-    "name": "hayashiii-ghub/hikizan",
-    "stars": 1,
-    "updated_at": "2026-07-23T04:18:51Z",
-    "url": "https://github.com/hayashiii-ghub/hikizan"
-  },
-  {
     "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained",
     "id": "tt-a1i/archify",
     "language": "HTML",
     "name": "tt-a1i/archify",
     "stars": 7001,
-    "updated_at": "2026-07-23T03:55:24Z",
+    "updated_at": "2026-07-23T04:33:12Z",
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -500,7 +527,7 @@
     "language": "Python",
     "name": "eugenelim/agent-ready-repo",
     "stars": 13,
-    "updated_at": "2026-07-23T03:53:39Z",
+    "updated_at": "2026-07-23T04:30:48Z",
     "url": "https://github.com/eugenelim/agent-ready-repo"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 39,
     "updated_at": "2026-07-23T03:18:39Z",
     "url": "https://github.com/anycap-ai/anycap"
-  },
-  {
-    "description": "Agent CLI, Claude Code plugin, and skills for Tenjin, the x402-native knowledge marketplace. USDC on Base, no API keys.",
-    "id": "BackTrackCo/tenjin-agent",
-    "language": "TypeScript",
-    "name": "BackTrackCo/tenjin-agent",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:25:20Z",
-    "url": "https://github.com/BackTrackCo/tenjin-agent"
-  },
-  {
-    "description": "LLM agents as your hyperparameter optimizer.",
-    "id": "Optim-Agent/optim-agent",
-    "language": "Python",
-    "name": "Optim-Agent/optim-agent",
-    "stars": 376,
-    "updated_at": "2026-07-23T03:15:26Z",
-    "url": "https://github.com/Optim-Agent/optim-agent"
-  },
-  {
-    "description": "Top Dev Skill Builder 2026: Master Git Worktrees, Code Reviews & DDD",
-    "id": "sakshisantoshthorat/artisan-dev-handbook",
-    "language": "HTML",
-    "name": "sakshisantoshthorat/artisan-dev-handbook",
-    "stars": 0,
-    "updated_at": "2026-07-23T03:14:58Z",
-    "url": "https://github.com/sakshisantoshthorat/artisan-dev-handbook"
   }
 ]
