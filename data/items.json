@@ -1,5 +1,95 @@
 [
   {
+    "description": "Install and update the latest stable obra/superpowers release directly from upstream. Codex supported today.",
+    "id": "j7an/superpowers-manager",
+    "language": "JavaScript",
+    "name": "j7an/superpowers-manager",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:04:48Z",
+    "url": "https://github.com/j7an/superpowers-manager"
+  },
+  {
+    "description": "Agent skills for deploy and use Traigent",
+    "id": "Traigent/traigent-skills",
+    "language": "Python",
+    "name": "Traigent/traigent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:04:42Z",
+    "url": "https://github.com/Traigent/traigent-skills"
+  },
+  {
+    "description": "Open-source email infrastructure for AI agents.",
+    "id": "agentteamhq/agentteam-email",
+    "language": "TypeScript",
+    "name": "agentteamhq/agentteam-email",
+    "stars": 68,
+    "updated_at": "2026-08-01T11:04:04Z",
+    "url": "https://github.com/agentteamhq/agentteam-email"
+  },
+  {
+    "description": "A self-contained browser engine that fetches, renders, and extracts web content as Markdown, JSON, or screenshots \u2014 no C",
+    "id": "konippi/servo-fetch",
+    "language": "Rust",
+    "name": "konippi/servo-fetch",
+    "stars": 132,
+    "updated_at": "2026-08-01T11:03:49Z",
+    "url": "https://github.com/konippi/servo-fetch"
+  },
+  {
+    "description": "The get-paid engine for Stripe + WorkOS apps, for humans and AI agents.",
+    "id": "arnaudjnn/billing-tools",
+    "language": "TypeScript",
+    "name": "arnaudjnn/billing-tools",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:03:17Z",
+    "url": "https://github.com/arnaudjnn/billing-tools"
+  },
+  {
+    "description": "AI skill for personal weekly rpg-style retrospectives where you choose the story",
+    "id": "Pavelgq/weekly-rpg-retro",
+    "language": "\u2014",
+    "name": "Pavelgq/weekly-rpg-retro",
+    "stars": 1,
+    "updated_at": "2026-08-01T11:01:47Z",
+    "url": "https://github.com/Pavelgq/weekly-rpg-retro"
+  },
+  {
+    "description": "The first MCP server that completes real hotel reservations inside AI conversations. Not just search-and-redirect to mid",
+    "id": "STAYKER-COM/1Stay-mcp",
+    "language": "JavaScript",
+    "name": "STAYKER-COM/1Stay-mcp",
+    "stars": 2,
+    "updated_at": "2026-08-01T11:01:02Z",
+    "url": "https://github.com/STAYKER-COM/1Stay-mcp"
+  },
+  {
+    "description": "Claude Code skill for safely operating the user's current Chrome session through extension-backed Playwright MCP",
+    "id": "mikhailpetrusheuski/current-chrome-browser-skill",
+    "language": "TypeScript",
+    "name": "mikhailpetrusheuski/current-chrome-browser-skill",
+    "stars": 0,
+    "updated_at": "2026-08-01T11:00:38Z",
+    "url": "https://github.com/mikhailpetrusheuski/current-chrome-browser-skill"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-08-01T11:00:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-01T11:00:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 468,
-    "updated_at": "2026-08-01T10:59:08Z",
+    "updated_at": "2026-08-01T11:01:21Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
@@ -95,17 +185,8 @@
     "language": "Python",
     "name": "dKosarevsky/albu-mcp",
     "stars": 6,
-    "updated_at": "2026-08-01T10:53:18Z",
+    "updated_at": "2026-08-01T11:01:51Z",
     "url": "https://github.com/dKosarevsky/albu-mcp"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-01T10:53:12Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Personal AI agent skills I use in development workflows.",
@@ -144,15 +225,6 @@
     "url": "https://github.com/saiahi/env-vault-agent"
   },
   {
-    "description": "The get-paid engine for Stripe + WorkOS apps, for humans and AI agents.",
-    "id": "arnaudjnn/billing-tools",
-    "language": "TypeScript",
-    "name": "arnaudjnn/billing-tools",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:51:16Z",
-    "url": "https://github.com/arnaudjnn/billing-tools"
-  },
-  {
     "description": "An open-source, agent-native society experiment to build a compute-powered agent world.",
     "id": "wattetheria/wattetheria",
     "language": "Rust",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:49:29Z",
     "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
-  },
-  {
-    "description": "Claude Code skill for safely operating the user's current Chrome session through extension-backed Playwright MCP",
-    "id": "mikhailpetrusheuski/current-chrome-browser-skill",
-    "language": "\u2014",
-    "name": "mikhailpetrusheuski/current-chrome-browser-skill",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:48:43Z",
-    "url": "https://github.com/mikhailpetrusheuski/current-chrome-browser-skill"
   },
   {
     "description": "Official Wavedash plugins and agent skills for AI coding tools.",
@@ -241,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:46:23Z",
     "url": "https://github.com/zakariaf/CatchLaw"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-08-01T10:45:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Barker MCP server + agent skills \u2014 real-time stablecoin yield index, AI yield advisor, risk signals and non-custodial ex",
@@ -401,7 +455,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 103,
-    "updated_at": "2026-08-01T11:00:01Z",
+    "updated_at": "2026-08-01T11:03:49Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -464,7 +518,7 @@
     "language": "Python",
     "name": "fmanimashaun/claude-skills",
     "stars": 0,
-    "updated_at": "2026-08-01T10:38:12Z",
+    "updated_at": "2026-08-01T11:04:32Z",
     "url": "https://github.com/fmanimashaun/claude-skills"
   },
   {
@@ -482,7 +536,7 @@
     "language": "JavaScript",
     "name": "ievo-ai/skills",
     "stars": 0,
-    "updated_at": "2026-08-01T10:53:47Z",
+    "updated_at": "2026-08-01T11:04:21Z",
     "url": "https://github.com/ievo-ai/skills"
   },
   {
@@ -648,15 +702,6 @@
     "url": "https://github.com/saturrrrrrr/hugin-v0-omnibus"
   },
   {
-    "description": "AI skill for personal weekly rpg-style retrospectives where you choose the story",
-    "id": "Pavelgq/weekly-rpg-retro",
-    "language": "\u2014",
-    "name": "Pavelgq/weekly-rpg-retro",
-    "stars": 1,
-    "updated_at": "2026-08-01T10:11:59Z",
-    "url": "https://github.com/Pavelgq/weekly-rpg-retro"
-  },
-  {
     "description": "\u9762\u5411\u9489\u9489\u4e0e\u53ee\u5f53 OKR \u5de5\u4f5c\u6d41\u7684\u672c\u5730 Agent Skills",
     "id": "stardustai/stardust-skills",
     "language": "Python",
@@ -689,7 +734,7 @@
     "language": "TypeScript",
     "name": "gogoingai/wenqu-skills",
     "stars": 3,
-    "updated_at": "2026-08-01T10:58:18Z",
+    "updated_at": "2026-08-01T11:01:21Z",
     "url": "https://github.com/gogoingai/wenqu-skills"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:56:41Z",
     "url": "https://github.com/0verhead/skills"
-  },
-  {
-    "description": "Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL",
-    "id": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "language": "HTML",
-    "name": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:56:24Z",
-    "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas"
-  },
-  {
-    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
-    "id": "JKHeadley/instar",
-    "language": "TypeScript",
-    "name": "JKHeadley/instar",
-    "stars": 75,
-    "updated_at": "2026-08-01T09:56:07Z",
-    "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Open-source email infrastructure for AI agents.",
-    "id": "agentteamhq/agentteam-email",
-    "language": "TypeScript",
-    "name": "agentteamhq/agentteam-email",
-    "stars": 68,
-    "updated_at": "2026-08-01T09:54:45Z",
-    "url": "https://github.com/agentteamhq/agentteam-email"
-  },
-  {
-    "description": "A central aggregation repository for Agent Skills from Ahoo-Wang's open source projects.",
-    "id": "Ahoo-Wang/skills",
-    "language": "Shell",
-    "name": "Ahoo-Wang/skills",
-    "stars": 3,
-    "updated_at": "2026-08-01T09:54:07Z",
-    "url": "https://github.com/Ahoo-Wang/skills"
-  },
-  {
-    "description": "Agent Skill and Node.js CLI for searching, previewing, downloading, and attributing Freesound audio",
-    "id": "MaksPyn/freesound-skill",
-    "language": "JavaScript",
-    "name": "MaksPyn/freesound-skill",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:54:01Z",
-    "url": "https://github.com/MaksPyn/freesound-skill"
   }
 ]
