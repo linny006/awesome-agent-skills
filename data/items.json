@@ -1,5 +1,59 @@
 [
   {
+    "description": "A coding-agent harness that ships the workflow and the state, not just the instructions: one YAML catalog projected into",
+    "id": "niksavis/basicly",
+    "language": "Python",
+    "name": "niksavis/basicly",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:32:19Z",
+    "url": "https://github.com/niksavis/basicly"
+  },
+  {
+    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
+    "id": "devpilgrin/berimor",
+    "language": "Rust",
+    "name": "devpilgrin/berimor",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:32:09Z",
+    "url": "https://github.com/devpilgrin/berimor"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-01T09:32:25Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
+    "id": "amadeus-dlc/amadeus",
+    "language": "TypeScript",
+    "name": "amadeus-dlc/amadeus",
+    "stars": 5,
+    "updated_at": "2026-08-01T09:31:07Z",
+    "url": "https://github.com/amadeus-dlc/amadeus"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 11,
+    "updated_at": "2026-08-01T09:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-08-01T09:30:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Mimirs402/bountyverdict"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-01T09:30:17Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Octomind Agents Registry",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -126,6 +171,15 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29647,
+    "updated_at": "2026-08-01T09:23:26Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Self-learning AI companion \u2014 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak",
     "id": "antonioshaman/aura-companion",
     "language": "TypeScript",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:23:25Z",
     "url": "https://github.com/antonioshaman/aura-companion"
-  },
-  {
-    "description": "\u0414\u0435\u0442\u0435\u0440\u043c\u0438\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430: \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, ADR, roadmap \u0438 \u0441\u043a\u0435\u043b\u0435\u0442 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 (Rust + TypeScript bootstrap)",
-    "id": "devpilgrin/berimor",
-    "language": "Rust",
-    "name": "devpilgrin/berimor",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:22:03Z",
-    "url": "https://github.com/devpilgrin/berimor"
   },
   {
     "description": "Make the most out of your subscriptions. Delegate work to other harnesses and models, while keeping your main session th",
@@ -198,24 +243,6 @@
     "url": "https://github.com/stardustai/stardust-skills"
   },
   {
-    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
-    "id": "amadeus-dlc/amadeus",
-    "language": "TypeScript",
-    "name": "amadeus-dlc/amadeus",
-    "stars": 5,
-    "updated_at": "2026-08-01T09:20:18Z",
-    "url": "https://github.com/amadeus-dlc/amadeus"
-  },
-  {
-    "description": "A coding-agent harness that ships the workflow and the state, not just the instructions: one YAML catalog projected into",
-    "id": "niksavis/basicly",
-    "language": "Python",
-    "name": "niksavis/basicly",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:19:25Z",
-    "url": "https://github.com/niksavis/basicly"
-  },
-  {
     "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
     "id": "bks-lab/open-bridge",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:19:01Z",
     "url": "https://github.com/Meizu1330/neural-context-archive"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 11,
-    "updated_at": "2026-08-01T09:17:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "iEvo \u2014 self-evolving plugin for Claude Code. Capture lessons, patch local agents and skills, replay logs on upstream upd",
@@ -297,15 +315,6 @@
     "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 14,
-    "updated_at": "2026-08-01T09:15:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
     "id": "GanyuanRan/Aegis",
     "language": "Python",
@@ -338,7 +347,7 @@
     "language": "TypeScript",
     "name": "jtepe/slopclub",
     "stars": 0,
-    "updated_at": "2026-08-01T09:13:58Z",
+    "updated_at": "2026-08-01T09:30:47Z",
     "url": "https://github.com/jtepe/slopclub"
   },
   {
@@ -499,7 +508,7 @@
     "id": "alibaba/open-code-review",
     "language": "Go",
     "name": "alibaba/open-code-review",
-    "stars": 17199,
+    "stars": 17200,
     "updated_at": "2026-08-01T09:02:28Z",
     "url": "https://github.com/alibaba/open-code-review"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T08:26:01Z",
     "url": "https://github.com/Zaious/journal-atlas"
-  },
-  {
-    "description": "AI Stock Partner on Your Mac \u2013 Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Anal",
-    "id": "kansoku-trade/kansoku",
-    "language": "TypeScript",
-    "name": "kansoku-trade/kansoku",
-    "stars": 271,
-    "updated_at": "2026-08-01T08:25:31Z",
-    "url": "https://github.com/kansoku-trade/kansoku"
   }
 ]
