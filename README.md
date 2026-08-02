@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 23:12 UTC
+> ⏰ Last updated: 2026-08-02 23:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mblauberg/provenant](https://github.com/mblauberg/provenant) | 1 | TypeScript | 2026-08-02 | Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC |
-| 2 | [beifeng724/personal-workbench-skills](https://github.com/beifeng724/personal-workbench-skills) | 0 | Python | 2026-08-02 | 个人工作台生成 Skills：用 AI 发现、设计、搭建专属工作台 \| Personal Workbench Skills for AI-built work systems. |
-| 3 | [robium-ai/robium](https://github.com/robium-ai/robium) | 0 | Python | 2026-08-02 | Teach your coding agent robotics — 22 versioned, battle-tested skills for ROS 2, Gazebo, Nav2, LeRobot, Isaac Sim, MuJoC |
-| 4 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-02 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
-| 5 | [kudosity/skills](https://github.com/kudosity/skills) | 0 | — | 2026-08-02 | Agent Skills for the Kudosity messaging platform — send SMS, MMS, WhatsApp and RCS from Claude Code, Cursor, Copilot, Wi |
-| 6 | [SOSkr/baton](https://github.com/SOSkr/baton) | 0 | Python | 2026-08-02 | Work-item lifecycle from idea to shipped. Agent- and backend-agnostic: Plane + GitHub + Claude Code/OpenCode today, adap |
-| 7 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 5 | TypeScript | 2026-08-02 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
-| 8 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3875 | Python | 2026-08-02 | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support |
-| 9 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-08-02 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
-| 10 | [danest/emailbump-skills](https://github.com/danest/emailbump-skills) | 0 | — | 2026-08-02 | Agent skills for Email Bump — teach your coding agent to send email, manage audiences, run campaigns, and stay deliverab |
-| 11 | [tibursocampos/agent-dev-toolkit](https://github.com/tibursocampos/agent-dev-toolkit) | 0 | PowerShell | 2026-08-02 | Multi-agent skills toolkit: sync shared SDD workflows, stack skills, and policy into Cursor, Claude, Codex, Copilot, and |
-| 12 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-02 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
-| 13 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-08-02 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 14 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 15 | Python | 2026-08-02 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 15 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-08-02 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-08-02 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 15 | Python | 2026-08-02 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [mblauberg/provenant](https://github.com/mblauberg/provenant) | 1 | TypeScript | 2026-08-02 | Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC |
+| 4 | [beifeng724/personal-workbench-skills](https://github.com/beifeng724/personal-workbench-skills) | 0 | Python | 2026-08-02 | 个人工作台生成 Skills：用 AI 发现、设计、搭建专属工作台 \| Personal Workbench Skills for AI-built work systems. |
+| 5 | [robium-ai/robium](https://github.com/robium-ai/robium) | 0 | Python | 2026-08-02 | Teach your coding agent robotics — 22 versioned, battle-tested skills for ROS 2, Gazebo, Nav2, LeRobot, Isaac Sim, MuJoC |
+| 6 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-02 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
+| 7 | [kudosity/skills](https://github.com/kudosity/skills) | 0 | — | 2026-08-02 | Agent Skills for the Kudosity messaging platform — send SMS, MMS, WhatsApp and RCS from Claude Code, Cursor, Copilot, Wi |
+| 8 | [SOSkr/baton](https://github.com/SOSkr/baton) | 0 | Python | 2026-08-02 | Work-item lifecycle from idea to shipped. Agent- and backend-agnostic: Plane + GitHub + Claude Code/OpenCode today, adap |
+| 9 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 5 | TypeScript | 2026-08-02 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
+| 10 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | 3875 | Python | 2026-08-02 | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support |
+| 11 | [Trentobobbi/uikit-mastery-playbook](https://github.com/Trentobobbi/uikit-mastery-playbook) | 0 | HTML | 2026-08-02 | UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code |
+| 12 | [danest/emailbump-skills](https://github.com/danest/emailbump-skills) | 0 | — | 2026-08-02 | Agent skills for Email Bump — teach your coding agent to send email, manage audiences, run campaigns, and stay deliverab |
+| 13 | [tibursocampos/agent-dev-toolkit](https://github.com/tibursocampos/agent-dev-toolkit) | 0 | PowerShell | 2026-08-02 | Multi-agent skills toolkit: sync shared SDD workflows, stack skills, and policy into Cursor, Claude, Codex, Copilot, and |
+| 14 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 0 | HTML | 2026-08-02 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 15 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-08-02 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 16 | [dKosarevsky/albu-mcp](https://github.com/dKosarevsky/albu-mcp) | 6 | Python | 2026-08-02 | MCP server for AlbumentationsX image augmentation workflows |
 | 17 | [Sathvikkrishna2520/pev-framework-ts](https://github.com/Sathvikkrishna2520/pev-framework-ts) | 1 | HTML | 2026-08-02 | Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool |
 | 18 | [finestructure-ai/humanizer-multilingual](https://github.com/finestructure-ai/humanizer-multilingual) | 0 | JavaScript | 2026-08-02 | Remove AI-writing tells from Spanish, Portuguese, French, German, Italian, Hebrew, Arabic, Russian, Japanese and Chinese |
@@ -137,7 +137,7 @@ expired items removed — so you can rely on what you see being current.
 | 93 | [usrrname/agent-skills](https://github.com/usrrname/agent-skills) | 0 | Shell | 2026-08-02 | skill dump  |
 | 94 | [paulnsorensen/easy-cheese](https://github.com/paulnsorensen/easy-cheese) | 12 | Python | 2026-08-02 | Cheese your code 🧀 — high-quality results as easy as cheese. A portable, harness-agnostic Agent Skills toolkit. |
 | 95 | [Quadraticdakota57/claude-code-termux](https://github.com/Quadraticdakota57/claude-code-termux) | 0 | Shell | 2026-08-02 | Run Claude Code natively on Android with Termux using the official Linux binary. No root or proot required. |
-| 96 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 759 | TypeScript | 2026-08-02 | Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + or |
+| 96 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 761 | TypeScript | 2026-08-02 | Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + or |
 | 97 | [mehrad-dm/mastermind](https://github.com/mehrad-dm/mastermind) | 13 | Shell | 2026-08-02 | ⚗️ Experimental — A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to  |
 | 98 | [buildinternet/releases](https://github.com/buildinternet/releases) | 3 | TypeScript | 2026-08-02 | Product release note registry, made for agents |
 | 99 | [jon-devlapaz/improve-perceived-value](https://github.com/jon-devlapaz/improve-perceived-value) | 1 | — | 2026-08-02 | Agent skill for diagnosing and ethically improving actual and perceived value |
