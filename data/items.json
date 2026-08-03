@@ -1,5 +1,32 @@
 [
   {
+    "description": "A coding-agent harness that ships the workflow and the state, not just the instructions: one YAML catalog projected into",
+    "id": "niksavis/basicly",
+    "language": "Python",
+    "name": "niksavis/basicly",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:30:38Z",
+    "url": "https://github.com/niksavis/basicly"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 17,
+    "updated_at": "2026-08-03T21:30:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install skills individually (one skill per plugin). External skills are referenced upst",
+    "id": "filippolmt/skills",
+    "language": "JavaScript",
+    "name": "filippolmt/skills",
+    "stars": 0,
+    "updated_at": "2026-08-03T21:30:32Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 12,
     "updated_at": "2026-08-03T21:30:30Z",
     "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 103,
+    "updated_at": "2026-08-03T21:30:57Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
@@ -18,15 +54,6 @@
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "Turn screens into coordinates, and coordinates into action.",
-    "id": "BrunoV21/FerrisGrid-CLI",
-    "language": "Rust",
-    "name": "BrunoV21/FerrisGrid-CLI",
-    "stars": 2,
-    "updated_at": "2026-08-03T21:29:20Z",
-    "url": "https://github.com/BrunoV21/FerrisGrid-CLI"
-  },
-  {
     "description": "Agent-first, safety-first mobile release playbook for Flutter and Firebase apps: App Store Connect, TestFlight, Google P",
     "id": "Srcanesen/mobile-app-ship-playbook",
     "language": "Python",
@@ -36,6 +63,15 @@
     "url": "https://github.com/Srcanesen/mobile-app-ship-playbook"
   },
   {
+    "description": "Turn screens into coordinates, and coordinates into action.",
+    "id": "BrunoV21/FerrisGrid-CLI",
+    "language": "Rust",
+    "name": "BrunoV21/FerrisGrid-CLI",
+    "stars": 2,
+    "updated_at": "2026-08-03T21:29:20Z",
+    "url": "https://github.com/BrunoV21/FerrisGrid-CLI"
+  },
+  {
     "description": "Beautiful, AI-native markdown IDE and LLM wiki",
     "id": "inkeep/open-knowledge",
     "language": "TypeScript",
@@ -43,15 +79,6 @@
     "stars": 3271,
     "updated_at": "2026-08-03T21:28:38Z",
     "url": "https://github.com/inkeep/open-knowledge"
-  },
-  {
-    "description": "A coding-agent harness that ships the workflow and the state, not just the instructions: one YAML catalog projected into",
-    "id": "niksavis/basicly",
-    "language": "Python",
-    "name": "niksavis/basicly",
-    "stars": 0,
-    "updated_at": "2026-08-03T21:28:18Z",
-    "url": "https://github.com/niksavis/basicly"
   },
   {
     "description": "Power your agent with the wisdom of 2k marketers. Get answers from the 10x Marketers community's real WhatsApp history, ",
@@ -99,15 +126,6 @@
     "url": "https://github.com/anilcancakir/claude-code"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 103,
-    "updated_at": "2026-08-03T21:30:20Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "67 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI evals, CI ship-gates",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "JavaScript",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T21:16:51Z",
     "url": "https://github.com/MatrixFounder/Universal-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 17,
-    "updated_at": "2026-08-03T21:15:39Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Turn JSX into brand images (Open Graph, social posts, banners). No browser, no Figma, no server.",
@@ -815,7 +824,7 @@
     "language": "Python",
     "name": "hyperb1iss/sibyl",
     "stars": 47,
-    "updated_at": "2026-08-03T21:10:17Z",
+    "updated_at": "2026-08-03T21:31:25Z",
     "url": "https://github.com/hyperb1iss/sibyl"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 69,
     "updated_at": "2026-08-03T20:24:38Z",
     "url": "https://github.com/cdeust/Cortex"
-  },
-  {
-    "description": "Best AI Coding Workflow Plugin Pipeline 2026",
-    "id": "aufamubarak/plan-execute-verify-claude-code",
-    "language": "HTML",
-    "name": "aufamubarak/plan-execute-verify-claude-code",
-    "stars": 151,
-    "updated_at": "2026-08-03T20:24:05Z",
-    "url": "https://github.com/aufamubarak/plan-execute-verify-claude-code"
   }
 ]
