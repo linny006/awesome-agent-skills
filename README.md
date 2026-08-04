@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 21:58 UTC
+> ⏰ Last updated: 2026-08-04 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [responsibleai/assert-ai-action](https://github.com/responsibleai/assert-ai-action) | 0 | Python | 2026-08-04 | Run ASSERT evals in CI and gate pull requests on paired safety regressions. |
-| 2 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
-| 3 | [0xprogrammable/programmable](https://github.com/0xprogrammable/programmable) | 7 | TypeScript | 2026-08-04 | Open launch-model infrastructure for Uniswap v4 on Ethereum. |
-| 4 | [maxbuildog/skills](https://github.com/maxbuildog/skills) | 0 | JavaScript | 2026-08-04 | Agent skills that measure instead of guessing. Deterministic checks with prevalence from real scans, not intuition. Shop |
-| 5 | [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 687 | JavaScript | 2026-08-04 | Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer. |
-| 6 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-04 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
-| 7 | [CAPHTECH/advisorygraphen](https://github.com/CAPHTECH/advisorygraphen) | 0 | Rust | 2026-08-04 | Evidence-backed advisory structure, CLI contracts, and projections for technical advisory workflows. |
-| 8 | [MuNeNiCK/agent-workbench](https://github.com/MuNeNiCK/agent-workbench) | 0 | Lean | 2026-08-04 |  |
-| 9 | [jd-santos/offgrid-review](https://github.com/jd-santos/offgrid-review) | 0 | Python | 2026-08-04 | Build single-file offline workbenches for structured review and decisions. |
-| 10 | [oscal-compass-lab/compliance-trestle-skills](https://github.com/oscal-compass-lab/compliance-trestle-skills) | 15 | Shell | 2026-08-04 | Agent-portable Compliance Trestle and OSCAL engineering toolkit: convert legacy SSPs to OSCAL, validate with Trestle and |
-| 11 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-08-04 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
-| 12 | [amergrgic/kodama](https://github.com/amergrgic/kodama) | 6 | Shell | 2026-08-04 | Multi-agent pack for the Kiro CLI — one orchestrator, eight specialists, zero lock-in |
-| 13 | [rvdbreemen/adr-kit](https://github.com/rvdbreemen/adr-kit) | 4 | Python | 2026-08-04 | Drop-in ADR toolkit for AI coding agents (Claude Code, Cursor, Copilot, Codex). Skill + agent + instructions + template. |
-| 14 | [7D-codes/claude-for-agents](https://github.com/7D-codes/claude-for-agents) | 2 | JavaScript | 2026-08-04 | Use Claude Code as a persistent, permission-controlled worker from any MCP-compatible agent |
-| 15 | [smith-horn/skillsmith](https://github.com/smith-horn/skillsmith) | 73 | TypeScript | 2026-08-04 | Lifecycle Management for Agent Skills |
-| 16 | [a2uicatalog/a2ui](https://github.com/a2uicatalog/a2ui) | 3 | HTML | 2026-08-04 | Typed UI vocabulary for AI agents using the a2ui protocol  — 474 atoms an agent composes into real rendered interfaces a |
-| 17 | [CaesiumY/ko-design-md](https://github.com/CaesiumY/ko-design-md) | 39 | HTML | 2026-08-04 | 한국 브랜드 디자인 시스템을 Stitch v0.1 마크다운으로 정리한 오픈 카탈로그 — Open catalog of Korean design systems in structured markdown. |
-| 18 | [dwgx/SmartCLI](https://github.com/dwgx/SmartCLI) | 2 | Python | 2026-08-04 | Three Agent Skills over one pluggable PTY + pyte core: drive TUIs, design terminal effects, and render cell-accurate UIs |
-| 19 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-04 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 20 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-08-04 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
-| 21 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-08-04 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 22 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 16 | Python | 2026-08-04 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 23 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-08-04 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 24 | [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) | 318 | Python | 2026-08-04 | All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-08-04 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [owainlewis/youtube-tutorials](https://github.com/owainlewis/youtube-tutorials) | 318 | Python | 2026-08-04 | All my YouTube tutorials. Everything here is free - but please follow me on YouTube if you find these helpful. |
+| 3 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 103 | Kotlin | 2026-08-04 | Helping the Agents Compose the Things |
+| 4 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 16 | Python | 2026-08-04 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 5 | [responsibleai/assert-ai-action](https://github.com/responsibleai/assert-ai-action) | 0 | Python | 2026-08-04 | Run ASSERT evals in CI and gate pull requests on paired safety regressions. |
+| 6 | [0xprogrammable/programmable](https://github.com/0xprogrammable/programmable) | 7 | TypeScript | 2026-08-04 | Open launch-model infrastructure for Uniswap v4 on Ethereum. |
+| 7 | [maxbuildog/skills](https://github.com/maxbuildog/skills) | 0 | JavaScript | 2026-08-04 | Agent skills that measure instead of guessing. Deterministic checks with prevalence from real scans, not intuition. Shop |
+| 8 | [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 687 | JavaScript | 2026-08-04 | Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer. |
+| 9 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-04 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
+| 10 | [CAPHTECH/advisorygraphen](https://github.com/CAPHTECH/advisorygraphen) | 0 | Rust | 2026-08-04 | Evidence-backed advisory structure, CLI contracts, and projections for technical advisory workflows. |
+| 11 | [MuNeNiCK/agent-workbench](https://github.com/MuNeNiCK/agent-workbench) | 0 | Lean | 2026-08-04 |  |
+| 12 | [jd-santos/offgrid-review](https://github.com/jd-santos/offgrid-review) | 0 | Python | 2026-08-04 | Build single-file offline workbenches for structured review and decisions. |
+| 13 | [oscal-compass-lab/compliance-trestle-skills](https://github.com/oscal-compass-lab/compliance-trestle-skills) | 15 | Shell | 2026-08-04 | Agent-portable Compliance Trestle and OSCAL engineering toolkit: convert legacy SSPs to OSCAL, validate with Trestle and |
+| 14 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-08-04 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
+| 15 | [amergrgic/kodama](https://github.com/amergrgic/kodama) | 6 | Shell | 2026-08-04 | Multi-agent pack for the Kiro CLI — one orchestrator, eight specialists, zero lock-in |
+| 16 | [rvdbreemen/adr-kit](https://github.com/rvdbreemen/adr-kit) | 4 | Python | 2026-08-04 | Drop-in ADR toolkit for AI coding agents (Claude Code, Cursor, Copilot, Codex). Skill + agent + instructions + template. |
+| 17 | [7D-codes/claude-for-agents](https://github.com/7D-codes/claude-for-agents) | 2 | JavaScript | 2026-08-04 | Use Claude Code as a persistent, permission-controlled worker from any MCP-compatible agent |
+| 18 | [smith-horn/skillsmith](https://github.com/smith-horn/skillsmith) | 73 | TypeScript | 2026-08-04 | Lifecycle Management for Agent Skills |
+| 19 | [a2uicatalog/a2ui](https://github.com/a2uicatalog/a2ui) | 3 | HTML | 2026-08-04 | Typed UI vocabulary for AI agents using the a2ui protocol  — 474 atoms an agent composes into real rendered interfaces a |
+| 20 | [CaesiumY/ko-design-md](https://github.com/CaesiumY/ko-design-md) | 39 | HTML | 2026-08-04 | 한국 브랜드 디자인 시스템을 Stitch v0.1 마크다운으로 정리한 오픈 카탈로그 — Open catalog of Korean design systems in structured markdown. |
+| 21 | [dwgx/SmartCLI](https://github.com/dwgx/SmartCLI) | 2 | Python | 2026-08-04 | Three Agent Skills over one pluggable PTY + pyte core: drive TUIs, design terminal effects, and render cell-accurate UIs |
+| 22 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 75 | TypeScript | 2026-08-04 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
+| 23 | [saiahi/env-vault-agent](https://github.com/saiahi/env-vault-agent) | 1 | HTML | 2026-08-04 | 2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring |
+| 24 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 11 | Python | 2026-08-04 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
 | 25 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 83639 | TypeScript | 2026-08-04 | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: |
 | 26 | [goldk3y/skills](https://github.com/goldk3y/skills) | 0 | Shell | 2026-08-04 | Agent skills for coding agents. Install with: npx skills add goldk3y/skills |
 | 27 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-04 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
 | 28 | [team-telnyx/ai](https://github.com/team-telnyx/ai) | 201 | TypeScript | 2026-08-04 | Official one-stop shop for AI Agents and developers building with Telnyx. |
 | 29 | [pome-sh/digital-twins](https://github.com/pome-sh/digital-twins) | 11 | TypeScript | 2026-08-04 | Self-hostable Digital Twins of Different APIs For E2E & Agent Simulation Testing |
 | 30 | [eliasstravik/skills](https://github.com/eliasstravik/skills) | 18 | Shell | 2026-08-04 | Nine eval-built agent workflows for planning, implementation, copy, and repository work. |
-| 31 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29775 | Python | 2026-08-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 31 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29776 | Python | 2026-08-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 32 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-08-04 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
 | 33 | [HetCreep/CoalMine](https://github.com/HetCreep/CoalMine) | 11 | JavaScript | 2026-08-04 | Nine quality-canary skills for AI coding agents - code health, world-class rule completeness, grounding, supply chain, r |
 | 34 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 7 | TypeScript | 2026-08-04 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
