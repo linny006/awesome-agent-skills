@@ -1,5 +1,68 @@
 [
   {
+    "description": "My main list of vendor-agnostic agent skills and harness configs",
+    "id": "anton-winter-arch/dotagents",
+    "language": "Python",
+    "name": "anton-winter-arch/dotagents",
+    "stars": 1,
+    "updated_at": "2026-08-07T23:17:40Z",
+    "url": "https://github.com/anton-winter-arch/dotagents"
+  },
+  {
+    "description": "A coding-agent harness that ships the workflow and the state, not just the instructions: one YAML catalog projected into",
+    "id": "niksavis/basicly",
+    "language": "Python",
+    "name": "niksavis/basicly",
+    "stars": 0,
+    "updated_at": "2026-08-07T23:17:01Z",
+    "url": "https://github.com/niksavis/basicly"
+  },
+  {
+    "description": "zephex Hosted MCP skill pack  10 tools, 13 editors (Claude Code, Cursor, VS Code + 10 more). Live repo analysis package ",
+    "id": "zephexMCP/agent-skills",
+    "language": "JavaScript",
+    "name": "zephexMCP/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-08-07T23:16:33Z",
+    "url": "https://github.com/zephexMCP/agent-skills"
+  },
+  {
+    "description": "Full-cycle delivery orchestrator for AI coding agents: a mandatory intake grill that front-loads every decision, then te",
+    "id": "ssheleg/task-pipeline",
+    "language": "Python",
+    "name": "ssheleg/task-pipeline",
+    "stars": 2,
+    "updated_at": "2026-08-07T23:16:04Z",
+    "url": "https://github.com/ssheleg/task-pipeline"
+  },
+  {
+    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
+    "id": "silverstein/minutes",
+    "language": "Rust",
+    "name": "silverstein/minutes",
+    "stars": 1415,
+    "updated_at": "2026-08-07T23:16:02Z",
+    "url": "https://github.com/silverstein/minutes"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 13,
+    "updated_at": "2026-08-07T23:15:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-07T23:15:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "amadeus-dlc/amadeus",
     "stars": 5,
-    "updated_at": "2026-08-07T23:15:13Z",
+    "updated_at": "2026-08-07T23:17:36Z",
     "url": "https://github.com/amadeus-dlc/amadeus"
   },
   {
@@ -59,7 +122,7 @@
     "language": "TypeScript",
     "name": "inkeep/open-knowledge",
     "stars": 3319,
-    "updated_at": "2026-08-07T23:12:59Z",
+    "updated_at": "2026-08-07T23:16:16Z",
     "url": "https://github.com/inkeep/open-knowledge"
   },
   {
@@ -86,17 +149,8 @@
     "language": "TypeScript",
     "name": "JSONbored/metagraphed",
     "stars": 12,
-    "updated_at": "2026-08-07T23:11:27Z",
+    "updated_at": "2026-08-07T23:16:15Z",
     "url": "https://github.com/JSONbored/metagraphed"
-  },
-  {
-    "description": "Full-cycle delivery orchestrator for AI coding agents: a mandatory intake grill that front-loads every decision, then te",
-    "id": "ssheleg/task-pipeline",
-    "language": "Python",
-    "name": "ssheleg/task-pipeline",
-    "stars": 2,
-    "updated_at": "2026-08-07T23:10:09Z",
-    "url": "https://github.com/ssheleg/task-pipeline"
   },
   {
     "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
@@ -140,17 +194,8 @@
     "language": "Shell",
     "name": "eai-org/agent-toolkit",
     "stars": 31,
-    "updated_at": "2026-08-07T23:07:20Z",
+    "updated_at": "2026-08-07T23:16:34Z",
     "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
-    "description": "zephex Hosted MCP skill pack  10 tools, 13 editors (Claude Code, Cursor, VS Code + 10 more). Live repo analysis package ",
-    "id": "zephexMCP/agent-skills",
-    "language": "JavaScript",
-    "name": "zephexMCP/agent-skills",
-    "stars": 3,
-    "updated_at": "2026-08-07T23:07:18Z",
-    "url": "https://github.com/zephexMCP/agent-skills"
   },
   {
     "description": "Obsidian-backed workflow skills for coding agents",
@@ -234,15 +279,6 @@
     "url": "https://github.com/upex-galaxy/agentic-qa-boilerplate"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 13,
-    "updated_at": "2026-08-07T23:00:41Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Plugin-native baseline brain for Alex ACT, with critical-thinking instructions, reusable agent skills, prompts, and tool",
     "id": "fabioc-aloha/Alex_ACT_Core",
     "language": "JavaScript",
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T23:00:40Z",
     "url": "https://github.com/fabioc-aloha/Alex_ACT_Core"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-07T23:00:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
@@ -322,15 +349,6 @@
     "stars": 7,
     "updated_at": "2026-08-07T22:57:02Z",
     "url": "https://github.com/Magithar/SKILLmama"
-  },
-  {
-    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
-    "id": "silverstein/minutes",
-    "language": "Rust",
-    "name": "silverstein/minutes",
-    "stars": 1415,
-    "updated_at": "2026-08-07T23:02:31Z",
-    "url": "https://github.com/silverstein/minutes"
   },
   {
     "description": "Open-source workflow layer for Codex, Claude Code and other coding agents: planning, persistent context, explicit execut",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T22:10:05Z",
     "url": "https://github.com/nbsp1221/skillpin"
-  },
-  {
-    "description": "Open-source e-commerce agent skills for the SKU.io API \u2014 authored once, generated for Claude, OpenAI, and Gemini.",
-    "id": "skuio/sku-skills",
-    "language": "JavaScript",
-    "name": "skuio/sku-skills",
-    "stars": 1,
-    "updated_at": "2026-08-07T22:10:04Z",
-    "url": "https://github.com/skuio/sku-skills"
-  },
-  {
-    "description": "The structurally-verified context layer for AI coding agents. Cut 50-90% of your agent's token spend.",
-    "id": "rynald0cst0ltziam/Warden-AI",
-    "language": "TypeScript",
-    "name": "rynald0cst0ltziam/Warden-AI",
-    "stars": 3,
-    "updated_at": "2026-08-07T22:08:50Z",
-    "url": "https://github.com/rynald0cst0ltziam/Warden-AI"
   }
 ]
