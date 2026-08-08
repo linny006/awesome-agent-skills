@@ -1,12 +1,21 @@
 [
   {
-    "description": "Public agent skills from SylphxAI \u2014 standards, product procedures, and one-command sync for Codex, Claude Code, and Grok",
-    "id": "SylphxAI/skills",
-    "language": "JavaScript",
-    "name": "SylphxAI/skills",
-    "stars": 1,
-    "updated_at": "2026-08-08T02:09:44Z",
-    "url": "https://github.com/SylphxAI/skills"
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-08T02:15:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A Claude Code development workflow plugin: walks every piece of work through the six Working Geniuses (Wonder, Invention",
+    "id": "donald-ada/workinggenius",
+    "language": "Shell",
+    "name": "donald-ada/workinggenius",
+    "stars": 5,
+    "updated_at": "2026-08-08T02:14:49Z",
+    "url": "https://github.com/donald-ada/workinggenius"
   },
   {
     "description": "Bittensor didn't ship with a map. We drew one \u2014 chain-direct block explorer, developer registry, and an agent toolkit bu",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "JSONbored/metagraphed",
     "stars": 12,
-    "updated_at": "2026-08-08T02:09:23Z",
+    "updated_at": "2026-08-08T02:14:41Z",
     "url": "https://github.com/JSONbored/metagraphed"
+  },
+  {
+    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+    "id": "agentlas-ai/Agentlas-OS",
+    "language": "Python",
+    "name": "agentlas-ai/Agentlas-OS",
+    "stars": 1142,
+    "updated_at": "2026-08-08T02:14:20Z",
+    "url": "https://github.com/agentlas-ai/Agentlas-OS"
+  },
+  {
+    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
+    "id": "silverstein/minutes",
+    "language": "Rust",
+    "name": "silverstein/minutes",
+    "stars": 1414,
+    "updated_at": "2026-08-08T02:13:20Z",
+    "url": "https://github.com/silverstein/minutes"
+  },
+  {
+    "description": "\u8d5b\u535a\u4e66\u5c4b\uff1a\u8ba9 Codex\u3001Claude\u3001WorkBuddy \u628a\u6587\u7ae0\u3001\u89c6\u9891\u548c\u64ad\u5ba2\u6c89\u6dc0\u8fdb\u672c\u5730 Obsidian\uff0c\u652f\u6301\u98de\u4e66\u4e0e\u5fae\u4fe1\u52a9\u7406\u5165\u53e3",
+    "id": "Raven7979/cyber-bookhouse",
+    "language": "Python",
+    "name": "Raven7979/cyber-bookhouse",
+    "stars": 5,
+    "updated_at": "2026-08-08T02:12:53Z",
+    "url": "https://github.com/Raven7979/cyber-bookhouse"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
+    "id": "revenantworks/citadel",
+    "language": "Python",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-08-08T02:11:30Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-08T02:10:12Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Public agent skills from SylphxAI \u2014 standards, product procedures, and one-command sync for Codex, Claude Code, and Grok",
+    "id": "SylphxAI/skills",
+    "language": "JavaScript",
+    "name": "SylphxAI/skills",
+    "stars": 1,
+    "updated_at": "2026-08-08T02:15:00Z",
+    "url": "https://github.com/SylphxAI/skills"
   },
   {
     "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T02:04:50Z",
     "url": "https://github.com/gurutersesat24/ai-site-forge"
-  },
-  {
-    "description": "\u8d5b\u535a\u4e66\u5c4b\uff1a\u8ba9 Codex\u3001Claude\u3001WorkBuddy \u628a\u6587\u7ae0\u3001\u89c6\u9891\u548c\u64ad\u5ba2\u6c89\u6dc0\u8fdb\u672c\u5730 Obsidian\uff0c\u652f\u6301\u98de\u4e66\u4e0e\u5fae\u4fe1\u52a9\u7406\u5165\u53e3",
-    "id": "Raven7979/cyber-bookhouse",
-    "language": "Python",
-    "name": "Raven7979/cyber-bookhouse",
-    "stars": 5,
-    "updated_at": "2026-08-08T02:05:10Z",
-    "url": "https://github.com/Raven7979/cyber-bookhouse"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -151,33 +205,6 @@
     "stars": 13,
     "updated_at": "2026-08-08T02:00:33Z",
     "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 18,
-    "updated_at": "2026-08-08T02:00:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
-    "id": "silverstein/minutes",
-    "language": "Rust",
-    "name": "silverstein/minutes",
-    "stars": 1414,
-    "updated_at": "2026-08-08T02:00:29Z",
-    "url": "https://github.com/silverstein/minutes"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 3,
-    "updated_at": "2026-08-08T02:00:18Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code",
@@ -378,15 +405,6 @@
     "url": "https://github.com/lzehrung/review-until-clean-odw"
   },
   {
-    "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
-    "id": "agentlas-ai/Agentlas-OS",
-    "language": "Python",
-    "name": "agentlas-ai/Agentlas-OS",
-    "stars": 1142,
-    "updated_at": "2026-08-08T01:45:26Z",
-    "url": "https://github.com/agentlas-ai/Agentlas-OS"
-  },
-  {
     "description": "Goldilocks\uff1a\u7cbe\u7b80\u7684 Superpowers \u66ff\u4ee3\u65b9\u6848\uff5cv0.4.1 Direct \u5bf9\u7167 114/114 \u901a\u8fc7\uff0c\u5904\u7406 token \u221211.5%\u3001\u8017\u65f6 \u221210.9%\u3001\u5b98\u65b9\u6210\u672c \u22126.3%\u3002Lean, token-efficient A",
     "id": "blackstone2333/goldilocks",
     "language": "Python",
@@ -513,15 +531,6 @@
     "url": "https://github.com/api-evangelist/perseus"
   },
   {
-    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude.",
-    "id": "revenantworks/citadel",
-    "language": "Python",
-    "name": "revenantworks/citadel",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:26:23Z",
-    "url": "https://github.com/revenantworks/citadel"
-  },
-  {
     "description": "Numeric is an AI close-automation platform that unifies close management, financial reporting, and cash operations for c",
     "id": "api-evangelist/numeric",
     "language": "\u2014",
@@ -572,7 +581,7 @@
     "language": "Python",
     "name": "SathiaAI/adversarial-review",
     "stars": 0,
-    "updated_at": "2026-08-08T02:09:38Z",
+    "updated_at": "2026-08-08T02:12:53Z",
     "url": "https://github.com/SathiaAI/adversarial-review"
   },
   {
@@ -814,8 +823,8 @@
     "id": "CherryHQ/cherry-studio",
     "language": "TypeScript",
     "name": "CherryHQ/cherry-studio",
-    "stars": 50026,
-    "updated_at": "2026-08-08T00:58:48Z",
+    "stars": 50029,
+    "updated_at": "2026-08-08T02:13:28Z",
     "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T00:44:21Z",
     "url": "https://github.com/LFTPadilla/agent-dev-kit"
-  },
-  {
-    "description": "Agent Skills for Claude Code / agentskills.io-compatible agents. Cloudflare Workers + Discord integration patterns.",
-    "id": "okayus/okayus-skills",
-    "language": "Shell",
-    "name": "okayus/okayus-skills",
-    "stars": 0,
-    "updated_at": "2026-08-08T00:41:26Z",
-    "url": "https://github.com/okayus/okayus-skills"
   }
 ]
