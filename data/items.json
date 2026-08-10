@@ -1,5 +1,23 @@
 [
   {
+    "description": "Personal agent skills for Claude Code and Codex, installable via the skills CLI (skills.sh): context-window and memory i",
+    "id": "Mark-Life/agent-skills",
+    "language": "TypeScript",
+    "name": "Mark-Life/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:16:20Z",
+    "url": "https://github.com/Mark-Life/agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-10T15:15:44Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 14,
     "updated_at": "2026-08-10T15:15:39Z",
     "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
+    "id": "silverstein/minutes",
+    "language": "Rust",
+    "name": "silverstein/minutes",
+    "stars": 1417,
+    "updated_at": "2026-08-10T15:16:19Z",
+    "url": "https://github.com/silverstein/minutes"
   },
   {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
@@ -43,6 +70,15 @@
     "stars": 5,
     "updated_at": "2026-08-10T15:13:38Z",
     "url": "https://github.com/Bruno-Cunha-Souza/ValarMindSkills"
+  },
+  {
+    "description": "BenedictKing's Agent Skills collection for Claude Code and compatible agents",
+    "id": "BenedictKing/benedictking-skills",
+    "language": "JavaScript",
+    "name": "BenedictKing/benedictking-skills",
+    "stars": 13,
+    "updated_at": "2026-08-10T15:12:41Z",
+    "url": "https://github.com/BenedictKing/benedictking-skills"
   },
   {
     "description": "OE Runtime -  Embeddable AI Agent Runtime for Independent Software Vendors (ISVs) and Integrators",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "CherryHQ/cherry-studio",
     "stars": 50228,
-    "updated_at": "2026-08-10T15:14:30Z",
+    "updated_at": "2026-08-10T15:15:47Z",
     "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
@@ -383,17 +419,8 @@
     "language": "TypeScript",
     "name": "arnaudjnn/billing-tools",
     "stars": 0,
-    "updated_at": "2026-08-10T15:00:52Z",
+    "updated_at": "2026-08-10T15:16:26Z",
     "url": "https://github.com/arnaudjnn/billing-tools"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-10T15:00:52Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
@@ -482,7 +509,7 @@
     "language": "JavaScript",
     "name": "SylphxAI/skills",
     "stars": 1,
-    "updated_at": "2026-08-10T15:01:05Z",
+    "updated_at": "2026-08-10T15:15:57Z",
     "url": "https://github.com/SylphxAI/skills"
   },
   {
@@ -662,7 +689,7 @@
     "language": "TypeScript",
     "name": "oneworks-ai/app",
     "stars": 14,
-    "updated_at": "2026-08-10T15:02:28Z",
+    "updated_at": "2026-08-10T15:15:57Z",
     "url": "https://github.com/oneworks-ai/app"
   },
   {
@@ -689,7 +716,7 @@
     "language": "TypeScript",
     "name": "0xprogrammable/programmable",
     "stars": 10,
-    "updated_at": "2026-08-10T15:13:43Z",
+    "updated_at": "2026-08-10T15:16:03Z",
     "url": "https://github.com/0xprogrammable/programmable"
   },
   {
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:37:17Z",
     "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Claude skill that prevents and removes AI slop in German and English text",
-    "id": "jlwin/unslop_ai",
-    "language": "\u2014",
-    "name": "jlwin/unslop_ai",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:36:37Z",
-    "url": "https://github.com/jlwin/unslop_ai"
-  },
-  {
-    "description": "Download B\u7ad9 audio/video with anti-412 bypass, login for HD, batch download, and clip extraction via CLI.",
-    "id": "anthonysong1230/bilibili-downloader-skill",
-    "language": "Jupyter Notebook",
-    "name": "anthonysong1230/bilibili-downloader-skill",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:36:36Z",
-    "url": "https://github.com/anthonysong1230/bilibili-downloader-skill"
-  },
-  {
-    "description": "Run Claude Code natively on Android with Termux using the official Linux binary. No root or proot required.",
-    "id": "Quadraticdakota57/claude-code-termux",
-    "language": "Shell",
-    "name": "Quadraticdakota57/claude-code-termux",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:36:31Z",
-    "url": "https://github.com/Quadraticdakota57/claude-code-termux"
   }
 ]
