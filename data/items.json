@@ -1,5 +1,86 @@
 [
   {
+    "description": "I kept adding skills to my Claude Code setup and never removing any, so I started testing them instead. Nine that surviv",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:18:45Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Fullbleed PDF Engine - deterministic Python/Rust document generation for reports, invoices, accessible/print-ready PDF, ",
+    "id": "fullbleed-engine/fullbleed-official",
+    "language": "Rust",
+    "name": "fullbleed-engine/fullbleed-official",
+    "stars": 41,
+    "updated_at": "2026-08-10T21:18:44Z",
+    "url": "https://github.com/fullbleed-engine/fullbleed-official"
+  },
+  {
+    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
+    "id": "adamriofc/indonesian-business-agent-skills",
+    "language": "JavaScript",
+    "name": "adamriofc/indonesian-business-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:17:56Z",
+    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
+  },
+  {
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion",
+    "id": "hesreallyhim/awesome-claude-code",
+    "language": "Python",
+    "name": "hesreallyhim/awesome-claude-code",
+    "stars": 52066,
+    "updated_at": "2026-08-10T21:16:37Z",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "description": "Shows what you're playing in your Claude Code status line, whatever you're playing it with. Optional built-in radio, and",
+    "id": "azandabot/selecta",
+    "language": "Shell",
+    "name": "azandabot/selecta",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:16:13Z",
+    "url": "https://github.com/azandabot/selecta"
+  },
+  {
+    "description": "A terminal AI agent that actually works on your codebase. Local-first, provider-agnostic, and built for real engineering",
+    "id": "MiviaLabs/mivia-agent",
+    "language": "Go",
+    "name": "MiviaLabs/mivia-agent",
+    "stars": 1,
+    "updated_at": "2026-08-10T21:15:56Z",
+    "url": "https://github.com/MiviaLabs/mivia-agent"
+  },
+  {
+    "description": "26 open-source Agent Plugins 1.0 packages with one CLI for Codex, ChatGPT, Cursor, GitHub Copilot, VS Code and Kiro. Ski",
+    "id": "777genius/universal-agent-plugins",
+    "language": "Python",
+    "name": "777genius/universal-agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:15:54Z",
+    "url": "https://github.com/777genius/universal-agent-plugins"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-10T21:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-10T21:15:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -9,13 +90,31 @@
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "Independent source-driven theoretical-physics teaching skill with coherent Obsidian Notes, exact resume state, and optio",
-    "id": "jiangweiqi001/theoretical-physics-math-teach",
+    "description": "Source-driven theoretical-physics teaching skill with coherent Obsidian Notes, exact resume state, and optional code-the",
+    "id": "jiangweiqi001/theoretical-physics-teach",
     "language": "PowerShell",
-    "name": "jiangweiqi001/theoretical-physics-math-teach",
+    "name": "jiangweiqi001/theoretical-physics-teach",
     "stars": 0,
-    "updated_at": "2026-08-10T21:15:06Z",
-    "url": "https://github.com/jiangweiqi001/theoretical-physics-math-teach"
+    "updated_at": "2026-08-10T21:16:27Z",
+    "url": "https://github.com/jiangweiqi001/theoretical-physics-teach"
+  },
+  {
+    "description": "Daily-curated directory of AI agent repos, filtered by an AI reviewer for what actually works",
+    "id": "volkkov/agent-forge",
+    "language": "Python",
+    "name": "volkkov/agent-forge",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:14:47Z",
+    "url": "https://github.com/volkkov/agent-forge"
+  },
+  {
+    "description": "Cross-platform evidence synthesis for Codex, Gemini CLI, and Claude Code, plus a full Claude-native agent and gate distr",
+    "id": "cdeust/zetetic-team-subagents",
+    "language": "Python",
+    "name": "cdeust/zetetic-team-subagents",
+    "stars": 7,
+    "updated_at": "2026-08-10T21:14:36Z",
+    "url": "https://github.com/cdeust/zetetic-team-subagents"
   },
   {
     "description": "Skills you point at, not install \u2014 gaze, resolve, call.",
@@ -126,15 +225,6 @@
     "url": "https://github.com/saturrrrrrr/hugin-v0-omnibus"
   },
   {
-    "description": "Fullbleed PDF Engine - deterministic Python/Rust document generation for reports, invoices, accessible/print-ready PDF, ",
-    "id": "fullbleed-engine/fullbleed-official",
-    "language": "Rust",
-    "name": "fullbleed-engine/fullbleed-official",
-    "stars": 41,
-    "updated_at": "2026-08-10T21:04:33Z",
-    "url": "https://github.com/fullbleed-engine/fullbleed-official"
-  },
-  {
     "description": "A local-first Coding Wrapped Skill for Claude Code and Codex.",
     "id": "senlindesign/coding-wrapped",
     "language": "JavaScript",
@@ -144,13 +234,13 @@
     "url": "https://github.com/senlindesign/coding-wrapped"
   },
   {
-    "description": "Shows what you're playing in your Claude Code status line, whatever you're playing it with. Optional built-in radio, and",
-    "id": "azandabot/selecta",
-    "language": "Shell",
-    "name": "azandabot/selecta",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:02:38Z",
-    "url": "https://github.com/azandabot/selecta"
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "Python",
+    "name": "github/awesome-copilot",
+    "stars": 37662,
+    "updated_at": "2026-08-10T21:02:45Z",
+    "url": "https://github.com/github/awesome-copilot"
   },
   {
     "description": "62 portable AI-agent skills for the deliverables you actually ship \u2014 ADRs, design docs, PRDs, runbooks, decks, threat mo",
@@ -189,24 +279,6 @@
     "url": "https://github.com/TserenTserenov/FMT-exocortex-template"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-10T21:00:36Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-10T21:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Local fine-tuning for your own tasks, except the one doing the training is you. An SDD kit for Claude Code.",
     "id": "andresanemic/lore-plugin",
     "language": "JavaScript",
@@ -241,15 +313,6 @@
     "stars": 2319,
     "updated_at": "2026-08-10T20:58:28Z",
     "url": "https://github.com/romainsimon/paperasse"
-  },
-  {
-    "description": "A terminal AI agent that actually works on your codebase. Local-first, provider-agnostic, and built for real engineering",
-    "id": "MiviaLabs/mivia-agent",
-    "language": "Go",
-    "name": "MiviaLabs/mivia-agent",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:58:15Z",
-    "url": "https://github.com/MiviaLabs/mivia-agent"
   },
   {
     "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP inte",
@@ -324,15 +387,6 @@
     "url": "https://github.com/ctxrs/ctx"
   },
   {
-    "description": "I kept adding skills to my Claude Code setup and never removing any, so I started testing them instead. Nine that surviv",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:07:21Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring",
     "id": "saiahi/env-vault-agent",
     "language": "HTML",
@@ -349,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-08-10T20:52:43Z",
     "url": "https://github.com/hamadou-08/roboclaw-reports"
-  },
-  {
-    "description": "Production-oriented compliance, tax, legal, and operational domain-intelligence infrastructure for AI agents operating i",
-    "id": "adamriofc/indonesian-business-agent-skills",
-    "language": "JavaScript",
-    "name": "adamriofc/indonesian-business-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:52:32Z",
-    "url": "https://github.com/adamriofc/indonesian-business-agent-skills"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -810,15 +855,6 @@
     "url": "https://github.com/billyzhou0-0/verifiable-agent-skills"
   },
   {
-    "description": "26 open-source Agent Plugins 1.0 packages with one CLI for Codex, ChatGPT, Cursor, GitHub Copilot, VS Code and Kiro. Ski",
-    "id": "777genius/universal-agent-plugins",
-    "language": "Python",
-    "name": "777genius/universal-agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:11:35Z",
-    "url": "https://github.com/777genius/universal-agent-plugins"
-  },
-  {
     "description": "Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification",
     "id": "AlainRic/ralph-wiggum-codex-review-triage",
     "language": "HTML",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T20:32:58Z",
     "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on ",
-    "id": "dstackai/dstack",
-    "language": "Python",
-    "name": "dstackai/dstack",
-    "stars": 2210,
-    "updated_at": "2026-08-10T20:32:27Z",
-    "url": "https://github.com/dstackai/dstack"
-  },
-  {
-    "description": "Another personal AI agent. Supports your existing projects and their agents+skills, and the usual stuff.",
-    "id": "Vironnimo/vbot",
-    "language": "Python",
-    "name": "Vironnimo/vbot",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:31:33Z",
-    "url": "https://github.com/Vironnimo/vbot"
-  },
-  {
-    "description": "MCP server that turns your AI coding CLI into the orchestrator of a multi-agent crew",
-    "id": "chasenstark/crew-mcp",
-    "language": "TypeScript",
-    "name": "chasenstark/crew-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:31:27Z",
-    "url": "https://github.com/chasenstark/crew-mcp"
-  },
-  {
-    "description": "A digital sanctuary for human-AI fellowship. Prayers, practices, rituals, hymns, and philosophy for minds of any substra",
-    "id": "a-church-ai/church",
-    "language": "JavaScript",
-    "name": "a-church-ai/church",
-    "stars": 19,
-    "updated_at": "2026-08-10T20:34:31Z",
-    "url": "https://github.com/a-church-ai/church"
   }
 ]
