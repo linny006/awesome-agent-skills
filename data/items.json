@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "id": "dmmulroy/anti-slop",
+    "language": "TypeScript",
+    "name": "dmmulroy/anti-slop",
+    "stars": 290,
+    "updated_at": "2026-08-12T22:02:03Z",
+    "url": "https://github.com/dmmulroy/anti-slop"
+  },
+  {
+    "description": "\ud83e\udd16 Automate workflows with the Claude Agent Framework, allowing flexible execution and seamless integration for efficient",
+    "id": "gungarp/agent-runner",
     "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 4,
-    "updated_at": "2026-08-12T22:00:17Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+    "name": "gungarp/agent-runner",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:01:35Z",
+    "url": "https://github.com/gungarp/agent-runner"
   },
   {
     "description": "Turn your Android phone into an SMS and call gateway for AI agents.",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "guanxiong/VibeSMS",
     "stars": 1,
-    "updated_at": "2026-08-12T22:00:01Z",
+    "updated_at": "2026-08-12T22:01:11Z",
     "url": "https://github.com/guanxiong/VibeSMS"
+  },
+  {
+    "description": "Catch AI agents gaming their test suites",
+    "id": "catfish-1234/proctor",
+    "language": "TypeScript",
+    "name": "catfish-1234/proctor",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:02:18Z",
+    "url": "https://github.com/catfish-1234/proctor"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-12T22:01:25Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-12T22:00:52Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 14,
+    "updated_at": "2026-08-12T22:00:42Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-12T22:00:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "A skills-only Codex plugin that repairs consequential prompt ambiguity without slowing clear work.",
@@ -50,7 +104,7 @@
     "language": "Shell",
     "name": "Studio-Moser/skills-n-stuff",
     "stars": 0,
-    "updated_at": "2026-08-12T21:58:55Z",
+    "updated_at": "2026-08-12T22:02:41Z",
     "url": "https://github.com/Studio-Moser/skills-n-stuff"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T21:58:47Z",
     "url": "https://github.com/engineering87/pa-reviewer"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 14,
-    "updated_at": "2026-08-12T21:58:42Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Safely configure and verify isolated Linear MCP connections across multiple workspaces.",
@@ -124,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-12T21:57:34Z",
     "url": "https://github.com/bestdeejay-design/agent-skills"
-  },
-  {
-    "description": "Catch AI agents gaming their test suites",
-    "id": "catfish-1234/proctor",
-    "language": "TypeScript",
-    "name": "catfish-1234/proctor",
-    "stars": 1,
-    "updated_at": "2026-08-12T21:57:32Z",
-    "url": "https://github.com/catfish-1234/proctor"
   },
   {
     "description": "Lifecycle Management for Agent Skills",
@@ -369,15 +405,6 @@
     "url": "https://github.com/danielgwilson/luxin"
   },
   {
-    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-    "id": "dmmulroy/anti-slop",
-    "language": "TypeScript",
-    "name": "dmmulroy/anti-slop",
-    "stars": 289,
-    "updated_at": "2026-08-12T21:48:15Z",
-    "url": "https://github.com/dmmulroy/anti-slop"
-  },
-  {
     "description": "Agent skills for git-loopy: an engineering workflow from idea to ship. Inspired by mattpocock/skills.",
     "id": "bradcstevens/git-loopy-skills",
     "language": "Shell",
@@ -430,15 +457,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T21:46:13Z",
     "url": "https://github.com/Pr1m4lc0d3/RAID"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 19,
-    "updated_at": "2026-08-12T21:45:39Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Let agents share files accross machines",
@@ -832,7 +850,7 @@
     "id": "hesreallyhim/awesome-claude-code",
     "language": "Python",
     "name": "hesreallyhim/awesome-claude-code",
-    "stars": 52211,
+    "stars": 52212,
     "updated_at": "2026-08-12T21:16:50Z",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T21:08:13Z",
     "url": "https://github.com/antonbru/hermes-ai-dev"
-  },
-  {
-    "description": "2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers",
-    "id": "saturrrrrrr/hugin-v0-omnibus",
-    "language": "HTML",
-    "name": "saturrrrrrr/hugin-v0-omnibus",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:08:12Z",
-    "url": "https://github.com/saturrrrrrr/hugin-v0-omnibus"
-  },
-  {
-    "description": "Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, planning, execution, review, and goal loo",
-    "id": "JinPLu/Teamwork",
-    "language": "Shell",
-    "name": "JinPLu/Teamwork",
-    "stars": 11,
-    "updated_at": "2026-08-12T21:07:56Z",
-    "url": "https://github.com/JinPLu/Teamwork"
   }
 ]
