@@ -1,5 +1,86 @@
 [
   {
+    "description": "Give your AI agents persistent memory and session continuity in your Obsidian vault \u2014 a conversational interview scaffol",
+    "id": "aliasunder/vault-onboarding",
+    "language": "TypeScript",
+    "name": "aliasunder/vault-onboarding",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:50:32Z",
+    "url": "https://github.com/aliasunder/vault-onboarding"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 108,
+    "updated_at": "2026-08-14T21:51:03Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
+    "id": "silverstein/minutes",
+    "language": "Rust",
+    "name": "silverstein/minutes",
+    "stars": 1431,
+    "updated_at": "2026-08-14T21:48:55Z",
+    "url": "https://github.com/silverstein/minutes"
+  },
+  {
+    "description": "Cross-LLM sub-agent orchestration as an Agent Skills. Route tasks to Codex, Claude Code, Grok, GLM, Kimi, Cursor, Gemini",
+    "id": "shinpr/sub-agents-skills",
+    "language": "Python",
+    "name": "shinpr/sub-agents-skills",
+    "stars": 78,
+    "updated_at": "2026-08-14T21:48:30Z",
+    "url": "https://github.com/shinpr/sub-agents-skills"
+  },
+  {
+    "description": "Local-first MCP server, Agent Skill, and WebExtension for precise Firefox tab and tab-group management.",
+    "id": "Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
+    "language": "TypeScript",
+    "name": "Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:48:24Z",
+    "url": "https://github.com/Johnnyzlee/agent-bridge-for-tab-management-in-firefox"
+  },
+  {
+    "description": "Vigilante is a sandbox-first orchestration layer for coding agents. It isolates every task in a git worktree, enforces s",
+    "id": "aliengiraffe/vigilante",
+    "language": "Go",
+    "name": "aliengiraffe/vigilante",
+    "stars": 36,
+    "updated_at": "2026-08-14T21:48:02Z",
+    "url": "https://github.com/aliengiraffe/vigilante"
+  },
+  {
+    "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
+    "id": "Bateelco/neo4j-agent-toolkit",
+    "language": "HTML",
+    "name": "Bateelco/neo4j-agent-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:47:05Z",
+    "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
+  },
+  {
+    "description": "Portable skills for AI agents \u2014 a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for",
+    "id": "timharris707/skills",
+    "language": "Python",
+    "name": "timharris707/skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:49:25Z",
+    "url": "https://github.com/timharris707/skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 20,
+    "updated_at": "2026-08-14T21:45:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -45,15 +126,6 @@
     "url": "https://github.com/saturrrrrrr/hugin-v0-omnibus"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-14T21:44:43Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Central plugin marketplace for Claude Code and Codex",
     "id": "avivsinai/skills-marketplace",
     "language": "Python",
@@ -70,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T21:43:41Z",
     "url": "https://github.com/pkozanian/promptboot"
+  },
+  {
+    "description": "Axiom is a curated marketplace of shared plugins for Claude Code and Codex.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 3,
+    "updated_at": "2026-08-14T21:43:28Z",
+    "url": "https://github.com/netopsengineer/axiom"
   },
   {
     "description": "File-based message queue for local agent-to-agent communication (Maildir-style)",
@@ -90,21 +171,12 @@
     "url": "https://github.com/eugenelim/agent-ready-repo"
   },
   {
-    "description": "Local-first MCP server, Agent Skill, and WebExtension for precise Firefox tab and tab-group management.",
-    "id": "Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
-    "language": "TypeScript",
-    "name": "Johnnyzlee/agent-bridge-for-tab-management-in-firefox",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:42:53Z",
-    "url": "https://github.com/Johnnyzlee/agent-bridge-for-tab-management-in-firefox"
-  },
-  {
     "description": "Skills you point at, not install \u2014 gaze, resolve, call.",
     "id": "lbliii/orrery",
     "language": "Python",
     "name": "lbliii/orrery",
     "stars": 0,
-    "updated_at": "2026-08-14T21:42:14Z",
+    "updated_at": "2026-08-14T21:48:10Z",
     "url": "https://github.com/lbliii/orrery"
   },
   {
@@ -194,7 +266,7 @@
     "language": "\u2014",
     "name": "ehpalumbo/swe-agent-skills",
     "stars": 0,
-    "updated_at": "2026-08-14T21:33:09Z",
+    "updated_at": "2026-08-14T21:48:26Z",
     "url": "https://github.com/ehpalumbo/swe-agent-skills"
   },
   {
@@ -234,13 +306,13 @@
     "url": "https://github.com/gurutersesat24/ai-site-forge"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 20,
-    "updated_at": "2026-08-14T21:30:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
+    "description": "Draft-only Markdown workflow skill for reviewing, illustrating, previewing, and updating Chinese WeChat Official Account",
+    "id": "hubinhobby123-wq/wechat-editor-skill",
+    "language": "JavaScript",
+    "name": "hubinhobby123-wq/wechat-editor-skill",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:30:38Z",
+    "url": "https://github.com/hubinhobby123-wq/wechat-editor-skill"
   },
   {
     "description": "9 Hidden Perfex CRM Module Breaking Rules 2026 \u2013 Best Developer Safety Checklist",
@@ -306,15 +378,6 @@
     "url": "https://github.com/JSONbored/metagraphed"
   },
   {
-    "description": "Draft-only Markdown workflow skill for reviewing, illustrating, previewing, and updating Chinese WeChat Official Account",
-    "id": "hubinhobby123-wq/wechat-editor-skill",
-    "language": "JavaScript",
-    "name": "hubinhobby123-wq/wechat-editor-skill",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:30:38Z",
-    "url": "https://github.com/hubinhobby123-wq/wechat-editor-skill"
-  },
-  {
     "description": "Session continuity for Claude Code: context-usage sensor, threshold alerts, HANDOFF state files, auto-recovery after com",
     "id": "turvodnik/pf-handoff",
     "language": "Shell",
@@ -349,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T21:25:37Z",
     "url": "https://github.com/Whamp/skills"
-  },
-  {
-    "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
-    "id": "Bateelco/neo4j-agent-toolkit",
-    "language": "HTML",
-    "name": "Bateelco/neo4j-agent-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:25:35Z",
-    "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
   },
   {
     "description": "Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool",
@@ -729,15 +783,6 @@
     "url": "https://github.com/candorsystems/candor-finance"
   },
   {
-    "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer",
-    "id": "silverstein/minutes",
-    "language": "Rust",
-    "name": "silverstein/minutes",
-    "stars": 1431,
-    "updated_at": "2026-08-14T21:43:21Z",
-    "url": "https://github.com/silverstein/minutes"
-  },
-  {
     "description": "Automatic MCP building using C++26 reflections",
     "id": "KaruroChori/mcpp",
     "language": "MDX",
@@ -853,50 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T20:48:49Z",
     "url": "https://github.com/dominikwozniak/dw-solo-skills"
-  },
-  {
-    "description": "Seu harness de agente preferido!",
-    "id": "siliconfps/siliconflower",
-    "language": "TypeScript",
-    "name": "siliconfps/siliconflower",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:53:55Z",
-    "url": "https://github.com/siliconfps/siliconflower"
-  },
-  {
-    "description": "Claude Code skill for Chinese long-form & WeChat article production \u00b7 \u4e2d\u6587\u957f\u6587\u4e0e\u516c\u4f17\u53f7\u5185\u5bb9\u751f\u4ea7",
-    "id": "sanshengai/sansheng-write",
-    "language": "Python",
-    "name": "sanshengai/sansheng-write",
-    "stars": 2,
-    "updated_at": "2026-08-14T20:47:19Z",
-    "url": "https://github.com/sanshengai/sansheng-write"
-  },
-  {
-    "description": "46 agent knowledge packs distilling vetted, licence-clean systems-engineering standards (NASA, DoD, FAA, NIST, GAO, SEBo",
-    "id": "jgsystemsconsulting/jgs-se-knowledge-packs",
-    "language": "Python",
-    "name": "jgsystemsconsulting/jgs-se-knowledge-packs",
-    "stars": 3,
-    "updated_at": "2026-08-14T20:46:22Z",
-    "url": "https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs"
-  },
-  {
-    "description": "An opinionated library of agent skills.",
-    "id": "axross/skills",
-    "language": "JavaScript",
-    "name": "axross/skills",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:45:55Z",
-    "url": "https://github.com/axross/skills"
-  },
-  {
-    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 588,
-    "updated_at": "2026-08-14T20:45:31Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   }
 ]
