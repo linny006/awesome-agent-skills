@@ -1,12 +1,84 @@
 [
   {
+    "description": "DeepSeek Harness (dsh) plugin: registers a global skill that teaches agents how to discover, evaluate and install commun",
+    "id": "HubaKing/dsh-community-plugins",
+    "language": "JavaScript",
+    "name": "HubaKing/dsh-community-plugins",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:48:14Z",
+    "url": "https://github.com/HubaKing/dsh-community-plugins"
+  },
+  {
+    "description": "Another personal AI agent. Supports your existing projects and their agents+skills, and the usual stuff.",
+    "id": "Vironnimo/vbot",
+    "language": "Python",
+    "name": "Vironnimo/vbot",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:48:07Z",
+    "url": "https://github.com/Vironnimo/vbot"
+  },
+  {
+    "description": "Teach any coding agent the real s&box API: 16 source-verified reference files plus an 11-tool editor MCP toolset. Stops ",
+    "id": "fobiat/sbox-skill",
+    "language": "C#",
+    "name": "fobiat/sbox-skill",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:48:07Z",
+    "url": "https://github.com/fobiat/sbox-skill"
+  },
+  {
+    "description": "Touhou-inspired Agent Skills: distinct, testable, composable problem-solving workflows.",
+    "id": "N0zoM1z0/gensokyo-skills",
+    "language": "Python",
+    "name": "N0zoM1z0/gensokyo-skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:47:18Z",
+    "url": "https://github.com/N0zoM1z0/gensokyo-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
     "name": "linny006/claude-code-plugin-tracker",
     "stars": 4,
-    "updated_at": "2026-08-15T14:45:19Z",
+    "updated_at": "2026-08-15T14:46:53Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "One table for every Claude Code skill, plugin and MCP server you have installed \u2014 what each one actually does, how to in",
+    "id": "Prygozhyn/skillview",
+    "language": "Python",
+    "name": "Prygozhyn/skillview",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:46:13Z",
+    "url": "https://github.com/Prygozhyn/skillview"
+  },
+  {
+    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 297,
+    "updated_at": "2026-08-15T14:45:37Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 22,
+    "updated_at": "2026-08-15T14:45:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 17,
+    "updated_at": "2026-08-15T14:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
@@ -45,15 +117,6 @@
     "url": "https://github.com/KKLL2025/dsh-project-anchor"
   },
   {
-    "description": "DeepSeek Harness (dsh) plugin: registers a global skill that teaches agents how to discover, evaluate and install commun",
-    "id": "HubaKing/dsh-community-plugins",
-    "language": "JavaScript",
-    "name": "HubaKing/dsh-community-plugins",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:43:35Z",
-    "url": "https://github.com/HubaKing/dsh-community-plugins"
-  },
-  {
     "description": "Install and update the latest stable obra/superpowers release directly from upstream. Codex supported today.",
     "id": "j7an/superpowers-manager",
     "language": "JavaScript",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T14:43:21Z",
     "url": "https://github.com/chrisjacksonn/interview-sim"
-  },
-  {
-    "description": "Teach any coding agent the real s&box API: 16 source-verified reference files plus an 11-tool editor MCP toolset. Stops ",
-    "id": "fobiat/sbox-skill",
-    "language": "C#",
-    "name": "fobiat/sbox-skill",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:43:13Z",
-    "url": "https://github.com/fobiat/sbox-skill"
   },
   {
     "description": "2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers",
@@ -158,7 +212,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-15T14:45:05Z",
+    "updated_at": "2026-08-15T14:46:43Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T14:38:52Z",
     "url": "https://github.com/ssheleg/task-pipeline"
-  },
-  {
-    "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perceptio",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 297,
-    "updated_at": "2026-08-15T14:37:32Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "",
@@ -241,15 +286,6 @@
     "stars": 20536,
     "updated_at": "2026-08-15T14:35:52Z",
     "url": "https://github.com/alibaba/open-code-review"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 17,
-    "updated_at": "2026-08-15T14:35:23Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Model-agnostic GitHub Copilot augmentation kit with custom instructions, agent skills, MCP, web research, AI demos, and ",
@@ -304,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T14:30:52Z",
     "url": "https://github.com/EurusDevSec/eurus-agent"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 22,
-    "updated_at": "2026-08-15T14:30:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Agent skills for frontier models: alignment, course correction, goal control, and Codex-Claude collaboration.",
@@ -450,15 +477,6 @@
     "url": "https://github.com/Devin-AXIS/iPolloWork"
   },
   {
-    "description": "Another personal AI agent. Supports your existing projects and their agents+skills, and the usual stuff.",
-    "id": "Vironnimo/vbot",
-    "language": "Python",
-    "name": "Vironnimo/vbot",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:24:50Z",
-    "url": "https://github.com/Vironnimo/vbot"
-  },
-  {
     "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
     "id": "xu-jin-cs/dsh-skills",
     "language": "Python",
@@ -472,7 +490,7 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 86774,
+    "stars": 86780,
     "updated_at": "2026-08-15T14:24:05Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -675,15 +693,6 @@
     "url": "https://github.com/AlainRic/ralph-wiggum-codex-review-triage"
   },
   {
-    "description": "Touhou-inspired Agent Skills: distinct, testable, composable problem-solving workflows.",
-    "id": "N0zoM1z0/gensokyo-skills",
-    "language": "Python",
-    "name": "N0zoM1z0/gensokyo-skills",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:40:25Z",
-    "url": "https://github.com/N0zoM1z0/gensokyo-skills"
-  },
-  {
     "description": "Skill Package 2026: Ultimate AI Skills Deployment Tool \u2013 Plugin, ZIP & CI/CD",
     "id": "blessings1234/skill-shipyard-pipeline",
     "language": "HTML",
@@ -707,7 +716,7 @@
     "language": "Python",
     "name": "AceDataCloud/Skills",
     "stars": 13,
-    "updated_at": "2026-08-15T14:13:16Z",
+    "updated_at": "2026-08-15T14:48:26Z",
     "url": "https://github.com/AceDataCloud/Skills"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 40,
     "updated_at": "2026-08-15T13:59:42Z",
     "url": "https://github.com/CaesiumY/ko-design-md"
-  },
-  {
-    "description": "Nix packages, skills, extensions for coding-agents (Claude Code, Gemini CLI, Pi Coding Agent, Codex)",
-    "id": "kissgyorgy/coding-agents",
-    "language": "TypeScript",
-    "name": "kissgyorgy/coding-agents",
-    "stars": 12,
-    "updated_at": "2026-08-15T13:56:50Z",
-    "url": "https://github.com/kissgyorgy/coding-agents"
   }
 ]
