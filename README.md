@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 17:45 UTC
+> ⏰ Last updated: 2026-08-15 17:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,40 +42,40 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 4 | Python | 2026-08-15 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 2 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 1 | Python | 2026-08-15 | 🤖 Just a skill to let AI generate documents based on your source code 🔅 |
-| 3 | [CheshireMew/project-steward](https://github.com/CheshireMew/project-steward) | 3 | Python | 2026-08-15 | 从项目结果中学习，在改动前预防返工，并沿根因完成治理的 Agent Skill。 |
-| 4 | [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) | 265 | Rust | 2026-08-15 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 171 schematic, layout, routing, |
-| 5 | [ldaume/agentic-engineering-harness](https://github.com/ldaume/agentic-engineering-harness) | 0 | Python | 2026-08-15 | Agent Skills and harness patterns for evidence-driven product engineering, from reliable repository work to governed val |
-| 6 | [SohailKhan0525/skills](https://github.com/SohailKhan0525/skills) | 4 | — | 2026-08-15 | Qofeno agent skills — real, production-only workflows for Claude Code, Cursor, Antigravity, and other AI agents |
-| 7 | [IsaacEryn/humanizer-ko](https://github.com/IsaacEryn/humanizer-ko) | 1 | Python | 2026-08-15 | 한국어 텍스트에서 AI 생성 글의 티를 제거하는 Claude Code 에이전트 스킬. ChatGPT 문체, 이중 피동, 번역투, 문체 혼용 등 33개 패턴 탐지. Korean adaptation of the huma |
-| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-15 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 9 | [wanng-ide/open-paper-analysis](https://github.com/wanng-ide/open-paper-analysis) | 0 | Python | 2026-08-15 | Open Agent Skill for evidence-grounded paper analysis with isolated subagents, adaptive notes, Markdown output, and opti |
-| 10 | [ninghu/agent-insights-quickstart](https://github.com/ninghu/agent-insights-quickstart) | 0 | Python | 2026-08-15 | Guided Microsoft Foundry Agent Insights onboarding with Agent Skills |
-| 11 | [indranilbanerjee/neels-plugins](https://github.com/indranilbanerjee/neels-plugins) | 6 | Python | 2026-08-15 | The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po |
-| 12 | [bitwise-media-group/skills](https://github.com/bitwise-media-group/skills) | 2 | Go | 2026-08-15 | Coding agent marketplace for skills used by the BitWise Media Group. |
-| 13 | [rnett/gradle-mcp](https://github.com/rnett/gradle-mcp) | 61 | Kotlin | 2026-08-15 | A comprehensive MCP server for Gradle. |
-| 14 | [product-on-purpose/agent-skills-toolkit](https://github.com/product-on-purpose/agent-skills-toolkit) | 2 | JavaScript | 2026-08-15 | Toolkit and Standard for building, grading, and scaling cross-agent skill libraries (Claude Code + Codex) to a tiered Br |
-| 15 | [indranilbanerjee/contentforge](https://github.com/indranilbanerjee/contentforge) | 21 | Python | 2026-08-15 | An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c |
-| 16 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-08-15 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
-| 17 | [oila-gmbh/skill-bill](https://github.com/oila-gmbh/skill-bill) | 13 | Kotlin | 2026-08-15 | SkillBill packages your engineering judgment into governed skills, then uses a durable Kotlin runtime to ensure agents a |
-| 18 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-15 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
-| 19 | [buildinternet/uploads](https://github.com/buildinternet/uploads) | 15 | TypeScript | 2026-08-15 | Lightweight upload gateway for agents to add screenshots and recordings to pull requests and issues. Cloud and self-host |
-| 20 | [uinaf/autoreview](https://github.com/uinaf/autoreview) | 1 | Go | 2026-08-15 | Structured independent code review, as a CLI and an agent skill. |
-| 21 | [CaesiumY/ko-design-md](https://github.com/CaesiumY/ko-design-md) | 40 | HTML | 2026-08-15 | 한국 브랜드 디자인 시스템을 Stitch v0.1 마크다운으로 정리한 오픈 카탈로그 — Open catalog of Korean design systems in structured markdown. |
-| 22 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 16036 | Python | 2026-08-15 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory |
-| 23 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 2 | Rust | 2026-08-15 | Generate, verify, and maintain AI agent guidance for your OSS project — skills, plugins, and AGENTS.md for Claude Code,  |
-| 24 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 108 | Kotlin | 2026-08-15 | Helping the Agents Compose the Things |
-| 25 | [eiway112/prefab-interior-skills](https://github.com/eiway112/prefab-interior-skills) | 3 | Python | 2026-08-15 | 装配式装修 AI 技能合集，面向设计、施工与验收从业者：覆盖隔墙、墙面、吊顶、楼地面、厨卫、收纳、机电集成等部品系统，可完成系统选型与跨部品协同、隔声性能估算、规范标准复核、验收清单生成、质量问题诊断与施工控制要点分析。内置标准索引、接口契 |
-| 26 | [MrBinnacle/skill-harness](https://github.com/MrBinnacle/skill-harness) | 0 | Python | 2026-08-15 | I wanted to know whether a skill was actually any good. This runs the same task with the skill and without it, and repor |
-| 27 | [3loveljw2/agent-identity-kit](https://github.com/3loveljw2/agent-identity-kit) | 0 | — | 2026-08-15 | AI technical-team identity kit: 10 evolving, evidence-first agent skills (architect/impl/QA/docs/release/demo/security/c |
-| 28 | [1Candy666/ai-paper-citation-checker](https://github.com/1Candy666/ai-paper-citation-checker) | 0 | Python | 2026-08-15 | 检查 AI 论文中的虚假文献、无证据论点和结构问题 |
-| 29 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 17 | Python | 2026-08-15 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 30 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-08-15 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 31 | [danoszz/penthera](https://github.com/danoszz/penthera) | 3 | JavaScript | 2026-08-15 | Lightweight website/app security scanner for vibecoded apps:: run it from your AI agent (Cursor/Claude Code) or the CLI. |
-| 32 | [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 424 | TypeScript | 2026-08-15 | 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit:  |
-| 33 | [Jessica076/idol-creative-studio-skill](https://github.com/Jessica076/idol-creative-studio-skill) | 0 | Python | 2026-08-15 |  |
-| 34 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 23 | Python | 2026-08-15 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [oila-gmbh/skill-bill](https://github.com/oila-gmbh/skill-bill) | 13 | Kotlin | 2026-08-15 | SkillBill packages your engineering judgment into governed skills, then uses a durable Kotlin runtime to ensure agents a |
+| 2 | [MrBinnacle/skill-harness](https://github.com/MrBinnacle/skill-harness) | 0 | Python | 2026-08-15 | I wanted to know whether a skill was actually any good. This runs the same task with the skill and without it, and repor |
+| 3 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 23 | Python | 2026-08-15 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 4 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 17 | Python | 2026-08-15 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 5 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 4 | Python | 2026-08-15 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 6 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 1 | Python | 2026-08-15 | 🤖 Just a skill to let AI generate documents based on your source code 🔅 |
+| 7 | [CheshireMew/project-steward](https://github.com/CheshireMew/project-steward) | 3 | Python | 2026-08-15 | 从项目结果中学习，在改动前预防返工，并沿根因完成治理的 Agent Skill。 |
+| 8 | [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) | 265 | Rust | 2026-08-15 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 171 schematic, layout, routing, |
+| 9 | [ldaume/agentic-engineering-harness](https://github.com/ldaume/agentic-engineering-harness) | 0 | Python | 2026-08-15 | Agent Skills and harness patterns for evidence-driven product engineering, from reliable repository work to governed val |
+| 10 | [SohailKhan0525/skills](https://github.com/SohailKhan0525/skills) | 4 | — | 2026-08-15 | Qofeno agent skills — real, production-only workflows for Claude Code, Cursor, Antigravity, and other AI agents |
+| 11 | [IsaacEryn/humanizer-ko](https://github.com/IsaacEryn/humanizer-ko) | 1 | Python | 2026-08-15 | 한국어 텍스트에서 AI 생성 글의 티를 제거하는 Claude Code 에이전트 스킬. ChatGPT 문체, 이중 피동, 번역투, 문체 혼용 등 33개 패턴 탐지. Korean adaptation of the huma |
+| 12 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-15 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 13 | [wanng-ide/open-paper-analysis](https://github.com/wanng-ide/open-paper-analysis) | 0 | Python | 2026-08-15 | Open Agent Skill for evidence-grounded paper analysis with isolated subagents, adaptive notes, Markdown output, and opti |
+| 14 | [ninghu/agent-insights-quickstart](https://github.com/ninghu/agent-insights-quickstart) | 0 | Python | 2026-08-15 | Guided Microsoft Foundry Agent Insights onboarding with Agent Skills |
+| 15 | [indranilbanerjee/neels-plugins](https://github.com/indranilbanerjee/neels-plugins) | 6 | Python | 2026-08-15 | The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po |
+| 16 | [bitwise-media-group/skills](https://github.com/bitwise-media-group/skills) | 2 | Go | 2026-08-15 | Coding agent marketplace for skills used by the BitWise Media Group. |
+| 17 | [rnett/gradle-mcp](https://github.com/rnett/gradle-mcp) | 61 | Kotlin | 2026-08-15 | A comprehensive MCP server for Gradle. |
+| 18 | [product-on-purpose/agent-skills-toolkit](https://github.com/product-on-purpose/agent-skills-toolkit) | 2 | JavaScript | 2026-08-15 | Toolkit and Standard for building, grading, and scaling cross-agent skill libraries (Claude Code + Codex) to a tiered Br |
+| 19 | [indranilbanerjee/contentforge](https://github.com/indranilbanerjee/contentforge) | 21 | Python | 2026-08-15 | An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c |
+| 20 | [saturrrrrrr/hugin-v0-omnibus](https://github.com/saturrrrrrr/hugin-v0-omnibus) | 0 | HTML | 2026-08-15 | 2026 Full-Stack AI Dev Kit: 23 Skills, 8 Agents, 5 Hooks, 7 MCP Servers |
+| 21 | [JSONbored/metagraphed](https://github.com/JSONbored/metagraphed) | 12 | TypeScript | 2026-08-15 | Bittensor didn't ship with a map. We drew one — chain-direct block explorer, developer registry, and an agent toolkit bu |
+| 22 | [buildinternet/uploads](https://github.com/buildinternet/uploads) | 15 | TypeScript | 2026-08-15 | Lightweight upload gateway for agents to add screenshots and recordings to pull requests and issues. Cloud and self-host |
+| 23 | [uinaf/autoreview](https://github.com/uinaf/autoreview) | 1 | Go | 2026-08-15 | Structured independent code review, as a CLI and an agent skill. |
+| 24 | [CaesiumY/ko-design-md](https://github.com/CaesiumY/ko-design-md) | 40 | HTML | 2026-08-15 | 한국 브랜드 디자인 시스템을 Stitch v0.1 마크다운으로 정리한 오픈 카탈로그 — Open catalog of Korean design systems in structured markdown. |
+| 25 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 16036 | Python | 2026-08-15 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory |
+| 26 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 2 | Rust | 2026-08-15 | Generate, verify, and maintain AI agent guidance for your OSS project — skills, plugins, and AGENTS.md for Claude Code,  |
+| 27 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 108 | Kotlin | 2026-08-15 | Helping the Agents Compose the Things |
+| 28 | [eiway112/prefab-interior-skills](https://github.com/eiway112/prefab-interior-skills) | 3 | Python | 2026-08-15 | 装配式装修 AI 技能合集，面向设计、施工与验收从业者：覆盖隔墙、墙面、吊顶、楼地面、厨卫、收纳、机电集成等部品系统，可完成系统选型与跨部品协同、隔声性能估算、规范标准复核、验收清单生成、质量问题诊断与施工控制要点分析。内置标准索引、接口契 |
+| 29 | [3loveljw2/agent-identity-kit](https://github.com/3loveljw2/agent-identity-kit) | 0 | — | 2026-08-15 | AI technical-team identity kit: 10 evolving, evidence-first agent skills (architect/impl/QA/docs/release/demo/security/c |
+| 30 | [1Candy666/ai-paper-citation-checker](https://github.com/1Candy666/ai-paper-citation-checker) | 0 | Python | 2026-08-15 | 检查 AI 论文中的虚假文献、无证据论点和结构问题 |
+| 31 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-08-15 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 32 | [danoszz/penthera](https://github.com/danoszz/penthera) | 3 | JavaScript | 2026-08-15 | Lightweight website/app security scanner for vibecoded apps:: run it from your AI agent (Cursor/Claude Code) or the CLI. |
+| 33 | [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 424 | TypeScript | 2026-08-15 | 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit:  |
+| 34 | [Jessica076/idol-creative-studio-skill](https://github.com/Jessica076/idol-creative-studio-skill) | 0 | Python | 2026-08-15 |  |
 | 35 | [xuebi-baibai/only-change-this](https://github.com/xuebi-baibai/only-change-this) | 1 | Python | 2026-08-15 | Make AI edit only the requested area—and prove everything else stayed unchanged. A portable visual-fidelity Skill for co |
 | 36 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-08-15 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
 | 37 | [178inaba/cflio](https://github.com/178inaba/cflio) | 1 | Go | 2026-08-15 | Confluence Cloud CLI for AI coding agents: read and update page bodies through local files, losslessly, without the body |
