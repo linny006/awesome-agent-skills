@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-17T02:45:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Public marketplace of Claude Code plugins and skills.",
+    "id": "adampie/skills",
+    "language": "Python",
+    "name": "adampie/skills",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:44:46Z",
+    "url": "https://github.com/adampie/skills"
+  },
+  {
+    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
+    "id": "cjohnhanson/almanac",
+    "language": "Rust",
+    "name": "cjohnhanson/almanac",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:45:16Z",
+    "url": "https://github.com/cjohnhanson/almanac"
+  },
+  {
+    "description": "\u8ba9\u7eaf\u6587\u672c\u6a21\u578b\u66f4\u597d\u5730\u505a\u89c6\u89c9\u4efb\u52a1\u7684DeepSeek Harness\u63d2\u4ef6\uff1a\u5e26\u610f\u56fe\u7684\u56fe\u7247\u95ee\u7b54\u3001\u957f\u622a\u56fe OCR\u3001UI \u8fd8\u539f\u7b49\uff5cDeepSeek Harness-native integration for agent-vision-toolkit: ",
+    "id": "Anionex/dsh-vision-toolkit",
+    "language": "TypeScript",
+    "name": "Anionex/dsh-vision-toolkit",
+    "stars": 542,
+    "updated_at": "2026-08-17T02:44:16Z",
+    "url": "https://github.com/Anionex/dsh-vision-toolkit"
+  },
+  {
+    "description": "Eval harness for coding-agent skills and instructions: clean A/B runs, evidence-backed grading, trigger checks, and repr",
+    "id": "shunk031/shuhari",
+    "language": "Go",
+    "name": "shunk031/shuhari",
+    "stars": 1,
+    "updated_at": "2026-08-17T02:43:36Z",
+    "url": "https://github.com/shunk031/shuhari"
+  },
+  {
+    "description": "TQX agent tooling: skills, CLI, and SDK",
+    "id": "tqx-ai/tqx-ts",
+    "language": "TypeScript",
+    "name": "tqx-ai/tqx-ts",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:43:29Z",
+    "url": "https://github.com/tqx-ai/tqx-ts"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-17T02:43:11Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "\u4f9bAI\u4f7f\u7528\u7684SKILL - \u547d\u4ee4\u884c\u4ea4\u4e92\u5f0f\u7a0b\u5e8f\u4ea4\u4e92\u4ee3\u7406\u3002\u901a\u8fc7 subprocess \u6216\u4f2a\u7ec8\u7aef\uff08PTY\uff09\u4e0e\u4ea4\u4e92\u5f0f CLI \u7a0b\u5e8f\u53cc\u5411\u901a\u4fe1\uff0c\u63d0\u4f9b CLI \u63a5\u53e3\u7ba1\u7406\u4f1a\u8bdd",
+    "id": "ming-14/PTY-Agent",
+    "language": "Rust",
+    "name": "ming-14/PTY-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-17T02:42:43Z",
+    "url": "https://github.com/ming-14/PTY-Agent"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-17T02:42:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Scaffold, validate, lint and test agent skills (SKILL.md) \u2014 measure trigger rate with an LLM router, like unit tests for",
     "id": "lfnfromchina-bot/skilldoctor",
     "language": "Python",
@@ -194,7 +275,7 @@
     "language": "TypeScript",
     "name": "CherryHQ/cherry-studio",
     "stars": 50571,
-    "updated_at": "2026-08-17T02:38:20Z",
+    "updated_at": "2026-08-17T02:44:32Z",
     "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
@@ -234,15 +315,6 @@
     "url": "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
   },
   {
-    "description": "\u8ba9\u7eaf\u6587\u672c\u6a21\u578b\u66f4\u597d\u5730\u505a\u89c6\u89c9\u4efb\u52a1\u7684DeepSeek Harness\u63d2\u4ef6\uff1a\u5e26\u610f\u56fe\u7684\u56fe\u7247\u95ee\u7b54\u3001\u957f\u622a\u56fe OCR\u3001UI \u8fd8\u539f\u7b49\uff5cDeepSeek Harness-native integration for agent-vision-toolkit: ",
-    "id": "Anionex/dsh-vision-toolkit",
-    "language": "TypeScript",
-    "name": "Anionex/dsh-vision-toolkit",
-    "stars": 542,
-    "updated_at": "2026-08-17T02:35:13Z",
-    "url": "https://github.com/Anionex/dsh-vision-toolkit"
-  },
-  {
     "description": "Two Claude Code skills for scientific manuscripts: deep pre-submission review and grounded drafting, on the Paper Assist",
     "id": "whoisraibolt/paper-skills",
     "language": "\u2014",
@@ -265,18 +337,9 @@
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 87666,
+    "stars": 87670,
     "updated_at": "2026-08-17T02:33:44Z",
     "url": "https://github.com/nexu-io/open-design"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 4,
-    "updated_at": "2026-08-17T02:33:16Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -304,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T02:31:52Z",
     "url": "https://github.com/ArcanEdge-AI/claude-code-agent-playbook"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-17T02:30:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
@@ -540,15 +594,6 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Agent skill aggregator \u2014 index and retrieve SKILL.md from pluggable sources",
-    "id": "cjohnhanson/almanac",
-    "language": "Rust",
-    "name": "cjohnhanson/almanac",
-    "stars": 0,
-    "updated_at": "2026-08-17T02:13:31Z",
-    "url": "https://github.com/cjohnhanson/almanac"
-  },
-  {
     "description": "Agent harness task DAG tracker; git-based, zero-dependency agentic context seeding with spec citation and audit tracking",
     "id": "scullxbones/armature",
     "language": "Go",
@@ -670,18 +715,9 @@
     "id": "Anionex/agent-vision-toolkit",
     "language": "Python",
     "name": "Anionex/agent-vision-toolkit",
-    "stars": 957,
+    "stars": 958,
     "updated_at": "2026-08-17T02:08:18Z",
     "url": "https://github.com/Anionex/agent-vision-toolkit"
-  },
-  {
-    "description": "Eval harness for coding-agent skills and instructions: clean A/B runs, evidence-backed grading, trigger checks, and repr",
-    "id": "shunk031/shuhari",
-    "language": "Go",
-    "name": "shunk031/shuhari",
-    "stars": 1,
-    "updated_at": "2026-08-17T02:34:59Z",
-    "url": "https://github.com/shunk031/shuhari"
   },
   {
     "description": "\u7f51\u6613\u4e91\u97f3\u4e50 .ncm \u89e3\u5bc6\u3001\u97f3\u9891\u683c\u5f0f\u8f6c\u6362\u3001\u97f3\u4e50\u5e93\u53bb\u91cd\u7684 Claude Code skill \u4e0e\u72ec\u7acb\u811a\u672c",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T01:54:08Z",
     "url": "https://github.com/TheColliery/.github"
-  },
-  {
-    "description": "Canvas LMS MCP server \u2014 80+ tools and 5 agent skills for students & educators. Works with Claude, Cursor, Codex, and 40+",
-    "id": "vishalsachdev/canvas-mcp",
-    "language": "Python",
-    "name": "vishalsachdev/canvas-mcp",
-    "stars": 194,
-    "updated_at": "2026-08-17T01:49:30Z",
-    "url": "https://github.com/vishalsachdev/canvas-mcp"
-  },
-  {
-    "description": "I wanted to know whether a skill was actually any good. This runs the same task with the skill and without it, and repor",
-    "id": "MrBinnacle/skill-harness",
-    "language": "Python",
-    "name": "MrBinnacle/skill-harness",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:49:08Z",
-    "url": "https://github.com/MrBinnacle/skill-harness"
-  },
-  {
-    "description": "Reusable AI agent skills with multi-IDE sync, export, and publishing workflow",
-    "id": "Luckycat133/skills-repo",
-    "language": "Shell",
-    "name": "Luckycat133/skills-repo",
-    "stars": 2,
-    "updated_at": "2026-08-17T01:48:56Z",
-    "url": "https://github.com/Luckycat133/skills-repo"
-  },
-  {
-    "description": "Production-proven agent skills: agent-swarm, asset-validation, browser-harness, awesome-presentation, workspace-knowledg",
-    "id": "MarioJames/skill-foundry",
-    "language": "TypeScript",
-    "name": "MarioJames/skill-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:48:38Z",
-    "url": "https://github.com/MarioJames/skill-foundry"
   }
 ]
