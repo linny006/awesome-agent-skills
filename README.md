@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 23:58 UTC
+> ⏰ Last updated: 2026-08-20 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-08-19 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
-| 2 | [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 119 | Go | 2026-08-19 | HEY CLI and Agent Skills |
-| 3 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-19 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 4 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3515 | TypeScript | 2026-08-19 | Beautiful, AI-native markdown IDE and LLM wiki |
-| 5 | [ssheleg/sheleg-design-skill](https://github.com/ssheleg/sheleg-design-skill) | 1 | CSS | 2026-08-19 | The taste layer for AI coding agents: cinematic scroll-driven landing pages (one scroll clock, motion that degrades to c |
-| 6 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 45151 | Python | 2026-08-19 | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation |
-| 7 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 19 | Python | 2026-08-19 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 8 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
-| 9 | [dotnet/skills](https://github.com/dotnet/skills) | 5196 | C# | 2026-08-19 | Repository for skills to assist AI coding agents with .NET and C# |
-| 10 | [daronthedragon/skillsmith](https://github.com/daronthedragon/skillsmith) | 0 | TypeScript | 2026-08-19 | Build agent skills that demonstrably change behaviour: a linter that rejects skills that cannot work, a scaffold that pa |
-| 11 | [axross/skills](https://github.com/axross/skills) | 0 | JavaScript | 2026-08-19 | An opinionated library of agent skills. |
-| 12 | [weed33834/legacy-upgrader](https://github.com/weed33834/legacy-upgrader) | 0 | — | 2026-08-19 |  |
-| 13 | [dills122/ai-central](https://github.com/dills122/ai-central) | 0 | Python | 2026-08-19 | Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s |
-| 14 | [smileynet/teach-me](https://github.com/smileynet/teach-me) | 1 | Python | 2026-08-19 | Learn any topic through AI-generated lessons, diagrams, quizzes, and spaced repetition. |
-| 15 | [rlx/uplevel](https://github.com/rlx/uplevel) | 1 | Shell | 2026-08-19 | Uplevel your repo's engineering process. Most tools tell you what's wrong; uplevel tells you what's missing, then hands  |
-| 16 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-08-19 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
-| 17 | [amgrbi96/amgrbi-skills](https://github.com/amgrbi96/amgrbi-skills) | 0 | Python | 2026-08-19 | Agent skills for AI coding assistants — document parsing, PDF engineering, systematic-review research, flashcards, and W |
-| 18 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 23301 | HTML | 2026-08-19 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
-| 19 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 7 | TypeScript | 2026-08-19 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
-| 20 | [ssheleg/seo-aeo-audit](https://github.com/ssheleg/seo-aeo-audit) | 1 | Python | 2026-08-19 | Evidence-first website audit for search AND answer engines. Ten tracks from crawl access to AI citation mechanics; every |
-| 21 | [kody-w/rapp-skills](https://github.com/kody-w/rapp-skills) | 0 | Python | 2026-08-19 | 107 verified Agent Skill + RAPP agent.py pairs, including all 76 CAT Agent Skills, powered by the byte-exact converter. |
-| 22 | [victorsodre/remotion-agent-catalog](https://github.com/victorsodre/remotion-agent-catalog) | 9 | TypeScript | 2026-08-19 | O que já existe e onde quebra — a camada que falta entre um agente e um projeto Remotion |
-| 23 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 24 | Python | 2026-08-19 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 24 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 5 | Python | 2026-08-19 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 5 | Python | 2026-08-20 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [ssheleg/sheleg-design-skill](https://github.com/ssheleg/sheleg-design-skill) | 1 | CSS | 2026-08-19 | The taste layer for AI coding agents: cinematic scroll-driven landing pages (one scroll clock, motion that degrades to c |
+| 3 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 24 | Python | 2026-08-19 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 4 | [Meizu1330/neural-context-archive](https://github.com/Meizu1330/neural-context-archive) | 0 | HTML | 2026-08-19 | GitHub Memory Snapshot 2026 – Auto Recall & Prune Project Context Across Sessions |
+| 5 | [basecamp/hey-cli](https://github.com/basecamp/hey-cli) | 119 | Go | 2026-08-19 | HEY CLI and Agent Skills |
+| 6 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-08-19 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 7 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 3515 | TypeScript | 2026-08-20 | Beautiful, AI-native markdown IDE and LLM wiki |
+| 8 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 45151 | Python | 2026-08-20 | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation |
+| 9 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 19 | Python | 2026-08-19 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 10 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-19 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 11 | [dotnet/skills](https://github.com/dotnet/skills) | 5196 | C# | 2026-08-19 | Repository for skills to assist AI coding agents with .NET and C# |
+| 12 | [daronthedragon/skillsmith](https://github.com/daronthedragon/skillsmith) | 0 | TypeScript | 2026-08-19 | Build agent skills that demonstrably change behaviour: a linter that rejects skills that cannot work, a scaffold that pa |
+| 13 | [axross/skills](https://github.com/axross/skills) | 0 | JavaScript | 2026-08-19 | An opinionated library of agent skills. |
+| 14 | [weed33834/legacy-upgrader](https://github.com/weed33834/legacy-upgrader) | 0 | — | 2026-08-19 |  |
+| 15 | [dills122/ai-central](https://github.com/dills122/ai-central) | 0 | Python | 2026-08-19 | Central library for AI coding context: steering files, AGENTS templates, reusable skills, scaffold scripts, and guided s |
+| 16 | [smileynet/teach-me](https://github.com/smileynet/teach-me) | 1 | Python | 2026-08-19 | Learn any topic through AI-generated lessons, diagrams, quizzes, and spaced repetition. |
+| 17 | [rlx/uplevel](https://github.com/rlx/uplevel) | 1 | Shell | 2026-08-19 | Uplevel your repo's engineering process. Most tools tell you what's wrong; uplevel tells you what's missing, then hands  |
+| 18 | [Bateelco/neo4j-agent-toolkit](https://github.com/Bateelco/neo4j-agent-toolkit) | 0 | HTML | 2026-08-19 | 🚀 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026 |
+| 19 | [amgrbi96/amgrbi-skills](https://github.com/amgrbi96/amgrbi-skills) | 0 | Python | 2026-08-19 | Agent skills for AI coding assistants — document parsing, PDF engineering, systematic-review research, flashcards, and W |
+| 20 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 23301 | HTML | 2026-08-19 | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| 21 | [amadeus-dlc/amadeus](https://github.com/amadeus-dlc/amadeus) | 7 | TypeScript | 2026-08-19 | Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so |
+| 22 | [ssheleg/seo-aeo-audit](https://github.com/ssheleg/seo-aeo-audit) | 1 | Python | 2026-08-19 | Evidence-first website audit for search AND answer engines. Ten tracks from crawl access to AI citation mechanics; every |
+| 23 | [kody-w/rapp-skills](https://github.com/kody-w/rapp-skills) | 0 | Python | 2026-08-19 | 107 verified Agent Skill + RAPP agent.py pairs, including all 76 CAT Agent Skills, powered by the byte-exact converter. |
+| 24 | [victorsodre/remotion-agent-catalog](https://github.com/victorsodre/remotion-agent-catalog) | 9 | TypeScript | 2026-08-19 | O que já existe e onde quebra — a camada que falta entre um agente e um projeto Remotion |
 | 25 | [brian8a1/atisbo-agent-skills](https://github.com/brian8a1/atisbo-agent-skills) | 1 | JavaScript | 2026-08-19 | Atisbo Agent Skills for Claude Code, Codex, Cursor, and compatible agents |
 | 26 | [jdanigo/hydraia](https://github.com/jdanigo/hydraia) | 8 | Python | 2026-08-19 | Self-contained agentic development harness for Claude Code — one command runs the full feature pipeline (plan → execute  |
 | 27 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 2654 | Python | 2026-08-19 | 471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac |
@@ -99,7 +99,7 @@ expired items removed — so you can rely on what you see being current.
 | 55 | [gurutersesat24/ai-site-forge](https://github.com/gurutersesat24/ai-site-forge) | 0 | HTML | 2026-08-19 | Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor |
 | 56 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-08-19 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
 | 57 | [jesse87wang-bit/tao-excalidraw](https://github.com/jesse87wang-bit/tao-excalidraw) | 0 | JavaScript | 2026-08-19 | Turn Chinese short-video scripts into editable Excalidraw infographics with hand-drawn illustrations. |
-| 58 | [ctxrs/ctx](https://github.com/ctxrs/ctx) | 1038 | Rust | 2026-08-19 | Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions. |
+| 58 | [ctxrs/ctx](https://github.com/ctxrs/ctx) | 1037 | Rust | 2026-08-19 | Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions. |
 | 59 | [Sathvikkrishna2520/pev-framework-ts](https://github.com/Sathvikkrishna2520/pev-framework-ts) | 1 | HTML | 2026-08-19 | Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool |
 | 60 | [giostriquer/workshop](https://github.com/giostriquer/workshop) | 0 | JavaScript | 2026-08-19 | Set of plugins of agents and skills for daily ai work |
 | 61 | [adaltomatos01/perfex-crm-guardrails](https://github.com/adaltomatos01/perfex-crm-guardrails) | 2 | HTML | 2026-08-19 | 9 Hidden Perfex CRM Module Breaking Rules 2026 – Best Developer Safety Checklist |
