@@ -1,10 +1,64 @@
 [
   {
+    "description": "Agent Plugin that lets Claude Code, Codex CLI and any MCP client drive the AI co-scientist engine: generate, review, Elo",
+    "id": "Ahmad-Jaradat-Space/co-scientist-plugin",
+    "language": "Python",
+    "name": "Ahmad-Jaradat-Space/co-scientist-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-20T12:15:31Z",
+    "url": "https://github.com/Ahmad-Jaradat-Space/co-scientist-plugin"
+  },
+  {
+    "description": "Backend for AI coding agents on CloudBase \u2014 database, auth, functions via Plugin, Skills & MCP.",
+    "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+    "language": "TypeScript",
+    "name": "TencentCloudBase/CloudBase-AI-Toolkit",
+    "stars": 1073,
+    "updated_at": "2026-08-20T12:15:32Z",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-20T12:15:25Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
+    "id": "amadeus-dlc/amadeus",
+    "language": "TypeScript",
+    "name": "amadeus-dlc/amadeus",
+    "stars": 7,
+    "updated_at": "2026-08-20T12:14:59Z",
+    "url": "https://github.com/amadeus-dlc/amadeus"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-20T12:14:54Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Six agent skills, one command, every agent. Umbrella installer for the ssheleg skill family \u2014 super-ux, task-pipeline, a",
+    "id": "ssheleg/sshlg-skills",
+    "language": "JavaScript",
+    "name": "ssheleg/sshlg-skills",
+    "stars": 2,
+    "updated_at": "2026-08-20T12:13:20Z",
+    "url": "https://github.com/ssheleg/sshlg-skills"
+  },
+  {
     "description": "\ud83c\udfa8 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your co",
     "id": "nexu-io/open-design",
     "language": "TypeScript",
     "name": "nexu-io/open-design",
-    "stars": 89569,
+    "stars": 89570,
     "updated_at": "2026-08-20T12:13:13Z",
     "url": "https://github.com/nexu-io/open-design"
   },
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T12:12:20Z",
     "url": "https://github.com/XJungit/omdp"
-  },
-  {
-    "description": "Six agent skills, one command, every agent. Umbrella installer for the ssheleg skill family \u2014 super-ux, task-pipeline, a",
-    "id": "ssheleg/sshlg-skills",
-    "language": "JavaScript",
-    "name": "ssheleg/sshlg-skills",
-    "stars": 2,
-    "updated_at": "2026-08-20T12:13:20Z",
-    "url": "https://github.com/ssheleg/sshlg-skills"
   },
   {
     "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
@@ -59,7 +104,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 108,
-    "updated_at": "2026-08-20T12:14:45Z",
+    "updated_at": "2026-08-20T12:15:31Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T12:11:05Z",
     "url": "https://github.com/EONRaider/SkillArtisan"
-  },
-  {
-    "description": "Agent Plugin that lets Claude Code, Codex CLI and any MCP client drive the AI co-scientist engine: generate, review, Elo",
-    "id": "Ahmad-Jaradat-Space/co-scientist-plugin",
-    "language": "Python",
-    "name": "Ahmad-Jaradat-Space/co-scientist-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-20T12:11:00Z",
-    "url": "https://github.com/Ahmad-Jaradat-Space/co-scientist-plugin"
   },
   {
     "description": "Global skills manager for AI coding agents",
@@ -378,15 +414,6 @@
     "url": "https://github.com/Meizu1330/neural-context-archive"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-20T12:00:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
     "id": "linny006/skills-tracker",
     "language": "Python",
@@ -394,15 +421,6 @@
     "stars": 19,
     "updated_at": "2026-08-20T12:00:34Z",
     "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 5,
-    "updated_at": "2026-08-20T12:00:18Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Branch complex work into verifiable outcomes. Verifiable tree workflows for AI agents and Obsidian.",
@@ -430,15 +448,6 @@
     "stars": 19,
     "updated_at": "2026-08-20T12:02:35Z",
     "url": "https://github.com/hifly81/bikescout"
-  },
-  {
-    "description": "Agent skills, templates, examples, validators, and docs for operating Amadeus DLC, a lifecycle contract for AI driven so",
-    "id": "amadeus-dlc/amadeus",
-    "language": "TypeScript",
-    "name": "amadeus-dlc/amadeus",
-    "stars": 7,
-    "updated_at": "2026-08-20T12:14:23Z",
-    "url": "https://github.com/amadeus-dlc/amadeus"
   },
   {
     "description": "Berserk skills for AI coding agents",
@@ -788,7 +797,7 @@
     "language": "Python",
     "name": "air-gapped/skills",
     "stars": 5,
-    "updated_at": "2026-08-20T11:45:17Z",
+    "updated_at": "2026-08-20T12:15:28Z",
     "url": "https://github.com/air-gapped/skills"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 11,
     "updated_at": "2026-08-20T11:38:48Z",
     "url": "https://github.com/JinPLu/Teamwork"
-  },
-  {
-    "description": "Read Korean government open-data services from the data.go.kr portal",
-    "id": "seokhoonj/pydatagokr",
-    "language": "Python",
-    "name": "seokhoonj/pydatagokr",
-    "stars": 0,
-    "updated_at": "2026-08-20T11:37:30Z",
-    "url": "https://github.com/seokhoonj/pydatagokr"
   }
 ]
