@@ -1,5 +1,59 @@
 [
   {
+    "description": "A Claude Code skill for iterative reverse engineering in Ghidra",
+    "id": "GeReV/ghidra-iterative-re",
+    "language": "\u2014",
+    "name": "GeReV/ghidra-iterative-re",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:46:37Z",
+    "url": "https://github.com/GeReV/ghidra-iterative-re"
+  },
+  {
+    "description": "Mistake-proofing for software \u2014 Shigeo Shingo's poka-yoke method as a Claude Code plugin. Audit code for footguns, desig",
+    "id": "rainmanjam/poke_yoke",
+    "language": "Python",
+    "name": "rainmanjam/poke_yoke",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:46:20Z",
+    "url": "https://github.com/rainmanjam/poke_yoke"
+  },
+  {
+    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 619,
+    "updated_at": "2026-08-20T20:46:02Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-20T20:45:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 19,
+    "updated_at": "2026-08-20T20:45:36Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Open launch-model infrastructure for Uniswap v4 on Ethereum.",
+    "id": "0xprogrammable/programmable",
+    "language": "TypeScript",
+    "name": "0xprogrammable/programmable",
+    "stars": 9,
+    "updated_at": "2026-08-20T20:45:29Z",
+    "url": "https://github.com/0xprogrammable/programmable"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -43,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:44:15Z",
     "url": "https://github.com/autoradiographic-rouleau209/federal-contracting-agents"
+  },
+  {
+    "description": "SkillBill packages your engineering judgment into governed skills, then uses a durable Kotlin runtime to ensure agents a",
+    "id": "oila-gmbh/skill-bill",
+    "language": "Kotlin",
+    "name": "oila-gmbh/skill-bill",
+    "stars": 13,
+    "updated_at": "2026-08-20T20:43:45Z",
+    "url": "https://github.com/oila-gmbh/skill-bill"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -198,24 +261,6 @@
     "url": "https://github.com/bxmaximum/bitrix-framework-skills"
   },
   {
-    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 619,
-    "updated_at": "2026-08-20T20:40:16Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
-  },
-  {
-    "description": "Mistake-proofing for software \u2014 Shigeo Shingo's poka-yoke method as a Claude Code plugin. Audit code for footguns, desig",
-    "id": "rainmanjam/poke_yoke",
-    "language": "Python",
-    "name": "rainmanjam/poke_yoke",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:37:04Z",
-    "url": "https://github.com/rainmanjam/poke_yoke"
-  },
-  {
     "description": "A collection of engineering and reasoning skills for AI coding agents, built around evidence, deliberate decision-making",
     "id": "shammlo/zoth-skills",
     "language": "\u2014",
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-20T20:43:16Z",
+    "updated_at": "2026-08-20T20:45:39Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -421,24 +466,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:30:44Z",
     "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 24,
-    "updated_at": "2026-08-20T20:30:37Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 19,
-    "updated_at": "2026-08-20T20:30:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Open Agent Skills for frontend engineering, secure coding, research, automation, and Meta Ads workflows.",
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T20:13:28Z",
     "url": "https://github.com/Ogabriel-Pro/skill-forge"
-  },
-  {
-    "description": "A Claude Code skill for iterative reverse engineering in Ghidra",
-    "id": "GeReV/ghidra-iterative-re",
-    "language": "\u2014",
-    "name": "GeReV/ghidra-iterative-re",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:13:08Z",
-    "url": "https://github.com/GeReV/ghidra-iterative-re"
-  },
-  {
-    "description": "Open launch-model infrastructure for Uniswap v4 on Ethereum.",
-    "id": "0xprogrammable/programmable",
-    "language": "TypeScript",
-    "name": "0xprogrammable/programmable",
-    "stars": 9,
-    "updated_at": "2026-08-20T20:45:29Z",
-    "url": "https://github.com/0xprogrammable/programmable"
-  },
-  {
-    "description": "Agent Skill for Git workflow best practices - branching, commits, PR workflows | Claude Code compatible",
-    "id": "netresearch/git-workflow-skill",
-    "language": "Shell",
-    "name": "netresearch/git-workflow-skill",
-    "stars": 43,
-    "updated_at": "2026-08-20T20:12:11Z",
-    "url": "https://github.com/netresearch/git-workflow-skill"
   }
 ]
