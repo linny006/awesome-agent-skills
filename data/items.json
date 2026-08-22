@@ -1,5 +1,41 @@
 [
   {
+    "description": "Opinionated agent skills for Openplanet AngelScript plugin development",
+    "id": "XertroV/tm-plugin-skills",
+    "language": "AngelScript",
+    "name": "XertroV/tm-plugin-skills",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:46:27Z",
+    "url": "https://github.com/XertroV/tm-plugin-skills"
+  },
+  {
+    "description": "Portable agent skill and deterministic harness for safe autonomous industry research",
+    "id": "tylergibbs1/autonomous-industry-research",
+    "language": "\u2014",
+    "name": "tylergibbs1/autonomous-industry-research",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:46:15Z",
+    "url": "https://github.com/tylergibbs1/autonomous-industry-research"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-22T15:45:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-22T15:45:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -18,12 +54,21 @@
     "url": "https://github.com/shanliuling/meme-sticker"
   },
   {
+    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
+    "id": "Arasz/ai-badger",
+    "language": "Python",
+    "name": "Arasz/ai-badger",
+    "stars": 2,
+    "updated_at": "2026-08-22T15:44:52Z",
+    "url": "https://github.com/Arasz/ai-badger"
+  },
+  {
     "description": "Evidence-based whole-repository review Agent Skill \u2014 development, validation, and deterministic release workbench",
     "id": "martinthommesen/super-review",
     "language": "Python",
     "name": "martinthommesen/super-review",
     "stars": 0,
-    "updated_at": "2026-08-22T15:43:14Z",
+    "updated_at": "2026-08-22T15:46:44Z",
     "url": "https://github.com/martinthommesen/super-review"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "buildinternet/uploads",
     "stars": 16,
-    "updated_at": "2026-08-22T15:42:05Z",
+    "updated_at": "2026-08-22T15:46:13Z",
     "url": "https://github.com/buildinternet/uploads"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "akunzai/skills-manager",
     "stars": 1,
-    "updated_at": "2026-08-22T15:45:08Z",
+    "updated_at": "2026-08-22T15:45:59Z",
     "url": "https://github.com/akunzai/skills-manager"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/utk2103/Prompt-Studio"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-22T15:45:26Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
     "id": "Bateelco/neo4j-agent-toolkit",
     "language": "HTML",
@@ -288,15 +324,6 @@
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
-    "description": "Source-of-truth marketplace + project scaffolder for custom Claude/agent skills, personas, and instructions. Organized a",
-    "id": "Arasz/ai-badger",
-    "language": "Python",
-    "name": "Arasz/ai-badger",
-    "stars": 2,
-    "updated_at": "2026-08-22T15:44:52Z",
-    "url": "https://github.com/Arasz/ai-badger"
-  },
-  {
     "description": "AnyCloud agent skill \u2014 run AI training/batch jobs on the cheapest cloud GPU across AWS/GCP/Azure. Claude plugin + Agent ",
     "id": "anycloud-sh/anycloud-skills",
     "language": "\u2014",
@@ -304,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T15:30:55Z",
     "url": "https://github.com/anycloud-sh/anycloud-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 25,
-    "updated_at": "2026-08-22T15:30:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "A universal AI writing skill that turns generic drafts into specific, truthful, voice-consistent prose.",
@@ -880,23 +898,5 @@
     "stars": 5584,
     "updated_at": "2026-08-22T15:04:51Z",
     "url": "https://github.com/gosom/google-maps-scraper"
-  },
-  {
-    "description": "Cursor/Claude skill \u2014 paste a JD, get a one-page tailored resume (HTML/PDF/plain). Chinese-first. MIT.",
-    "id": "BAK262/resume-ssot",
-    "language": "Python",
-    "name": "BAK262/resume-ssot",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:03:34Z",
-    "url": "https://github.com/BAK262/resume-ssot"
-  },
-  {
-    "description": "DeepSeek Harness (DSH) \u751f\u6001\u6280\u80fd\u5305\uff1aparallel-dispatch \u5e76\u884c\u8c03\u5ea6\u89c4\u5219 + archmap \u67b6\u6784\u6d4b\u7ed8 Agent\uff08\u96f6LLM\u786e\u5b9a\u6027diff\u5f71\u54cd\u9762\uff0c\u8282\u7ea6tokens\uff09\u3002Reusable skills for ",
-    "id": "xu-jin-cs/dsh-skills",
-    "language": "Python",
-    "name": "xu-jin-cs/dsh-skills",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:03:16Z",
-    "url": "https://github.com/xu-jin-cs/dsh-skills"
   }
 ]
