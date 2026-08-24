@@ -1,5 +1,41 @@
 [
   {
+    "description": "Hermes Agent skill for prompt-injection defense and third-party skill auditing.",
+    "id": "kalt-sit/theseus",
+    "language": "Shell",
+    "name": "kalt-sit/theseus",
+    "stars": 1,
+    "updated_at": "2026-08-24T12:01:29Z",
+    "url": "https://github.com/kalt-sit/theseus"
+  },
+  {
+    "description": "Cross-platform Agent Skill for evidence-based independent evaluation across Codex, Claude Code, and Agy CLI.",
+    "id": "clearlove7818/waa-independent-evaluation",
+    "language": "\u2014",
+    "name": "clearlove7818/waa-independent-evaluation",
+    "stars": 0,
+    "updated_at": "2026-08-24T12:01:04Z",
+    "url": "https://github.com/clearlove7818/waa-independent-evaluation"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-24T12:00:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-24T12:00:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -36,6 +72,15 @@
     "url": "https://github.com/shinpr/rashomon"
   },
   {
+    "description": "Self-hostable Digital Twins of Different APIs For E2E & Agent Simulation Testing",
+    "id": "pome-sh/digital-twins",
+    "language": "TypeScript",
+    "name": "pome-sh/digital-twins",
+    "stars": 12,
+    "updated_at": "2026-08-24T11:59:10Z",
+    "url": "https://github.com/pome-sh/digital-twins"
+  },
+  {
     "description": "Local-first cross-document consistency auditing Skill for DOCX, PPTX, XLSX and PDF",
     "id": "zhouzhang499-gif/proofmesh-document-auditor",
     "language": "Python",
@@ -63,22 +108,40 @@
     "url": "https://github.com/promovaweb/specsfy"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-24T11:58:39Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Steve Polito's Agent Skills",
     "id": "stevepolitodesign/skills",
     "language": "HTML",
     "name": "stevepolitodesign/skills",
     "stars": 1,
-    "updated_at": "2026-08-24T11:59:45Z",
+    "updated_at": "2026-08-24T12:01:26Z",
     "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "Backend for AI coding agents on CloudBase \u2014 database, auth, functions via Plugin, Skills & MCP.",
+    "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+    "language": "TypeScript",
+    "name": "TencentCloudBase/CloudBase-AI-Toolkit",
+    "stars": 1074,
+    "updated_at": "2026-08-24T11:58:23Z",
+    "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+  },
+  {
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "id": "CherryHQ/cherry-studio",
+    "language": "TypeScript",
+    "name": "CherryHQ/cherry-studio",
+    "stars": 50993,
+    "updated_at": "2026-08-24T11:58:22Z",
+    "url": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "description": "Installable Agent Skills for architects: the agentic enterprise architecture, the decisions, and the measured evidence. ",
+    "id": "muralisid/agentic-architecture-skills",
+    "language": "Python",
+    "name": "muralisid/agentic-architecture-skills",
+    "stars": 0,
+    "updated_at": "2026-08-24T11:58:19Z",
+    "url": "https://github.com/muralisid/agentic-architecture-skills"
   },
   {
     "description": "Engineering-readiness audits for AI-built apps. A Claude Code and Codex plugin that finds production risks across ten do",
@@ -106,15 +169,6 @@
     "stars": 116,
     "updated_at": "2026-08-24T11:58:01Z",
     "url": "https://github.com/fallow-rs/fallow-skills"
-  },
-  {
-    "description": "\u4e2a\u4ebaarXiv\u8bba\u6587\u77e5\u8bc6\u7a7a\u95f4\uff0c\u652f\u6301\u4f5c\u4e3a\u6a21\u677ffrok\u4f7f\u7528",
-    "id": "neflibata-feng/MyArxiv-Agent",
-    "language": "Python",
-    "name": "neflibata-feng/MyArxiv-Agent",
-    "stars": 2,
-    "updated_at": "2026-08-24T11:58:00Z",
-    "url": "https://github.com/neflibata-feng/MyArxiv-Agent"
   },
   {
     "description": "Game wiki template: clone it, name the game, deploy. Unofficial fan sites you own \u2014 not Fandom, not MediaWiki.",
@@ -149,7 +203,7 @@
     "language": "JavaScript",
     "name": "FrankFu916/skill-audit",
     "stars": 1,
-    "updated_at": "2026-08-24T11:57:13Z",
+    "updated_at": "2026-08-24T12:01:34Z",
     "url": "https://github.com/FrankFu916/skill-audit"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "WhiteKiwi/skills",
     "stars": 0,
-    "updated_at": "2026-08-24T11:55:26Z",
+    "updated_at": "2026-08-24T12:01:34Z",
     "url": "https://github.com/WhiteKiwi/skills"
   },
   {
@@ -241,24 +295,6 @@
     "stars": 264,
     "updated_at": "2026-08-24T11:54:54Z",
     "url": "https://github.com/gosuda/portal-tunnel"
-  },
-  {
-    "description": "Hermes Agent skill for prompt-injection defense and third-party skill auditing.",
-    "id": "kalt-sit/theseus",
-    "language": "Shell",
-    "name": "kalt-sit/theseus",
-    "stars": 1,
-    "updated_at": "2026-08-24T11:54:05Z",
-    "url": "https://github.com/kalt-sit/theseus"
-  },
-  {
-    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-    "id": "CherryHQ/cherry-studio",
-    "language": "TypeScript",
-    "name": "CherryHQ/cherry-studio",
-    "stars": 50992,
-    "updated_at": "2026-08-24T11:58:22Z",
-    "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
     "description": "One command installs 670+ security tools on Linux & Termux. Its authorization-gated MCP server works with Claude Code, O",
@@ -446,7 +482,7 @@
     "language": "HTML",
     "name": "beepboop2025/liquilens-site",
     "stars": 0,
-    "updated_at": "2026-08-24T11:45:41Z",
+    "updated_at": "2026-08-24T12:01:51Z",
     "url": "https://github.com/beepboop2025/liquilens-site"
   },
   {
@@ -457,15 +493,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T11:45:36Z",
     "url": "https://github.com/jakozloski/autonomy"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-24T11:45:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
@@ -805,7 +832,7 @@
     "id": "Spielewoy/autoprompt-skill",
     "language": "JavaScript",
     "name": "Spielewoy/autoprompt-skill",
-    "stars": 795,
+    "stars": 796,
     "updated_at": "2026-08-24T11:29:56Z",
     "url": "https://github.com/Spielewoy/autoprompt-skill"
   },
@@ -871,32 +898,5 @@
     "stars": 10,
     "updated_at": "2026-08-24T11:26:32Z",
     "url": "https://github.com/pantheon-org/tekhne"
-  },
-  {
-    "description": "The Operating intelligence Layer for Businesses.",
-    "id": "mhista/kola",
-    "language": "Dart",
-    "name": "mhista/kola",
-    "stars": 0,
-    "updated_at": "2026-08-24T11:26:32Z",
-    "url": "https://github.com/mhista/kola"
-  },
-  {
-    "description": "Unity Shader Agent Toolkit 2026: AI-Powered GPU Optimization Hub for Mobile & WebGL",
-    "id": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "language": "HTML",
-    "name": "amsbangs1975-collab/unity-shader-agent-canvas",
-    "stars": 0,
-    "updated_at": "2026-08-24T11:25:42Z",
-    "url": "https://github.com/amsbangs1975-collab/unity-shader-agent-canvas"
-  },
-  {
-    "description": "Open Agent Skill routing money-market, capital-market, bank-risk, market-liquidity and China-economy research to bounded",
-    "id": "beepboop2025/financial-evidence-skills",
-    "language": "Python",
-    "name": "beepboop2025/financial-evidence-skills",
-    "stars": 1,
-    "updated_at": "2026-08-24T11:24:26Z",
-    "url": "https://github.com/beepboop2025/financial-evidence-skills"
   }
 ]
