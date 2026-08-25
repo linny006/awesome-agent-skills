@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-25T23:00:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 675,
+    "updated_at": "2026-08-25T23:00:10Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Opinionated workstation setup for Apple Silicon macOS and Debian or Ubuntu desktops.",
+    "id": "M0rtalPhe0nix/dotfiles",
+    "language": "Python",
+    "name": "M0rtalPhe0nix/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:59:59Z",
+    "url": "https://github.com/M0rtalPhe0nix/dotfiles"
+  },
+  {
+    "description": "Lifecycle Management for Agent Skills",
+    "id": "smith-horn/skillsmith",
+    "language": "TypeScript",
+    "name": "smith-horn/skillsmith",
+    "stars": 77,
+    "updated_at": "2026-08-25T22:59:56Z",
+    "url": "https://github.com/smith-horn/skillsmith"
+  },
+  {
+    "description": "Nuphus \u2014 \u672c\u5730\u4f18\u5148\u7684 AI Agent\uff1a\u771f\u5b9e\u684c\u9762\u6267\u884c\u529b + \u624b\u673a\u7b2c\u4e8c\u5757\u5c4f\u5e55\u3002Local-first AI agent with real desktop execution and dual-device real-time syn",
+    "id": "mrpulor-gh/nuphus",
+    "language": "Rust",
+    "name": "mrpulor-gh/nuphus",
+    "stars": 32,
+    "updated_at": "2026-08-25T22:59:21Z",
+    "url": "https://github.com/mrpulor-gh/nuphus"
+  },
+  {
+    "description": "Claude Code skills for managing multi-step tasks as GitHub issues. Create, implement, update, and   close execution plan",
+    "id": "gjoranv/claude-plan-skills",
+    "language": "\u2014",
+    "name": "gjoranv/claude-plan-skills",
+    "stars": 5,
+    "updated_at": "2026-08-25T22:58:44Z",
+    "url": "https://github.com/gjoranv/claude-plan-skills"
+  },
+  {
+    "description": "Give your CLAUDE.md or AGENTS.md a checkup: size vitals, dead references, drifted claims \u2014 and a backtest of every rule ",
+    "id": "agent-clinic/claude-md-doctor",
+    "language": "Python",
+    "name": "agent-clinic/claude-md-doctor",
+    "stars": 3,
+    "updated_at": "2026-08-25T22:58:27Z",
+    "url": "https://github.com/agent-clinic/claude-md-doctor"
+  },
+  {
+    "description": "My macOS setup as a chezmoi repo, a Copier template for Python projects, and the skills and hooks I use with Claude Code",
+    "id": "zaffnet/whetstone",
+    "language": "Shell",
+    "name": "zaffnet/whetstone",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:58:23Z",
+    "url": "https://github.com/zaffnet/whetstone"
+  },
+  {
+    "description": "Agents Skills",
+    "id": "pantheon-org/tekhne",
+    "language": "HCL",
+    "name": "pantheon-org/tekhne",
+    "stars": 10,
+    "updated_at": "2026-08-25T22:58:31Z",
+    "url": "https://github.com/pantheon-org/tekhne"
+  },
+  {
+    "description": "Claude Code blog skill suite: 30 sub-skills, 5 agents, 5-gate v1.9.0 Blog Delivery Contract, dual-optimized for Google r",
+    "id": "AgriciDaniel/claude-blog",
+    "language": "Python",
+    "name": "AgriciDaniel/claude-blog",
+    "stars": 1877,
+    "updated_at": "2026-08-25T22:59:09Z",
+    "url": "https://github.com/AgriciDaniel/claude-blog"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-25T22:57:49Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Agent Skills for complete AI narrative production, from story concepts, characters and worlds to outlining, writing, con",
+    "id": "sb-dev/narrative-production-skills",
+    "language": "TypeScript",
+    "name": "sb-dev/narrative-production-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:57:45Z",
+    "url": "https://github.com/sb-dev/narrative-production-skills"
+  },
+  {
     "description": "12 evidence-driven agent skills with CI, routing evals, and CW-AIP \u2014 Cursor, Claude Code, ChatGPT, Codex",
     "id": "MaciejZet/agent-skills",
     "language": "Python",
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:56:59Z",
     "url": "https://github.com/DrOlu/agent-skills"
-  },
-  {
-    "description": "Nuphus \u2014 \u672c\u5730\u4f18\u5148\u7684 AI Agent\uff1a\u771f\u5b9e\u684c\u9762\u6267\u884c\u529b + \u624b\u673a\u7b2c\u4e8c\u5757\u5c4f\u5e55\u3002Local-first AI agent with real desktop execution and dual-device real-time syn",
-    "id": "mrpulor-gh/nuphus",
-    "language": "Rust",
-    "name": "mrpulor-gh/nuphus",
-    "stars": 32,
-    "updated_at": "2026-08-25T22:57:14Z",
-    "url": "https://github.com/mrpulor-gh/nuphus"
-  },
-  {
-    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
-    "id": "artokun/comfyui-mcp",
-    "language": "TypeScript",
-    "name": "artokun/comfyui-mcp",
-    "stars": 674,
-    "updated_at": "2026-08-25T22:56:45Z",
-    "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
     "description": "GitHub Memory Snapshot 2026 \u2013 Auto Recall & Prune Project Context Across Sessions",
@@ -72,15 +162,6 @@
     "url": "https://github.com/jrittelmeyer/ai-dev-kit"
   },
   {
-    "description": "My macOS setup as a chezmoi repo, a Copier template for Python projects, and the skills and hooks I use with Claude Code",
-    "id": "zaffnet/whetstone",
-    "language": "Shell",
-    "name": "zaffnet/whetstone",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:54:32Z",
-    "url": "https://github.com/zaffnet/whetstone"
-  },
-  {
     "description": "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.",
     "id": "ctxrs/ctx",
     "language": "Rust",
@@ -106,24 +187,6 @@
     "stars": 77,
     "updated_at": "2026-08-25T22:52:53Z",
     "url": "https://github.com/hyperfx-ai/marketing-skills"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 5,
-    "updated_at": "2026-08-25T22:52:46Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
-    "description": "Agent Skills for complete AI narrative production, from story concepts, characters and worlds to outlining, writing, con",
-    "id": "sb-dev/narrative-production-skills",
-    "language": "TypeScript",
-    "name": "sb-dev/narrative-production-skills",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:57:45Z",
-    "url": "https://github.com/sb-dev/narrative-production-skills"
   },
   {
     "description": "",
@@ -198,15 +261,6 @@
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
   },
   {
-    "description": "Lifecycle Management for Agent Skills",
-    "id": "smith-horn/skillsmith",
-    "language": "TypeScript",
-    "name": "smith-horn/skillsmith",
-    "stars": 77,
-    "updated_at": "2026-08-25T22:48:27Z",
-    "url": "https://github.com/smith-horn/skillsmith"
-  },
-  {
     "description": "A local operating system for a company: Goals, Runs, Acts, Workers, and one Director loop (OBSERVE \u2192 DECIDE \u2192 ACT \u2192 EVAL",
     "id": "ShayanSpiel/SpielOS",
     "language": "Python",
@@ -279,15 +333,6 @@
     "url": "https://github.com/skilletmd/skillet"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-25T22:45:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "A Claude Code plugin marketplace providing skills, rules, and scripts extracted from a production development workflow.",
     "id": "qte77/claude-code-plugins",
     "language": "Shell",
@@ -322,15 +367,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T22:42:17Z",
     "url": "https://github.com/emanzurv/quiz-me-skill"
-  },
-  {
-    "description": "Give your CLAUDE.md or AGENTS.md a checkup: size vitals, dead references, drifted claims \u2014 and a backtest of every rule ",
-    "id": "agent-clinic/claude-md-doctor",
-    "language": "Python",
-    "name": "agent-clinic/claude-md-doctor",
-    "stars": 3,
-    "updated_at": "2026-08-25T22:42:17Z",
-    "url": "https://github.com/agent-clinic/claude-md-doctor"
   },
   {
     "description": "A curated collection of agent skills for your AI agents - engineering craft, prompt engineering, design, growth marketin",
@@ -850,7 +886,7 @@
     "id": "AgriciDaniel/claude-obsidian",
     "language": "Python",
     "name": "AgriciDaniel/claude-obsidian",
-    "stars": 12673,
+    "stars": 12674,
     "updated_at": "2026-08-25T22:10:48Z",
     "url": "https://github.com/AgriciDaniel/claude-obsidian"
   },
@@ -862,41 +898,5 @@
     "stars": 17,
     "updated_at": "2026-08-25T22:06:43Z",
     "url": "https://github.com/CorpusIQ/corpusiq-docs"
-  },
-  {
-    "description": "Interoperability profile and MCP gateway for agent-ready websites \u2014 llms.txt, Agent Skills, WebMCP, MCP, A2A, schemas an",
-    "id": "dkharlanau/agent-ready-web-profile",
-    "language": "JavaScript",
-    "name": "dkharlanau/agent-ready-web-profile",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:06:38Z",
-    "url": "https://github.com/dkharlanau/agent-ready-web-profile"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 5,
-    "updated_at": "2026-08-25T22:04:31Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
-  },
-  {
-    "description": "Elicitly Free Edition \u2014 human-in-the-loop for prompts and Agent Skills over MCP elicitation. Local MCP server (npx -y el",
-    "id": "elicitly/elicitly",
-    "language": "TypeScript",
-    "name": "elicitly/elicitly",
-    "stars": 1,
-    "updated_at": "2026-08-25T22:04:20Z",
-    "url": "https://github.com/elicitly/elicitly"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:03:15Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
