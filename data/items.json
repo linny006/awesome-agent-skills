@@ -1,6 +1,51 @@
 [
   {
-    "description": "Unofficial, security-hardened Matt Pocock Engineering workflows for Codex.",
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-25T08:00:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "One markdown file that stops coding agents from building bureaucracy around their own work. Measured on gpt-5.6-sol: cer",
+    "id": "MongLong0214/sol-simplify",
+    "language": "TypeScript",
+    "name": "MongLong0214/sol-simplify",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:59:27Z",
+    "url": "https://github.com/MongLong0214/sol-simplify"
+  },
+  {
+    "description": "14 Claude Code skills for commercial real estate due diligence, underwriting, lease and loan review, title and survey an",
+    "id": "cre-ai-skills/CRE-AI-Skills",
+    "language": "\u2014",
+    "name": "cre-ai-skills/CRE-AI-Skills",
+    "stars": 2,
+    "updated_at": "2026-08-25T07:59:25Z",
+    "url": "https://github.com/cre-ai-skills/CRE-AI-Skills"
+  },
+  {
+    "description": "A lossless intent rewriter for messy vibe-coding requests.",
+    "id": "Shhaaawwww/intent-rewrite-gate",
+    "language": "Python",
+    "name": "Shhaaawwww/intent-rewrite-gate",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:58:47Z",
+    "url": "https://github.com/Shhaaawwww/intent-rewrite-gate"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-25T07:58:24Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Composable Matt Pocock Engineering workflows for Codex.",
     "id": "tsai09495/matt-pocock-engineering",
     "language": "JavaScript",
     "name": "tsai09495/matt-pocock-engineering",
@@ -16,6 +61,33 @@
     "stars": 19,
     "updated_at": "2026-08-25T07:57:57Z",
     "url": "https://github.com/IvoryCanvas/QAMap"
+  },
+  {
+    "description": "GitHub Memory Snapshot 2026 \u2013 Auto Recall & Prune Project Context Across Sessions",
+    "id": "Meizu1330/neural-context-archive",
+    "language": "HTML",
+    "name": "Meizu1330/neural-context-archive",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:57:55Z",
+    "url": "https://github.com/Meizu1330/neural-context-archive"
+  },
+  {
+    "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
+    "id": "Bateelco/neo4j-agent-toolkit",
+    "language": "HTML",
+    "name": "Bateelco/neo4j-agent-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:57:23Z",
+    "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
+  },
+  {
+    "description": "A small native coding-agent harness with bounded tools, streaming REPL, Agent Skills/Plugins, MCP, and OpenAI-compatible",
+    "id": "civaapple-alt/mini-agent-harness",
+    "language": "Rust",
+    "name": "civaapple-alt/mini-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:57:18Z",
+    "url": "https://github.com/civaapple-alt/mini-agent-harness"
   },
   {
     "description": "Evidence-led Agent Skill for evaluating AI and developer tools before adoption.",
@@ -81,15 +153,6 @@
     "url": "https://github.com/MindGoblinStudios/grim-tome"
   },
   {
-    "description": "A small native coding-agent harness with bounded tools, streaming REPL, Agent Skills/Plugins, MCP, and OpenAI-compatible",
-    "id": "civaapple-alt/mini-agent-harness",
-    "language": "Rust",
-    "name": "civaapple-alt/mini-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:57:18Z",
-    "url": "https://github.com/civaapple-alt/mini-agent-harness"
-  },
-  {
     "description": "AI agent skill catalog and yk CLI for installing reusable Claude Code/Codex-ready skills into repos and running workflow",
     "id": "Yaphet2015/ya-skills",
     "language": "TypeScript",
@@ -153,15 +216,6 @@
     "url": "https://github.com/Larslllllll/skillsmith"
   },
   {
-    "description": "One markdown file that stops coding agents from building bureaucracy around their own work. Measured on gpt-5.6-sol: cer",
-    "id": "MongLong0214/sol-simplify",
-    "language": "TypeScript",
-    "name": "MongLong0214/sol-simplify",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:53:20Z",
-    "url": "https://github.com/MongLong0214/sol-simplify"
-  },
-  {
     "description": "AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports",
     "id": "hamadou-08/roboclaw-reports",
     "language": "HTML",
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "TheLunarCompany/lunar",
     "stars": 484,
-    "updated_at": "2026-08-25T07:52:42Z",
+    "updated_at": "2026-08-25T08:00:17Z",
     "url": "https://github.com/TheLunarCompany/lunar"
   },
   {
@@ -405,15 +459,6 @@
     "url": "https://github.com/WaveSpeedAI/wavespeed-cli"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-25T07:45:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation",
     "id": "NVIDIA/SkillEvaluator",
     "language": "Python",
@@ -439,15 +484,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T07:45:19Z",
     "url": "https://github.com/rlx/uplevel"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 5,
-    "updated_at": "2026-08-25T07:45:15Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "Spec-driven development where the review gate is enforced by a hook, not requested by prose. One plugin for Claude Code ",
@@ -527,7 +563,7 @@
     "language": "TypeScript",
     "name": "justinramos101/ramstack",
     "stars": 0,
-    "updated_at": "2026-08-25T07:53:20Z",
+    "updated_at": "2026-08-25T07:59:20Z",
     "url": "https://github.com/justinramos101/ramstack"
   },
   {
@@ -590,7 +626,7 @@
     "language": "Python",
     "name": "rdlugs/roborak",
     "stars": 1,
-    "updated_at": "2026-08-25T07:41:20Z",
+    "updated_at": "2026-08-25T07:59:03Z",
     "url": "https://github.com/rdlugs/roborak"
   },
   {
@@ -770,7 +806,7 @@
     "language": "Python",
     "name": "KCNyu/clawock",
     "stars": 13,
-    "updated_at": "2026-08-25T07:40:15Z",
+    "updated_at": "2026-08-25T08:00:14Z",
     "url": "https://github.com/KCNyu/clawock"
   },
   {
@@ -787,7 +823,7 @@
     "id": "tt-a1i/archify",
     "language": "HTML",
     "name": "tt-a1i/archify",
-    "stars": 15636,
+    "stars": 15637,
     "updated_at": "2026-08-25T07:34:57Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T07:39:58Z",
     "url": "https://github.com/ineomu/eat-to-live"
-  },
-  {
-    "description": "Portable Agent Skill for evidence-based Android, Linux, and Chromium Perfetto analysis.",
-    "id": "Gracker/Perfetto-Skills",
-    "language": "Python",
-    "name": "Gracker/Perfetto-Skills",
-    "stars": 22,
-    "updated_at": "2026-08-25T07:32:00Z",
-    "url": "https://github.com/Gracker/Perfetto-Skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:31:28Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": " Skills for AI coding agents: code review, debugging, security audits, refactoring, cleaning up AI-written code and text",
-    "id": "khasky/awesome-agent-skills",
-    "language": "JavaScript",
-    "name": "khasky/awesome-agent-skills",
-    "stars": 6,
-    "updated_at": "2026-08-25T07:31:22Z",
-    "url": "https://github.com/khasky/awesome-agent-skills"
-  },
-  {
-    "description": "End-to-end ML toolkit automating the complete workflow \u2014 data profiling, preprocessing, feature engineering, model selec",
-    "id": "GiacomoSaccaggi/scomp_link",
-    "language": "Python",
-    "name": "GiacomoSaccaggi/scomp_link",
-    "stars": 11,
-    "updated_at": "2026-08-25T07:29:56Z",
-    "url": "https://github.com/GiacomoSaccaggi/scomp_link"
   }
 ]
