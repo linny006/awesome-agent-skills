@@ -1,5 +1,95 @@
 [
   {
+    "description": "Claude Code plugin for scientific paper writing, source-traced review, and de-AI rewriting. 8 skills + 24 tools under on",
+    "id": "skymanbp/sci-paper",
+    "language": "Python",
+    "name": "skymanbp/sci-paper",
+    "stars": 4,
+    "updated_at": "2026-08-26T04:03:18Z",
+    "url": "https://github.com/skymanbp/sci-paper"
+  },
+  {
+    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
+    "id": "Stijnman/grok-custom-skills",
+    "language": "Python",
+    "name": "Stijnman/grok-custom-skills",
+    "stars": 6,
+    "updated_at": "2026-08-26T04:03:02Z",
+    "url": "https://github.com/Stijnman/grok-custom-skills"
+  },
+  {
+    "description": "Sable is a self-hosted agentic platform that lives on your machine and grows with you. Part AI companion, part dev envir",
+    "id": "AminulIslamSifat/Sable",
+    "language": "Python",
+    "name": "AminulIslamSifat/Sable",
+    "stars": 5,
+    "updated_at": "2026-08-26T04:02:45Z",
+    "url": "https://github.com/AminulIslamSifat/Sable"
+  },
+  {
+    "description": "A tool-independent governance skill that determines what an AI coding agent is authorized to create, change, maintain, o",
+    "id": "tosin2013/repo-governor",
+    "language": "Python",
+    "name": "tosin2013/repo-governor",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:02:20Z",
+    "url": "https://github.com/tosin2013/repo-governor"
+  },
+  {
+    "description": "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.",
+    "id": "ctxrs/ctx",
+    "language": "Rust",
+    "name": "ctxrs/ctx",
+    "stars": 1044,
+    "updated_at": "2026-08-26T04:02:18Z",
+    "url": "https://github.com/ctxrs/ctx"
+  },
+  {
+    "description": "\u9762\u5411 Codex\u3001Claude Code \u4e0e AI Agent \u7684\u5f00\u6e90\u9879\u76ee\u7ba1\u7406\u53ca\u5168\u751f\u547d\u5468\u671f\u6cbb\u7406\u63d2\u4ef6 \u2014 requirements, workflows, engineering, delivery, assurance, and organ",
+    "id": "SenMuShare/senmu-buildos",
+    "language": "Python",
+    "name": "SenMuShare/senmu-buildos",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:01:40Z",
+    "url": "https://github.com/SenMuShare/senmu-buildos"
+  },
+  {
+    "description": "Cost-aware GitHub Copilot workflows for clarified, bounded and independently reviewed software changes.",
+    "id": "navikt/grillmester",
+    "language": "Python",
+    "name": "navikt/grillmester",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:00:41Z",
+    "url": "https://github.com/navikt/grillmester"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 20,
+    "updated_at": "2026-08-26T04:00:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Lifecycle Management for Agent Skills",
+    "id": "smith-horn/skillsmith",
+    "language": "TypeScript",
+    "name": "smith-horn/skillsmith",
+    "stars": 77,
+    "updated_at": "2026-08-26T04:02:45Z",
+    "url": "https://github.com/smith-horn/skillsmith"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-26T04:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -36,15 +126,6 @@
     "url": "https://github.com/moonlight-lupin/agent-skills"
   },
   {
-    "description": "\u9762\u5411 Codex\u3001Claude Code \u4e0e AI Agent \u7684\u5f00\u6e90\u9879\u76ee\u7ba1\u7406\u53ca\u5168\u751f\u547d\u5468\u671f\u6cbb\u7406\u63d2\u4ef6 \u2014 requirements, workflows, engineering, delivery, assurance, and organ",
-    "id": "SenMuShare/senmu-buildos",
-    "language": "Python",
-    "name": "SenMuShare/senmu-buildos",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:00:24Z",
-    "url": "https://github.com/SenMuShare/senmu-buildos"
-  },
-  {
     "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
     "id": "Codyte/Tia-Portal-CLI",
     "language": "C#",
@@ -61,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:58:30Z",
     "url": "https://github.com/thanhnam2811/ag-flow"
+  },
+  {
+    "description": "Best AI Coding Workflow Plugin Pipeline 2026",
+    "id": "aufamubarak/plan-execute-verify-claude-code",
+    "language": "HTML",
+    "name": "aufamubarak/plan-execute-verify-claude-code",
+    "stars": 115,
+    "updated_at": "2026-08-26T03:58:29Z",
+    "url": "https://github.com/aufamubarak/plan-execute-verify-claude-code"
   },
   {
     "description": "AI Agent \u6280\u80fd\u96c6\u5408\uff1a\u4e66\u7c4d\u84b8\u998f\u6280\u80fd\u5e93\uff0824\u672c\u4e66\uff0c85\u4e2askills\uff1bcangjie-skill\u6d41\u6c34\u7ebf\u8bd5\u70b9\uff09+ \u9879\u76ee\u7406\u89e3/\u4fe1\u606f\u6539\u5199/\u5f00\u53d1UX/\u5c0f\u7ea2\u4e66\u53d1\u5e03 + Hermes \u8fd0\u7ef4\u3002\u517c\u5bb9 Codex/Claude Code/Hermes",
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:57:37Z",
     "url": "https://github.com/Miguelecf/elgordo-ia"
-  },
-  {
-    "description": "A curated, safety-conscious collection of reusable Grok-compatible agent skills for workflow automation, research, integ",
-    "id": "Stijnman/grok-custom-skills",
-    "language": "Python",
-    "name": "Stijnman/grok-custom-skills",
-    "stars": 6,
-    "updated_at": "2026-08-26T03:57:17Z",
-    "url": "https://github.com/Stijnman/grok-custom-skills"
   },
   {
     "description": "MosoFin LLM plugins for secure, authenticated, workspace-scoped, read-only access to business financial data via the Mos",
@@ -432,15 +513,6 @@
     "url": "https://github.com/orqan137/skillroster"
   },
   {
-    "description": "Lifecycle Management for Agent Skills",
-    "id": "smith-horn/skillsmith",
-    "language": "TypeScript",
-    "name": "smith-horn/skillsmith",
-    "stars": 77,
-    "updated_at": "2026-08-26T04:00:00Z",
-    "url": "https://github.com/smith-horn/skillsmith"
-  },
-  {
     "description": "\u9ad8\u661f Agent Skill repo \u7684\u5171\u540c\u9ede\u662f\u300c\u597d\u88dd\u300d\u4e0d\u662f\u300c\u5beb\u5f97\u597d\u300d\u2014\u201497 \u500b repo \u7684\u661f\u6578\u68af\u5ea6\u5206\u6790\uff0c\u9644\u53ef\u57f7\u884c\u7684 skill-reviewer \u54c1\u8cea\u5be9\u67e5\u5de5\u5177",
     "id": "astroicers/skill-quality-research",
     "language": "Python",
@@ -527,7 +599,7 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 677,
-    "updated_at": "2026-08-26T03:55:00Z",
+    "updated_at": "2026-08-26T04:01:14Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
@@ -628,24 +700,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:46:01Z",
     "url": "https://github.com/rawcontext/luxel-evidence"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 20,
-    "updated_at": "2026-08-26T03:45:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-26T03:45:34Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Manage agent configurations across projects with a single AGENTS.md file to standardize rules, skills, and permissions f",
@@ -844,59 +898,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T03:43:33Z",
     "url": "https://github.com/reyhan8543/agent-md"
-  },
-  {
-    "description": "Adaptive running and strength coaching for the long run \u2014 a hosted MCP server and Agent Skill that keeps one current 28-",
-    "id": "atomchung/long-run-hybrid-coach",
-    "language": "Python",
-    "name": "atomchung/long-run-hybrid-coach",
-    "stars": 3,
-    "updated_at": "2026-08-26T03:43:30Z",
-    "url": "https://github.com/atomchung/long-run-hybrid-coach"
-  },
-  {
-    "description": "Temporal Awareness for AI Agents 2026 - Time-Passing Lightweight Hooks + Skill SDK",
-    "id": "Karthiknarsimsetty22/temporal-canvas",
-    "language": "HTML",
-    "name": "Karthiknarsimsetty22/temporal-canvas",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:29Z",
-    "url": "https://github.com/Karthiknarsimsetty22/temporal-canvas"
-  },
-  {
-    "description": "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.",
-    "id": "ctxrs/ctx",
-    "language": "Rust",
-    "name": "ctxrs/ctx",
-    "stars": 1044,
-    "updated_at": "2026-08-26T03:43:25Z",
-    "url": "https://github.com/ctxrs/ctx"
-  },
-  {
-    "description": "Search, read, and download curated agent skills via MCP for fast discovery and local use in agent workflows",
-    "id": "Drhir2460/agentskills-mcp",
-    "language": "Python",
-    "name": "Drhir2460/agentskills-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:20Z",
-    "url": "https://github.com/Drhir2460/agentskills-mcp"
-  },
-  {
-    "description": "Claude Code AI Pipeline 2026 \u2013 PEV Framework Harness Plugin for Developers",
-    "id": "belialberu4-oss/exo-harness-ai-pipeline",
-    "language": "HTML",
-    "name": "belialberu4-oss/exo-harness-ai-pipeline",
-    "stars": 116,
-    "updated_at": "2026-08-26T03:43:16Z",
-    "url": "https://github.com/belialberu4-oss/exo-harness-ai-pipeline"
-  },
-  {
-    "description": "An agentic Recommender System over your working knowledge: builds an on-disk map from your course PDFs and quizzes you a",
-    "id": "abaj8494/lambda-agent",
-    "language": "Shell",
-    "name": "abaj8494/lambda-agent",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:43:14Z",
-    "url": "https://github.com/abaj8494/lambda-agent"
   }
 ]
