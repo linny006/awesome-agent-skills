@@ -8,10 +8,10 @@ SEO: awesome agent skills
 
 Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, and open-source agents
 
-[![Stars](https://img.shields.io/github/stars/linny006-tecch/awesome-agent-skills?style=for-the-badge&logo=github)](https://github.com/linny006-tecch/awesome-agent-skills/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/linny006-tecch/awesome-agent-skills?style=for-the-badge)](https://github.com/linny006-tecch/awesome-agent-skills/commits)
-[![Items](https://img.shields.io/badge/Tracked_Items-100-brightgreen?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updates-every_15min-blue?style=for-the-badge)](#)
+[![Stars](https://img.shields.io/github/stars/linny006/awesome-agent-skills?style=for-the-badge&logo=github)](https://github.com/linny006/awesome-agent-skills/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/linny006/awesome-agent-skills?style=for-the-badge)](https://github.com/linny006/awesome-agent-skills/commits)
+[![Items](https://img.shields.io/badge/Tracked_Items-100-brightgreen?style=for-the-badge)](https://github.com/linny006/awesome-agent-skills#current-items)
+[![Updated](https://img.shields.io/badge/Updates-every_15min-blue?style=for-the-badge)](https://github.com/linny006/awesome-agent-skills#how-it-works)
 
 **⭐ Star this repo to bookmark — fresh data every 15 minutes**
 
