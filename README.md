@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-20 23:15 UTC
+> ⏰ Last updated: 2026-09-20 23:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,49 +42,49 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 22 | Python | 2026-09-20 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 5 | Python | 2026-09-20 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 3 | [24601/Augustus](https://github.com/24601/Augustus) | 5 | Python | 2026-09-20 | Agent skill: design judgment-assisted systems with TypeSafe Jev (System One). Maps Choice/Score/Noul onto decision theor |
-| 4 | [fix2it/loop-app-code-review](https://github.com/fix2it/loop-app-code-review) | 0 | — | 2026-09-20 | Iterative read-only code audit skill for AI coding agents. Scopes defects, prevents blind spots, builds audit-ledger.md  |
-| 5 | [iDWong/dev-skills](https://github.com/iDWong/dev-skills) | 1 | Python | 2026-09-20 | 研发全生命周期技能库：23 个技能 / 4 个 plugin / 单一编排器 dev-master 管 13 阶段流程（SRS 真源 → 设计 → 实现 → 测试 → 上线审计 → 发版）。Claude Code / Codex / Cur |
-| 6 | [iDWong/pm-skills](https://github.com/iDWong/pm-skills) | 2 | Python | 2026-09-20 | 产品经理全生命周期技能库：52 个技能 / 9 个 plugin / 13 阶段单一流程。Claude Code · Codex · Cursor 三端可装。 |
-| 7 | [NoMercyLabs/project-documentation-creator](https://github.com/NoMercyLabs/project-documentation-creator) | 0 | Python | 2026-09-20 | Agent Skill that documents a whole project as one system, in one voice, with every claim grounded in the code and every  |
-| 8 | [calebnewtonusc/Chewbacca](https://github.com/calebnewtonusc/Chewbacca) | 7 | JavaScript | 2026-09-20 | Turns Claude into the world's best sidekick. Standards, skills, subagents, hooks, MCP, and macOS tools that install them |
-| 9 | [getedgehq/skills](https://github.com/getedgehq/skills) | 2 | Python | 2026-09-20 | Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the |
-| 10 | [zxc663/shisan-xinuo-workflow](https://github.com/zxc663/shisan-xinuo-workflow) | 25 | Python | 2026-09-20 | 让规则真正被执行、让结论真正可复算的工程治理元 Skill：三级跑道／L3 封闭清单+清单外高危域执行层枚举／必问协议／GATE 12 字段可复跑证据+验证层级 ev=／判据版本化 j2.5+金样本回归 23/23／373 条 30 类症状 |
-| 11 | [plori-ai/skills](https://github.com/plori-ai/skills) | 0 | — | 2026-09-20 | Agent Skills for plori: create and drive cloud AI agents in persistent environments. |
-| 12 | [matiinchauspe/yunque](https://github.com/matiinchauspe/yunque) | 2 | Shell | 2026-09-20 | A tool-agnostic agent harness — 15 skills shared by Claude Code and Cursor. Bring any repo into the workspace and work i |
-| 13 | [courtneyr-dev/agent-skills](https://github.com/courtneyr-dev/agent-skills) | 0 | Python | 2026-09-20 | Portable agent skills for any SKILL.md-compatible coding agent — Claude Code, Cursor, Codex, OpenClaw, Gemini CLI. Insta |
-| 14 | [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | 270 | Go | 2026-09-20 | Publishes localhost services to the agentic web through self-hostable, trustless relays. |
-| 15 | [odiumuniverse/beadle](https://github.com/odiumuniverse/beadle) | 0 | Go | 2026-09-20 | Sync AI coding agent config from one private vault: rules, MCP servers, skills, permissions, project scope and memory ac |
-| 16 | [apache/magpie](https://github.com/apache/magpie) | 96 | Python | 2026-09-20 | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authore |
-| 17 | [m0m0i/gate-oriented-sdd](https://github.com/m0m0i/gate-oriented-sdd) | 0 | Shell | 2026-09-20 | Spec-driven development where the review gate is enforced by a hook, not requested by prose. One plugin for Claude Code  |
-| 18 | [JOwen-ster/agent-skill-installer](https://github.com/JOwen-ster/agent-skill-installer) | 1 | Svelte | 2026-09-20 | A simple desktop app for deterministic agent skill installation. |
-| 19 | [remigiusz-antczak/deep-code-review](https://github.com/remigiusz-antczak/deep-code-review) | 1 | Shell | 2026-09-20 | Portable, evidence-grounded deep code-review bar for coding agents — default review-only, with opt-in overlays: gated de |
-| 20 | [hani-q/qstack](https://github.com/hani-q/qstack) | 7 | HTML | 2026-09-20 | A personal stack of agent skills for reviewable planning, disciplined execution, and durable engineering lessons. |
-| 21 | [benjaminstelzer/wordpress-backend-ui-skill](https://github.com/benjaminstelzer/wordpress-backend-ui-skill) | 0 | — | 2026-09-20 | Agent Skill for consistent, responsive and internationalized WordPress 7 plugin backend interfaces. |
-| 22 | [benjaminstelzer/scoville-ui-anti-ai-slop](https://github.com/benjaminstelzer/scoville-ui-anti-ai-slop) | 2 | — | 2026-09-20 | Agent Skill for framework-aligned UI implementation, accessibility, interaction, and rendered evidence, with optional Sc |
-| 23 | [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 3 | Python | 2026-09-20 | Better writing without quietly changing the facts. |
-| 24 | [benjaminstelzer/scoville-research](https://github.com/benjaminstelzer/scoville-research) | 3 | Python | 2026-09-20 | Evidence-first Agent Skill for web, GitHub, academic, and durable deep research with claim-source traceability. |
-| 25 | [benjaminstelzer/scoville-plan](https://github.com/benjaminstelzer/scoville-plan) | 3 | Python | 2026-09-20 | Keeps project direction recoverable without turning planning into the project. |
-| 26 | [benjaminstelzer/scoville-handoff](https://github.com/benjaminstelzer/scoville-handoff) | 2 | — | 2026-09-20 | Transfers the work state, not the whole conversation. |
-| 27 | [TiagoDanin/Trunative](https://github.com/TiagoDanin/Trunative) | 2 | TypeScript | 2026-09-20 | A mobile-only design skill for AI coding agents |
-| 28 | [benjaminstelzer/scoville-code-anti-ai-slop](https://github.com/benjaminstelzer/scoville-code-anti-ai-slop) | 8 | — | 2026-09-20 | Keeps the engineering result visible through the process around it. |
-| 29 | [benjaminstelzer/scoville-brainstorm](https://github.com/benjaminstelzer/scoville-brainstorm) | 4 | — | 2026-09-20 | Different solution mechanisms before one answer wins too early. |
-| 30 | [benjaminstelzer/ask-claude-and-sol-for-codex](https://github.com/benjaminstelzer/ask-claude-and-sol-for-codex) | 2 | Python | 2026-09-20 | Independent Claude Code and SOL reviews in Codex, with configurable models, effort, and resumable context. |
-| 31 | [benjaminstelzer/ask-claude-and-astra-for-codex](https://github.com/benjaminstelzer/ask-claude-and-astra-for-codex) | 0 | Python | 2026-09-20 | Independent Claude Code and Astra second opinions inside Codex, with Astra xhigh by default. |
-| 32 | [benjaminstelzer/ask-astra-for-review-for-codex](https://github.com/benjaminstelzer/ask-astra-for-review-for-codex) | 0 | — | 2026-09-20 | Questions, second opinions and reviews through a fresh Astra project task in Codex, with direct answers and automatic ar |
-| 33 | [claude-dev-suite/claude-dev-suite](https://github.com/claude-dev-suite/claude-dev-suite) | 37 | TypeScript | 2026-09-20 | Point it at a repo and it configures your AI coding assistant for that stack: agents, framework skills, MCP servers, pat |
-| 34 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 10 | JavaScript | 2026-09-20 | Agent skills for SolidJS 2.0 — write, migrate, and review solid-js 2.x code without React/1.x reflexes |
-| 35 | [superczach/lunar-gatekeeper-sentinel](https://github.com/superczach/lunar-gatekeeper-sentinel) | 0 | HTML | 2026-09-20 | Lunar Gateway 2026: Agent-Native MCP Security & Governance Hub for AI Workloads |
-| 36 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-09-20 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 37 | [paniolo-ai/scan](https://github.com/paniolo-ai/scan) | 1 | — | 2026-09-20 | Thin agent adapters for @paniolo/scan — run the AI Technical Debt Scanner from any coding agent and optionally remediate |
-| 38 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 1 | HTML | 2026-09-20 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
-| 39 | [Romandredan/1c-quality-gate](https://github.com/Romandredan/1c-quality-gate) | 25 | JavaScript | 2026-09-20 | Контроль качества 1С-разработки для Claude Code: стандарты, принципы ООП и паттерны, XML метаданных, блокирующие гейты и |
-| 40 | [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | 96 | Rust | 2026-09-20 | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes  |
-| 41 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-09-20 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
-| 42 | [djedi-knight/prime-directive](https://github.com/djedi-knight/prime-directive) | 0 | Shell | 2026-09-20 | One always-on duty-of-care rule for every AI coding agent — rendered into AGENTS.md, CLAUDE.md, Cursor, Windsurf, Cline, |
-| 43 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 36 | Python | 2026-09-20 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 1 | [odiumuniverse/beadle](https://github.com/odiumuniverse/beadle) | 0 | Go | 2026-09-20 | Sync AI coding agent config from one private vault: rules, MCP servers, skills, permissions, project scope and memory ac |
+| 2 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 36 | Python | 2026-09-20 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 3 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 22 | Python | 2026-09-20 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 4 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 5 | Python | 2026-09-20 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 5 | [24601/Augustus](https://github.com/24601/Augustus) | 5 | Python | 2026-09-20 | Agent skill: design judgment-assisted systems with TypeSafe Jev (System One). Maps Choice/Score/Noul onto decision theor |
+| 6 | [fix2it/loop-app-code-review](https://github.com/fix2it/loop-app-code-review) | 0 | — | 2026-09-20 | Iterative read-only code audit skill for AI coding agents. Scopes defects, prevents blind spots, builds audit-ledger.md  |
+| 7 | [iDWong/dev-skills](https://github.com/iDWong/dev-skills) | 1 | Python | 2026-09-20 | 研发全生命周期技能库：23 个技能 / 4 个 plugin / 单一编排器 dev-master 管 13 阶段流程（SRS 真源 → 设计 → 实现 → 测试 → 上线审计 → 发版）。Claude Code / Codex / Cur |
+| 8 | [iDWong/pm-skills](https://github.com/iDWong/pm-skills) | 2 | Python | 2026-09-20 | 产品经理全生命周期技能库：52 个技能 / 9 个 plugin / 13 阶段单一流程。Claude Code · Codex · Cursor 三端可装。 |
+| 9 | [NoMercyLabs/atlas](https://github.com/NoMercyLabs/atlas) | 0 | Python | 2026-09-20 | Agent Skill that documents a whole project as one system, in one voice, with every claim grounded in the code and every  |
+| 10 | [calebnewtonusc/Chewbacca](https://github.com/calebnewtonusc/Chewbacca) | 7 | JavaScript | 2026-09-20 | Turns Claude into the world's best sidekick. Standards, skills, subagents, hooks, MCP, and macOS tools that install them |
+| 11 | [getedgehq/skills](https://github.com/getedgehq/skills) | 2 | Python | 2026-09-20 | Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the |
+| 12 | [zxc663/shisan-xinuo-workflow](https://github.com/zxc663/shisan-xinuo-workflow) | 25 | Python | 2026-09-20 | 让规则真正被执行、让结论真正可复算的工程治理元 Skill：三级跑道／L3 封闭清单+清单外高危域执行层枚举／必问协议／GATE 12 字段可复跑证据+验证层级 ev=／判据版本化 j2.5+金样本回归 23/23／373 条 30 类症状 |
+| 13 | [plori-ai/skills](https://github.com/plori-ai/skills) | 0 | — | 2026-09-20 | Agent Skills for plori: create and drive cloud AI agents in persistent environments. |
+| 14 | [matiinchauspe/yunque](https://github.com/matiinchauspe/yunque) | 2 | Shell | 2026-09-20 | A tool-agnostic agent harness — 15 skills shared by Claude Code and Cursor. Bring any repo into the workspace and work i |
+| 15 | [courtneyr-dev/agent-skills](https://github.com/courtneyr-dev/agent-skills) | 0 | Python | 2026-09-20 | Portable agent skills for any SKILL.md-compatible coding agent — Claude Code, Cursor, Codex, OpenClaw, Gemini CLI. Insta |
+| 16 | [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | 270 | Go | 2026-09-20 | Publishes localhost services to the agentic web through self-hostable, trustless relays. |
+| 17 | [apache/magpie](https://github.com/apache/magpie) | 96 | Python | 2026-09-20 | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Drafting (agent-authore |
+| 18 | [m0m0i/gate-oriented-sdd](https://github.com/m0m0i/gate-oriented-sdd) | 0 | Shell | 2026-09-20 | Spec-driven development where the review gate is enforced by a hook, not requested by prose. One plugin for Claude Code  |
+| 19 | [JOwen-ster/agent-skill-installer](https://github.com/JOwen-ster/agent-skill-installer) | 1 | Svelte | 2026-09-20 | A simple desktop app for deterministic agent skill installation. |
+| 20 | [remigiusz-antczak/deep-code-review](https://github.com/remigiusz-antczak/deep-code-review) | 1 | Shell | 2026-09-20 | Portable, evidence-grounded deep code-review bar for coding agents — default review-only, with opt-in overlays: gated de |
+| 21 | [hani-q/qstack](https://github.com/hani-q/qstack) | 7 | HTML | 2026-09-20 | A personal stack of agent skills for reviewable planning, disciplined execution, and durable engineering lessons. |
+| 22 | [benjaminstelzer/wordpress-backend-ui-skill](https://github.com/benjaminstelzer/wordpress-backend-ui-skill) | 0 | — | 2026-09-20 | Agent Skill for consistent, responsive and internationalized WordPress 7 plugin backend interfaces. |
+| 23 | [benjaminstelzer/scoville-ui-anti-ai-slop](https://github.com/benjaminstelzer/scoville-ui-anti-ai-slop) | 2 | — | 2026-09-20 | Agent Skill for framework-aligned UI implementation, accessibility, interaction, and rendered evidence, with optional Sc |
+| 24 | [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 3 | Python | 2026-09-20 | Better writing without quietly changing the facts. |
+| 25 | [benjaminstelzer/scoville-research](https://github.com/benjaminstelzer/scoville-research) | 3 | Python | 2026-09-20 | Evidence-first Agent Skill for web, GitHub, academic, and durable deep research with claim-source traceability. |
+| 26 | [benjaminstelzer/scoville-plan](https://github.com/benjaminstelzer/scoville-plan) | 3 | Python | 2026-09-20 | Keeps project direction recoverable without turning planning into the project. |
+| 27 | [benjaminstelzer/scoville-handoff](https://github.com/benjaminstelzer/scoville-handoff) | 2 | — | 2026-09-20 | Transfers the work state, not the whole conversation. |
+| 28 | [TiagoDanin/Trunative](https://github.com/TiagoDanin/Trunative) | 2 | TypeScript | 2026-09-20 | A mobile-only design skill for AI coding agents |
+| 29 | [benjaminstelzer/scoville-code-anti-ai-slop](https://github.com/benjaminstelzer/scoville-code-anti-ai-slop) | 8 | — | 2026-09-20 | Keeps the engineering result visible through the process around it. |
+| 30 | [benjaminstelzer/scoville-brainstorm](https://github.com/benjaminstelzer/scoville-brainstorm) | 4 | — | 2026-09-20 | Different solution mechanisms before one answer wins too early. |
+| 31 | [benjaminstelzer/ask-claude-and-sol-for-codex](https://github.com/benjaminstelzer/ask-claude-and-sol-for-codex) | 2 | Python | 2026-09-20 | Independent Claude Code and SOL reviews in Codex, with configurable models, effort, and resumable context. |
+| 32 | [benjaminstelzer/ask-claude-and-astra-for-codex](https://github.com/benjaminstelzer/ask-claude-and-astra-for-codex) | 0 | Python | 2026-09-20 | Independent Claude Code and Astra second opinions inside Codex, with Astra xhigh by default. |
+| 33 | [benjaminstelzer/ask-astra-for-review-for-codex](https://github.com/benjaminstelzer/ask-astra-for-review-for-codex) | 0 | — | 2026-09-20 | Questions, second opinions and reviews through a fresh Astra project task in Codex, with direct answers and automatic ar |
+| 34 | [claude-dev-suite/claude-dev-suite](https://github.com/claude-dev-suite/claude-dev-suite) | 37 | TypeScript | 2026-09-20 | Point it at a repo and it configures your AI coding assistant for that stack: agents, framework skills, MCP servers, pat |
+| 35 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 10 | JavaScript | 2026-09-20 | Agent skills for SolidJS 2.0 — write, migrate, and review solid-js 2.x code without React/1.x reflexes |
+| 36 | [superczach/lunar-gatekeeper-sentinel](https://github.com/superczach/lunar-gatekeeper-sentinel) | 0 | HTML | 2026-09-20 | Lunar Gateway 2026: Agent-Native MCP Security & Governance Hub for AI Workloads |
+| 37 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-09-20 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
+| 38 | [paniolo-ai/scan](https://github.com/paniolo-ai/scan) | 1 | — | 2026-09-20 | Thin agent adapters for @paniolo/scan — run the AI Technical Debt Scanner from any coding agent and optionally remediate |
+| 39 | [AllyJuma1/easel-js-cpu-render-kit](https://github.com/AllyJuma1/easel-js-cpu-render-kit) | 1 | HTML | 2026-09-20 | 🚀 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents |
+| 40 | [Romandredan/1c-quality-gate](https://github.com/Romandredan/1c-quality-gate) | 25 | JavaScript | 2026-09-20 | Контроль качества 1С-разработки для Claude Code: стандарты, принципы ООП и паттерны, XML метаданных, блокирующие гейты и |
+| 41 | [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | 96 | Rust | 2026-09-20 | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes  |
+| 42 | [XDParth/ethos-realignment-toolkit](https://github.com/XDParth/ethos-realignment-toolkit) | 0 | HTML | 2026-09-20 | AI Prompt Power Calibrator 2026 – Eliminate Sycophancy in Coding Agent Outputs |
+| 43 | [djedi-knight/prime-directive](https://github.com/djedi-knight/prime-directive) | 0 | Shell | 2026-09-20 | One always-on duty-of-care rule for every AI coding agent — rendered into AGENTS.md, CLAUDE.md, Cursor, Windsurf, Cline, |
 | 44 | [quantumquirkxyz/skills-quirk](https://github.com/quantumquirkxyz/skills-quirk) | 0 | JavaScript | 2026-09-20 |  |
 | 45 | [blockmatic/basilic-skills](https://github.com/blockmatic/basilic-skills) | 1 | JavaScript | 2026-09-20 | Basilic Workflow Agent Skills |
 | 46 | [uxKero/typebien](https://github.com/uxKero/typebien) | 0 | — | 2026-09-20 | Landing page copy for AI models that write what every other landing page already says. |
