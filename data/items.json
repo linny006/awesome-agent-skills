@@ -1,12 +1,21 @@
 [
   {
-    "description": "Your agent asks. 1Password signs. A small macOS signing companion for Stellar agents.",
-    "id": "stellar-experimental/walleterm",
-    "language": "TypeScript",
-    "name": "stellar-experimental/walleterm",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:59:45Z",
-    "url": "https://github.com/stellar-experimental/walleterm"
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 22,
+    "updated_at": "2026-09-30T02:00:34Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Practical workflow skills for coding agents: scope, debugging, cleanup, subagents, GitHub tracking, and verification.",
+    "id": "stevennitesh/programming-agent-skills",
+    "language": "Python",
+    "name": "stevennitesh/programming-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T02:00:38Z",
+    "url": "https://github.com/stevennitesh/programming-agent-skills"
   },
   {
     "description": "O(1) prompt-footprint runtime for long-horizon LLM agent skills \u2014 structured execution state instead of append-only hist",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "vitkuz573/skillstate",
     "stars": 2,
-    "updated_at": "2026-09-30T01:59:26Z",
+    "updated_at": "2026-09-30T02:00:25Z",
     "url": "https://github.com/vitkuz573/skillstate"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-09-30T02:00:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 38,
+    "updated_at": "2026-09-30T02:00:13Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Your agent asks. 1Password signs. A small macOS signing companion for Stellar agents.",
+    "id": "stellar-experimental/walleterm",
+    "language": "TypeScript",
+    "name": "stellar-experimental/walleterm",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:59:45Z",
+    "url": "https://github.com/stellar-experimental/walleterm"
   },
   {
     "description": "AI assistant skill for PromptBrake free tools: prompt-injection inputs, OWASP LLM risk guidance, release planning, and C",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "KCNyu/clawock",
     "stars": 16,
-    "updated_at": "2026-09-30T01:56:59Z",
+    "updated_at": "2026-09-30T02:00:18Z",
     "url": "https://github.com/KCNyu/clawock"
   },
   {
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 11,
-    "updated_at": "2026-09-30T01:52:25Z",
+    "updated_at": "2026-09-30T02:00:28Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -367,33 +403,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T01:45:41Z",
     "url": "https://github.com/majoie02/agent-contract-nexus"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 38,
-    "updated_at": "2026-09-30T01:45:35Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 22,
-    "updated_at": "2026-09-30T01:45:33Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 6,
-    "updated_at": "2026-09-30T01:45:17Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "A portable AI skill that learns its owner, finds its own tools, refuses to guess, refuses to coast, and keeps every less",
@@ -752,7 +761,7 @@
     "language": "TypeScript",
     "name": "hraness/textbutler",
     "stars": 6,
-    "updated_at": "2026-09-30T01:58:46Z",
+    "updated_at": "2026-09-30T02:00:35Z",
     "url": "https://github.com/hraness/textbutler"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 80,
     "updated_at": "2026-09-30T01:22:28Z",
     "url": "https://github.com/JKHeadley/instar"
-  },
-  {
-    "description": "Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.",
-    "id": "ctxrs/ctx",
-    "language": "Rust",
-    "name": "ctxrs/ctx",
-    "stars": 1144,
-    "updated_at": "2026-09-30T01:22:22Z",
-    "url": "https://github.com/ctxrs/ctx"
   }
 ]
