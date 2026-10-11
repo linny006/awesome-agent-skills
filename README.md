@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 03:30 UTC
+> ⏰ Last updated: 2026-10-11 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [constantin2088/chinese-thinkers-skills](https://github.com/constantin2088/chinese-thinkers-skills) | 1 | Python | 2026-10-11 | 100位中国思想家的实用方法，变成 AI 能执行的 Skill：学习、研究、决策、管理、写作。孔子到钱学森，一人一套工作流，附来源、示例与边界。Chinese thinkers → practical Agent Skills. |
-| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-11 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 3 | [chrisstarr7/dev-memory](https://github.com/chrisstarr7/dev-memory) | 1 | Python | 2026-10-11 | Private local development memory for AI coding agents. Independent project stores, corrections, and task continuity. |
-| 4 | [aipoch/open-science](https://github.com/aipoch/open-science) | 5504 | TypeScript | 2026-10-11 | The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop a |
-| 5 | [noahdgrant/nightshift](https://github.com/noahdgrant/nightshift) | 0 | Rust | 2026-10-11 | Agent skills and a Rust CLI that take an issue to a reviewed, verified PR overnight. Works with any harness (Claude Code |
-| 6 | [pooriaarab/skills](https://github.com/pooriaarab/skills) | 1 | JavaScript | 2026-10-11 | Claude Code skills — eco-mode, eco-analyze, and more |
-| 7 | [wayhong0928/mis-thesis-skills](https://github.com/wayhong0928/mis-thesis-skills) | 0 | HTML | 2026-10-11 | 研究方法與學術寫作的稽核工具組，配合 mis-thesis-guide 網站使用 |
-| 8 | [morluto/rea](https://github.com/morluto/rea) | 75599 | TypeScript | 2026-10-11 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 9 | [LeeYudok/doksam-skills](https://github.com/LeeYudok/doksam-skills) | 13 | Python | 2026-10-11 | 모바일 웹/앱 UX/UI 수석 기획자 스킬 — Claude Code · Codex · Antigravity 에서 IA 와 PPT 스타일 화면설계서(HTML)를 생성합니다 |
-| 10 | [mailes/awesome-agent-skills](https://github.com/mailes/awesome-agent-skills) | 7 | — | 2026-10-11 | 58 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. 58 个免费 Agent |
-| 11 | [aontwit/pitwall](https://github.com/aontwit/pitwall) | 0 | Astro | 2026-10-11 | The agent loop that queues your work, proves every PR, and leaves the merge to you. |
-| 12 | [cRED-f/Trajecta](https://github.com/cRED-f/Trajecta) | 0 | Python | 2026-10-11 | A desktop AI agent that learns from experience. |
-| 13 | [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) | 12682 | TypeScript | 2026-10-11 | Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, v |
-| 14 | [gabrieldcpaiva/not-optional](https://github.com/gabrieldcpaiva/not-optional) | 1 | Shell | 2026-10-11 | Accessibility is not a request. A practical, lived-experience toolkit for making digital products and printables usable  |
-| 15 | [Kaiocs3120/tripo-3d-alternatives](https://github.com/Kaiocs3120/tripo-3d-alternatives) | 0 | — | 2026-10-11 | Compare top AI 3D model generators and find the best Tripo 3D alternatives for text, image, and photo-to-3D workflows. |
-| 16 | [LangerSword/smelt](https://github.com/LangerSword/smelt) | 0 | Python | 2026-10-11 | Smelt a slow pure Python function into a verified Rust extension. Oracle first, speedup measured — only proven metal shi |
-| 17 | [hjz112/Alan-skill](https://github.com/hjz112/Alan-skill) | 2 | — | 2026-10-11 | 邵艾伦Alan（Alan Shao）· 版本答案 Perspective Skill（双模式）— 薄肌理论/内归因/孙学/AI时代认知操作系统，蒸馏自视频+X推文+4.5h访谈。Alan Shao version-answer perspe |
-| 18 | [rjmurillo/ai-agents](https://github.com/rjmurillo/ai-agents) | 47 | Markdown | 2026-10-11 | Open-source multi-agent toolkit for Claude Code and GitHub Copilot CLI: 22 agents, plan-to-ship workflows, review and se |
-| 19 | [nickdrezza/watchtower](https://github.com/nickdrezza/watchtower) | 0 | Python | 2026-10-11 | A shared brain for your AI agents — one plain-Markdown vault every harness reads as memory. Portable across Claude Code, |
-| 20 | [chrismessina/raycast-extensions-skills](https://github.com/chrismessina/raycast-extensions-skills) | 0 | JavaScript | 2026-10-11 | Claude Code skills for building, shipping, and reviewing Raycast extensions |
-| 21 | [minuque/skills](https://github.com/minuque/skills) | 0 | JavaScript | 2026-10-11 | Personal Agent Skill Collection  |
-| 22 | [code-yeongyu/omowright](https://github.com/code-yeongyu/omowright) | 4 | JavaScript | 2026-10-11 | Playwright, but built for AI agents: the browser API models already know, token-efficient a11y snapshots, and scroll-dri |
-| 23 | [Enoch-Nemili/skillbench](https://github.com/Enoch-Nemili/skillbench) | 0 | Python | 2026-10-11 | Agent Skills for AI-infra work, plus the harness that measures whether they help |
-| 24 | [HiroHyun/grounded-copy](https://github.com/HiroHyun/grounded-copy) | 23 | Python | 2026-10-11 | Help AI write clearly and get to the point. A plugin and skill for Claude Code and Codex. |
-| 25 | [Shawn11564/ddd](https://github.com/Shawn11564/ddd) | 0 | Python | 2026-10-11 | Document-Driven Development: an agent skill (Claude Code, Codex) that builds from a planning doc you keep rewriting |
-| 26 | [calvingit/skills](https://github.com/calvingit/skills) | 2 | Python | 2026-10-11 | Agent Skills for engineering workflows, backend practice, and Chinese document tooling |
-| 27 | [cppai-vn/agents-plugins](https://github.com/cppai-vn/agents-plugins) | 0 | Python | 2026-10-11 | Agent skills (Claude Code plugin) to manage EzyPlatform / EzyArticle sites: init, sync, author, media, i18n, publish, ve |
-| 28 | [aigengame/aseprite-automation](https://github.com/aigengame/aseprite-automation) | 10 | Python | 2026-10-11 | Aseprite automation for AI agents. Create, edit, verify, and export pixel art, sprite animations, and tilesets through a |
-| 29 | [TheCrookedMan/milkstone](https://github.com/TheCrookedMan/milkstone) | 0 | Vue | 2026-10-11 | A tactile Vue design system combining editable UI components, visual workbenches, frontend architecture, and a portable  |
-| 30 | [guoshunfa/168-publisher](https://github.com/guoshunfa/168-publisher) | 1 | JavaScript | 2026-10-11 | 面向 macOS 的多平台视频与动态草稿准备 Skill，最终由用户手动发布。 |
-| 31 | [creedants/pstack-t3](https://github.com/creedants/pstack-t3) | 4 | Python | 2026-10-11 | Lauren Tan's pstack agent skills, ported to T3 Code so any model can lead and other models can review the work. Adds bri |
-| 32 | [m4bwav/evergreen-protocol](https://github.com/m4bwav/evergreen-protocol) | 0 | Python | 2026-10-11 | Evergreen: self-maintaining skills, docs and codemaps for AI agents (research refresh, learnings, evals, git self-publis |
-| 33 | [lovstudio/skills](https://github.com/lovstudio/skills) | 72 | Python | 2026-10-11 | Top-level index for the Lovstudio skills ecosystem |
-| 34 | [jaden20030518-lgtm/ops-report-delivery](https://github.com/jaden20030518-lgtm/ops-report-delivery) | 0 | Python | 2026-10-11 | 门店短视频日报自动更新：平台原表→公司模板→共享盘交付。AI辅助实现，展示业务规则、脚本化与验收能力。 |
-| 35 | [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 218 | Python | 2026-10-11 | One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression |
-| 36 | [NazmusSayad/skills](https://github.com/NazmusSayad/skills) | 3 | HTML | 2026-10-11 | Agent skills for nerdy software developers. Stupid simple skills for agnets. |
-| 37 | [NarenDawar/narens-claude-toolkit](https://github.com/NarenDawar/narens-claude-toolkit) | 3 | Python | 2026-10-11 | Naren's Claude toolkit: skills, mods and MCP servers for Claude Code. One-command install via plugin marketplace. |
-| 38 | [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli) | 216 | TypeScript | 2026-10-11 | CLI for AI agents (Claude, Codex) to read, edit, and comment on .docx files with full format fidelity. |
-| 39 | [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | 31941 | TypeScript | 2026-10-11 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |
-| 40 | [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | 132 | Rust | 2026-10-11 | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes  |
-| 41 | [uzysjung/uzys-agent-harness](https://github.com/uzysjung/uzys-agent-harness) | 3 | TypeScript | 2026-10-11 | Curate vetted AI-coding skills & plugins by your tech stack — install only what you need, across Claude Code, Codex, Ope |
-| 42 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 55398 | Python | 2026-10-11 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion |
-| 43 | [AnthonyHerman/ai-security-corpus](https://github.com/AnthonyHerman/ai-security-corpus) | 6 | Python | 2026-10-11 | 5,660 AI security links: prompt injection, LLM & AI agent security, MCP, coding agents, agent skills & supply chain, red |
-| 44 | [Hadisd/skill-ctl](https://github.com/Hadisd/skill-ctl) | 2 | Python | 2026-10-11 | 🎛️ A skill manager for AI agents, group skills into named presets and apply them per project. Built on npx skills. |
-| 45 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 39 | Python | 2026-10-11 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 46 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 24 | Python | 2026-10-11 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 47 | [OuroborosCollective/Sovereign-Studio-ato](https://github.com/OuroborosCollective/Sovereign-Studio-ato) | 1 | Python | 2026-10-11 | Sovereign Studio ato |
-| 48 | [drnachio/postext](https://github.com/drnachio/postext) | 8 | TypeScript | 2026-10-11 | A programmable typesetter for the web |
-| 49 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52526 | TypeScript | 2026-10-11 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| 50 | [JKHeadley/instar](https://github.com/JKHeadley/instar) | 83 | TypeScript | 2026-10-11 | Persistent Claude Code agents with scheduling, sessions, memory, and Telegram. |
-| 51 | [romannekrasovaillm/spine-bank](https://github.com/romannekrasovaillm/spine-bank) | 2 | Rust | 2026-10-11 | Spine — архитектурный контур внутри вашего CLI-агента (GigaCode, Claude Code, Kimi, Qwen, omp, OpenClaw): MCP-сервер, 62 |
-| 52 | [droltr/CoderSkill](https://github.com/droltr/CoderSkill) | 0 | Python | 2026-10-11 | Evidence-first engineering rules for AI coding agents (Claude Code, Codex, Gemini CLI): one reviewed skill set, hooks th |
-| 53 | [qizong007/shuai-burn-video-subtitles](https://github.com/qizong007/shuai-burn-video-subtitles) | 1 | Python | 2026-10-11 | 有视频，就能做字幕。自动转写、AI 校对、网页审核，一路生成带字幕的成片与文稿。支持 macOS / Windows。字幕处理 · AI Agent Skill |
-| 54 | [sandbaseai/cli](https://github.com/sandbaseai/cli) | 188 | TypeScript | 2026-10-11 | Open-source AI CLI and local MCP server connecting 25 clients—Claude Code, Cursor, Codex, ChatGPT, Hermes, and OpenClaw— |
-| 55 | [qshanx/docs-governance](https://github.com/qshanx/docs-governance) | 134 | Python | 2026-10-11 | Claude Code、Codex 与 ChatGPT 的文档驱动开发治理插件：防文档腐烂、维护上下文与决策、契约协作、测试与回归证据。 |
-| 56 | [yegor256/dogent](https://github.com/yegor256/dogent) | 7 | JavaScript | 2026-10-11 | Command line linter for your agentic manifestos, like SKILL.md and CLAUDE.md |
-| 57 | [techfleetworks/enterprise-software-AI-skills](https://github.com/techfleetworks/enterprise-software-AI-skills) | 0 | JavaScript | 2026-10-11 | Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st |
-| 58 | [tale-project/tale](https://github.com/tale-project/tale) | 33 | TypeScript | 2026-10-11 | Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and revi |
-| 59 | [zh-xx/Antu](https://github.com/zh-xx/Antu) | 3 | JavaScript | 2026-10-11 | Antu (案图): turn structured JSON into one offline HTML legal diagram: fact timelines, procedure flowcharts, relationship  |
-| 60 | [stufently/beget-s3-mcp-ai-cli](https://github.com/stufently/beget-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | Beget S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 Бегет: просмотр файлов |
-| 61 | [stufently/mws-s3-mcp-ai-cli](https://github.com/stufently/mws-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | MWS Cloud Platform S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 MWS Cloud |
-| 62 | [stufently/timeweb-s3-mcp-ai-cli](https://github.com/stufently/timeweb-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | Timeweb Cloud S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 Таймвеб: объём |
-| 63 | [stufently/cloudru-s3-mcp-ai-cli](https://github.com/stufently/cloudru-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | Cloud.ru Evolution S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для Cloud.ru Evo |
-| 64 | [stufently/vkcloud-s3-mcp-ai-cli](https://github.com/stufently/vkcloud-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | VK Cloud S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 ВК Облака: Hotbox/I |
-| 65 | [stufently/yandex-s3-mcp-ai-cli](https://github.com/stufently/yandex-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | Yandex Cloud S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 Яндекс Облака:  |
-| 66 | [stufently/selectel-s3-mcp-ai-cli](https://github.com/stufently/selectel-s3-mcp-ai-cli) | 0 | Go | 2026-10-11 | Selectel S3 MCP server, CLI & agent skill for Claude Code, Cursor and Codex. MCP-сервер и CLI для S3 Селектел: выбор пул |
-| 67 | [stufently/s3-mcp-ai-cli-kit](https://github.com/stufently/s3-mcp-ai-cli-kit) | 0 | Go | 2026-10-11 | Shared Go toolkit for Russian S3 MCP servers, CLIs and agent skills. Общий модуль и каталог MCP-серверов для Selectel, Я |
-| 68 | [paulnsorensen/skillz-that-grillz](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | Python | 2026-10-11 | Agent skill repository that don't fit cleanly into any of my other cheese-related repositories |
-| 69 | [RDTUTORIAL/dev-conductor](https://github.com/RDTUTORIAL/dev-conductor) | 0 | Python | 2026-10-11 | One skill that sizes each coding task and routes every phase to the right installed specialist skill (Claude Code + Code |
-| 70 | [isaachang/motion-video-workflow](https://github.com/isaachang/motion-video-workflow) | 9 | JavaScript | 2026-10-11 | 一段配音，变成一支逐帧代码渲染的口播动效片 —— Claude Code / Codex Skill（9:16 · 16:9 · 60fps · 封面） |
-| 71 | [eduair94/cambio-uruguay](https://github.com/eduair94/cambio-uruguay) | 7 | TypeScript | 2026-10-11 | cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k |
-| 72 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 233 | TypeScript | 2026-10-11 | 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, crea |
-| 73 | [LucioB16/cass-improve-system](https://github.com/LucioB16/cass-improve-system) | 0 | Python | 2026-10-11 | Batch retrospective analysis across coding-agent sessions: repeated mistakes, automation and skill candidates with evide |
-| 74 | [takeyaqa/feed-buster](https://github.com/takeyaqa/feed-buster) | 0 | Python | 2026-10-11 | the "summarize-feeds" Agent Skill. |
-| 75 | [constantin2088/thinkers-skill-template](https://github.com/constantin2088/thinkers-skill-template) | 1 | Go Template | 2026-10-11 | Chinese Thinkers as Skills 官方开发模板：证据、工作流、示例、评测与系列关联自动生成。 |
-| 76 | [kezizizi/lecture-recorder](https://github.com/kezizizi/lecture-recorder) | 0 | Python | 2026-10-11 | Turn lecture / meeting / interview recordings into structured Markdown study notes: speaker-diarized transcript, slide i |
-| 77 | [sky-k111/adaptive-skill-router](https://github.com/sky-k111/adaptive-skill-router) | 1 | JavaScript | 2026-10-11 | Standalone adaptive development skill for Codex: evidence-based methods, visible decisions, and verified outcomes. |
-| 78 | [useapi/google-vids-api](https://github.com/useapi/google-vids-api) | 1 | Python | 2026-10-11 | Google Vids API examples by useapi.net: Gemini Omni 1.1 Flash video with voiced AI avatars, extend to ~41 s, 1080p upsca |
-| 79 | [hjz112/baigeer-skill](https://github.com/hjz112/baigeer-skill) | 1 | — | 2026-10-11 | 白格尔（baigeer）· 街头哲学 Perspective Skill — 马克思主义+精神分析思维框架，蒸馏自184条视频转写。Baigeer Street-Philosophy perspective skill for AI age |
-| 80 | [Viaknox/tune-up](https://github.com/Viaknox/tune-up) | 0 | CSS | 2026-10-11 | A bot that tunes up your other Grok bots, with a built-in skill index. Ask for the job in plain English. The bot picks u |
-| 81 | [constantin2088/li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | 0 | Python | 2026-10-11 | 李泽厚·从历史条件理解审美感受：作品评价只有个人喜好、需要连接形式与社会历史语境。Chinese Thinkers as Skills 系列。 |
-| 82 | [yagipass/ajmx](https://github.com/yagipass/ajmx) | 1 | Java | 2026-10-11 | A JMX CLI for AI agents. It lists local JVMs and searches, describes, reads, writes and invokes MBeans on local and remo |
-| 83 | [TheColliery/CoalTipple](https://github.com/TheColliery/CoalTipple) | 5 | JavaScript | 2026-10-11 | Safe, quality-gated model+effort router for Claude Code - delegates cheap work down to save tokens, escalates hard/sensi |
-| 84 | [sarojkjha/aaj-marketing-skills](https://github.com/sarojkjha/aaj-marketing-skills) | 0 | JavaScript | 2026-10-11 | Agent skills for AI marketing tasks. 59 skills, 45 with runnable engines you can execute directly. MIT. Works with Claud |
-| 85 | [constantin2088/wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | 0 | Python | 2026-10-11 | 吴敬琏·先看竞争规则再谈效率：业务竞争被特权、信息不透明或准入障碍扭曲。Chinese Thinkers as Skills 系列。 |
-| 86 | [rogerchappel/launchclip](https://github.com/rogerchappel/launchclip) | 0 | JavaScript | 2026-10-11 | Create reviewable launch videos and OSS promotion packets from repositories, products, briefs, and media. |
-| 87 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73987 | JavaScript | 2026-10-11 | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta |
-| 88 | [constantin2088/ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | 0 | Python | 2026-10-11 | 马寅初·把人口与资源放在同一口径下：人数、需求和供给增长不匹配、需要做有条件的资源情景。Chinese Thinkers as Skills 系列。 |
-| 89 | [NLMDang22520190/agent-playbook](https://github.com/NLMDang22520190/agent-playbook) | 1 | Shell | 2026-10-11 | Cross-harness agent skills (Claude Code, Codex, OpenCode): clarify by reversibility, proof for every claim, 3-role TDD w |
-| 90 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 6746 | TypeScript | 2026-10-11 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned w |
-| 91 | [knowledgeislands/ki-agentic-harness](https://github.com/knowledgeislands/ki-agentic-harness) | 0 | TypeScript | 2026-10-11 | Knowledge Islands agentic harness — canonical home for Agent Skills, Agents, Evals, and Hooks across the ecosystem. |
-| 92 | [Sibhimanyu/rasanai](https://github.com/Sibhimanyu/rasanai) | 0 | JavaScript | 2026-10-11 | AI video director for Claude Code: pick one of three complete films and Claude designs, animates and renders it. Launch  |
-| 93 | [timoncool/givememod](https://github.com/timoncool/givememod) | 0 | TypeScript | 2026-10-11 | Claude Code mods on demand — a skill that reads your conversation and builds the mod that fits: plan progress bar, files |
-| 94 | [ryuxdsgn/design-intelligence](https://github.com/ryuxdsgn/design-intelligence) | 0 | TypeScript | 2026-10-11 | Design intelligence for AI agents and designers. Analyze, build, critique, and verify interfaces with evidence-based des |
-| 95 | [constantin2088/qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 0 | Python | 2026-10-11 | 钱学森·把专家意见与数据合成可检验方案：复杂民用项目涉及多专业、需要把意见和模型对齐。Chinese Thinkers as Skills 系列。 |
-| 96 | [Simon-zj1/eyedot](https://github.com/Simon-zj1/eyedot) | 0 | TypeScript | 2026-10-11 | 点睛（Eyedot）：把自己的 PDF / 笔记变成可自动判分、可逐条核对、会安排复习的考试。逐得分点判定 + 判定强度不足就标「待复核」+ FSRS 复习排期 + 一页图解；模型可自带 Key，也可用平台额度。Open-source ex |
-| 97 | [aispin/ai-matrix-team](https://github.com/aispin/ai-matrix-team) | 1 | JavaScript | 2026-10-11 | 五席交付团结成的虚拟产研专家阵线，从需求、产品、设计，一路杀到研发、质检与运维，各守一关。AI Matrix Team is a virtual product-engineering task force. Requirements, p |
-| 98 | [constantin2088/nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | 0 | Python | 2026-10-11 | 南怀瑾·读讲解时仍回到原典：通俗讲解很吸引人、需要分清原典与讲者发挥。Chinese Thinkers as Skills 系列。 |
-| 99 | [ThanhNguyxnOrg/SkillGauge](https://github.com/ThanhNguyxnOrg/SkillGauge) | 0 | TypeScript | 2026-10-11 | 🏆 Static auditing engine and leaderboard platform for agentic process instructions using a strict 100-criteria scientifi |
-| 100 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-10-11 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-11 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [yangyangnovelist-hub/prompt-cosplay](https://github.com/yangyangnovelist-hub/prompt-cosplay) | 0 | TypeScript | 2026-10-11 | Most AI agents are markdown in a trench coat. The open-source reality check for agent roles and Agent Skills. |
+| 3 | [chenxi2015/aiworkstation](https://github.com/chenxi2015/aiworkstation) | 5 | TypeScript | 2026-10-11 | ai个人工作站 |
+| 4 | [joeeeeey/arch-motion-page](https://github.com/joeeeeey/arch-motion-page) | 0 | JavaScript | 2026-10-11 | Agent skill: compile a YAML spec into a one-page animated A4 architecture blueprint (live HTML, poster PNG, MP4). EN/中文. |
+| 5 | [aufamubarak/plan-execute-verify-claude-code](https://github.com/aufamubarak/plan-execute-verify-claude-code) | 115 | HTML | 2026-10-11 | Best AI Coding Workflow Plugin Pipeline 2026 |
+| 6 | [joaoventuri/updatool](https://github.com/joaoventuri/updatool) | 0 | Shell | 2026-10-11 | Build fast. Ship without downtime. Let your AI agents deploy safely — blue/green slots, incremental builds, deploy lock, |
+| 7 | [aispin/ai-matrix-team](https://github.com/aispin/ai-matrix-team) | 1 | JavaScript | 2026-10-11 | 五席交付团结成的虚拟产研专家阵线，从需求、产品、设计，一路杀到研发、质检与运维，各守一关。AI Matrix Team is a virtual product-engineering task force. Requirements, p |
+| 8 | [morluto/rea](https://github.com/morluto/rea) | 75907 | TypeScript | 2026-10-11 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 9 | [zkp2p/peer-link](https://github.com/zkp2p/peer-link) | 0 | Python | 2026-10-11 | Banking integrations, built together. Contribute a private banking transcript and earn USDC. Bank campaigns, availabilit |
+| 10 | [MarcWebber/njucli](https://github.com/MarcWebber/njucli) | 2 | TypeScript | 2026-10-11 | 南京大学校园服务 CLI 与 AI Skills |
+| 11 | [bradcstevens/git-loopy-skills](https://github.com/bradcstevens/git-loopy-skills) | 0 | Shell | 2026-10-11 | Agent skills for git-loopy: an engineering workflow from idea to ship. Inspired by mattpocock/skills. |
+| 12 | [quantumquirkxyz/skills-quirk](https://github.com/quantumquirkxyz/skills-quirk) | 0 | JavaScript | 2026-10-11 |  |
+| 13 | [LeeYudok/doksam-skills](https://github.com/LeeYudok/doksam-skills) | 13 | Python | 2026-10-11 | 모바일 웹/앱 UX/UI 수석 기획자 스킬 — Claude Code · Codex · Antigravity 에서 IA 와 PPT 스타일 화면설계서(HTML)를 생성합니다 |
+| 14 | [guoshunfa/168-publisher](https://github.com/guoshunfa/168-publisher) | 1 | JavaScript | 2026-10-11 | 面向 macOS 的多平台视频与动态草稿准备 Skill，最终由用户手动发布。 |
+| 15 | [kabo-sh/kabo-plugins](https://github.com/kabo-sh/kabo-plugins) | 3 | JavaScript | 2026-10-11 | Creator research skills for Claude Code and Codex: see what's working on YouTube, Instagram, and TikTok, review accounts |
+| 16 | [firejune/rigc](https://github.com/firejune/rigc) | 12 | TypeScript | 2026-10-11 | AI-authored 2D rigging and animation, verified before it is written. rigc compiles a rig spec into skeleton data in the  |
+| 17 | [rogerchappel/launchclip](https://github.com/rogerchappel/launchclip) | 0 | JavaScript | 2026-10-11 | Create reviewable launch videos and OSS promotion packets from repositories, products, briefs, and media. |
+| 18 | [ZibbyDev/skills](https://github.com/ZibbyDev/skills) | 7 | TypeScript | 2026-10-11 | Pluggable MCP tool modules that give agent workflows their capabilities — GitHub, GitLab, Sentry, Slack, Jira, Notion, m |
+| 19 | [huaxianyan/skills](https://github.com/huaxianyan/skills) | 0 | Python | 2026-10-11 | 跨项目复用的 Agent Skills：中文技术文案规范与 GitHub Release 发布说明规范 |
+| 20 | [varuntej07/tej-stack](https://github.com/varuntej07/tej-stack) | 1 | HTML | 2026-10-11 | Evidence-first UX and product-quality audits for completed features |
+| 21 | [LC044/TrailSnap](https://github.com/LC044/TrailSnap) | 777 | Python | 2026-10-11 | TrailSnap (行影集) \| AI-Powered open-source photo album for travel & life memories.（AI赋能的开源相册工具，珍藏旅行与生活点滴） |
+| 22 | [TheCrookedMan/milkstone](https://github.com/TheCrookedMan/milkstone) | 0 | Vue | 2026-10-11 | A tactile Vue design system combining editable UI components, visual workbenches, frontend architecture, and a portable  |
+| 23 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 98 | Python | 2026-10-11 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
+| 24 | [tale-project/tale](https://github.com/tale-project/tale) | 33 | TypeScript | 2026-10-11 | Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and revi |
+| 25 | [BinayakDotel/skills-marketplace](https://github.com/BinayakDotel/skills-marketplace) | 0 | Python | 2026-10-11 | Agent Skills (SKILL.md) for Claude and other agents |
+| 26 | [paulnsorensen/skillz-that-grillz](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | Python | 2026-10-11 | Agent skill repository that don't fit cleanly into any of my other cheese-related repositories |
+| 27 | [droltr/CoderSkill](https://github.com/droltr/CoderSkill) | 0 | Python | 2026-10-11 | Evidence-first engineering rules for AI coding agents (Claude Code, Codex, Gemini CLI): one reviewed skill set, hooks th |
+| 28 | [woyxiang/skills](https://github.com/woyxiang/skills) | 0 | Python | 2026-10-11 | Agent Skills |
+| 29 | [zydo/skills](https://github.com/zydo/skills) | 1 | Python | 2026-10-11 | AI Agent Skills |
+| 30 | [melodic-software/codex-plugins](https://github.com/melodic-software/codex-plugins) | 0 | JavaScript | 2026-10-11 | Codex plugin marketplace: repo-agnostic skills, hooks, MCP servers, and other Codex-native capabilities. |
+| 31 | [orange90/boji-huangmao](https://github.com/orange90/boji-huangmao) | 0 | — | 2026-10-11 | 薄肌黄毛：将 AI 辅助、身体习惯和机会探索转成可执行、可复盘的个人行动指南与 Codex Skill。 |
+| 32 | [vinta/hal-9000](https://github.com/vinta/hal-9000) | 138 | Python | 2026-10-11 | Opinionated AI coding agent and dev environment automation for macOS |
+| 33 | [opencanviz/opencanviz-skills-repo](https://github.com/opencanviz/opencanviz-skills-repo) | 0 | Python | 2026-10-11 | Agent skill and Claude Code plugin that writes openCanviz explainer video projects as JSON |
+| 34 | [constantin2088/li-zehou-aesthetic-context-skill](https://github.com/constantin2088/li-zehou-aesthetic-context-skill) | 0 | Python | 2026-10-11 | 李泽厚·从历史条件理解审美感受：作品评价只有个人喜好、需要连接形式与社会历史语境。Chinese Thinkers as Skills 系列。 |
+| 35 | [constantin2088/wu-jinglian-competition-rules-skill](https://github.com/constantin2088/wu-jinglian-competition-rules-skill) | 0 | Python | 2026-10-11 | 吴敬琏·先看竞争规则再谈效率：业务竞争被特权、信息不透明或准入障碍扭曲。Chinese Thinkers as Skills 系列。 |
+| 36 | [constantin2088/ma-yinchu-resource-scenarios-skill](https://github.com/constantin2088/ma-yinchu-resource-scenarios-skill) | 0 | Python | 2026-10-11 | 马寅初·把人口与资源放在同一口径下：人数、需求和供给增长不匹配、需要做有条件的资源情景。Chinese Thinkers as Skills 系列。 |
+| 37 | [constantin2088/qian-xuesen-system-synthesis-skill](https://github.com/constantin2088/qian-xuesen-system-synthesis-skill) | 0 | Python | 2026-10-11 | 钱学森·把专家意见与数据合成可检验方案：复杂民用项目涉及多专业、需要把意见和模型对齐。Chinese Thinkers as Skills 系列。 |
+| 38 | [constantin2088/nan-huaijin-classics-check-skill](https://github.com/constantin2088/nan-huaijin-classics-check-skill) | 0 | Python | 2026-10-11 | 南怀瑾·读讲解时仍回到原典：通俗讲解很吸引人、需要分清原典与讲者发挥。Chinese Thinkers as Skills 系列。 |
+| 39 | [constantin2088/ji-xianlin-cultural-learning-skill](https://github.com/constantin2088/ji-xianlin-cultural-learning-skill) | 0 | Python | 2026-10-11 | 季羡林·互鉴之前先理解材料：文化介绍容易只讲印象、需要核语言语境和互鉴条件。Chinese Thinkers as Skills 系列。 |
+| 40 | [constantin2088/tang-junyi-cultural-dialogue-skill](https://github.com/constantin2088/tang-junyi-cultural-dialogue-skill) | 0 | Python | 2026-10-11 | 唐君毅·让文化对话保留多种视角：跨背景交流陷入文化标签、需要理解自我与他人处境。Chinese Thinkers as Skills 系列。 |
+| 41 | [o-m-a-r-k/agentic-workflow](https://github.com/o-m-a-r-k/agentic-workflow) | 0 | JavaScript | 2026-10-11 | Your agent says the tests passed. wf makes it prove it: a delivery workflow for Claude Code and Codex with engine-writte |
+| 42 | [constantin2088/xiong-shili-principles-in-use-skill](https://github.com/constantin2088/xiong-shili-principles-in-use-skill) | 0 | Python | 2026-10-11 | 熊十力·看原则怎样在实际中表现：宣称有原则但实际行为不一致、需要检查抽象承诺与表现。Chinese Thinkers as Skills 系列。 |
+| 43 | [constantin2088/mou-zongsan-judgment-boundaries-skill](https://github.com/constantin2088/mou-zongsan-judgment-boundaries-skill) | 0 | Python | 2026-10-11 | 牟宗三·分清价值判断与专业认知：以好动机代替专业证据、需要明确道德与知识的分工。Chinese Thinkers as Skills 系列。 |
+| 44 | [constantin2088/zhang-boling-service-capability-skill](https://github.com/constantin2088/zhang-boling-service-capability-skill) | 0 | Python | 2026-10-11 | 张伯苓·把服务目的与能力证据相连：公益或团队项目有热情、需要同时核受益与实际能力。Chinese Thinkers as Skills 系列。 |
+| 45 | [constantin2088/chen-heqin-active-curriculum-skill](https://github.com/constantin2088/chen-heqin-active-curriculum-skill) | 0 | Python | 2026-10-11 | 陈鹤琴·从生活活动设计学习：儿童学习只有讲解、需要设计安全的观察与做中学活动。Chinese Thinkers as Skills 系列。 |
+| 46 | [constantin2088/qian-zhongshu-comparative-reading-skill](https://github.com/constantin2088/qian-zhongshu-comparative-reading-skill) | 0 | Python | 2026-10-11 | 钱钟书·比较之前先确定可比之处：跨文化或跨作品比较容易变成标签、需要落实文本证据。Chinese Thinkers as Skills 系列。 |
+| 47 | [constantin2088/yang-jiang-restrained-narrative-skill](https://github.com/constantin2088/yang-jiang-restrained-narrative-skill) | 0 | Python | 2026-10-11 | 杨绛·让克制表达仍有事实与温度：回忆或个人叙事想避免煽情、需要区分所见与猜想。Chinese Thinkers as Skills 系列。 |
+| 48 | [constantin2088/lin-yutang-kind-humor-skill](https://github.com/constantin2088/lin-yutang-kind-humor-skill) | 0 | Python | 2026-10-11 | 林语堂·让幽默保留体谅：文案或表达想轻松一些、需要避开羞辱和冷酷。Chinese Thinkers as Skills 系列。 |
+| 49 | [constantin2088/wang-guowei-aesthetic-scenes-skill](https://github.com/constantin2088/wang-guowei-aesthetic-scenes-skill) | 0 | Python | 2026-10-11 | 王国维·把审美判断落到作品细节：评论诗词或创作只有好美、需要说明景与情如何相连。Chinese Thinkers as Skills 系列。 |
+| 50 | [constantin2088/zhou-enlai-public-duty-skill](https://github.com/constantin2088/zhou-enlai-public-duty-skill) | 0 | Python | 2026-10-11 | 周恩来·把公私边界写清楚：公共资源、亲友请求与岗位职责发生冲突。Chinese Thinkers as Skills 系列。 |
+| 51 | [constantin2088/sun-yat-sen-preparation-skill](https://github.com/constantin2088/sun-yat-sen-preparation-skill) | 0 | Python | 2026-10-11 | 孙中山·把准备知识与实际行动分开：计划看似能做、需要检查知识缺口与实施条件。Chinese Thinkers as Skills 系列。 |
+| 52 | [Enoch-Nemili/skillbench](https://github.com/Enoch-Nemili/skillbench) | 0 | Python | 2026-10-11 | Agent Skills for AI-infra work, plus the harness that measures whether they help |
+| 53 | [constantin2088/huang-yanpei-vocational-fit-skill](https://github.com/constantin2088/huang-yanpei-vocational-fit-skill) | 0 | Python | 2026-10-11 | 黄炎培·让学习连接真实职业任务：课程与岗位脱节、需要设计有实际产出的学习。Chinese Thinkers as Skills 系列。 |
+| 54 | [constantin2088/deng-xiaoping-fact-based-pilots-skill](https://github.com/constantin2088/deng-xiaoping-fact-based-pilots-skill) | 0 | Python | 2026-10-11 | 邓小平·用事实检验小范围改变：旧规则阻碍任务、需要先试后扩而非凭口号改革。Chinese Thinkers as Skills 系列。 |
+| 55 | [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | 31941 | TypeScript | 2026-10-11 | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. |
+| 56 | [constantin2088/li-dazhao-present-action-skill](https://github.com/constantin2088/li-dazhao-present-action-skill) | 0 | Python | 2026-10-11 | 李大钊·把时代愿景落在现在：谈未来理想很多、需要明确当下责任与可实施行动。Chinese Thinkers as Skills 系列。 |
+| 57 | [constantin2088/mao-zedong-investigation-skill](https://github.com/constantin2088/mao-zedong-investigation-skill) | 0 | Python | 2026-10-11 | 毛泽东·先调查再下结论：民用项目出现争议、报告只有结论而缺少一手事实。Chinese Thinkers as Skills 系列。 |
+| 58 | [constantin2088/chen-duxiu-independent-thinking-skill](https://github.com/constantin2088/chen-duxiu-independent-thinking-skill) | 0 | Python | 2026-10-11 | 陈独秀·让主张接受科学检验：观点来自权威或习惯、需要检查自主判断与实际用途。Chinese Thinkers as Skills 系列。 |
+| 59 | [constantin2088/lu-xun-selective-learning-skill](https://github.com/constantin2088/lu-xun-selective-learning-skill) | 0 | Python | 2026-10-11 | 鲁迅·借鉴之前先辨别：外部经验看起来都好、需要拆分可用与有害部分。Chinese Thinkers as Skills 系列。 |
+| 60 | [m4bwav/roblox-agent](https://github.com/m4bwav/roblox-agent) | 0 | Python | 2026-10-11 | Evergreen skills for building Roblox games with AI coding agents (Claude Code, Codex, Cursor, Copilot): Studio MCP done  |
+| 61 | [constantin2088/hu-shi-hypotheses-skill](https://github.com/constantin2088/hu-shi-hypotheses-skill) | 0 | Python | 2026-10-11 | 胡适·先把问题研究清楚：讨论被口号带走、需要把问题拆成可证伪假设。Chinese Thinkers as Skills 系列。 |
+| 62 | [constantin2088/zhang-zhidong-adaptation-skill](https://github.com/constantin2088/zhang-zhidong-adaptation-skill) | 0 | Python | 2026-10-11 | 张之洞·分清目的与引入的方法：引入新工具时担心失去原有目标、需要评估取舍。Chinese Thinkers as Skills 系列。 |
+| 63 | [constantin2088/hui-shi-definitions-skill](https://github.com/constantin2088/hui-shi-definitions-skill) | 0 | Python | 2026-10-11 | 惠施·找出争论中的尺度变化：双方都说有道理却用不同尺度、需要检查概念边界。Chinese Thinkers as Skills 系列。 |
+| 64 | [constantin2088/zeng-guofan-routines-skill](https://github.com/constantin2088/zeng-guofan-routines-skill) | 0 | Python | 2026-10-11 | 曾国藩·让长期目标有恢复机制：长期习惯断断续续、需要稳健积累与复盘。Chinese Thinkers as Skills 系列。 |
+| 65 | [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | 218 | Python | 2026-10-11 | One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression |
+| 66 | [constantin2088/wang-yangming-action-skill](https://github.com/constantin2088/wang-yangming-action-skill) | 0 | Python | 2026-10-11 | 王阳明·把知道变成行动证据：明白道理却迟迟不做、需要知行复盘。Chinese Thinkers as Skills 系列。 |
+| 67 | [constantin2088/lu-jiuyuan-intentions-skill](https://github.com/constantin2088/lu-jiuyuan-intentions-skill) | 0 | Python | 2026-10-11 | 陆九渊·识别目标背后的动机：目标正确却行动失真、需要审查义利冲突。Chinese Thinkers as Skills 系列。 |
+| 68 | [constantin2088/zhu-xi-close-reading-skill](https://github.com/constantin2088/zhu-xi-close-reading-skill) | 0 | Python | 2026-10-11 | 朱熹·把一段材料真正读懂：读长文只剩印象、需要逐段理解和检验先入观点。Chinese Thinkers as Skills 系列。 |
+| 69 | [constantin2088/su-shi-understanding-skill](https://github.com/constantin2088/su-shi-understanding-skill) | 0 | Python | 2026-10-11 | 苏轼·别把比喻当成掌握：概念讲得懂却不会用、需要从说明转成体验与实践。Chinese Thinkers as Skills 系列。 |
+| 70 | [constantin2088/bai-juyi-purpose-skill](https://github.com/constantin2088/bai-juyi-purpose-skill) | 0 | Python | 2026-10-11 | 白居易·让表达回应真实问题：文章好看但用途不清、想让写作回应读者与现实。Chinese Thinkers as Skills 系列。 |
+| 71 | [constantin2088/liu-yuxi-agency-skill](https://github.com/constantin2088/liu-yuxi-agency-skill) | 0 | Python | 2026-10-11 | 刘禹锡·分清条件与行动空间：把失败全怪运气、辨认可以改变与不能控制的部分。Chinese Thinkers as Skills 系列。 |
+| 72 | [constantin2088/zhuge-liang-focus-skill](https://github.com/constantin2088/zhuge-liang-focus-skill) | 0 | Python | 2026-10-11 | 诸葛亮·把志向变成可持续专注：长期目标被杂务冲散、需要学习与行动节奏。Chinese Thinkers as Skills 系列。 |
+| 73 | [sky-k111/adaptive-skill-router](https://github.com/sky-k111/adaptive-skill-router) | 1 | JavaScript | 2026-10-11 | Standalone adaptive development skill for Codex: evidence-based methods, visible decisions, and verified outcomes. |
+| 74 | [constantin2088/ban-gu-categories-skill](https://github.com/constantin2088/ban-gu-categories-skill) | 0 | Python | 2026-10-11 | 班固·让分类说清材料边界：知识库分类混乱、比较不同历史叙述与门类。Chinese Thinkers as Skills 系列。 |
+| 75 | [constantin2088/sima-qian-history-skill](https://github.com/constantin2088/sima-qian-history-skill) | 0 | Python | 2026-10-11 | 司马迁·把事件写成有证据的历史：整理机构历史、人物故事或长期变化叙事。Chinese Thinkers as Skills 系列。 |
+| 76 | [constantin2088/jia-yi-reserves-skill](https://github.com/constantin2088/jia-yi-reserves-skill) | 0 | Python | 2026-10-11 | 贾谊·为突发需求留出余量：日常资源够用但缺少应急余量、需要压力情景。Chinese Thinkers as Skills 系列。 |
+| 77 | [constantin2088/dong-zhongshu-accountability-skill](https://github.com/constantin2088/dong-zhongshu-accountability-skill) | 0 | Python | 2026-10-11 | 董仲舒·把失误追到治理责任：组织反复出错、检验领导示范和纠错机制。Chinese Thinkers as Skills 系列。 |
+| 78 | [constantin2088/guiguzi-listening-skill](https://github.com/constantin2088/guiguzi-listening-skill) | 0 | Python | 2026-10-11 | 鬼谷子·先听懂再表达：谈判信息不足、需要澄清对方真实约束。Chinese Thinkers as Skills 系列。 |
+| 79 | [constantin2088/shang-yang-reform-skill](https://github.com/constantin2088/shang-yang-reform-skill) | 0 | Python | 2026-10-11 | 商鞅·改变规则先检查代价：旧规则妨碍新目标、审查变革的实施与公平。Chinese Thinkers as Skills 系列。 |
+| 80 | [constantin2088/guan-zhong-foundations-skill](https://github.com/constantin2088/guan-zhong-foundations-skill) | 0 | Python | 2026-10-11 | 管仲·先补基础再谈激励：组织激励失效、资源基础与制度要求不匹配。Chinese Thinkers as Skills 系列。 |
+| 81 | [constantin2088/sun-bin-matching-skill](https://github.com/constantin2088/sun-bin-matching-skill) | 0 | Python | 2026-10-11 | 孙膑·按条件重新配置资源：民用资源配置、需要在整体目标下重排任务。Chinese Thinkers as Skills 系列。 |
+| 82 | [constantin2088/sun-tzu-strategy-skill](https://github.com/constantin2088/sun-tzu-strategy-skill) | 0 | Python | 2026-10-11 | 孙子·行动前先算清代价：民用项目竞争、资源不足或需要决定做与不做。Chinese Thinkers as Skills 系列。 |
+| 83 | [chrismessina/raycast-extensions-skills](https://github.com/chrismessina/raycast-extensions-skills) | 0 | JavaScript | 2026-10-11 | Claude Code skills for building, shipping, and reviewing Raycast extensions |
+| 84 | [constantin2088/han-fei-incentives-skill](https://github.com/constantin2088/han-fei-incentives-skill) | 0 | Python | 2026-10-11 | 韩非·看清奖励怎样改变行为：指标被刷、奖励被套利、权责与实际表现脱节。Chinese Thinkers as Skills 系列。 |
+| 85 | [constantin2088/mozi-merit-skill](https://github.com/constantin2088/mozi-merit-skill) | 0 | Python | 2026-10-11 | 墨子·让能力证据代替关系：选人、评价项目、比较受益与资源负担。Chinese Thinkers as Skills 系列。 |
+| 86 | [constantin2088/laozi-low-intervention-skill](https://github.com/constantin2088/laozi-low-intervention-skill) | 0 | Python | 2026-10-11 | 老子·减少多余动作：流程越来越复杂、需要降低控制和协调成本。Chinese Thinkers as Skills 系列。 |
+| 87 | [constantin2088/zhuangzi-perspective-skill](https://github.com/constantin2088/zhuangzi-perspective-skill) | 0 | Python | 2026-10-11 | 庄子·跳出唯一答案：被单一指标困住、比较不同尺度与生活选择。Chinese Thinkers as Skills 系列。 |
+| 88 | [constantin2088/xunzi-deliberate-learning-skill](https://github.com/constantin2088/xunzi-deliberate-learning-skill) | 0 | Python | 2026-10-11 | 荀子·设计能坚持的学习系统：学习计划反复中断、选择工具与练习环境。Chinese Thinkers as Skills 系列。 |
+| 89 | [constantin2088/mencius-values-skill](https://github.com/constantin2088/mencius-values-skill) | 0 | Python | 2026-10-11 | 孟子·把善意落实到选择：面对利益与原则冲突、把同情转成有边界的行动。Chinese Thinkers as Skills 系列。 |
+| 90 | [constantin2088/confucius-learning-skill](https://github.com/constantin2088/confucius-learning-skill) | 0 | Python | 2026-10-11 | 孔子·把学到的变成做到的：把读书笔记转成行动、复盘承诺与协作信用。Chinese Thinkers as Skills 系列。 |
+| 91 | [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 2898 | Python | 2026-10-11 | 120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrativ |
+| 92 | [constantin2088/yuan-mei-expression-skill](https://github.com/constantin2088/yuan-mei-expression-skill) | 0 | Python | 2026-10-11 | 袁枚·性情与风格适题：具体感受、材料驱使、风格适配和多样评价。Chinese Thinkers as Skills 系列。 |
+| 93 | [constantin2088/hong-liangji-resources-skill](https://github.com/constantin2088/hong-liangji-resources-skill) | 0 | Python | 2026-10-11 | 洪亮吉·需求增长与资源缺口：需求与供给增速、分配不均、条件压力与补缺。Chinese Thinkers as Skills 系列。 |
+| 94 | [constantin2088/li-yu-usability-skill](https://github.com/constantin2088/li-yu-usability-skill) | 0 | Python | 2026-10-11 | 李渔·用物适位与体验设计：使用频率、位置适配、脆弱物保护与实际体验。Chinese Thinkers as Skills 系列。 |
+| 95 | [constantin2088/chen-liang-capability-skill](https://github.com/constantin2088/chen-liang-capability-skill) | 0 | Python | 2026-10-11 | 陈亮·名目与实际能力：账面资源、实际可用性、表现与配套。Chinese Thinkers as Skills 系列。 |
+| 96 | [constantin2088/ge-hong-breadth-skill](https://github.com/constantin2088/ge-hong-breadth-skill) | 0 | Python | 2026-10-11 | 葛洪·广博取材与异说并置：取材范围、异说保留、用途与证据归属。Chinese Thinkers as Skills 系列。 |
+| 97 | [KCNyu/clawock](https://github.com/KCNyu/clawock) | 19 | Python | 2026-10-11 | AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate ev |
+| 98 | [constantin2088/ji-kang-boundaries-skill](https://github.com/constantin2088/ji-kang-boundaries-skill) | 0 | Python | 2026-10-11 | 嵇康·适配与拒绝表达：角色适配、不可承受条件、诚实拒绝与替代。Chinese Thinkers as Skills 系列。 |
+| 99 | [micooz/skills](https://github.com/micooz/skills) | 11 | Python | 2026-10-11 | Agent Skills I created and use most often here. |
+| 100 | [constantin2088/ruan-ji-conformity-skill](https://github.com/constantin2088/ruan-ji-conformity-skill) | 0 | Python | 2026-10-11 | 阮籍·角色脚本与尺度转换：默认身份脚本、外部评价、尺度转换与自主选择。Chinese Thinkers as Skills 系列。 |
 <!-- TRACKER_TABLE_END -->
 
 ---
