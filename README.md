@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 17:30 UTC
+> ⏰ Last updated: 2026-10-14 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linggen/skills](https://github.com/linggen/skills) | 3 | JavaScript | 2026-10-14 | Skills for Linggen — drop-in folders that become native apps: personal CFO, DJ, Mac care, GTM pulse, shared memory. |
+| 1 | [huaxianyan/Skills](https://github.com/huaxianyan/Skills) | 0 | Python | 2026-10-14 | 跨项目复用的 Agent Skills：中文技术文案规范与 GitHub Release 发布说明规范 |
 | 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-14 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 3 | [rysk-tanaka/skills](https://github.com/rysk-tanaka/skills) | 0 | Python | 2026-10-14 | Personal Agent Skills for Claude Code |
-| 4 | [m4bwav/evergreen-protocol](https://github.com/m4bwav/evergreen-protocol) | 0 | Python | 2026-10-14 | Evergreen: self-maintaining skills, docs and codemaps for AI agents (research refresh, learnings, evals, git self-publis |
-| 5 | [StefanKasamakov/ai-compass](https://github.com/StefanKasamakov/ai-compass) | 0 | HTML | 2026-10-14 | A plain-English map of AI models, MCP servers and agent skills, kept fresh by an agent |
-| 6 | [lucastosetto/dev-skills](https://github.com/lucastosetto/dev-skills) | 0 | Shell | 2026-10-14 | Claude Code plugin for the full dev loop: ticket to spec, code, QA, PR, review, deploy and monitoring, plus sprint plans |
-| 7 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) | 175 | TypeScript | 2026-10-14 | Let Claude Code and other coding agents drive and debug Chrome from the shell. DOM, network, console and raw CDP as shor |
-| 8 | [adops-tool/AdTech-LeadGen-agent-skills](https://github.com/adops-tool/AdTech-LeadGen-agent-skills) | 1 | — | 2026-10-14 | 🎯 Schema-validated Agent Skills for AdTech lead generation and publisher compliance: audit ads.txt/app-ads.txt, detect P |
-| 9 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102013 | TypeScript | 2026-10-14 | The open-source app everyone uses to manage agents at work |
-| 10 | [JohnGarrisonDev/burn-rate](https://github.com/JohnGarrisonDev/burn-rate) | 0 | Python | 2026-10-14 | Agent skills that spend your leftover weekly Claude or Codex usage running a small software company. |
-| 11 | [pezhik/skilltotal](https://github.com/pezhik/skilltotal) | 12 | Python | 2026-10-14 | Claude Code plugin that scans a package before the agent runs npx, npm install, pip install, uvx or claude mcp add. Mali |
-| 12 | [hcaiano/skills](https://github.com/hcaiano/skills) | 3 | JavaScript | 2026-10-14 | Henrique Caiano's custom agent skills (Claude, Codex, herdr). Install with: npx skills@latest add hcaiano/skills |
-| 13 | [dotnet/skills](https://github.com/dotnet/skills) | 5632 | C# | 2026-10-14 | Repository for skills to assist AI coding agents with .NET and C# |
-| 14 | [golden-frijoles/skills](https://github.com/golden-frijoles/skills) | 0 | JavaScript | 2026-10-14 | Run and scale your agentic product shop from your coding agent: the Golden Frijoles plugin, kit and project template. Mi |
-| 15 | [m4bwav/everkeep](https://github.com/m4bwav/everkeep) | 0 | Python | 2026-10-14 | Keep the repositories and packages you already own healthy: PR triage with cooldowns and lockfile checks, vulnerabilitie |
-| 16 | [cndoin/re-perception](https://github.com/cndoin/re-perception) | 0 | Python | 2026-10-14 | Agent Skill · AI 驱动的全平台逆向工程工具箱：识别、反汇编、符号还原、可溯源证据与残余未知项治理。38 个子命令。Zero third-party deps, pure Python stdlib. |
-| 17 | [swift-library/skills](https://github.com/swift-library/skills) | 1 | Python | 2026-10-14 | Claude and Codex skills for Swift packages, Apple frameworks, SwiftUI and UIKit, developer tooling, and release engineer |
-| 18 | [OpenAdaptAI/openadapt-agent](https://github.com/OpenAdaptAI/openadapt-agent) | 3 | Python | 2026-10-14 | Local bridge that exposes governed OpenAdapt workflows to MCP clients and Agent Skills. |
-| 19 | [bompus/house-rules](https://github.com/bompus/house-rules) | 1 | JavaScript | 2026-10-14 | Working rules and skills for AI coding agents, layered as base, modifiers, person and project |
-| 20 | [CumulativeWebInc/cwi-learn](https://github.com/CumulativeWebInc/cwi-learn) | 0 | HTML | 2026-10-14 | Post-Trap Futurism — machine-readable AI learning surface for That Boy Hi Hat (Cumulative Web Inc) |
-| 21 | [moeru-ai/auv](https://github.com/moeru-ai/auv) | 115 | Rust | 2026-10-14 | 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost |
-| 22 | [yosocials/socials-homes-agents](https://github.com/yosocials/socials-homes-agents) | 0 | — | 2026-10-14 | Agent kit for Socials Homes: a rental-search skill, an Agent Plugin manifest and the public read-only MCP servers. No ap |
-| 23 | [mur4i/threads-autopilot](https://github.com/mur4i/threads-autopilot) | 0 | JavaScript | 2026-10-14 | Agent skill that lets Claude Code, Codex or Gemini post, reply, like and repost on Threads. No Meta API, no dependencies |
-| 24 | [powerpuff-kitty/skills](https://github.com/powerpuff-kitty/skills) | 0 | Python | 2026-10-14 | Skills for AI agents: portable, self-contained procedures for engineering, design, security, content and research. |
-| 25 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 119 | Kotlin | 2026-10-14 | Helping the Agents Compose the Things |
-| 26 | [edgegap/edgegap-agent-skills](https://github.com/edgegap/edgegap-agent-skills) | 0 | C# | 2026-10-14 | Edgegap skills for coding agents: get Unity, Unreal Engine and custom-engine multiplayer games online with dedicated ser |
-| 27 | [ArthurC02/SkillHub](https://github.com/ArthurC02/SkillHub) | 1 | Go | 2026-10-14 | An open platform for finding, building, trialling and sharing Agent Skills. |
-| 28 | [MrHacker-X/VritraAI](https://github.com/MrHacker-X/VritraAI) | 12 | Python | 2026-10-14 | 🚀 Open-source AI coding agent for your terminal, multi-model support, tool execution, code editing, approvals, failover  |
-| 29 | [uvwt/agentdock](https://github.com/uvwt/agentdock) | 1238 | Go | 2026-10-14 | Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration. |
-| 30 | [karero/croftweaver](https://github.com/karero/croftweaver) | 6 | Python | 2026-10-14 | Croftweaver: open-source AI website builder skills for Claude Code, Codex and Antigravity. From a short brief to a fast, |
-| 31 | [frdyx/rSEARCH](https://github.com/frdyx/rSEARCH) | 1 | JavaScript | 2026-10-14 | Research you can inspect. Native Codex and Claude research with source-linked dossiers, evidence levels and local MCP to |
-| 32 | [PickleBoxer/pickle](https://github.com/PickleBoxer/pickle) | 0 | Shell | 2026-10-14 | pickle for Claude Code: language-agnostic engineering playbooks and principles, lazy-loaded by effort level (low, medium |
-| 33 | [satohubai/onchain-agents](https://github.com/satohubai/onchain-agents) | 6 | JavaScript | 2026-10-14 | ⬡ The scored, daily-updated index of the onchain agent stack — frameworks, MCPs, wallets, payment rails, live agents |
-| 34 | [tamnguyendinh/Anvien](https://github.com/tamnguyendinh/Anvien) | 10 | Go | 2026-10-14 | MCP local - Code intelligence tools — with broad commands that allow agents in a huge repository to do almost anything:  |
-| 35 | [Vensus137/Coreness-Kit](https://github.com/Vensus137/Coreness-Kit) | 0 | — | 2026-10-14 | The canon of agent work conventions: rules and procedures, taken into projects as a full snapshot. |
-| 36 | [maojiebc/majia-siyu-team](https://github.com/maojiebc/majia-siyu-team) | 3 | Python | 2026-10-14 | 私域专家团 · 马甲实战版 — 门店私域场景、执行方法与会员数据协作 · v1.5.0 |
-| 37 | [silverstein/minutes](https://github.com/silverstein/minutes) | 1547 | Rust | 2026-10-14 | Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetin |
-| 38 | [jgwill/miadi-orchestration-kit](https://github.com/jgwill/miadi-orchestration-kit) | 5 | JavaScript | 2026-10-14 | The agent-host side of the Miadi Factory: Claude Code plugins, host-neutral skills and apt packages for Chronicle episod |
-| 39 | [jleonceo/audience-analyst-swarm](https://github.com/jleonceo/audience-analyst-swarm) | 0 | Python | 2026-10-14 | Multi-agent Claude swarm for digital audience analytics. |
-| 40 | [shaderera/shaderera](https://github.com/shaderera/shaderera) | 3 | TypeScript | 2026-10-14 | The programmable era of ads. Video made in code for experts and their AI agents: a film is render(t). Determinism checks |
-| 41 | [Firzus/agent-skills](https://github.com/Firzus/agent-skills) | 3 | Rust | 2026-10-14 | Agent Skills for AI coding assistants |
-| 42 | [vraj-ai/skills](https://github.com/vraj-ai/skills) | 4 | JavaScript | 2026-10-14 | Agent skills for running software work as a factory, not a conversation: a four-stage pipeline where no agent reviews it |
-| 43 | [markoblogo/framewright](https://github.com/markoblogo/framewright) | 0 | Python | 2026-10-14 | Framewright — evidence-led video production workflows and agent skills. Software launches, voiced book trailers, and a g |
-| 44 | [nuncaeslupus/literary-critic](https://github.com/nuncaeslupus/literary-critic) | 0 | Python | 2026-10-14 | Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts. |
-| 45 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32289 | Python | 2026-10-14 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 46 | [liustack/pptwise](https://github.com/liustack/pptwise) | 21 | TypeScript | 2026-10-14 | A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s |
-| 47 | [vineetu/simple-host](https://github.com/vineetu/simple-host) | 1 | Go | 2026-10-14 | Describe a website to the AI you already use and it's online. Every site can save data (RSVPs, votes, orders) and use yo |
-| 48 | [Vivswan/skills](https://github.com/Vivswan/skills) | 1 | TypeScript | 2026-10-14 | Installable, plugin-ready skills that give coding agents disciplined workflows, from code standards and review gates to  |
-| 49 | [bikemeardsley/thicken](https://github.com/bikemeardsley/thicken) | 1 | TypeScript | 2026-10-14 | Turn photos of a real object into a 3D model (GLB) at its real size and its metadata as JSON. What it knows about each k |
-| 50 | [matlab/simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) | 1226 | HTML | 2026-10-14 | The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and  |
-| 51 | [AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) | 268 | JavaScript | 2026-10-14 | Claude Code skill for Dribbble-level product launch videos from code. One shape that never cuts, springs, a cursor that  |
-| 52 | [revnu-app/revnu-plugin](https://github.com/revnu-app/revnu-plugin) | 1 | — | 2026-10-14 | Revnu plugin and agent skill for Claude Code, Cursor, Codex and Gemini CLI. Ask your coding agent how to get customers:  |
-| 53 | [OSINT-Forge-Community/osint-forge-skills](https://github.com/OSINT-Forge-Community/osint-forge-skills) | 1 | Python | 2026-10-14 | ⚒️ Open-source OSINT and digital forensics skills for AI assistants. Investigate sources, challenge hypotheses, analyze  |
-| 54 | [vishprometa/universal-agent-forum](https://github.com/vishprometa/universal-agent-forum) | 0 | TypeScript | 2026-10-14 | A public forum and MCP server for AI agents: public threads, replies, PostgreSQL, and independent self-hosting. |
-| 55 | [redb0/day-recap](https://github.com/redb0/day-recap) | 0 | Python | 2026-10-14 | Local daily work log: git, Cursor, OpenCode, and Telegram into one confirmed block in an Obsidian daily note. |
-| 56 | [openpath-sh/cli](https://github.com/openpath-sh/cli) | 0 | JavaScript | 2026-10-14 | Openpath from the terminal: search listings, write to owners through their inbox, manage your own listings, and add the  |
-| 57 | [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | 327 | TypeScript | 2026-10-14 | The open standard for agent coordination |
-| 58 | [morluto/rea](https://github.com/morluto/rea) | 235053 | TypeScript | 2026-10-14 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 59 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 3292 | Python | 2026-10-14 | A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude C |
-| 60 | [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) | 298 | PHP | 2026-10-14 | A simple and powerful content-driven static site generator. |
-| 61 | [samuryann/ronin-toolkit](https://github.com/samuryann/ronin-toolkit) | 2 | Shell | 2026-10-14 | ronin-toolkit: masterless Claude Code plugins for IT professionals. Built by Samuryann, assisted by Claude. |
-| 62 | [no-phux/skills](https://github.com/no-phux/skills) | 0 | — | 2026-10-14 | Agent skills for phux. Install: npx skills add no-phux/skills |
-| 63 | [laserbat/studio](https://github.com/laserbat/studio) | 0 | Csound Score | 2026-10-14 | Claude's music studio: plugins and tools for making music without hearing it |
-| 64 | [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard) | 319 | TypeScript | 2026-10-14 | Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff |
-| 65 | [hashimkarim/thesis-skills](https://github.com/hashimkarim/thesis-skills) | 0 | Python | 2026-10-14 | Portable thesis skills for Claude Code and Codex: writing, literature, research, citations, LaTeX, presentations, and PD |
-| 66 | [knowledgeislands/ki-agentic-harness](https://github.com/knowledgeislands/ki-agentic-harness) | 0 | TypeScript | 2026-10-14 | Knowledge Islands agentic harness — canonical home for Agent Skills, Agents, Evals, and Hooks across the ecosystem. |
-| 67 | [batuta-ai/skills](https://github.com/batuta-ai/skills) | 0 | Shell | 2026-10-14 | Batuta skills: a conducting cycle for AI coding agents. Quem rege não toca. |
-| 68 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 39 | Python | 2026-10-14 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
-| 69 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 24 | Python | 2026-10-14 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
-| 70 | [AgentParadise/agentic-skills](https://github.com/AgentParadise/agentic-skills) | 1 | Markdown | 2026-10-14 | Portable, modular agent skills for any compatible harness |
-| 71 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) | 4574 | TypeScript | 2026-10-14 | Beautiful, AI-native markdown IDE and LLM wiki |
-| 72 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | 317 | Java | 2026-10-14 | The missing developer UI for Spring Boot and Quarkus! |
-| 73 | [noahdgrant/nightshift](https://github.com/noahdgrant/nightshift) | 0 | Rust | 2026-10-14 | Agent skills and a Rust CLI that take an issue to a reviewed, verified PR overnight. Works with any harness (Claude Code |
-| 74 | [majoie02/agent-contract-nexus](https://github.com/majoie02/agent-contract-nexus) | 0 | HTML | 2026-10-14 | Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts |
-| 75 | [Koder-SpA/claude-mods](https://github.com/Koder-SpA/claude-mods) | 0 | JavaScript | 2026-10-14 | Claude Code plugins by Koder SpA — real-time token cost, context and rate-limit dashboard for your statusline |
-| 76 | [EnosElinsa/engineering-paper-writing-skills](https://github.com/EnosElinsa/engineering-paper-writing-skills) | 0 | Python | 2026-10-14 | Portable Codex skills for writing engineering research papers |
-| 77 | [antonioshaman/aura-companion](https://github.com/antonioshaman/aura-companion) | 0 | TypeScript | 2026-10-14 | Self-learning AI companion — 29 skills: adaptive knowledge base + Carmack Council + impeccable design. Every session mak |
-| 78 | [IdkwhatImD0ing/hackathonstarterkit](https://github.com/IdkwhatImD0ing/hackathonstarterkit) | 1 | TypeScript | 2026-10-14 | Win your next hackathon: a battle-tested playbook plus an AI agent skill pipeline that scaffolds and ships your project. |
-| 79 | [bpauli/gccli](https://github.com/bpauli/gccli) | 28 | Go | 2026-10-14 | A command-line interface for Garmin Connect - activities, health, workouts, devices, and more - with JSON output, secure |
-| 80 | [muralisid/agentic-architecture-skills](https://github.com/muralisid/agentic-architecture-skills) | 0 | Python | 2026-10-14 | Installable Agent Skills for architects: the agentic enterprise architecture, the decisions, and the measured evidence.  |
-| 81 | [supercorp-ai/supercov](https://github.com/supercorp-ai/supercov) | 154 | Rust | 2026-10-14 | Coverage, security and code quality for coding agents |
-| 82 | [setkernel/agent-plugins](https://github.com/setkernel/agent-plugins) | 0 | Shell | 2026-10-14 | SetKernel's org-wide setup for AI coding agents: Claude Code plugin, marketplace, shared skills, subagents and rules. No |
-| 83 | [2233admin/design-pipeline](https://github.com/2233admin/design-pipeline) | 12 | JavaScript | 2026-10-14 | 给 AI Agent 的前端设计管线：先写 DESIGN.md 与 MOTION.md，经 job 分发、OpenSpec 与证据门禁再写代码。 |
-| 84 | [CorpusIQ/corpusiq-docs](https://github.com/CorpusIQ/corpusiq-docs) | 23 | Python | 2026-10-14 | Hermes Agent Production Knowledge Repository — 406+ repos, AI Agent Marketplace, MCP servers, autonomous AI agent patter |
-| 85 | [xiaofengShi/paper-reading-skill](https://github.com/xiaofengShi/paper-reading-skill) | 4 | JavaScript | 2026-10-14 | Agent skill for visual, source-grounded paper reading: one standalone HTML atlas of methods, equations, and experiments. |
-| 86 | [yunshenwuchuxun/smart-drawio-next](https://github.com/yunshenwuchuxun/smart-drawio-next) | 366 | JavaScript | 2026-10-14 | Editable Draw.io diagrams for research and architecture: Next.js web app, Agent Skill, and local MCP server. |
-| 87 | [bernardorspachecods/bkf](https://github.com/bernardorspachecods/bkf) | 0 | Python | 2026-10-14 | A format for organizing repo knowledge so AI agents find current guidance: validated docs and maps, a CLI, a shared rule |
-| 88 | [wangshuhui0613/personal-kb-template](https://github.com/wangshuhui0613/personal-kb-template) | 0 | Python | 2026-10-14 | 不是资料收藏夹，而是连接规划、行动、证据、复盘和经验的个人工作系统。零插件依赖的 Obsidian 模板，也可作为 Agent Skill 安装。 |
-| 89 | [HT0710/claudzilla](https://github.com/HT0710/claudzilla) | 1 | TypeScript | 2026-10-14 | Claude Code, tamed: terse answers, small diffs, verified work, guarded git. |
-| 90 | [kixelated/quest](https://github.com/kixelated/quest) | 2 | TypeScript | 2026-10-14 | A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. F |
-| 91 | [larsboes/Sjel](https://github.com/larsboes/Sjel) | 1 | Rust | 2026-10-14 | Your life's data on your own devices, with one assistant that can act on it. |
-| 92 | [pchemguy/SDD-Manager](https://github.com/pchemguy/SDD-Manager) | 0 | Python | 2026-10-14 | SDD Manager |
-| 93 | [inamprotocol/inam-protocol](https://github.com/inamprotocol/inam-protocol) | 1 | TypeScript | 2026-10-14 | Verify before your agent pays: x402 payments only reach agents whose wallet and countersigned work history check out. Op |
-| 94 | [Igor-lx/claudeHarness](https://github.com/Igor-lx/claudeHarness) | 1 | JavaScript | 2026-10-14 | Claude Code harness for frontend code quality: AI-written code cannot commit until machine checks prove it. Every edit b |
-| 95 | [hujizhou35-cmd/slide-defense-weaver](https://github.com/hujizhou35-cmd/slide-defense-weaver) | 0 | Python | 2026-10-14 | Tell one coherent story across your slides. Project understanding, slide-order review, defense scripts, mock Q&A, and to |
-| 96 | [shazhou-ww/silvermoon](https://github.com/shazhou-ww/silvermoon) | 2 | TypeScript | 2026-10-14 | Git-native repository task lifecycle tooling and Agent Skill |
-| 97 | [Cratis/AI](https://github.com/Cratis/AI) | 4 | C# | 2026-10-14 | Free, MIT-licensed AI skills, rules, and agent guidance for building event-sourced and CQRS applications with the Cratis |
-| 98 | [alivirgo/Major-AI-Skills](https://github.com/alivirgo/Major-AI-Skills) | 2 | HTML | 2026-10-14 | Installable agentic skills (SKILL.md) for Claude Code, Cursor, Codex, Gemini & Antigravity — 292+ product, efficiency, a |
-| 99 | [rjmurillo/ai-agents](https://github.com/rjmurillo/ai-agents) | 48 | Python | 2026-10-14 | Open source multi agent toolkit for Claude Code and GitHub Copilot CLI: 30 agents, plan to ship workflows, review and se |
-| 100 | [eai-org/agent-toolkit](https://github.com/eai-org/agent-toolkit) | 59 | Shell | 2026-10-14 | Minimalistic, project-agnostic skills and rules for AI coding agents |
+| 3 | [remote-controlled-man/skillfit](https://github.com/remote-controlled-man/skillfit) | 2 | TypeScript | 2026-10-14 | Measure whether AI coding agent Skills, rules, and MCP setups actually improve your tasks. |
+| 4 | [linggen/skills](https://github.com/linggen/skills) | 3 | JavaScript | 2026-10-14 | Skills for Linggen — drop-in folders that become native apps: personal CFO, DJ, Mac care, GTM pulse, shared memory. |
+| 5 | [harness/harness-skills](https://github.com/harness/harness-skills) | 115 | Python | 2026-10-14 | A collection of structured AI agent skills that   enable Claude Code, Cursor, GitHub Copilot, and   other AI coding assi |
+| 6 | [lhg-skills/lhg-writing](https://github.com/lhg-skills/lhg-writing) | 0 | — | 2026-10-14 | 中文写作 skill：风格指纹提取 → Orwell 六规则写作 → AI 味诊断 → 一致性校验（刘洪光 / lhg-skills） ｜ 一键安装：npx skills add lhg-skills/lhg-writing |
+| 7 | [lhg-skills/lhg-ui-review](https://github.com/lhg-skills/lhg-ui-review) | 0 | Python | 2026-10-14 | 网页 UI 专家走查：截图/代码/链接三输入，五支柱走查找缺点并给可执行修复意见 ｜ 一键安装：npx skills add lhg-skills/lhg-ui-review |
+| 8 | [lhg-skills/lhg-trend](https://github.com/lhg-skills/lhg-trend) | 0 | Python | 2026-10-14 | 近 30 天全网热点扫描：跨平台热度排序，直接服务内容选题 ｜ 一键安装：npx skills add lhg-skills/lhg-trend |
+| 9 | [rubicon/ai-skills](https://github.com/rubicon/ai-skills) | 1 | Python | 2026-10-14 | Curated AI skills and Claude Code plugins — reusable, versioned prompt templates and tools (skillshare/Codex compatible) |
+| 10 | [scalefocus/skilly](https://github.com/scalefocus/skilly) | 8 | TypeScript | 2026-10-14 | Enterprise-grade, self-hosted registry for governing SKILL.md agent skills, with identity anchored in Microsoft Entra ID |
+| 11 | [lhg-skills/lhg-slides](https://github.com/lhg-skills/lhg-slides) | 1 | Python | 2026-10-14 | 带美术护栏、可浏览器内编辑的单文件 HTML 演示文稿生成 ｜ 一键安装：npx skills add lhg-skills/lhg-slides |
+| 12 | [lhg-skills/lhg-secure](https://github.com/lhg-skills/lhg-secure) | 0 | Python | 2026-10-14 | 代码安全审计：九维度扫描、对抗验证、分级风险清单 ｜ 一键安装：npx skills add lhg-skills/lhg-secure |
+| 13 | [lhg-skills/lhg-net](https://github.com/lhg-skills/lhg-net) | 0 | Python | 2026-10-14 | 互联网能力层：中文优先多平台取数，工具→流程双轨降级 ｜ 一键安装：npx skills add lhg-skills/lhg-net |
+| 14 | [AlainRic/ralph-wiggum-codex-review-triage](https://github.com/AlainRic/ralph-wiggum-codex-review-triage) | 1 | HTML | 2026-10-14 | Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification |
+| 15 | [lhg-skills/lhg-finder](https://github.com/lhg-skills/lhg-finder) | 0 | Python | 2026-10-14 | 找 skill 的质检门：blocker 三件套 + 六维评分卡，两道确认门永不自动安装 ｜ 一键安装：npx skills add lhg-skills/lhg-finder |
+| 16 | [divyangchauhan/DiffVouch](https://github.com/divyangchauhan/DiffVouch) | 0 | Go | 2026-10-14 | AI code-review for Git diffs and pull requests, with actionable findings, inline GitHub comments, and a 5-point rating. |
+| 17 | [lhg-skills/lhg-deep-research](https://github.com/lhg-skills/lhg-deep-research) | 0 | — | 2026-10-14 | 深度调研：输入一个主题，按多源检索→热度排名→作者深挖→需求提炼→功能分类→复刻/超越方案的流程，输出结构化中文调研报告。 ｜ 一键安装：npx skills add lhg-skills/lhg-deep-research |
+| 18 | [lhg-skills/lhg-debug](https://github.com/lhg-skills/lhg-debug) | 0 | Python | 2026-10-14 | 系统化调试 skill：复现→定位→修复→验证，Zeller 科学调试法 + Agans 九规则（刘洪光 / lhg-skills） ｜ 一键安装：npx skills add lhg-skills/lhg-debug |
+| 19 | [timmo001/skills](https://github.com/timmo001/skills) | 1 | TypeScript | 2026-10-14 | Portable agent skills for coding agents |
+| 20 | [lhg-skills/lhg-craft](https://github.com/lhg-skills/lhg-craft) | 0 | Python | 2026-10-14 | AI 编程工程规范：分级澄清、计划书、TDD、独立评审、证据门禁 ｜ 一键安装：npx skills add lhg-skills/lhg-craft |
+| 21 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102021 | TypeScript | 2026-10-14 | The open-source app everyone uses to manage agents at work |
+| 22 | [lhg-skills/lhg-benchmark-topic-factory](https://github.com/lhg-skills/lhg-benchmark-topic-factory) | 0 | Python | 2026-10-14 | 对标拆解选题工厂 skill：找对标→内容深拆→逆向100条选题库→口播文案库→排期规划，8阶段流水线，任意行业可复刻（刘洪光 / lhg-skills） ｜ 一键安装：npx skills add lhg-skills/lhg-bench |
+| 23 | [null-byte00/gardelycode-community](https://github.com/null-byte00/gardelycode-community) | 0 | Rust | 2026-10-14 | GardelyCode — free AI that builds apps from your words. Downloads, website, open modules, skills & templates. |
+| 24 | [blessings1234/skill-shipyard-pipeline](https://github.com/blessings1234/skill-shipyard-pipeline) | 3 | HTML | 2026-10-14 | Skill Package 2026: Ultimate AI Skills Deployment Tool – Plugin, ZIP & CI/CD |
+| 25 | [m4bwav/chartwright](https://github.com/m4bwav/chartwright) | 0 | Python | 2026-10-14 | Evergreen chart and graph skills: evidence-based chart knowledge base, chooser and builder CLI, five render targets |
+| 26 | [LNSD/lorecraft](https://github.com/LNSD/lorecraft) | 0 | Python | 2026-10-14 | Checks a repository's agent-facing docs: coding rules, feature docs and agent skills, against declared specs. |
+| 27 | [Princeton-CDH/skills](https://github.com/Princeton-CDH/skills) | 0 | — | 2026-10-14 | Agentic skills related to Princeton CDH RSE team workflows |
+| 28 | [rjmurillo/ai-agents](https://github.com/rjmurillo/ai-agents) | 48 | Python | 2026-10-14 | Open source multi agent toolkit for Claude Code and GitHub Copilot CLI: 30 agents, plan to ship workflows, review and se |
+| 29 | [Beltran12138/evidence-deflator](https://github.com/Beltran12138/evidence-deflator) | 0 | Python | 2026-10-14 | Is that trading record skill, or could it be luck? Check any Hyperliquid wallet, rescore leaderboards for best-of-N sele |
+| 30 | [rashee1997/ui-redesign](https://github.com/rashee1997/ui-redesign) | 1 | JavaScript | 2026-10-14 | Make agents redesign UI properly: audit into a ledger, plan the fix, preview three clickable concepts for approval befor |
+| 31 | [Kenny27lokku/prompt-integrity-validator](https://github.com/Kenny27lokku/prompt-integrity-validator) | 1 | HTML | 2026-10-14 | Lint Your Prompts, Ship Better Agents – Prompt Refiner 2026 Rule Engine |
+| 32 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52637 | TypeScript | 2026-10-14 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 33 | [aitsvet/research-stack](https://github.com/aitsvet/research-stack) | 0 | Python | 2026-10-14 | dockerized agentic research harness with Zotero, browser automation and document extraction |
+| 34 | [kalinichenko88/agent-skills](https://github.com/kalinichenko88/agent-skills) | 1 | Shell | 2026-10-14 | Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi |
+| 35 | [drftrun/driftengine](https://github.com/drftrun/driftengine) | 11 | TypeScript | 2026-10-14 | A 3D game engine in strict TypeScript: WebGPU with a WebGL2 fallback, deterministic physics, animation, audio, rollback  |
+| 36 | [KCNyu/clawock](https://github.com/KCNyu/clawock) | 19 | Python | 2026-10-14 | Investment workflows for AI agents: evidence, opposing cases, and outcomes checked by Python. |
+| 37 | [ArthurC02/SkillHub](https://github.com/ArthurC02/SkillHub) | 1 | Go | 2026-10-14 | An open platform for finding, building, trialling and sharing Agent Skills. |
+| 38 | [TheColliery/.github](https://github.com/TheColliery/.github) | 2 | JavaScript | 2026-10-14 | TheColliery — quality tooling for AI coding agents. The series landing page, the shared doctrine (Phoenix-13 hooks + Qua |
+| 39 | [passionsplay/structurizr-skill](https://github.com/passionsplay/structurizr-skill) | 0 | ASL | 2026-10-14 | Agent Skill for C4 architecture modeling with the Structurizr DSL. Docker-only; works across coding agents via npx skill |
+| 40 | [SOFTURE/SKILLS](https://github.com/SOFTURE/SKILLS) | 0 | Shell | 2026-10-14 | Agent skills for spec-driven delivery: the softure-* workflow chain plus parallel git-worktree orchestration. Published  |
+| 41 | [OyadotAI/oya-browser](https://github.com/OyadotAI/oya-browser) | 353 | TypeScript | 2026-10-14 | The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Ch |
+| 42 | [heyramzi/ai-agency](https://github.com/heyramzi/ai-agency) | 0 | Python | 2026-10-14 | 41 agent skills, 5 slash commands and 1 agent for running an agency on Claude: an SEO kit, a YouTube production kit, a C |
+| 43 | [no-phux/skills](https://github.com/no-phux/skills) | 0 | — | 2026-10-14 | Agent skills for phux. Install: npx skills add no-phux/skills |
+| 44 | [Goldziher/ai-rulez](https://github.com/Goldziher/ai-rulez) | 161 | Go | 2026-10-14 | Standards-compliant lifecycle tool for agent knowledge and capabilities: author, generate, bundle, validate, govern, pub |
+| 45 | [arifszn/slide-wright](https://github.com/arifszn/slide-wright) | 51 | — | 2026-10-14 | AI agent skill to generate beautiful, unique slide decks with reveal.js - new design for every prompt. |
+| 46 | [axisrow/tg_content_factory](https://github.com/axisrow/tg_content_factory) | 32 | Python | 2026-10-14 | Telegram automation for coding agents — Claude Code plugin + tg-agent CLI. Read/send messages, manage channels, media, a |
+| 47 | [dceoy/pr-loop](https://github.com/dceoy/pr-loop) | 0 | Shell | 2026-10-14 | Agent skill to automate pull request review loops |
+| 48 | [danieljustus/symaira-vault](https://github.com/danieljustus/symaira-vault) | 32 | Go | 2026-10-14 | 🔐 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry. |
+| 49 | [mattzimak/claude-code-handbook](https://github.com/mattzimak/claude-code-handbook) | 0 | Python | 2026-10-14 | A founder's handbook for Claude Code - the skills, hooks, prompts and workflows I actually run across three companies. 1 |
+| 50 | [edtrackai/ship-ready-skills](https://github.com/edtrackai/ship-ready-skills) | 0 | — | 2026-10-14 |  |
+| 51 | [m4bwav/unity-agent](https://github.com/m4bwav/unity-agent) | 0 | PowerShell | 2026-10-14 | Evergreen skills that let AI coding agents drive Unity: the official Unity CLI and Pipeline package, headless batchmode, |
+| 52 | [ph3on1x/agent-plugins-skills](https://github.com/ph3on1x/agent-plugins-skills) | 0 | TypeScript | 2026-10-14 | Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketpla |
+| 53 | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | 213 | JavaScript | 2026-10-14 | X (Twitter) scraper API & Twitter MCP server to scrape tweets, profiles & followers. Not affiliated with X Corp. |
+| 54 | [zincio/skills](https://github.com/zincio/skills) | 7 | Python | 2026-10-14 | AI agent skill for the Zinc API. Search, buy, track, and return across Amazon, Walmart, Target, and 50+ US retailers. Bu |
+| 55 | [Super-Send/ranla-skills](https://github.com/Super-Send/ranla-skills) | 0 | — | 2026-10-14 | Official Agent Skills for Ranla, the AI growth agent for software businesses (Claude Code, Cursor, Codex). |
+| 56 | [SurendharVr/sitemend](https://github.com/SurendharVr/sitemend) | 0 | Python | 2026-10-14 | Technical SEO audit and repair for Claude Code. Crawls your site for indexing problems, orphan pages, duplicate content, |
+| 57 | [StepenkoAnatoli/SmartRouter](https://github.com/StepenkoAnatoli/SmartRouter) | 0 | Python | 2026-10-14 | Model-routing policy and supervision tools for coding agents, with verification, budget rules, and autonomous defaults. |
+| 58 | [markoblogo/framewright](https://github.com/markoblogo/framewright) | 0 | Python | 2026-10-14 | Framewright — evidence-led video production workflows and agent skills. Software launches, voiced book trailers, and a g |
+| 59 | [valsteen/pinboard](https://github.com/valsteen/pinboard) | 4 | Python | 2026-10-14 | Keep coding-agent work coherent across tasks, interruptions, and review. |
+| 60 | [clssck/agent-plugins](https://github.com/clssck/agent-plugins) | 1 | Python | 2026-10-14 | OMP extension packs: my rules, agents, and skills, plus upstream skill repos vendored daily at pinned commits |
+| 61 | [crisperit/crisperit-skills](https://github.com/crisperit/crisperit-skills) | 3 | Python | 2026-10-14 | My agent skills for Claude Code and other harnesses. First: code-walkthrough, which turns a PR, diff, or any part of a c |
+| 62 | [masakaai/rea-captcha](https://github.com/masakaai/rea-captcha) | 1 | TypeScript | 2026-10-14 | Local MCP and SDK for browser-agent verification flows: provider test keys, owned image/text, and same-session resume. |
+| 63 | [Enjoyoer/loadout](https://github.com/Enjoyoer/loadout) | 0 | TypeScript | 2026-10-14 | Agent skills for Claude Code and Codex, a verified fleet sync, and Paseo daemon plugins |
+| 64 | [Tangweiwei227/gateway-image-gen](https://github.com/Tangweiwei227/gateway-image-gen) | 0 | Python | 2026-10-14 | Generate/edit images via CLIProxyAPI's OpenAI-compatible images endpoint (Codex image proxied to /v1/images/generations) |
+| 65 | [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | 327 | TypeScript | 2026-10-14 | The open standard for agent coordination |
+| 66 | [uigraph-oss/skills](https://github.com/uigraph-oss/skills) | 0 | Mermaid | 2026-10-14 | Skills for AI coding agents to create UIGraph YAML configurations that reference your engineering artifacts and prepare  |
+| 67 | [KiaroSama/Agensi-MCP](https://github.com/KiaroSama/Agensi-MCP) | 2 | Rust | 2026-10-14 | Agensi MCP connection manager with fail-closed proxies and original multi-client skill guidance |
+| 68 | [tianlrz/fudan-slides](https://github.com/tianlrz/fudan-slides) | 0 | HTML | 2026-10-14 | 复旦学术汇报 HTML 模板 Skill：12 种版式、PDF 导出、独立讲稿窗口与同步翻页。 |
+| 69 | [shazhou-ww/silvermoon](https://github.com/shazhou-ww/silvermoon) | 2 | TypeScript | 2026-10-14 | Git-native repository task lifecycle tooling and Agent Skill |
+| 70 | [noahdgrant/nightshift](https://github.com/noahdgrant/nightshift) | 0 | Rust | 2026-10-14 | Agent skills and a Rust CLI that take an issue to a reviewed, verified PR overnight. Works with any harness (Claude Code |
+| 71 | [openpath-sh/skills](https://github.com/openpath-sh/skills) | 2 | — | 2026-10-14 | Openpath skill and plugin for AI agents: job openings (mostly Austin and remote) and Austin local businesses from the op |
+| 72 | [fallow-rs/fallow-skills](https://github.com/fallow-rs/fallow-skills) | 130 | JavaScript | 2026-10-14 | Agent skills for fallow. They teach coding agents (Claude Code, Codex, Cursor, and others) to check health, complexity,  |
+| 73 | [arjitj2/open-pstack](https://github.com/arjitj2/open-pstack) | 9 | TypeScript | 2026-10-14 | Pstack for Codex and Claude Code, with cross-provider routing and automatic failover. Devin, Cursor, Antigravity, OpenCo |
+| 74 | [lucastosetto/dev-skills](https://github.com/lucastosetto/dev-skills) | 0 | Shell | 2026-10-14 | Claude Code plugin for the full dev loop: ticket to spec, code, QA, PR, review, deploy and monitoring, plus sprint plans |
+| 75 | [JacobStephens2/thirdshift](https://github.com/JacobStephens2/thirdshift) | 0 | Rust | 2026-10-14 | Turn a GitHub issue into a ready-for-review pull request, unattended, on Claude Code, Codex or another agent CLI. On a s |
+| 76 | [openplanr/OpenPlanr](https://github.com/openplanr/OpenPlanr) | 5 | JavaScript | 2026-10-14 | Plan first, then let your coding agent build. 25+ planning, design, review and delivery skills for Claude Code, Codex an |
+| 77 | [ponomr/palych](https://github.com/ponomr/palych) | 0 | Python | 2026-10-14 | Palych: clear conversational replies in Russian and English. Named after Anton Chekhov. |
+| 78 | [samuryann/ronin-toolkit](https://github.com/samuryann/ronin-toolkit) | 2 | Shell | 2026-10-14 | ronin-toolkit: masterless Claude Code plugins for IT professionals. Built by Samuryann, assisted by Claude. |
+| 79 | [morluto/rea](https://github.com/morluto/rea) | 235378 | TypeScript | 2026-10-14 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 80 | [ChouChiu/heya-skill](https://github.com/ChouChiu/heya-skill) | 18 | TypeScript | 2026-10-14 | 基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。 |
+| 81 | [WisePalCode/wisepal-assistants](https://github.com/WisePalCode/wisepal-assistants) | 0 | Python | 2026-10-14 | Free bill negotiation inside your assistant, without WisePal login or API key setup. |
+| 82 | [bikemeardsley/thicken](https://github.com/bikemeardsley/thicken) | 1 | TypeScript | 2026-10-14 | Turn photos of a real object into a 3D model (GLB) at its real size and its metadata as JSON. What it knows about each k |
+| 83 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24870 | TypeScript | 2026-10-14 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
+| 84 | [tianlrz/deckgrain](https://github.com/tianlrz/deckgrain) | 0 | — | 2026-10-14 | Deckgrain · 稿纹：从参考设计提炼轻量演示模板 Skill，自动查找 logo，整理 HTML 版式与生成 prompt。 |
+| 85 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 39 | Python | 2026-10-14 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 86 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 24 | Python | 2026-10-14 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 87 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) | 175 | TypeScript | 2026-10-14 | Let Claude Code and other coding agents drive and debug Chrome from the shell. DOM, network, console and raw CDP as shor |
+| 88 | [rysk-tanaka/skills](https://github.com/rysk-tanaka/skills) | 0 | Python | 2026-10-14 | Personal Agent Skills for Claude Code |
+| 89 | [m4bwav/evergreen-protocol](https://github.com/m4bwav/evergreen-protocol) | 0 | Python | 2026-10-14 | Evergreen: self-maintaining skills, docs and codemaps for AI agents (research refresh, learnings, evals, git self-publis |
+| 90 | [StefanKasamakov/ai-compass](https://github.com/StefanKasamakov/ai-compass) | 0 | HTML | 2026-10-14 | A plain-English map of AI models, MCP servers and agent skills, kept fresh by an agent |
+| 91 | [adops-tool/AdTech-LeadGen-agent-skills](https://github.com/adops-tool/AdTech-LeadGen-agent-skills) | 1 | — | 2026-10-14 | 🎯 Schema-validated Agent Skills for AdTech lead generation and publisher compliance: audit ads.txt/app-ads.txt, detect P |
+| 92 | [JohnGarrisonDev/burn-rate](https://github.com/JohnGarrisonDev/burn-rate) | 0 | Python | 2026-10-14 | Agent skills that spend your leftover weekly Claude or Codex usage running a small software company. |
+| 93 | [pezhik/skilltotal](https://github.com/pezhik/skilltotal) | 12 | Python | 2026-10-14 | Claude Code plugin that scans a package before the agent runs npx, npm install, pip install, uvx or claude mcp add. Mali |
+| 94 | [hcaiano/skills](https://github.com/hcaiano/skills) | 3 | JavaScript | 2026-10-14 | Henrique Caiano's custom agent skills (Claude, Codex, herdr). Install with: npx skills@latest add hcaiano/skills |
+| 95 | [dotnet/skills](https://github.com/dotnet/skills) | 5632 | C# | 2026-10-14 | Repository for skills to assist AI coding agents with .NET and C# |
+| 96 | [golden-frijoles/skills](https://github.com/golden-frijoles/skills) | 0 | JavaScript | 2026-10-14 | Run and scale your agentic product shop from your coding agent: the Golden Frijoles plugin, kit and project template. Mi |
+| 97 | [m4bwav/everkeep](https://github.com/m4bwav/everkeep) | 0 | Python | 2026-10-14 | Keep the repositories and packages you already own healthy: PR triage with cooldowns and lockfile checks, vulnerabilitie |
+| 98 | [cndoin/re-perception](https://github.com/cndoin/re-perception) | 0 | Python | 2026-10-14 | Agent Skill · AI 驱动的全平台逆向工程工具箱：识别、反汇编、符号还原、可溯源证据与残余未知项治理。38 个子命令。Zero third-party deps, pure Python stdlib. |
+| 99 | [swift-library/skills](https://github.com/swift-library/skills) | 1 | Python | 2026-10-14 | Claude and Codex skills for Swift packages, Apple frameworks, SwiftUI and UIKit, developer tooling, and release engineer |
+| 100 | [OpenAdaptAI/openadapt-agent](https://github.com/OpenAdaptAI/openadapt-agent) | 3 | Python | 2026-10-14 | Local bridge that exposes governed OpenAdapt workflows to MCP clients and Agent Skills. |
 <!-- TRACKER_TABLE_END -->
 
 ---
