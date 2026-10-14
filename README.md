@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 09:15 UTC
+> ⏰ Last updated: 2026-10-14 09:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xi-kari/xi-kari-skill](https://github.com/xi-kari/xi-kari-skill) | 1 | Python | 2026-10-14 | 基于Xikari著《Xikari-条件结构与转化论》的智能体技能：完整学习、深入解释、明确决断、持续协作与研究成果打磨。 |
-| 2 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-14 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 3 | [yzsp-studio/handdrawn-live-video-generator](https://github.com/yzsp-studio/handdrawn-live-video-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 4 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 7424 | TypeScript | 2026-10-14 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned w |
-| 5 | [creedants/pstack-t3](https://github.com/creedants/pstack-t3) | 7 | Python | 2026-10-14 | Lauren Tan's pstack agent skills, ported to T3 Code so any model can lead and other models can review the work. Adds bri |
-| 6 | [Scorpio-meow/Threads-skill](https://github.com/Scorpio-meow/Threads-skill) | 0 | — | 2026-10-14 | Agent Skill that teaches AI coding assistants the Meta Threads API: write, review and debug integration code, or post, r |
-| 7 | [yzsp-studio/half-narrated-live-action-short-drama](https://github.com/yzsp-studio/half-narrated-live-action-short-drama) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 8 | [SwotAtmk/infinite-creation](https://github.com/SwotAtmk/infinite-creation) | 60 | JavaScript | 2026-10-14 | infinite-creation 是一个通过提交小说/剧本，本地ComfyUI-MiniMaxH3+Agent+Skill技能全自动无限生产视频，不限时长。 |
-| 9 | [imboard-ai/ai-dossier](https://github.com/imboard-ai/ai-dossier) | 9 | TypeScript | 2026-10-14 | An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell — host anywhe |
-| 10 | [code23/agentic-qa-toolkit](https://github.com/code23/agentic-qa-toolkit) | 0 | Python | 2026-10-14 | Agentic QA Toolkit: skills that make a coding agent do website QA like a senior tester. Standards, site audit and releas |
-| 11 | [ubunatic/harnez](https://github.com/ubunatic/harnez) | 0 | Go | 2026-10-14 | Open source, repo-first, local-first, cross-agent, AI agent manager, providing guardrails, guidance, templates, telemetr |
-| 12 | [codedecks-in/FounderOS](https://github.com/codedecks-in/FounderOS) | 2 | — | 2026-10-14 | Build production-grade software through Specification-Driven AI Engineering. |
-| 13 | [1105216375-alt/resimind](https://github.com/1105216375-alt/resimind) | 103 | Python | 2026-10-14 | Neuro-symbolic agents with verified memory. MCP math tools, an algebra repair Skill, and an open challenge. Verify solut |
-| 14 | [yzsp-studio/half-narrated-3d-short-drama](https://github.com/yzsp-studio/half-narrated-3d-short-drama) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 15 | [kintzhao/anySkills](https://github.com/kintzhao/anySkills) | 3 | — | 2026-10-14 | Claude Code Skills、Agent Skills 和 OpenClaw Skills 的统一集合仓库 |
-| 16 | [Thitic9203/helix](https://github.com/Thitic9203/helix) | 0 | Shell | 2026-10-14 | Portable QA skill pack for AI coding agents: FE/API test-case prep (AC/EC + Swagger coverage review), Playwright ticket  |
-| 17 | [grepsr/pline-api](https://github.com/grepsr/pline-api) | 1 | Rust | 2026-10-14 | MCP server and agent skill for the pline.ai API: scrape, crawl, batch-scrape, map, and search the web from Claude, Curso |
-| 18 | [lythos-labs/lythoskill](https://github.com/lythos-labs/lythoskill) | 3 | TypeScript | 2026-10-14 | Declarative coordination for agent skills — multi-platform, deny-by-default, local-first. One manifest. One command. Onl |
-| 19 | [yzsp-studio/half-narrated-2d-short-drama](https://github.com/yzsp-studio/half-narrated-2d-short-drama) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 20 | [yzsp-studio/h3-visual-design](https://github.com/yzsp-studio/h3-visual-design) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 21 | [logandoo/vibeweaver-dsh](https://github.com/logandoo/vibeweaver-dsh) | 1 | Python | 2026-10-14 | vibeweaver 的 deepseek harness 专属发行版，帮你的 dsh 交付可信任，经过验证的代码。 |
-| 22 | [knowledgeislands/ki-agentic-harness](https://github.com/knowledgeislands/ki-agentic-harness) | 0 | TypeScript | 2026-10-14 | Knowledge Islands agentic harness — canonical home for Agent Skills, Agents, Evals, and Hooks across the ecosystem. |
-| 23 | [aipoch/open-science](https://github.com/aipoch/open-science) | 4843 | TypeScript | 2026-10-14 | The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop a |
-| 24 | [whozghiar/opengoal-modding-kb](https://github.com/whozghiar/opengoal-modding-kb) | 0 | — | 2026-10-14 | Verified OpenGOAL modding knowledge as Agent Skills, shared by whozghiar/jak-project and every mod repository as the .ag |
-| 25 | [yzsp-studio/gift-card-redemption](https://github.com/yzsp-studio/gift-card-redemption) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 26 | [udohjeremiah/skills](https://github.com/udohjeremiah/skills) | 1 | Python | 2026-10-14 | Reusable Agent Skills for AI coding agents, focused on software engineering workflows. |
-| 27 | [szymdzum/browser-debugger-cli](https://github.com/szymdzum/browser-debugger-cli) | 175 | TypeScript | 2026-10-14 | Let Claude Code and other coding agents drive and debug Chrome from the shell. DOM, network, console and raw CDP as shor |
-| 28 | [event4u-app/agent-config](https://github.com/event4u-app/agent-config) | 11 | TypeScript | 2026-10-14 | Every claim machine-checked, including "zero runtime daemon" — governed skills, rules and replayable state. One contract |
-| 29 | [yzsp-studio/game-designer](https://github.com/yzsp-studio/game-designer) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 30 | [xztsummer/ppt-master](https://github.com/xztsummer/ppt-master) | 0 | Python | 2026-10-14 | AI-driven agent skill that generates natively editable PowerPoint (PPTX) — five routes: generate, beautify, image-to-PPT |
-| 31 | [MarcWebber/njucli](https://github.com/MarcWebber/njucli) | 2 | TypeScript | 2026-10-14 | 南京大学校园服务 CLI 与 AI Skills |
-| 32 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 55649 | Python | 2026-10-14 | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion |
-| 33 | [yzsp-studio/future-sci-fi-cinematic-generator](https://github.com/yzsp-studio/future-sci-fi-cinematic-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 34 | [shikanime-labs/skills](https://github.com/shikanime-labs/skills) | 2 | Shell | 2026-10-14 | A curated catalog of self-improved agent skills for Hermes and compatible agents |
-| 35 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 101048 | TypeScript | 2026-10-14 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboa |
-| 36 | [2DogsLee/dsh-watcher](https://github.com/2DogsLee/dsh-watcher) | 1 | PowerShell | 2026-10-14 | DeepSeek Harness (DSH) 插件 API 面自动比对引擎：升级前一条命令看清插件依赖的 API/配置字段变了没有 · Auto diff engine for DSH plugin-breaking changes, wi |
-| 37 | [yzsp-studio/frontend-slides](https://github.com/yzsp-studio/frontend-slides) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 38 | [ChainChase/agent-toolbox](https://github.com/ChainChase/agent-toolbox) | 0 | Python | 2026-10-14 | A curated toolbox of agent skills, plugins, and MCP (Model Context Protocol) configurations for AI coding agents |
-| 39 | [pritoo733/Meta-Ads-Skills-for-Digital-Products](https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Products) | 1 | JavaScript | 2026-10-14 | Portable Agent Skill for Meta Ads sales strategy across SaaS, downloads, courses, communities, templates, and plugins |
-| 40 | [saankofi/sprengikraftur](https://github.com/saankofi/sprengikraftur) | 0 | — | 2026-10-14 | A lean skill bundle for building software with strong LLM agents on oh-my-pi: living docs, ADRs, vertical slices, indepe |
-| 41 | [furkansarikaya/proofline](https://github.com/furkansarikaya/proofline) | 0 | JavaScript | 2026-10-14 | A complete, language-agnostic engineering team for coding agents: a lead runs a deterministic workflow, bounded speciali |
-| 42 | [Heinsithukyaw/Agent-Harness](https://github.com/Heinsithukyaw/Agent-Harness) | 0 | HTML | 2026-10-14 | A live, versioned registry of the agent-harness ecosystem — runtimes, orchestration, tools, sandboxes, memory, evals, go |
-| 43 | [Shivak11/mx-keypad-skill](https://github.com/Shivak11/mx-keypad-skill) | 0 | C# | 2026-10-14 | Agent skill and sample plugin for building a Logitech MX Keypad plugin on macOS wired to Claude Code and Codex |
-| 44 | [morluto/rea](https://github.com/morluto/rea) | 222368 | TypeScript | 2026-10-14 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 45 | [akshaypjoshi/skills](https://github.com/akshaypjoshi/skills) | 0 | Python | 2026-10-14 | Source for skills.akshayjoshi.dev: my agent skills and their sites |
-| 46 | [LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills) | 63 | Python | 2026-10-14 | GTM agent skills for Claude Code, Codex, and GitHub Copilot: sales, marketing, SEO, RevOps, and customer research playbo |
-| 47 | [AINoSleep/x-growth-kit](https://github.com/AINoSleep/x-growth-kit) | 0 | Python | 2026-10-14 | X 增长工具包：帮中文 X 账号冲原创内容奖励门槛的半自动 Agent Skill。找选题、扫回复出草稿、写原创、建列表、记账算进度，只出草稿不代发。 |
-| 48 | [fainir/account-access](https://github.com/fainir/account-access) | 0 | Python | 2026-10-14 | Portable account access for Codex, Claude Code and other agents: scoped permissions, session reuse, OAuth renewal and re |
-| 49 | [TianHengZhuang/One-click-AI-PPT-creation](https://github.com/TianHengZhuang/One-click-AI-PPT-creation) | 8 | Python | 2026-10-14 | Turn any topic into a complete business presentation deck. |
-| 50 | [AssassinFlash/de-linker-playbook](https://github.com/AssassinFlash/de-linker-playbook) | 0 | Python | 2026-10-14 | Cross-harness agent-skill playbook for B2B marketing & lead generation — 80 SKILL.md skills, orchestrator+ledger driven, |
-| 51 | [yzsp-studio/fpv-tour-video-generator](https://github.com/yzsp-studio/fpv-tour-video-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 52 | [yzsp-studio/fashion-scene-video-planner](https://github.com/yzsp-studio/fashion-scene-video-planner) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 53 | [FreedomIntelligence/BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) | 93 | Python | 2026-10-14 | BlenderLore: Learning 3D Coding from Internet Tutorial Videos. |
-| 54 | [akshaypjoshi/course-studio](https://github.com/akshaypjoshi/course-studio) | 1 | JavaScript | 2026-10-14 | Skill to plan and write technical courses, chapters and notes with interactive isometric Anatomy figures. Install via np |
-| 55 | [yzsp-studio/epic-cinematic-lighting](https://github.com/yzsp-studio/epic-cinematic-lighting) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 56 | [yzsp-studio/enterprise-search](https://github.com/yzsp-studio/enterprise-search) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 57 | [CodeAlive-AI/ai-driven-development](https://github.com/CodeAlive-AI/ai-driven-development) | 160 | Python | 2026-10-14 | Practices, protocols, and skills for AI-driven software development. Skills and safety hooks for Claude Code, Codex, Ope |
-| 58 | [yzsp-studio/education-studio](https://github.com/yzsp-studio/education-studio) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 59 | [sunsiyuan/ultramotion](https://github.com/sunsiyuan/ultramotion) | 7 | HTML | 2026-10-14 | Open-source motion templates as agent skills · 动效模板库 |
-| 60 | [oomol-lab/oo-cli](https://github.com/oomol-lab/oo-cli) | 43 | TypeScript | 2026-10-14 | oo is OOMOL's CLI toolkit. Everything can be done in the CLI. |
-| 61 | [yzsp-studio/ecommerce-visual-creator](https://github.com/yzsp-studio/ecommerce-visual-creator) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 62 | [nitrojacob/gr-playground](https://github.com/nitrojacob/gr-playground) | 0 | Python | 2026-10-14 | A Playground for AI Agents to learn DSP skills through trial and error; A set of agent skills to analyse RF spectrum usi |
-| 63 | [triton2030/agentic-research](https://github.com/triton2030/agentic-research) | 0 | Python | 2026-10-14 | Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude. |
-| 64 | [yzsp-studio/ecommerce-proposal](https://github.com/yzsp-studio/ecommerce-proposal) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 65 | [Afloat16/research-to-fix](https://github.com/Afloat16/research-to-fix) | 0 | Python | 2026-10-14 | Evidence-driven debugging Agent Skill: research prior fixes and viable approaches across GitHub, Hugging Face, communiti |
-| 66 | [yzsp-studio/ecommerce-compliance-tax-logistics](https://github.com/yzsp-studio/ecommerce-compliance-tax-logistics) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 67 | [ohwald/skill-history](https://github.com/ohwald/skill-history) | 0 | HTML | 2026-10-14 | Browse how Agent Skills evolve over time: commit-level history with tag markers, plus side-by-side comparison of any two |
-| 68 | [skulitom/Anode](https://github.com/skulitom/Anode) | 2 | C# | 2026-10-14 | Windows desktop automation for AI agents. MCP server and CLI with a background child session, screenshots, separate mous |
-| 69 | [andeeplus/aplus](https://github.com/andeeplus/aplus) | 1 | TypeScript | 2026-10-14 | Agent skills for shipping changes with care |
-| 70 | [Piya-Boy/piya-skill](https://github.com/Piya-Boy/piya-skill) | 3 | — | 2026-10-14 | Skills for AI coding agents, every one with tests. Starts with thai-natural-writing: natural Thai for developers and gen |
-| 71 | [yzsp-studio/earnings-analysis](https://github.com/yzsp-studio/earnings-analysis) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 72 | [calvingit/skills](https://github.com/calvingit/skills) | 2 | Python | 2026-10-14 | Agent Skills for engineering workflows, backend practice, and Chinese document tooling |
-| 73 | [d2r-mobile/d2r-mobile](https://github.com/d2r-mobile/d2r-mobile) | 9 | C | 2026-10-14 | Diablo II: Resurrected as native code on iPhone and iPad, from your own Switch copy. 60 fps, ~10 h battery in power save |
-| 74 | [evolvix-labs/evolvix-skills](https://github.com/evolvix-labs/evolvix-skills) | 0 | Python | 2026-10-14 | Claude plugins and skills for Evolvix coaches and clients: check-in reviews, nutrition by training day, programs, automa |
-| 75 | [Hermida95/second-opinion-skills](https://github.com/Hermida95/second-opinion-skills) | 0 | Python | 2026-10-14 | Second Opinion: Agent Skills for using AI with open eyes. An evidence-backed verdict on code you didn't write (code-tear |
-| 76 | [yzsp-studio/dreamina-cli](https://github.com/yzsp-studio/dreamina-cli) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 77 | [bountyoperator/bounty-operator](https://github.com/bountyoperator/bounty-operator) | 2 | JavaScript | 2026-10-14 | Find the hole in your bug bounty report before the triager does. Pre-submission review for bounty reports and smart-cont |
-| 78 | [runkids/my-skills](https://github.com/runkids/my-skills) | 15 | JavaScript | 2026-10-14 | My AI agent skills — managed with skillshare |
-| 79 | [maxexcloo/agents](https://github.com/maxexcloo/agents) | 0 | Shell | 2026-10-14 | Shared agent guidance, skills and launch configuration. |
-| 80 | [o-m-a-r-k/agentic-workflow](https://github.com/o-m-a-r-k/agentic-workflow) | 0 | JavaScript | 2026-10-14 | Your agent says the tests passed. wf makes it prove it: a delivery workflow for Claude Code and Codex with engine-writte |
+| 1 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-14 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 2 | [yzsp-studio/micro-expression-video-generator](https://github.com/yzsp-studio/micro-expression-video-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 3 | [a-ratz/atlas](https://github.com/a-ratz/atlas) | 0 | Python | 2026-10-14 | Grow a knowledge vault by talking to your agents. Read it like a book. |
+| 4 | [LiorHaim/skills](https://github.com/LiorHaim/skills) | 0 | — | 2026-10-14 | Reusable AI agent skills for Red Hat Developer Hub and Backstage engineering workflows (plugin development, software tem |
+| 5 | [yzsp-studio/mg-voiceover-animation-generator](https://github.com/yzsp-studio/mg-voiceover-animation-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 6 | [zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | 571 | Python | 2026-10-14 | Claude Code / Codex skills that turn a video into a Chinese narration recap (视频解说): scene detection, ASR, VLM, script, T |
+| 7 | [no-phux/skills](https://github.com/no-phux/skills) | 0 | — | 2026-10-14 | Agent skills for phux. Install: npx skills add no-phux/skills |
+| 8 | [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 7535 | Python | 2026-10-14 | Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (网文): 扫榜、拆文、写作、去AI味、封面全流程，长篇短篇都支持 \| 13 skills |
+| 9 | [yzsp-studio/medical-report](https://github.com/yzsp-studio/medical-report) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 10 | [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 2855 | Python | 2026-10-14 | 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex \| Open-source AI short drama / micro-dra |
+| 11 | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | 213 | JavaScript | 2026-10-14 | X (Twitter) scraper API & Twitter MCP server to scrape tweets, profiles & followers. Not affiliated with X Corp. |
+| 12 | [benjaminstelzer/scoville-suite-for-codex](https://github.com/benjaminstelzer/scoville-suite-for-codex) | 0 | Python | 2026-10-14 | Native Codex workflow, planning, code, UI, handoff, advisers and project configuration. |
+| 13 | [benjaminstelzer/scoville-suite](https://github.com/benjaminstelzer/scoville-suite) | 0 | Python | 2026-10-14 | Agent Skills for code, planning, UI and handoff, with a separate suite for native Codex workflows. |
+| 14 | [Cratis/AI](https://github.com/Cratis/AI) | 4 | C# | 2026-10-14 | Free, MIT-licensed AI skills, rules, and agent guidance for building event-sourced and CQRS applications with the Cratis |
+| 15 | [yzsp-studio/medical-literature-monitoring](https://github.com/yzsp-studio/medical-literature-monitoring) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 16 | [benjaminstelzer/scoville-ask-for-codex](https://github.com/benjaminstelzer/scoville-ask-for-codex) | 0 | Python | 2026-10-14 | Independent read-only advice through native Codex chats or Claude CLI. |
+| 17 | [benjaminstelzer/scoville-ui](https://github.com/benjaminstelzer/scoville-ui) | 0 | Python | 2026-10-14 | Implement and review interfaces through their framework and design system. |
+| 18 | [LNSD/lorecraft](https://github.com/LNSD/lorecraft) | 0 | Python | 2026-10-14 | Checks a repository's agent-facing docs: coding rules, feature docs and agent skills, against declared specs. |
+| 19 | [benjaminstelzer/scoville-plan](https://github.com/benjaminstelzer/scoville-plan) | 3 | Python | 2026-10-14 | Keeps project direction recoverable without turning planning into the project. |
+| 20 | [benjaminstelzer/scoville-handoff](https://github.com/benjaminstelzer/scoville-handoff) | 2 | Python | 2026-10-14 | Transfers the work state, not the whole conversation. |
+| 21 | [tpscloud/charmedimsure](https://github.com/tpscloud/charmedimsure) | 39 | Go | 2026-10-14 | Agent skills for the Charm terminal stack (Bubble Tea, Bubbles, Lip Gloss, Huh, Log, Glamour, gum, vhs), written from th |
+| 22 | [benjaminstelzer/scoville-code](https://github.com/benjaminstelzer/scoville-code) | 8 | Python | 2026-10-14 | Keeps the engineering result visible through the process around it. |
+| 23 | [builtbyjuls/simplifeyn](https://github.com/builtbyjuls/simplifeyn) | 2 | Python | 2026-10-14 | Feynman-technique code debriefs and diff explanations for AI coding agents |
+| 24 | [SnowBankSDK/foundationdb-dotnet-client](https://github.com/SnowBankSDK/foundationdb-dotnet-client) | 158 | C# | 2026-10-14 | C#/.NET Binding for FoundationDB Client API |
+| 25 | [yzsp-studio/marketing-plan](https://github.com/yzsp-studio/marketing-plan) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 26 | [b1tsoup/assoomer](https://github.com/b1tsoup/assoomer) | 0 | — | 2026-10-14 | Never letting your agent assooom |
+| 27 | [akashtalole/akashtalole.github.io](https://github.com/akashtalole/akashtalole.github.io) | 1 | Shell | 2026-10-14 | akashtalole.github.io |
+| 28 | [xuhaitao/free-ai-directory-cn](https://github.com/xuhaitao/free-ai-directory-cn) | 1 | — | 2026-10-14 | Daily AI news, free models, Agent Skill Top 50, AI business and stock intelligence, weekly digest and source-linked rela |
+| 29 | [yzsp-studio/marketing-material-review](https://github.com/yzsp-studio/marketing-material-review) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 30 | [jmorenobl/kitlegal](https://github.com/jmorenobl/kitlegal) | 0 | Go | 2026-10-14 | Enseña a tu asistente de IA a responder preguntas legales con el texto vigente del BOE delante y la cita exacta del artí |
+| 31 | [yzsp-studio/market-hotspot](https://github.com/yzsp-studio/market-hotspot) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 32 | [cellinlab/cuttobuild](https://github.com/cellinlab/cuttobuild) | 0 | TypeScript | 2026-10-14 | Agent-first design workbench for laser-cut and knife-cut assembly models, with 3D review, geometric checks and fabricati |
+| 33 | [ggi3201/onebox](https://github.com/ggi3201/onebox) | 1 | JavaScript | 2026-10-14 | Get your Expo / React Native app on the App Store: agent skills and plain guides, with an optional backend on one cheap  |
+| 34 | [AssassinFlash/de-linker-playbook](https://github.com/AssassinFlash/de-linker-playbook) | 0 | Python | 2026-10-14 | Cross-harness agent-skill playbook for B2B marketing & lead generation — 80 SKILL.md skills, orchestrator+ledger driven, |
+| 35 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 101051 | TypeScript | 2026-10-14 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboa |
+| 36 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | 316 | Java | 2026-10-14 | The missing developer UI for Spring Boot and Quarkus! |
+| 37 | [LeadMagic/leadmagic-skills](https://github.com/LeadMagic/leadmagic-skills) | 0 | Shell | 2026-10-14 | LeadMagic agent skills and Claude Code plugin for B2B enrichment, people and company search, REST API integration, and h |
+| 38 | [yzsp-studio/live-sketch-motion](https://github.com/yzsp-studio/live-sketch-motion) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 39 | [code23/agentic-qa-toolkit](https://github.com/code23/agentic-qa-toolkit) | 0 | Python | 2026-10-14 | Agentic QA Toolkit: skills that make a coding agent do website QA like a senior tester. Standards, site audit and releas |
+| 40 | [yzsp-studio/listing-localization](https://github.com/yzsp-studio/listing-localization) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 41 | [yzsp-studio/lip-product-ad-generator](https://github.com/yzsp-studio/lip-product-ad-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 42 | [Cyber-Marty/SkillArena](https://github.com/Cyber-Marty/SkillArena) | 0 | Python | 2026-10-14 | Audited AI skill evaluations: real agent tool use, frozen tasks, verifiable evidence and version comparisons. |
+| 43 | [aipoch/open-science](https://github.com/aipoch/open-science) | 4843 | TypeScript | 2026-10-14 | The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop a |
+| 44 | [calvingit/skills](https://github.com/calvingit/skills) | 2 | Python | 2026-10-14 | Agent Skills for engineering workflows, backend practice, and Chinese document tooling |
+| 45 | [yzsp-studio/line-doodle-explainer-generator](https://github.com/yzsp-studio/line-doodle-explainer-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 46 | [FelixFangX/dev-work-grok-bot-skill](https://github.com/FelixFangX/dev-work-grok-bot-skill) | 0 | JavaScript | 2026-10-14 | A Grok Bot skill that turns your bot into a safe developer work assistant: GitHub, Linear, team chat, testing and report |
+| 47 | [FreedomIntelligence/BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) | 93 | Python | 2026-10-14 | BlenderLore: Learning 3D Coding from Internet Tutorial Videos. |
+| 48 | [frankxai/awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills) | 55 | — | 2026-10-14 | Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and mo |
+| 49 | [yzsp-studio/lark-workflow-standup-report](https://github.com/yzsp-studio/lark-workflow-standup-report) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 50 | [the911fund/skill-of-skills](https://github.com/the911fund/skill-of-skills) | 65 | Python | 2026-10-14 | The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win |
+| 51 | [alvseek/agent-memory-project](https://github.com/alvseek/agent-memory-project) | 0 | Python | 2026-10-14 | Coding/repo add-on overlay for the agent-memory framework — wizards, doc-gen, QA, fleet, localization, push/pull. Depend |
+| 52 | [yzsp-studio/lark-whiteboard](https://github.com/yzsp-studio/lark-whiteboard) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 53 | [crazykun/glm-reset-card](https://github.com/crazykun/glm-reset-card) | 0 | Shell | 2026-10-14 | Agent Skill：一句话用掉 GLM 用量重置卡 — 查余额/选最早过期卡/确认后消耗，复刻 GLMeter 用卡逻辑 |
+| 54 | [NickQin001/own-your-view](https://github.com/NickQin001/own-your-view) | 1 | — | 2026-10-14 | A lightweight AI skill for examining everyday ideas and forming your own judgment. English/中文. Feedback welcome. |
+| 55 | [MiddleSugar7000/premium-saas-web-skill](https://github.com/MiddleSugar7000/premium-saas-web-skill) | 2 | HTML | 2026-10-14 | Agent Skill (SKILL.md) for Claude Code, Codex, Cursor & Antigravity that builds premium SaaS landing pages: sculpted glo |
+| 56 | [Hackerismydream/yanshi](https://github.com/Hackerismydream/yanshi) | 0 | — | 2026-10-14 | Agent dev workflow skills by task complexity: align, design, split, implement, self-test, review, E2E with evidence, acc |
+| 57 | [rolecraft-sh/rolecraft](https://github.com/rolecraft-sh/rolecraft) | 92 | JavaScript | 2026-10-14 | The security-first skill manager for AI agents — every install runs a security scan. Manage skills & MCP servers across  |
+| 58 | [yzsp-studio/lark-task](https://github.com/yzsp-studio/lark-task) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 59 | [allxsmith/bestax-skills](https://github.com/allxsmith/bestax-skills) | 2 | TypeScript | 2026-10-14 | The bestax coding-agent plugin, generated from allxsmith/bestax |
+| 60 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52617 | TypeScript | 2026-10-14 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 61 | [yzsp-studio/lark-openapi-explorer](https://github.com/yzsp-studio/lark-openapi-explorer) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 62 | [yzsp-studio/lark-okr](https://github.com/yzsp-studio/lark-okr) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 63 | [null-byte00/gardelycode-community](https://github.com/null-byte00/gardelycode-community) | 0 | Rust | 2026-10-14 | GardelyCode — free AI that builds apps from your words. Downloads, website, open modules, skills & templates. |
+| 64 | [yzsp-studio/lark-markdown](https://github.com/yzsp-studio/lark-markdown) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 65 | [yzsp-studio/lark-mail](https://github.com/yzsp-studio/lark-mail) | 0 | HTML | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 66 | [amiable-dev/skills-telemetry](https://github.com/amiable-dev/skills-telemetry) | 0 | Python | 2026-10-14 | Telemetry for standards-as-skills — attribute token cost and outcomes to individual skills across Claude Code and GitHub |
+| 67 | [yzsp-studio/lark-im](https://github.com/yzsp-studio/lark-im) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 68 | [knowledgeislands/ki-agentic-harness](https://github.com/knowledgeislands/ki-agentic-harness) | 0 | TypeScript | 2026-10-14 | Knowledge Islands agentic harness — canonical home for Agent Skills, Agents, Evals, and Hooks across the ecosystem. |
+| 69 | [saankofi/sprengikraftur](https://github.com/saankofi/sprengikraftur) | 0 | — | 2026-10-14 | A lean skill bundle for building software with strong LLM agents on oh-my-pi: living docs, ADRs, vertical slices, indepe |
+| 70 | [frailbongat/skills](https://github.com/frailbongat/skills) | 2 | TypeScript | 2026-10-14 | My agent skills, plus a one-command setup to replicate every skill I use on a new machine. |
+| 71 | [triton2030/agentic-research](https://github.com/triton2030/agentic-research) | 0 | Python | 2026-10-14 | Research lab for AI agent skills, prompts, hooks, and instructions. Reusable workflows for Codex and Claude. |
+| 72 | [yzsp-studio/lark-contact](https://github.com/yzsp-studio/lark-contact) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 73 | [NAMEWTA/wta-skills-hub](https://github.com/NAMEWTA/wta-skills-hub) | 0 | JavaScript | 2026-10-14 | Agent skills for Grok, Cursor, Codex, Claude Code, and Pi. Install with npx wta-skills-hub. |
+| 74 | [yzsp-studio/lark-attendance](https://github.com/yzsp-studio/lark-attendance) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 75 | [yzsp-studio/lark-approval](https://github.com/yzsp-studio/lark-approval) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 76 | [exmergo/dex](https://github.com/exmergo/dex) | 78 | Python | 2026-10-14 | Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la |
+| 77 | [yzsp-studio/koc-video](https://github.com/yzsp-studio/koc-video) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 78 | [armelhbobdad/bmad-module-skill-forge](https://github.com/armelhbobdad/bmad-module-skill-forge) | 99 | Python | 2026-10-14 | A standalone BMAD module that transforms code repositories, documentation websites, and developer discourse into agentsk |
+| 79 | [yzsp-studio/journal-format](https://github.com/yzsp-studio/journal-format) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 80 | [ucsahinn/agentchef](https://github.com/ucsahinn/agentchef) | 6 | JavaScript | 2026-10-14 | An unofficial, cross-platform setup kit for OpenAI Codex CLI and Anthropic Claude Code: specialist agents, curated skill |
 | 81 | [Yichen-ZJU/lemvo-for-codex](https://github.com/Yichen-ZJU/lemvo-for-codex) | 0 | Python | 2026-10-14 | Lemvo for Codex — choose routes, build methods, learn from experiments, and write discoveries. 115 skills, two research  |
-| 82 | [yzsp-studio/drama-structure-writer](https://github.com/yzsp-studio/drama-structure-writer) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 83 | [Yichen-ZJU/lemvo-for-claude](https://github.com/Yichen-ZJU/lemvo-for-claude) | 9 | Python | 2026-10-14 | Lemvo for Claude Code — choose routes, build methods, learn from experiments, and write discoveries. 115 skills, two res |
-| 84 | [Zenty-Me/agent-dev-kit](https://github.com/Zenty-Me/agent-dev-kit) | 0 | Python | 2026-10-14 | AI 协同开发工具箱：精选 Claude Code / Agent skills、实用插件与可复用提示词 |
-| 85 | [Engccer/skills-for-the-blind](https://github.com/Engccer/skills-for-the-blind) | 0 | — | 2026-10-14 | Skill bundle for blind screen-reader users of coding agent CLIs (Korean-first) |
-| 86 | [yzsp-studio/dpa-drafter](https://github.com/yzsp-studio/dpa-drafter) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 87 | [cdeust/Cortex](https://github.com/cdeust/Cortex) | 75 | Python | 2026-10-14 | Cross-platform persistent memory MCP for Codex, Gemini CLI, Claude Code, and other local MCP hosts. 36 cited neuroscienc |
-| 88 | [Engccer/abridge](https://github.com/Engccer/abridge) | 0 | Python | 2026-10-14 | Abridged (tone-preserving extractive) summarization skill for coding agents |
-| 89 | [Omrigotlieb/awesome-claude-skills-gallery](https://github.com/Omrigotlieb/awesome-claude-skills-gallery) | 0 | JavaScript | 2026-10-14 | See what Claude and agent skills actually produce before you install them. A visual, verified gallery. |
-| 90 | [Omrigotlieb/mcp-solo-founder](https://github.com/Omrigotlieb/mcp-solo-founder) | 0 | TypeScript | 2026-10-14 | MCP server + agent skills for running a one-person company: weekly plans, markdown CRM, investor updates, launch checkli |
-| 91 | [Omrigotlieb/founder-deck-skill](https://github.com/Omrigotlieb/founder-deck-skill) | 0 | JavaScript | 2026-10-14 | Agent skill that turns messy founder notes into a polished single-file HTML pitch deck. Works with Claude Code, Codex, G |
-| 92 | [yzsp-studio/dot-matrix-brand-wordmark-motion](https://github.com/yzsp-studio/dot-matrix-brand-wordmark-motion) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 93 | [jdubois/boot-ui](https://github.com/jdubois/boot-ui) | 316 | Java | 2026-10-14 | The missing developer UI for Spring Boot and Quarkus! |
-| 94 | [yzsp-studio/director-stage](https://github.com/yzsp-studio/director-stage) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 95 | [amiable-dev/skills-telemetry](https://github.com/amiable-dev/skills-telemetry) | 0 | Python | 2026-10-14 | Telemetry for standards-as-skills — attribute token cost and outcomes to individual skills across Claude Code and GitHub |
-| 96 | [YannByte/wombat](https://github.com/YannByte/wombat) | 1 | Rust | 2026-10-14 | Local Codex token usage analyzer and configuration review tool. Inspect tasks, AGENTS.md, Skills, MCP and Hooks through  |
-| 97 | [js-lee-AI/awesome-agent-loop-papers](https://github.com/js-lee-AI/awesome-agent-loop-papers) | 6 | — | 2026-10-14 | Companion reading list for the survey 'The Agent Loop: Control Strategies, Skills, and Harnesses for LLM Agents': 492 pa |
-| 98 | [yzsp-studio/digital-product-promo-generator](https://github.com/yzsp-studio/digital-product-promo-generator) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 99 | [yzsp-studio/design-photoshop](https://github.com/yzsp-studio/design-photoshop) | 0 | JavaScript | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
-| 100 | [skoowoo/hylo](https://github.com/skoowoo/hylo) | 98 | Go | 2026-10-14 | Hylo: Personal knowledge agent compatible with Obsidian.  |
+| 82 | [Yichen-ZJU/lemvo-for-claude](https://github.com/Yichen-ZJU/lemvo-for-claude) | 9 | Python | 2026-10-14 | Lemvo for Claude Code — choose routes, build methods, learn from experiments, and write discoveries. 115 skills, two res |
+| 83 | [HaiyiMei/scorestarling-plugins](https://github.com/HaiyiMei/scorestarling-plugins) | 0 | Python | 2026-10-14 | ScoreStarling plugin for ChatGPT, Claude, Codex, Gemini CLI and Cline: transcribe, read, convert and edit sheet music |
+| 84 | [yzsp-studio/ip-toy-grid-motion](https://github.com/yzsp-studio/ip-toy-grid-motion) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 85 | [grepsr/pline-api](https://github.com/grepsr/pline-api) | 1 | Rust | 2026-10-14 | MCP server and agent skill for the pline.ai API: scrape, crawl, batch-scrape, map, and search the web from Claude, Curso |
+| 86 | [yzsp-studio/interior-modeling-render](https://github.com/yzsp-studio/interior-modeling-render) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 87 | [xi-kari/xi-kari-skill](https://github.com/xi-kari/xi-kari-skill) | 1 | Python | 2026-10-14 | 基于Xikari著《Xikari-条件结构与转化论》的智能体技能：完整学习、深入解释、明确决断、持续协作与研究成果打磨。 |
+| 88 | [0xrome/agentshandbook](https://github.com/0xrome/agentshandbook) | 0 | — | 2026-10-14 | Sourced playbooks for real jobs done with AI agents. Claude Code plugin, MCP server and Agent Skills. https://agentshand |
+| 89 | [dcc-mcp/dcc-mcp-openusd](https://github.com/dcc-mcp/dcc-mcp-openusd) | 2 | Python | 2026-10-14 | OpenUSD MCP adapter and agent skills for AI agents to author, compose, validate and package USD scenes, with optional na |
+| 90 | [yzsp-studio/industry-analysis](https://github.com/yzsp-studio/industry-analysis) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 91 | [morluto/rea](https://github.com/morluto/rea) | 222811 | TypeScript | 2026-10-14 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 92 | [Yanghe1941/skills](https://github.com/Yanghe1941/skills) | 0 | Python | 2026-10-14 | Agent skills forged from real failures — one SKILL.md each, for Claude Code, Codex, Cursor, Gemini CLI & OpenClaw · 从真实翻 |
+| 93 | [dotnet/skills](https://github.com/dotnet/skills) | 5624 | C# | 2026-10-14 | Repository for skills to assist AI coding agents with .NET and C# |
+| 94 | [jgwill/miadi-orchestration-kit](https://github.com/jgwill/miadi-orchestration-kit) | 5 | JavaScript | 2026-10-14 | The agent-host side of the Miadi Factory: Claude Code plugins, host-neutral skills and apt packages for Chronicle episod |
+| 95 | [agentic-loops-x/Reels-RSI](https://github.com/agentic-loops-x/Reels-RSI) | 0 | TeX | 2026-10-14 | The open-source AI reel director that evolves with every reel — code-rendered explainer, history & lesson videos, any mo |
+| 96 | [dcc-mcp/dcc-mcp-core](https://github.com/dcc-mcp/dcc-mcp-core) | 54 | Rust | 2026-10-14 | MCP and REST control plane for AI agents to operate creative software: shared Rust/Python runtime, multi-instance gatewa |
+| 97 | [yzsp-studio/human-signal](https://github.com/yzsp-studio/human-signal) | 0 | — | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 98 | [yzsp-studio/houdini-workflow](https://github.com/yzsp-studio/houdini-workflow) | 0 | Python | 2026-10-14 | 🎬 1 个 AI 技能 \| 1 AI skill · 📮 wow.vip@foxmail.com · 🎬 https://v.douyin.com/07EjIDGVErY/ |
+| 99 | [ChainChase/agent-toolbox](https://github.com/ChainChase/agent-toolbox) | 0 | Python | 2026-10-14 | A curated toolbox of agent skills, plugins, and MCP (Model Context Protocol) configurations for AI coding agents |
+| 100 | [shikanime-labs/skills](https://github.com/shikanime-labs/skills) | 2 | Shell | 2026-10-14 | A curated catalog of self-improved agent skills for Hermes and compatible agents |
 <!-- TRACKER_TABLE_END -->
 
 ---
