@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "id": "CherryHQ/cherry-studio",
+    "language": "TypeScript",
+    "name": "CherryHQ/cherry-studio",
+    "stars": 52733,
+    "updated_at": "2026-10-19T01:46:10Z",
+    "url": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "description": "Local skill manager for AI agent skills: reproducible per-project installs, skill dependencies, security audit, multi-ag",
+    "id": "ivanopcode/cocoaskills",
+    "language": "Python",
+    "name": "ivanopcode/cocoaskills",
+    "stars": 4,
+    "updated_at": "2026-10-19T01:45:59Z",
+    "url": "https://github.com/ivanopcode/cocoaskills"
+  },
+  {
+    "description": "\u7528\u8a9e\u30fb\u6587\u8108\u30ec\u30d3\u30e5\u30fc: \u7528\u8a9e\u306e\u7528\u6cd5\u3068\u6587\u8108\u3092\u8cc7\u6599\u306b\u7167\u3089\u3057\u3066\u78ba\u8a8d\u3059\u308bSkill(Claude Code/Codex/Antigravity\u5bfe\u5fdc\u30fb\u691c\u8a3c\u7248)",
+    "id": "Mr-Kondo/contextual-terminology-review",
+    "language": "Python",
+    "name": "Mr-Kondo/contextual-terminology-review",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:46:06Z",
+    "url": "https://github.com/Mr-Kondo/contextual-terminology-review"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 25,
+    "updated_at": "2026-10-19T01:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 40,
+    "updated_at": "2026-10-19T01:45:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "dzkchen/oh-my-diff",
     "stars": 2,
-    "updated_at": "2026-10-19T01:37:32Z",
+    "updated_at": "2026-10-19T01:46:17Z",
     "url": "https://github.com/dzkchen/oh-my-diff"
   },
   {
@@ -540,15 +585,6 @@
     "url": "https://github.com/RDW-Labz/project-swarm"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 25,
-    "updated_at": "2026-10-19T01:30:29Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
     "id": "allxsmith/bestax-skills",
     "language": "TypeScript",
@@ -556,15 +592,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T01:30:29Z",
     "url": "https://github.com/allxsmith/bestax-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 40,
-    "updated_at": "2026-10-19T01:30:28Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Feedback-based control system for coding agents",
@@ -846,15 +873,6 @@
     "url": "https://github.com/aipoch/open-science"
   },
   {
-    "description": "\u7528\u8a9e\u30fb\u6587\u8108\u30ec\u30d3\u30e5\u30fc: \u7528\u8a9e\u306e\u7528\u6cd5\u3068\u6587\u8108\u3092\u8cc7\u6599\u306b\u7167\u3089\u3057\u3066\u78ba\u8a8d\u3059\u308bSkill(Claude Code/Codex/Antigravity\u5bfe\u5fdc\u30fb\u691c\u8a3c\u7248)",
-    "id": "Mr-Kondo/contextual-terminology-review",
-    "language": "Python",
-    "name": "Mr-Kondo/contextual-terminology-review",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:25:58Z",
-    "url": "https://github.com/Mr-Kondo/contextual-terminology-review"
-  },
-  {
     "description": "Tells Claude Code, Codex and Cursor what changed upstream since their training cutoff that applies to your code: new API",
     "id": "vuca-dev/unstale",
     "language": "TypeScript",
@@ -880,23 +898,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T01:16:47Z",
     "url": "https://github.com/eli-alvarado/us-watchlist-alerts"
-  },
-  {
-    "description": "Production-grade Facebook AI Agent browser automation skills (Text, Photo, Video, 9:16 Reels, GIF, Carousel, Gradient St",
-    "id": "tominhphong/windskills-facebook-agent-skills",
-    "language": "\u2014",
-    "name": "tominhphong/windskills-facebook-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:16:13Z",
-    "url": "https://github.com/tominhphong/windskills-facebook-agent-skills"
-  },
-  {
-    "description": "A Boilerplate Plugin for Shopware 6 Plugin Development, AI-first: AGENTS.md, Agent Skills and CI included",
-    "id": "brianvarskonst/BvskPluginBoilerplate",
-    "language": "PHP",
-    "name": "brianvarskonst/BvskPluginBoilerplate",
-    "stars": 16,
-    "updated_at": "2026-10-19T01:16:08Z",
-    "url": "https://github.com/brianvarskonst/BvskPluginBoilerplate"
   }
 ]
