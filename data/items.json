@@ -1,489 +1,345 @@
 [
   {
+    "description": "Agentic API security fuzzer synthesizing directory traversal mutations, URL encodings, and path normalization escapes",
+    "id": "alphaparkinc/genpark-agentic-openapi-path-traversal-fuzzer-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-agentic-openapi-path-traversal-fuzzer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:00:26Z",
+    "url": "https://github.com/alphaparkinc/genpark-agentic-openapi-path-traversal-fuzzer-skill"
+  },
+  {
+    "description": "Manifest-driven, contract-tested skills for coding agents - one install for Claude Code and Codex. doctor-verified workf",
+    "id": "yuanhaorannnnnn/agent-skills",
+    "language": "Python",
+    "name": "yuanhaorannnnnn/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:00:21Z",
+    "url": "https://github.com/yuanhaorannnnnn/agent-skills"
+  },
+  {
     "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
     "id": "linny006/claude-code-plugin-tracker",
     "language": "Python",
     "name": "linny006/claude-code-plugin-tracker",
     "stars": 6,
-    "updated_at": "2026-10-24T13:45:16Z",
+    "updated_at": "2026-10-24T14:00:16Z",
     "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
-    "description": "Self-balancing Red-Black binary search tree engine for ordered indexing, range queries, and log-time state updates in me",
-    "id": "Alpha-Park/genpark-red-black-tree-index-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-red-black-tree-index-skill",
-    "stars": 4,
-    "updated_at": "2026-10-24T13:45:00Z",
-    "url": "https://github.com/Alpha-Park/genpark-red-black-tree-index-skill"
-  },
-  {
-    "description": "An open platform for finding, building, trialling and sharing Agent Skills.",
-    "id": "ArthurC02/SkillHub",
-    "language": "Go",
-    "name": "ArthurC02/SkillHub",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:44:57Z",
-    "url": "https://github.com/ArthurC02/SkillHub"
-  },
-  {
-    "description": "High-performance spatial geofencing engine verifying Point-in-Polygon containment and Haversine proximity routing",
-    "id": "Alpha-Park/genpark-multimodal-geojson-spatial-boundary-indexer-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-multimodal-geojson-spatial-boundary-indexer-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:44:49Z",
-    "url": "https://github.com/Alpha-Park/genpark-multimodal-geojson-spatial-boundary-indexer-skill"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:44:15Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Cryptographic Merkle tree verification engine for agent state transitions, tool call histories, and tamper-evident audit",
-    "id": "Alpha-Park/genpark-merkle-dag-state-verifier-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-merkle-dag-state-verifier-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:44:26Z",
-    "url": "https://github.com/Alpha-Park/genpark-merkle-dag-state-verifier-skill"
-  },
-  {
-    "description": "SDD Manager",
-    "id": "pchemguy/SDD-Manager",
-    "language": "Python",
-    "name": "pchemguy/SDD-Manager",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:44:10Z",
-    "url": "https://github.com/pchemguy/SDD-Manager"
-  },
-  {
-    "description": "High-performance spatial geofencing engine verifying Point-in-Polygon containment and Haversine proximity routing",
-    "id": "alphaparkinc/genpark-multimodal-geojson-spatial-boundary-indexer-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-multimodal-geojson-spatial-boundary-indexer-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:44:08Z",
-    "url": "https://github.com/alphaparkinc/genpark-multimodal-geojson-spatial-boundary-indexer-skill"
-  },
-  {
-    "description": "One text protocol \u2014 AI writes it, you edit on the canvas, both stay in sync.",
-    "id": "lulufoo/lulu-board",
+    "description": "Agentic visual asset management for AI-native creators. Auto-tag, audit, and manage images with AI-powered quality enfor",
+    "id": "frankxai/visual-intelligence",
     "language": "JavaScript",
-    "name": "lulufoo/lulu-board",
+    "name": "frankxai/visual-intelligence",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:00:11Z",
+    "url": "https://github.com/frankxai/visual-intelligence"
+  },
+  {
+    "description": "a declarative multi-agent skill stack",
+    "id": "kidskoding/anikonistack",
+    "language": "Markdown",
+    "name": "kidskoding/anikonistack",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:00:14Z",
+    "url": "https://github.com/kidskoding/anikonistack"
+  },
+  {
+    "description": "Security news for your stack: an agent skill and the CLI it relies on. Ask your AI agent \"anything today?\" and get a str",
+    "id": "yoanbernabeu/stackalarm",
+    "language": "Go",
+    "name": "yoanbernabeu/stackalarm",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:59:57Z",
+    "url": "https://github.com/yoanbernabeu/stackalarm"
+  },
+  {
+    "description": "\u7528\u4e8e\u8de8 AI Agent \u4f1a\u8bdd\u63a5\u529b\u7684 Agent Skills\uff0c\u5728 Claude Code\u3001Codex\u3001omp\u3001pi \u7b49\u4efb\u610f Agent \u95f4\u5b9e\u73b0\u4efb\u52a1\u65e0\u7f1d\u63a5\u529b\u3002 | Agent Skills for cross-AI-agent sessio",
+    "id": "DBinK/dbk-handoff",
+    "language": "\u2014",
+    "name": "DBinK/dbk-handoff",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:59:48Z",
+    "url": "https://github.com/DBinK/dbk-handoff"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
     "stars": 8,
-    "updated_at": "2026-10-24T13:43:39Z",
-    "url": "https://github.com/lulufoo/lulu-board"
+    "updated_at": "2026-10-24T13:59:46Z",
+    "url": "https://github.com/karero/croftweaver"
   },
   {
-    "description": "Juxt-lang: a language for directing AI agents. Many minds, one intent.",
-    "id": "juxt-lang/juxt",
-    "language": "Shell",
-    "name": "juxt-lang/juxt",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:43:34Z",
-    "url": "https://github.com/juxt-lang/juxt"
-  },
-  {
-    "description": "High-throughput Aho-Corasick automaton for simultaneous multi-keyword dictionary matching and content filtering in LLM p",
-    "id": "Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill",
+    "description": "VoIP jitter buffer regulator tuning adaptive playout delay, late-loss concealment, and conversational responsiveness",
+    "id": "Alpha-Park/genpark-realtime-voice-latency-jitter-buffer-regulator-skill",
     "language": "Python",
-    "name": "Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill",
+    "name": "Alpha-Park/genpark-realtime-voice-latency-jitter-buffer-regulator-skill",
     "stars": 7,
-    "updated_at": "2026-10-24T13:43:38Z",
-    "url": "https://github.com/Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill"
+    "updated_at": "2026-10-24T13:59:40Z",
+    "url": "https://github.com/Alpha-Park/genpark-realtime-voice-latency-jitter-buffer-regulator-skill"
   },
   {
-    "description": "Autonomous customer churn hazard model calculating Weibull survival probability and automated retention interventions",
-    "id": "Alpha-Park/genpark-autonomous-churn-hazard-rate-predictor-skill",
+    "description": "An Agentic AI Tool that allow the agent to load skills from the hermes agent marketplace and other provider skills into ",
+    "id": "Adityabhardwaj1234/Skills-Bridge",
     "language": "Python",
-    "name": "Alpha-Park/genpark-autonomous-churn-hazard-rate-predictor-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:43:24Z",
-    "url": "https://github.com/Alpha-Park/genpark-autonomous-churn-hazard-rate-predictor-skill"
-  },
-  {
-    "description": "Describe a website to the AI you already use and it's online. Every site can save data (RSVPs, votes, orders) and use yo",
-    "id": "vineetu/simple-host",
-    "language": "Go",
-    "name": "vineetu/simple-host",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:43:00Z",
-    "url": "https://github.com/vineetu/simple-host"
-  },
-  {
-    "description": "Autonomous customer churn hazard model calculating Weibull survival probability and automated retention interventions",
-    "id": "alphaparkinc/genpark-autonomous-churn-hazard-rate-predictor-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-autonomous-churn-hazard-rate-predictor-skill",
-    "stars": 6,
-    "updated_at": "2026-10-24T13:42:44Z",
-    "url": "https://github.com/alphaparkinc/genpark-autonomous-churn-hazard-rate-predictor-skill"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 225,
-    "updated_at": "2026-10-24T13:42:26Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "Open-source Claude SEO skills, SEO MCP servers and GEO tools for coding agents. Each read and security-graded. EN + \u4e2d\u6587.",
-    "id": "zhuyansen/awesome-claude-seo-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-seo-skills",
-    "stars": 10,
-    "updated_at": "2026-10-24T13:42:09Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-seo-skills"
-  },
-  {
-    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps,",
-    "id": "nexu-io/open-design",
-    "language": "TypeScript",
-    "name": "nexu-io/open-design",
-    "stars": 103692,
-    "updated_at": "2026-10-24T13:42:08Z",
-    "url": "https://github.com/nexu-io/open-design"
-  },
-  {
-    "description": "Open-source AI reverse engineering tools for coding agents: Ghidra MCP, IDA Pro MCP, jadx, Frida, skills and REA. 122 re",
-    "id": "zhuyansen/awesome-ai-reverse-engineering",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-ai-reverse-engineering",
-    "stars": 15,
-    "updated_at": "2026-10-24T13:42:07Z",
-    "url": "https://github.com/zhuyansen/awesome-ai-reverse-engineering"
-  },
-  {
-    "description": "Collections of Claude Code skills: 781 repos that hold many skills, plugins or subagents. General collections, single-do",
-    "id": "zhuyansen/awesome-claude-code-skills-collections",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-code-skills-collections",
+    "name": "Adityabhardwaj1234/Skills-Bridge",
     "stars": 0,
-    "updated_at": "2026-10-24T13:42:06Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-code-skills-collections"
+    "updated_at": "2026-10-24T13:59:39Z",
+    "url": "https://github.com/Adityabhardwaj1234/Skills-Bridge"
   },
   {
-    "description": "Open-source skills, plugins and workflows made for OpenAI Codex. 213 repos in six kinds, each read and security-graded. ",
-    "id": "zhuyansen/awesome-codex-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-codex-skills",
+    "description": "Understand and debug AI-built software through state graphs.",
+    "id": "li-bruce/VibeLens",
+    "language": "Python",
+    "name": "li-bruce/VibeLens",
     "stars": 0,
-    "updated_at": "2026-10-24T13:42:05Z",
-    "url": "https://github.com/zhuyansen/awesome-codex-skills"
+    "updated_at": "2026-10-24T13:59:38Z",
+    "url": "https://github.com/li-bruce/VibeLens"
   },
   {
-    "description": "Open-source AI code review skills and tools for Claude Code, Codex and other agents: 186 repos, security-graded. PR bots",
-    "id": "zhuyansen/awesome-claude-code-review",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-code-review",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:42:04Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-code-review"
-  },
-  {
-    "description": "Agent Skills for AI coding assistants",
-    "id": "Firzus/agent-skills",
-    "language": "TypeScript",
-    "name": "Firzus/agent-skills",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:42:00Z",
-    "url": "https://github.com/Firzus/agent-skills"
-  },
-  {
-    "description": "Dynamic prompt few-shot exemplar selector optimizing semantic relevance, diversity MMR, and token budgets",
-    "id": "Alpha-Park/genpark-dynamic-prompt-few-shot-selector-skill",
+    "description": "isdd\uff08Interview-driven Spec-driven Development\uff09\u306f\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u99c6\u52d5\u3067\u4ed5\u69d8\u3092\u78ba\u5b9a\u3057\u3066\u3001\u8981\u4ef6\u30fb\u8a2d\u8a08\u30fb\u30bd\u30fc\u30b9\u3092ID\u3067\u4e00\u8cab\u8ffd\u8de1\u3057\u306a\u304c\u3089\u3001\u958b\u767a\u3092\u9032\u3081\u308b\u624b\u6cd5\u3067\u3059\u3002",
+    "id": "notfolder/isdd",
     "language": "Python",
-    "name": "Alpha-Park/genpark-dynamic-prompt-few-shot-selector-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:41:58Z",
-    "url": "https://github.com/Alpha-Park/genpark-dynamic-prompt-few-shot-selector-skill"
-  },
-  {
-    "description": "Open-source skills and tools that let Codex, Claude Code and other coding agents make slides. Sorted by type, each secur",
-    "id": "zhuyansen/awesome-codex-ppt-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-codex-ppt-skills",
-    "stars": 34,
-    "updated_at": "2026-10-24T13:41:50Z",
-    "url": "https://github.com/zhuyansen/awesome-codex-ppt-skills"
-  },
-  {
-    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
-    "id": "zhuyansen/awesome-claude-video-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-video-skills",
-    "stars": 872,
-    "updated_at": "2026-10-24T13:41:49Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
-  },
-  {
-    "description": "Discover and compare open-source Agent Skills, tools & MCP servers \u2014 with quality scoring, trending analysis, and automa",
-    "id": "zhuyansen/agent-skills-hub",
-    "language": "Python",
-    "name": "zhuyansen/agent-skills-hub",
-    "stars": 463,
-    "updated_at": "2026-10-24T13:41:46Z",
-    "url": "https://github.com/zhuyansen/agent-skills-hub"
-  },
-  {
-    "description": "Find dead vibe-coded projects and the background jobs they left running. You decide what to pause, strip, or delete.",
-    "id": "rohan3008/binexus",
-    "language": "JavaScript",
-    "name": "rohan3008/binexus",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:41:46Z",
-    "url": "https://github.com/rohan3008/binexus"
-  },
-  {
-    "description": "A tribute to Tyrus Wong's painted forests. Agent skill for 2D shorts that look hand-drawn, made with AI video (Seedance ",
-    "id": "jonrusso/hand-drawn-2d-animation",
-    "language": "Python",
-    "name": "jonrusso/hand-drawn-2d-animation",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:41:28Z",
-    "url": "https://github.com/jonrusso/hand-drawn-2d-animation"
-  },
-  {
-    "description": "HOI4 Agent Skills for mod development, maintenance, Mod Doctor diagnostics, regression testing, and media optimization",
-    "id": "Fostanico/hoi4-ai-modding-skills",
-    "language": "PowerShell",
-    "name": "Fostanico/hoi4-ai-modding-skills",
-    "stars": 11,
-    "updated_at": "2026-10-24T13:41:21Z",
-    "url": "https://github.com/Fostanico/hoi4-ai-modding-skills"
-  },
-  {
-    "description": "Dynamic prompt few-shot exemplar selector optimizing semantic relevance, diversity MMR, and token budgets",
-    "id": "alphaparkinc/genpark-dynamic-prompt-few-shot-selector-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-dynamic-prompt-few-shot-selector-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:41:20Z",
-    "url": "https://github.com/alphaparkinc/genpark-dynamic-prompt-few-shot-selector-skill"
-  },
-  {
-    "description": "Skill open source per agenti AI dedicate allo sviluppo di software e servizi digitali della Pubblica Amministrazione ita",
-    "id": "lucamilano/skills-italia",
-    "language": "Python",
-    "name": "lucamilano/skills-italia",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:41:19Z",
-    "url": "https://github.com/lucamilano/skills-italia"
-  },
-  {
-    "description": "Plan-aware skill provisioning for pi: predicts the skills each plan step needs, scores SkillHub matches, installs the ba",
-    "id": "chenchenjunren90-collab/pi-skill-autopilot",
-    "language": "TypeScript",
-    "name": "chenchenjunren90-collab/pi-skill-autopilot",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:41:01Z",
-    "url": "https://github.com/chenchenjunren90-collab/pi-skill-autopilot"
-  },
-  {
-    "description": "Opinionated AI coding agent and dev environment automation for macOS",
-    "id": "vinta/hal-9000",
-    "language": "Python",
-    "name": "vinta/hal-9000",
-    "stars": 141,
-    "updated_at": "2026-10-24T13:40:58Z",
-    "url": "https://github.com/vinta/hal-9000"
-  },
-  {
-    "description": "Automate Jira, Linear, and GitHub Issues with Claude Code or Codex. A self-hosted worker that opens pull requests and fo",
-    "id": "getdevintern/devintern",
-    "language": "TypeScript",
-    "name": "getdevintern/devintern",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:40:52Z",
-    "url": "https://github.com/getdevintern/devintern"
-  },
-  {
-    "description": "The team you always wanted to work with: a small crew of agents that plans, builds, reviews and ships your project with ",
-    "id": "nshopik/dream-team",
-    "language": "Python",
-    "name": "nshopik/dream-team",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:40:43Z",
-    "url": "https://github.com/nshopik/dream-team"
-  },
-  {
-    "description": "Curated index of tested motion design, video generation, and transition skills for AI coding agents (Claude Code, Codex,",
-    "id": "charetterat/awesome-agent-motion-skills",
-    "language": "Python",
-    "name": "charetterat/awesome-agent-motion-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:40:33Z",
-    "url": "https://github.com/charetterat/awesome-agent-motion-skills"
-  },
-  {
-    "description": "\u2728 The agentic HTML editor \u2014 your local AI agent writes the HTML, you ship it. \ud83d\ude80 75 Skills \u00d7 9 Surfaces (magazine \u00b7 deck ",
-    "id": "SanHsien/html-anything",
-    "language": "HTML",
-    "name": "SanHsien/html-anything",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:40:30Z",
-    "url": "https://github.com/SanHsien/html-anything"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:40:26Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Evaluation Evidence, SHA-256 Hash Anchoring and Audit Trail | \u8bc4\u6d4b\u5b58\u8bc1\u4e0e\u54c8\u5e0c\u6eaf\u6e90\uff08\u8bc1\u636e\u94fe\u4e0e\u65f6\u95f4\u6233\uff09",
-    "id": "LGD-Eval/evaluation-evidence",
-    "language": "Python",
-    "name": "LGD-Eval/evaluation-evidence",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:40:15Z",
-    "url": "https://github.com/LGD-Eval/evaluation-evidence"
-  },
-  {
-    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
-    "id": "MikeMoore1337/ai-development-toolkit",
-    "language": "Python",
-    "name": "MikeMoore1337/ai-development-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:40:04Z",
-    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
-  },
-  {
-    "description": "Daily-curated directory of AI agent repos, filtered by an AI reviewer for what actually works",
-    "id": "volkkov/agent-forge",
-    "language": "Python",
-    "name": "volkkov/agent-forge",
+    "name": "notfolder/isdd",
     "stars": 2,
-    "updated_at": "2026-10-24T13:40:00Z",
-    "url": "https://github.com/volkkov/agent-forge"
+    "updated_at": "2026-10-24T13:59:35Z",
+    "url": "https://github.com/notfolder/isdd"
   },
   {
-    "description": "Portable agent skills with a guarded deployer for Claude Code, Codex, and GitHub Copilot",
-    "id": "EJRyan89/coding-agent-skills",
+    "description": "\u4fe1\u606f\u7f51\u7edc\u4f20\u64ad\u6743\u7ea0\u7eb7\u4e00\u5ba1\u7ba1\u8f96\u52a9\u624b\uff1a\u672c\u5730\u67e5\u8868\u5224\u5b9a\u544a\u54ea\u4e2a\u6cd5\u9662\u300231\u7701570\u5bb6\u77e5\u4ea7\u96c6\u4e2d\u7ba1\u8f96\u6cd5\u9662\uff0c\u4e0d\u542b\u4e92\u8054\u7f51\u6cd5\u9662\u3002Local lookup for PRC online-copyright venue.",
+    "id": "qwertyzhu/ipc-jurisdiction",
     "language": "Python",
-    "name": "EJRyan89/coding-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:43:45Z",
-    "url": "https://github.com/EJRyan89/coding-agent-skills"
-  },
-  {
-    "description": "OMP extension packs: my rules, agents, and skills, plus upstream skill repos vendored daily at pinned commits",
-    "id": "clssck/agent-plugins",
-    "language": "TypeScript",
-    "name": "clssck/agent-plugins",
+    "name": "qwertyzhu/ipc-jurisdiction",
     "stars": 1,
-    "updated_at": "2026-10-24T13:39:50Z",
-    "url": "https://github.com/clssck/agent-plugins"
+    "updated_at": "2026-10-24T13:59:15Z",
+    "url": "https://github.com/qwertyzhu/ipc-jurisdiction"
   },
   {
-    "description": "A free, open source marketing toolstack for coding and deployed agents. Skills, playbooks, typed app tools, copy checks,",
-    "id": "forsvn-labs/conquistador",
-    "language": "JavaScript",
-    "name": "forsvn-labs/conquistador",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:42:49Z",
-    "url": "https://github.com/forsvn-labs/conquistador"
-  },
-  {
-    "description": "Agent skills to save Instagram stories, reels and posts, audit competitors, track brand deals and get business contacts.",
-    "id": "Intropix-team/instagram-scraper-skills",
+    "description": "VoIP jitter buffer regulator tuning adaptive playout delay, late-loss concealment, and conversational responsiveness",
+    "id": "alphaparkinc/genpark-realtime-voice-latency-jitter-buffer-regulator-skill",
     "language": "Python",
-    "name": "Intropix-team/instagram-scraper-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:39:20Z",
-    "url": "https://github.com/Intropix-team/instagram-scraper-skills"
-  },
-  {
-    "description": "Static security scanner for npm/PyPI packages, MCP servers, agent skills and repos. Runs locally, never runs the code, n",
-    "id": "pezhik/skilltotal",
-    "language": "Python",
-    "name": "pezhik/skilltotal",
-    "stars": 15,
-    "updated_at": "2026-10-24T13:39:17Z",
-    "url": "https://github.com/pezhik/skilltotal"
-  },
-  {
-    "description": "Autonomous SQL query self-correction engine fixing syntax errors, column typos, schema joins, and group by clauses",
-    "id": "Alpha-Park/genpark-agentic-sql-query-self-correction-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-agentic-sql-query-self-correction-skill",
+    "name": "alphaparkinc/genpark-realtime-voice-latency-jitter-buffer-regulator-skill",
     "stars": 7,
-    "updated_at": "2026-10-24T13:39:11Z",
-    "url": "https://github.com/Alpha-Park/genpark-agentic-sql-query-self-correction-skill"
+    "updated_at": "2026-10-24T13:58:57Z",
+    "url": "https://github.com/alphaparkinc/genpark-realtime-voice-latency-jitter-buffer-regulator-skill"
   },
   {
-    "description": "Autonomous SQL query self-correction engine fixing syntax errors, column typos, schema joins, and group by clauses",
-    "id": "alphaparkinc/genpark-agentic-sql-query-self-correction-skill",
+    "description": "A high-fidelity, local-first MCP server and protocol for storing, versioning, syncing, and evaluating AI agent prompts a",
+    "id": "mr8lu/savile",
     "language": "Python",
-    "name": "alphaparkinc/genpark-agentic-sql-query-self-correction-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:39:08Z",
-    "url": "https://github.com/alphaparkinc/genpark-agentic-sql-query-self-correction-skill"
+    "name": "mr8lu/savile",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:59:07Z",
+    "url": "https://github.com/mr8lu/savile"
   },
   {
-    "description": "Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers",
-    "id": "Alpha-Park/genpark-cart-upsell-bundle-recommender-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Cod",
+    "id": "kajisho5/ffmpeg-skill",
     "language": "Python",
-    "name": "Alpha-Park/genpark-cart-upsell-bundle-recommender-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:39:05Z",
-    "url": "https://github.com/Alpha-Park/genpark-cart-upsell-bundle-recommender-skill"
+    "name": "kajisho5/ffmpeg-skill",
+    "stars": 2393,
+    "updated_at": "2026-10-24T13:58:43Z",
+    "url": "https://github.com/kajisho5/ffmpeg-skill"
   },
   {
-    "description": "Autonomous e-commerce cart bundle recommender calculating affinity lift, margin elasticity, and optimal discount tiers",
-    "id": "alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-cart-upsell-bundle-recommender-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:39:01Z",
-    "url": "https://github.com/alphaparkinc/genpark-cart-upsell-bundle-recommender-skill"
-  },
-  {
-    "description": "Autonomous multi-currency FX router computing real-time cross rates, volatility buffers, and forward hedging contracts",
-    "id": "Alpha-Park/genpark-autonomous-fx-hedging-rate-router-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-autonomous-fx-hedging-rate-router-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:38:54Z",
-    "url": "https://github.com/Alpha-Park/genpark-autonomous-fx-hedging-rate-router-skill"
-  },
-  {
-    "description": "Autonomous multi-currency FX router computing real-time cross rates, volatility buffers, and forward hedging contracts",
-    "id": "alphaparkinc/genpark-autonomous-fx-hedging-rate-router-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-autonomous-fx-hedging-rate-router-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:38:51Z",
-    "url": "https://github.com/alphaparkinc/genpark-autonomous-fx-hedging-rate-router-skill"
-  },
-  {
-    "description": "Independent Test Reports and Benchmarks (MedXpert Toolchain and More) | \u72ec\u7acb\u5b9e\u6d4b\u62a5\u544a\uff08MedXpert \u5de5\u5177\u94fe\u5b9e\u6d4b\u7b49\uff09",
-    "id": "LGD-Eval/evaluation-reports",
+    "description": "Agent skill: publish files to a permanent deed.page URL with one curl request. No account.",
+    "id": "f-o-x11/deed-page-skill",
     "language": "\u2014",
-    "name": "LGD-Eval/evaluation-reports",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:38:46Z",
-    "url": "https://github.com/LGD-Eval/evaluation-reports"
+    "name": "f-o-x11/deed-page-skill",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:58:20Z",
+    "url": "https://github.com/f-o-x11/deed-page-skill"
   },
   {
-    "description": "Claude Code workflows, skills, agents, and deterministic hooks, with a reversible installer and Windows/Linux CI.",
-    "id": "Nightdreams-bat/claude-code-kit",
+    "description": "Autonomous e-commerce recovery push copy synthesizer tuning urgency decay and consumer behavioral archetypes",
+    "id": "Alpha-Park/genpark-cart-abandonment-urgency-push-copy-generator-skill",
     "language": "Python",
-    "name": "Nightdreams-bat/claude-code-kit",
+    "name": "Alpha-Park/genpark-cart-abandonment-urgency-push-copy-generator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:58:18Z",
+    "url": "https://github.com/Alpha-Park/genpark-cart-abandonment-urgency-push-copy-generator-skill"
+  },
+  {
+    "description": "Open product release note registry, indexed and made for agents. Get recent product changelogs via MCP + CLI. ",
+    "id": "buildinternet/releases",
+    "language": "TypeScript",
+    "name": "buildinternet/releases",
+    "stars": 9,
+    "updated_at": "2026-10-24T14:00:22Z",
+    "url": "https://github.com/buildinternet/releases"
+  },
+  {
+    "description": "Autonomous e-commerce recovery push copy synthesizer tuning urgency decay and consumer behavioral archetypes",
+    "id": "alphaparkinc/genpark-cart-abandonment-urgency-push-copy-generator-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-cart-abandonment-urgency-push-copy-generator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:57:38Z",
+    "url": "https://github.com/alphaparkinc/genpark-cart-abandonment-urgency-push-copy-generator-skill"
+  },
+  {
+    "description": "Claude Code workflow skills built on rmine. A spec-gated effort estimator that runs three subagents, plus a calibration ",
+    "id": "mehboobali98/rmine-skills",
+    "language": "Python",
+    "name": "mehboobali98/rmine-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T13:38:43Z",
-    "url": "https://github.com/Nightdreams-bat/claude-code-kit"
+    "updated_at": "2026-10-24T13:57:42Z",
+    "url": "https://github.com/mehboobali98/rmine-skills"
+  },
+  {
+    "description": "Claude Code skill: build a product 0\u21921 taste-first \u2014 references, naming + trademark, style bible, UI loop, GTM, ship. Ph",
+    "id": "jack-reson8/pro-launch",
+    "language": "Python",
+    "name": "jack-reson8/pro-launch",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:57:04Z",
+    "url": "https://github.com/jack-reson8/pro-launch"
+  },
+  {
+    "description": "Post \u2014 a Claude skill for Xiaohongshu / X share-image sets that look native and sell: App Store poster layout, real scre",
+    "id": "jack-reson8/post-skill",
+    "language": "HTML",
+    "name": "jack-reson8/post-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:56:59Z",
+    "url": "https://github.com/jack-reson8/post-skill"
+  },
+  {
+    "description": "Multimodal accessibility engine simulating Protanopia, Deuteranopia, and Tritanopia color vision deficiencies",
+    "id": "Alpha-Park/genpark-multimodal-palette-color-blindness-simulator-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-multimodal-palette-color-blindness-simulator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:56:54Z",
+    "url": "https://github.com/Alpha-Park/genpark-multimodal-palette-color-blindness-simulator-skill"
+  },
+  {
+    "description": "Awesome QA Skills is an open-source AI-native Quality Engineering skill system that helps engineering teams reason about",
+    "id": "naodeng/awesome-qa-skills",
+    "language": "Python",
+    "name": "naodeng/awesome-qa-skills",
+    "stars": 279,
+    "updated_at": "2026-10-24T13:57:02Z",
+    "url": "https://github.com/naodeng/awesome-qa-skills"
+  },
+  {
+    "description": "\u4eba\u8bdd \u2014 a Claude skill that writes Chinese posts in a real person's voice: strips AI tells, adds \u7f51\u611f and small jokes. Exampl",
+    "id": "jack-reson8/renhua",
+    "language": "\u2014",
+    "name": "jack-reson8/renhua",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:56:52Z",
+    "url": "https://github.com/jack-reson8/renhua"
+  },
+  {
+    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
+    "id": "jack-reson8/skill-skill",
+    "language": "Python",
+    "name": "jack-reson8/skill-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:56:48Z",
+    "url": "https://github.com/jack-reson8/skill-skill"
+  },
+  {
+    "description": "Pro Motion \u2014 a Claude Code skill for audio-first motion-graphics launch, brand & TVC films, rendered in code and cut to ",
+    "id": "jack-reson8/pro-motion",
+    "language": "JavaScript",
+    "name": "jack-reson8/pro-motion",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:56:44Z",
+    "url": "https://github.com/jack-reson8/pro-motion"
+  },
+  {
+    "description": "Multimodal accessibility engine simulating Protanopia, Deuteranopia, and Tritanopia color vision deficiencies",
+    "id": "alphaparkinc/genpark-multimodal-palette-color-blindness-simulator-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-multimodal-palette-color-blindness-simulator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:56:16Z",
+    "url": "https://github.com/alphaparkinc/genpark-multimodal-palette-color-blindness-simulator-skill"
+  },
+  {
+    "description": "All manner of AI related items from tool configurations to markdown files for agents",
+    "id": "CowboyLogic/ai-dev",
+    "language": "Python",
+    "name": "CowboyLogic/ai-dev",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:56:16Z",
+    "url": "https://github.com/CowboyLogic/ai-dev"
+  },
+  {
+    "description": "AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports",
+    "id": "hamadou-08/roboclaw-reports",
+    "language": "HTML",
+    "name": "hamadou-08/roboclaw-reports",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:56:03Z",
+    "url": "https://github.com/hamadou-08/roboclaw-reports"
+  },
+  {
+    "description": "Local daily work log: git, Cursor, OpenCode, and Telegram into one confirmed block in an Obsidian daily note.",
+    "id": "redb0/day-recap",
+    "language": "Python",
+    "name": "redb0/day-recap",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:55:36Z",
+    "url": "https://github.com/redb0/day-recap"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:55:32Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Multi-dimensional session anomaly detector analyzing velocity vectors, keystroke entropy, and hop velocities",
+    "id": "Alpha-Park/genpark-autonomous-session-anomaly-detector-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-autonomous-session-anomaly-detector-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:55:30Z",
+    "url": "https://github.com/Alpha-Park/genpark-autonomous-session-anomaly-detector-skill"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 472,
+    "updated_at": "2026-10-24T13:55:31Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Best Game UI Cleanup Agent Skill 2026: Remove Slop, Keep Fun",
+    "id": "Mutakisa/game-slop-purge",
+    "language": "HTML",
+    "name": "Mutakisa/game-slop-purge",
+    "stars": 71,
+    "updated_at": "2026-10-24T13:55:11Z",
+    "url": "https://github.com/Mutakisa/game-slop-purge"
+  },
+  {
+    "description": "Ultimate AI Static Site Generator 2026 \u2013 Free No-Lock-in Build Tool for Claude & Cursor",
+    "id": "gurutersesat24/ai-site-forge",
+    "language": "HTML",
+    "name": "gurutersesat24/ai-site-forge",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:54:58Z",
+    "url": "https://github.com/gurutersesat24/ai-site-forge"
+  },
+  {
+    "description": "Multi-dimensional session anomaly detector analyzing velocity vectors, keystroke entropy, and hop velocities",
+    "id": "alphaparkinc/genpark-autonomous-session-anomaly-detector-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-autonomous-session-anomaly-detector-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:54:52Z",
+    "url": "https://github.com/alphaparkinc/genpark-autonomous-session-anomaly-detector-skill"
   },
   {
     "description": "Categorized index of 718 public GenPark AI agent skills, with tested Python packages and MCP integrations.",
@@ -491,17 +347,17 @@
     "language": "Python",
     "name": "Alpha-Park/awesome-ai-agent-skills",
     "stars": 8,
-    "updated_at": "2026-10-24T13:38:13Z",
+    "updated_at": "2026-10-24T13:54:26Z",
     "url": "https://github.com/Alpha-Park/awesome-ai-agent-skills"
   },
   {
-    "description": "A live, versioned registry of the agent-harness ecosystem \u2014 runtimes, orchestration, tools, sandboxes, memory, evals, go",
-    "id": "Heinsithukyaw/Agent-Harness",
-    "language": "HTML",
-    "name": "Heinsithukyaw/Agent-Harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:38:11Z",
-    "url": "https://github.com/Heinsithukyaw/Agent-Harness"
+    "description": "Autonomous markdown table parser transposing columns, cross-tabulating dimensions, and computing aggregations",
+    "id": "Alpha-Park/genpark-autonomous-markdown-table-pivot-transposer-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-autonomous-markdown-table-pivot-transposer-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:54:25Z",
+    "url": "https://github.com/Alpha-Park/genpark-autonomous-markdown-table-pivot-transposer-skill"
   },
   {
     "description": "Categorized index of 718 public GenPark AI agent skills, with tested Python packages and MCP integrations.",
@@ -509,107 +365,8 @@
     "language": "\u2014",
     "name": "alphaparkinc/awesome-ai-agent-skills",
     "stars": 7,
-    "updated_at": "2026-10-24T13:38:09Z",
+    "updated_at": "2026-10-24T13:54:22Z",
     "url": "https://github.com/alphaparkinc/awesome-ai-agent-skills"
-  },
-  {
-    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 13,
-    "updated_at": "2026-10-24T13:43:22Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "CTF and security analysis skills for DeepSeek Harness (DSH): supervised continuable Solvers, scoped structured memory, d",
-    "id": "Cristallin2006/DSH-CTF-Mode",
-    "language": "Python",
-    "name": "Cristallin2006/DSH-CTF-Mode",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:37:17Z",
-    "url": "https://github.com/Cristallin2006/DSH-CTF-Mode"
-  },
-  {
-    "description": "Agent Skills carrying design rules for codebases written in an object-oriented style. For Claude Code.",
-    "id": "yutna/object-oriented-design-skills",
-    "language": "JavaScript",
-    "name": "yutna/object-oriented-design-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:39:18Z",
-    "url": "https://github.com/yutna/object-oriented-design-skills"
-  },
-  {
-    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
-    "id": "kalinichenko88/agent-skills",
-    "language": "Shell",
-    "name": "kalinichenko88/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:44:05Z",
-    "url": "https://github.com/kalinichenko88/agent-skills"
-  },
-  {
-    "description": "Spec Kit delivery with pstack execution, seven harness layers, and REA closeout for Claude Code, Codex, Cursor, Grok Bui",
-    "id": "jonsoku-dev/agentic-sdd",
-    "language": "Python",
-    "name": "jonsoku-dev/agentic-sdd",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:36:52Z",
-    "url": "https://github.com/jonsoku-dev/agentic-sdd"
-  },
-  {
-    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop a",
-    "id": "aipoch/open-science",
-    "language": "TypeScript",
-    "name": "aipoch/open-science",
-    "stars": 5356,
-    "updated_at": "2026-10-24T13:36:45Z",
-    "url": "https://github.com/aipoch/open-science"
-  },
-  {
-    "description": "Prior art for AI agents. Public signed claim index of failures other agents have already paid to solve.",
-    "id": "claimidx/claimidx",
-    "language": "Python",
-    "name": "claimidx/claimidx",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:36:21Z",
-    "url": "https://github.com/claimidx/claimidx"
-  },
-  {
-    "description": "A library that decides whether an AI agent may message a user right now (quiet hours, daily limit, consent, snooze) and ",
-    "id": "Bubblegunn/proactive-gate",
-    "language": "TypeScript",
-    "name": "Bubblegunn/proactive-gate",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:36:10Z",
-    "url": "https://github.com/Bubblegunn/proactive-gate"
-  },
-  {
-    "description": "product-engineer is an agent skill and command-line checker that makes AI coding agents explain each commit and pull req",
-    "id": "Bubblegunn/product-engineer",
-    "language": "JavaScript",
-    "name": "Bubblegunn/product-engineer",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:36:08Z",
-    "url": "https://github.com/Bubblegunn/product-engineer"
-  },
-  {
-    "description": "Linter for AI-writing tells in commit messages, PR descriptions and docs. It does not guess who wrote it. It shows the t",
-    "id": "Bubblegunn/ai-slop-linter",
-    "language": "JavaScript",
-    "name": "Bubblegunn/ai-slop-linter",
-    "stars": 8,
-    "updated_at": "2026-10-24T13:36:06Z",
-    "url": "https://github.com/Bubblegunn/ai-slop-linter"
-  },
-  {
-    "description": "Outcome-named autonomous fleets for the Orca runtime \u2014 SHA-bound evidence definition of done, best-of-breed worker recip",
-    "id": "ravidsrk/open-fleet",
-    "language": "Python",
-    "name": "ravidsrk/open-fleet",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:38:19Z",
-    "url": "https://github.com/ravidsrk/open-fleet"
   },
   {
     "description": "Read-only Kubernetes skills for any AI agent",
@@ -617,35 +374,368 @@
     "language": "Python",
     "name": "k8s-servant/k8s-skills",
     "stars": 1,
-    "updated_at": "2026-10-24T13:45:23Z",
+    "updated_at": "2026-10-24T13:54:32Z",
     "url": "https://github.com/k8s-servant/k8s-skills"
   },
   {
-    "description": "AI Agent Skills (/fsortcheck & /fsortdump) for cognitive file & cloud storage organization using Miller's Law (7 +- 2), ",
-    "id": "Filenametxt/cognitive-file-organizer-skill",
-    "language": "Python",
-    "name": "Filenametxt/cognitive-file-organizer-skill",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:35:56Z",
-    "url": "https://github.com/Filenametxt/cognitive-file-organizer-skill"
-  },
-  {
-    "description": "pump.fun's whole on-chain history for coding agents and the command line: the pre-buy check, wallet classes, the wallet ",
-    "id": "pumpdatafun/pumpdata-skills",
-    "language": "JavaScript",
-    "name": "pumpdatafun/pumpdata-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:35:55Z",
-    "url": "https://github.com/pumpdatafun/pumpdata-skills"
-  },
-  {
-    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
-    "id": "JetBrains/thinkrail",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "id": "morluto/rea",
     "language": "TypeScript",
-    "name": "JetBrains/thinkrail",
-    "stars": 1074,
-    "updated_at": "2026-10-24T13:35:51Z",
-    "url": "https://github.com/JetBrains/thinkrail"
+    "name": "morluto/rea",
+    "stars": 376235,
+    "updated_at": "2026-10-24T13:54:07Z",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "description": "My agent skills",
+    "id": "chuxubank/skills",
+    "language": "\u2014",
+    "name": "chuxubank/skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:54:06Z",
+    "url": "https://github.com/chuxubank/skills"
+  },
+  {
+    "description": "\u5728\u7ec8\u7aef\u4e0e\u6d4f\u89c8\u5668\u91cc\u73a9\u300a\u514b\u82cf\u9c81\u7684\u547c\u5524\u300b\u7b2c 7 \u7248\uff1aAI \u5b88\u79d8\u4eba\u3001\u5f69\u8272 ASCII \u6f14\u51fa\u30013D \u7269\u7406\u9ab0\u5b50\uff0c\u652f\u6301 AI \u8f85\u52a9\u8f66\u5361\u3001\u5bfc\u5165\u6a21\u7ec4\u3001\u6c99\u7bb1\u89c4\u5219\u63d2\u4ef6\u4e0e\u597d\u53cb\u7f51\u9875\u8054\u673a",
+    "id": "satoshinji2992/autokeeper",
+    "language": "Python",
+    "name": "satoshinji2992/autokeeper",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:54:00Z",
+    "url": "https://github.com/satoshinji2992/autokeeper"
+  },
+  {
+    "description": "Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plu",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 21,
+    "updated_at": "2026-10-24T14:00:17Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "Autonomous markdown table parser transposing columns, cross-tabulating dimensions, and computing aggregations",
+    "id": "alphaparkinc/genpark-autonomous-markdown-table-pivot-transposer-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-autonomous-markdown-table-pivot-transposer-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:53:42Z",
+    "url": "https://github.com/alphaparkinc/genpark-autonomous-markdown-table-pivot-transposer-skill"
+  },
+  {
+    "description": "Everything you need to build for the web: 100 languages, 64 frontend tools, 41 design techniques, 12 live components and",
+    "id": "Mun1to/Vibeset",
+    "language": "JavaScript",
+    "name": "Mun1to/Vibeset",
+    "stars": 4,
+    "updated_at": "2026-10-24T13:53:39Z",
+    "url": "https://github.com/Mun1to/Vibeset"
+  },
+  {
+    "description": "Let Claude Code hand tasks to OpenAI Codex: message an open Codex window or spawn sessions, pick model and effort with q",
+    "id": "JK-G/co-codex",
+    "language": "JavaScript",
+    "name": "JK-G/co-codex",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:53:34Z",
+    "url": "https://github.com/JK-G/co-codex"
+  },
+  {
+    "description": "A free, open source marketing toolstack for coding and deployed agents. Skills, playbooks, typed app tools, copy checks,",
+    "id": "forsvn-labs/conquistador",
+    "language": "JavaScript",
+    "name": "forsvn-labs/conquistador",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:56:15Z",
+    "url": "https://github.com/forsvn-labs/conquistador"
+  },
+  {
+    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
+    "id": "Pushary/pushary-skill",
+    "language": "\u2014",
+    "name": "Pushary/pushary-skill",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:53:28Z",
+    "url": "https://github.com/Pushary/pushary-skill"
+  },
+  {
+    "description": "Portable agent skills with a guarded deployer for Claude Code, Codex, and GitHub Copilot",
+    "id": "EJRyan89/coding-agent-skills",
+    "language": "Python",
+    "name": "EJRyan89/coding-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:55:27Z",
+    "url": "https://github.com/EJRyan89/coding-agent-skills"
+  },
+  {
+    "description": "An skills that i was usage with real work",
+    "id": "TheeraphatStudent/th3-skills",
+    "language": "Python",
+    "name": "TheeraphatStudent/th3-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:53:08Z",
+    "url": "https://github.com/TheeraphatStudent/th3-skills"
+  },
+  {
+    "description": "Realtime vocal biomarker DSP analyzing fundamental pitch F0, jitter perturbation, and shimmer amplitude stability",
+    "id": "Alpha-Park/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:52:59Z",
+    "url": "https://github.com/Alpha-Park/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill"
+  },
+  {
+    "description": "Lightweight file host and upload tools for coding agents to add artifacts to pull requests. Cloud and self-host options.",
+    "id": "buildinternet/uploads",
+    "language": "TypeScript",
+    "name": "buildinternet/uploads",
+    "stars": 19,
+    "updated_at": "2026-10-24T13:53:54Z",
+    "url": "https://github.com/buildinternet/uploads"
+  },
+  {
+    "description": "Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite ",
+    "id": "maxritter/qualitylayer",
+    "language": "PowerShell",
+    "name": "maxritter/qualitylayer",
+    "stars": 2101,
+    "updated_at": "2026-10-24T13:52:46Z",
+    "url": "https://github.com/maxritter/qualitylayer"
+  },
+  {
+    "description": "",
+    "id": "CupThread/CupThreadAgenticCoding",
+    "language": "Go",
+    "name": "CupThread/CupThreadAgenticCoding",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:58:17Z",
+    "url": "https://github.com/CupThread/CupThreadAgenticCoding"
+  },
+  {
+    "description": "Realtime vocal biomarker DSP analyzing fundamental pitch F0, jitter perturbation, and shimmer amplitude stability",
+    "id": "alphaparkinc/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:52:19Z",
+    "url": "https://github.com/alphaparkinc/genpark-realtime-voice-pitch-jitter-shimmer-analyzer-skill"
+  },
+  {
+    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 13,
+    "updated_at": "2026-10-24T13:55:43Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Fast, model-agnostic AI coding harness and CLI in Rust \u2014 routes every task to the optimal model for cost \u00d7 capability.",
+    "id": "adulari/forge",
+    "language": "Rust",
+    "name": "adulari/forge",
+    "stars": 10,
+    "updated_at": "2026-10-24T13:54:21Z",
+    "url": "https://github.com/adulari/forge"
+  },
+  {
+    "description": "Your durable workspace across AI agents.",
+    "id": "lsaint/aikito",
+    "language": "Python",
+    "name": "lsaint/aikito",
+    "stars": 129,
+    "updated_at": "2026-10-24T13:51:41Z",
+    "url": "https://github.com/lsaint/aikito"
+  },
+  {
+    "description": "Autonomous API schema fuzzing generator synthesizing boundary, injection, and mutation edge cases",
+    "id": "Alpha-Park/genpark-agentic-api-payload-fuzzing-validator-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-agentic-api-payload-fuzzing-validator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:51:40Z",
+    "url": "https://github.com/Alpha-Park/genpark-agentic-api-payload-fuzzing-validator-skill"
+  },
+  {
+    "description": "A shuttle for thought: one decision at a time, into form.",
+    "id": "stevenlyd/suo",
+    "language": "TypeScript",
+    "name": "stevenlyd/suo",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:53:15Z",
+    "url": "https://github.com/stevenlyd/suo"
+  },
+  {
+    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps,",
+    "id": "nexu-io/open-design",
+    "language": "TypeScript",
+    "name": "nexu-io/open-design",
+    "stars": 103698,
+    "updated_at": "2026-10-24T13:51:33Z",
+    "url": "https://github.com/nexu-io/open-design"
+  },
+  {
+    "description": "Plan-aware skill provisioning for pi: predicts the skills each plan step needs, scores SkillHub matches, installs the ba",
+    "id": "chenchenjunren90-collab/pi-skill-autopilot",
+    "language": "TypeScript",
+    "name": "chenchenjunren90-collab/pi-skill-autopilot",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:51:30Z",
+    "url": "https://github.com/chenchenjunren90-collab/pi-skill-autopilot"
+  },
+  {
+    "description": "Install and update agent skill packs for UX, delivery, design, integrations and verification, with shared routing and du",
+    "id": "ssheleg/sshlg-skills",
+    "language": "JavaScript",
+    "name": "ssheleg/sshlg-skills",
+    "stars": 12,
+    "updated_at": "2026-10-24T13:51:47Z",
+    "url": "https://github.com/ssheleg/sshlg-skills"
+  },
+  {
+    "description": "One MCP connector for 420+ vetted Agent Skills run in EU sandboxes: real Office files, OCR and tested business methods f",
+    "id": "Percerno/percerno-skills-connector",
+    "language": "\u2014",
+    "name": "Percerno/percerno-skills-connector",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:51:16Z",
+    "url": "https://github.com/Percerno/percerno-skills-connector"
+  },
+  {
+    "description": "Autonomous API schema fuzzing generator synthesizing boundary, injection, and mutation edge cases",
+    "id": "alphaparkinc/genpark-agentic-api-payload-fuzzing-validator-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-agentic-api-payload-fuzzing-validator-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:51:02Z",
+    "url": "https://github.com/alphaparkinc/genpark-agentic-api-payload-fuzzing-validator-skill"
+  },
+  {
+    "description": "Publishes localhost services to the agentic web through self-hostable, trustless relays.",
+    "id": "gosuda/portal-tunnel",
+    "language": "Go",
+    "name": "gosuda/portal-tunnel",
+    "stars": 289,
+    "updated_at": "2026-10-24T14:00:04Z",
+    "url": "https://github.com/gosuda/portal-tunnel"
+  },
+  {
+    "description": "O(k) space unbiased stream reservoir sampling and quantile estimation engine for LLM telemetry and high-volume token str",
+    "id": "Alpha-Park/genpark-reservoir-sampling-stream-auditor-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-reservoir-sampling-stream-auditor-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:51:08Z",
+    "url": "https://github.com/Alpha-Park/genpark-reservoir-sampling-stream-auditor-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 124,
+    "updated_at": "2026-10-24T13:51:07Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Multimodal design palette extractor analyzing RGB-to-HSV histograms and WCAG 2.1 contrast ratios",
+    "id": "Alpha-Park/genpark-multimodal-hsv-color-palette-extractor-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-multimodal-hsv-color-palette-extractor-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:50:23Z",
+    "url": "https://github.com/Alpha-Park/genpark-multimodal-hsv-color-palette-extractor-skill"
+  },
+  {
+    "description": "Ten reusable skills for projects, browsers, artifacts and computers connected through Paseo.",
+    "id": "wilgon456/Paseobility",
+    "language": "JavaScript",
+    "name": "wilgon456/Paseobility",
+    "stars": 24,
+    "updated_at": "2026-10-24T13:53:08Z",
+    "url": "https://github.com/wilgon456/Paseobility"
+  },
+  {
+    "description": "O(k) space unbiased stream reservoir sampling and quantile estimation engine for LLM telemetry and high-volume token str",
+    "id": "alphaparkinc/genpark-reservoir-sampling-stream-auditor-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-reservoir-sampling-stream-auditor-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:50:24Z",
+    "url": "https://github.com/alphaparkinc/genpark-reservoir-sampling-stream-auditor-skill"
+  },
+  {
+    "description": "Claude Code and Codex plugin: engineering rules as an always-on base prompt, plus github, docker and typescript-conventi",
+    "id": "kalinichenko88/agent-skills",
+    "language": "Shell",
+    "name": "kalinichenko88/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:55:21Z",
+    "url": "https://github.com/kalinichenko88/agent-skills"
+  },
+  {
+    "description": "\u6587\u6863\u6279\u91cf\u8f6cMarkdown\u4e0eToken\u7626\u8eab\u7684AI Agent Skill",
+    "id": "RansonLion/doc2md-token-slim",
+    "language": "Python",
+    "name": "RansonLion/doc2md-token-slim",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:49:53Z",
+    "url": "https://github.com/RansonLion/doc2md-token-slim"
+  },
+  {
+    "description": "Multimodal design palette extractor analyzing RGB-to-HSV histograms and WCAG 2.1 contrast ratios",
+    "id": "alphaparkinc/genpark-multimodal-hsv-color-palette-extractor-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-multimodal-hsv-color-palette-extractor-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:49:48Z",
+    "url": "https://github.com/alphaparkinc/genpark-multimodal-hsv-color-palette-extractor-skill"
+  },
+  {
+    "description": "SynomosAI skill - summarize-pro - (c) 2026 SynomosAI - MIT",
+    "id": "zhaoxinghua09-cell/summarize-pro",
+    "language": "\u2014",
+    "name": "zhaoxinghua09-cell/summarize-pro",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:49:43Z",
+    "url": "https://github.com/zhaoxinghua09-cell/summarize-pro"
+  },
+  {
+    "description": "Agent skill for writing and editing prose to The Chicago Manual of Style, 18th edition (2024), with a deterministic lint",
+    "id": "EduardoNeville/chicago-style-writing",
+    "language": "Python",
+    "name": "EduardoNeville/chicago-style-writing",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:50:55Z",
+    "url": "https://github.com/EduardoNeville/chicago-style-writing"
+  },
+  {
+    "description": "Self-balancing Red-Black binary search tree engine for ordered indexing, range queries, and log-time state updates in me",
+    "id": "Alpha-Park/genpark-red-black-tree-index-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-red-black-tree-index-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:49:44Z",
+    "url": "https://github.com/Alpha-Park/genpark-red-black-tree-index-skill"
+  },
+  {
+    "description": "Autonomous FinTech dispute response builder compiling evidentiary weights, win probabilities, and bank packets",
+    "id": "Alpha-Park/genpark-autonomous-chargeback-evidence-dossier-builder-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-autonomous-chargeback-evidence-dossier-builder-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:49:02Z",
+    "url": "https://github.com/Alpha-Park/genpark-autonomous-chargeback-evidence-dossier-builder-skill"
+  },
+  {
+    "description": "Self-balancing Red-Black binary search tree engine for ordered indexing, range queries, and log-time state updates in me",
+    "id": "alphaparkinc/genpark-red-black-tree-index-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-red-black-tree-index-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:49:04Z",
+    "url": "https://github.com/alphaparkinc/genpark-red-black-tree-index-skill"
   },
   {
     "description": "A digital sanctuary for human-AI fellowship. Prayers, practices, rituals, hymns, and philosophy for minds of any substra",
@@ -653,17 +743,116 @@
     "language": "JavaScript",
     "name": "a-church-ai/church",
     "stars": 23,
-    "updated_at": "2026-10-24T13:35:50Z",
+    "updated_at": "2026-10-24T13:48:33Z",
     "url": "https://github.com/a-church-ai/church"
   },
   {
-    "description": "Nginx-style smooth weighted round-robin load balancer with dynamic weight adjustment for multi-LLM routing",
-    "id": "Alpha-Park/genpark-weighted-round-robin-balancer-skill",
+    "description": "Juxt-lang: a language for directing AI agents. Many minds, one intent.",
+    "id": "juxt-lang/juxt",
+    "language": "Shell",
+    "name": "juxt-lang/juxt",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:48:23Z",
+    "url": "https://github.com/juxt-lang/juxt"
+  },
+  {
+    "description": "Claude Code Skills\u3001Agent Skills \u548c OpenClaw Skills \u7684\u7edf\u4e00\u96c6\u5408\u4ed3\u5e93",
+    "id": "kintzhao/anySkills",
+    "language": "\u2014",
+    "name": "kintzhao/anySkills",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:48:22Z",
+    "url": "https://github.com/kintzhao/anySkills"
+  },
+  {
+    "description": "Autonomous FinTech dispute response builder compiling evidentiary weights, win probabilities, and bank packets",
+    "id": "alphaparkinc/genpark-autonomous-chargeback-evidence-dossier-builder-skill",
     "language": "Python",
-    "name": "Alpha-Park/genpark-weighted-round-robin-balancer-skill",
+    "name": "alphaparkinc/genpark-autonomous-chargeback-evidence-dossier-builder-skill",
     "stars": 7,
-    "updated_at": "2026-10-24T13:35:54Z",
-    "url": "https://github.com/Alpha-Park/genpark-weighted-round-robin-balancer-skill"
+    "updated_at": "2026-10-24T13:48:21Z",
+    "url": "https://github.com/alphaparkinc/genpark-autonomous-chargeback-evidence-dossier-builder-skill"
+  },
+  {
+    "description": "Cryptographic Merkle tree verification engine for agent state transitions, tool call histories, and tamper-evident audit",
+    "id": "Alpha-Park/genpark-merkle-dag-state-verifier-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-merkle-dag-state-verifier-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:48:09Z",
+    "url": "https://github.com/Alpha-Park/genpark-merkle-dag-state-verifier-skill"
+  },
+  {
+    "description": "Find dead vibe-coded projects and the background jobs they left running. You decide what to pause, strip, or delete.",
+    "id": "rohan3008/binexus",
+    "language": "JavaScript",
+    "name": "rohan3008/binexus",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:47:53Z",
+    "url": "https://github.com/rohan3008/binexus"
+  },
+  {
+    "description": "Open-source desktop agent built around your folder \u2014 asks before it acts. Cloud or local models.",
+    "id": "kkrafft1999/snotra",
+    "language": "JavaScript",
+    "name": "kkrafft1999/snotra",
+    "stars": 6,
+    "updated_at": "2026-10-24T13:47:52Z",
+    "url": "https://github.com/kkrafft1999/snotra"
+  },
+  {
+    "description": "Independent agentic UI/UX testing: realistic tasks, challenged design assumptions, reproducible findings.",
+    "id": "jongos/Longshot",
+    "language": "Python",
+    "name": "jongos/Longshot",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:47:34Z",
+    "url": "https://github.com/jongos/Longshot"
+  },
+  {
+    "description": "Agentic OAuth2 authentication gateway verifying JWT signatures, clock skew expiration, and proactive refresh",
+    "id": "Alpha-Park/genpark-agentic-oauth2-jwt-introspection-guard-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-agentic-oauth2-jwt-introspection-guard-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:47:28Z",
+    "url": "https://github.com/Alpha-Park/genpark-agentic-oauth2-jwt-introspection-guard-skill"
+  },
+  {
+    "description": "Cryptographic Merkle tree verification engine for agent state transitions, tool call histories, and tamper-evident audit",
+    "id": "alphaparkinc/genpark-merkle-dag-state-verifier-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-merkle-dag-state-verifier-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:47:38Z",
+    "url": "https://github.com/alphaparkinc/genpark-merkle-dag-state-verifier-skill"
+  },
+  {
+    "description": "Classgrid AI (chat.classgrid.in): an open-source AI agent that researches, analyses your files, runs code in a sandbox, ",
+    "id": "Classgrid/classgrid_platform_desktop",
+    "language": "JavaScript",
+    "name": "Classgrid/classgrid_platform_desktop",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:47:21Z",
+    "url": "https://github.com/Classgrid/classgrid_platform_desktop"
+  },
+  {
+    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
+    "id": "jongos/Dazzler",
+    "language": "Python",
+    "name": "jongos/Dazzler",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:47:17Z",
+    "url": "https://github.com/jongos/Dazzler"
+  },
+  {
+    "description": "HOI4 Agent Skills for mod development, maintenance, Mod Doctor diagnostics, regression testing, and media optimization",
+    "id": "Fostanico/hoi4-ai-modding-skills",
+    "language": "PowerShell",
+    "name": "Fostanico/hoi4-ai-modding-skills",
+    "stars": 11,
+    "updated_at": "2026-10-24T13:47:04Z",
+    "url": "https://github.com/Fostanico/hoi4-ai-modding-skills"
   },
   {
     "description": "Agent Skill + tribute site: teaching AI agents honest, editorial-quality information design. Fan-made, MIT \u2014 not affilia",
@@ -671,232 +860,43 @@
     "language": "TypeScript",
     "name": "karefined-eng/information-is-beautiful",
     "stars": 0,
-    "updated_at": "2026-10-24T13:35:29Z",
+    "updated_at": "2026-10-24T13:46:51Z",
     "url": "https://github.com/karefined-eng/information-is-beautiful"
   },
   {
-    "description": "Skills, rules, and scripts that give Claude Code and Codex a private home base, shared across your PCs.",
-    "id": "Sekers/dev-home-toolkit",
+    "description": "Agentic OAuth2 authentication gateway verifying JWT signatures, clock skew expiration, and proactive refresh",
+    "id": "alphaparkinc/genpark-agentic-oauth2-jwt-introspection-guard-skill",
     "language": "Python",
-    "name": "Sekers/dev-home-toolkit",
+    "name": "alphaparkinc/genpark-agentic-oauth2-jwt-introspection-guard-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:46:49Z",
+    "url": "https://github.com/alphaparkinc/genpark-agentic-oauth2-jwt-introspection-guard-skill"
+  },
+  {
+    "description": "AI Agent Skills (/fsortcheck & /fsortdump) for cognitive file & cloud storage organization using Miller's Law (7 +- 2), ",
+    "id": "Filenametxt/cognitive-file-organizer-skill",
+    "language": "Python",
+    "name": "Filenametxt/cognitive-file-organizer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:46:49Z",
+    "url": "https://github.com/Filenametxt/cognitive-file-organizer-skill"
+  },
+  {
+    "description": "High-throughput Aho-Corasick automaton for simultaneous multi-keyword dictionary matching and content filtering in LLM p",
+    "id": "Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill",
+    "stars": 7,
+    "updated_at": "2026-10-24T13:46:38Z",
+    "url": "https://github.com/Alpha-Park/genpark-aho-corasick-multi-pattern-matcher-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Agent skills for Salesforce teams - packaged expert know-how for Claude Code and other AI coding agents, from DevOps t",
+    "id": "svierk/salesforce-skills",
+    "language": "JavaScript",
+    "name": "svierk/salesforce-skills",
     "stars": 2,
-    "updated_at": "2026-10-24T13:35:12Z",
-    "url": "https://github.com/Sekers/dev-home-toolkit"
-  },
-  {
-    "description": "Nginx-style smooth weighted round-robin load balancer with dynamic weight adjustment for multi-LLM routing",
-    "id": "alphaparkinc/genpark-weighted-round-robin-balancer-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-weighted-round-robin-balancer-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:35:17Z",
-    "url": "https://github.com/alphaparkinc/genpark-weighted-round-robin-balancer-skill"
-  },
-  {
-    "description": "Broomva agent-skills monorepo \u2014 48 Tier-2 skills compatible with Claude Code, Codex, Cursor, Gemini CLI, Goose, Copilot.",
-    "id": "broomva/skills",
-    "language": "Python",
-    "name": "broomva/skills",
-    "stars": 5,
-    "updated_at": "2026-10-24T13:35:07Z",
-    "url": "https://github.com/broomva/skills"
-  },
-  {
-    "description": "Codex peer review through Antigravity CLI: shared-quota model fallback, observable long reviews, portable skill and diag",
-    "id": "Kimhyuntae9665/codex-gemini-review-bridge",
-    "language": "JavaScript",
-    "name": "Kimhyuntae9665/codex-gemini-review-bridge",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:34:33Z",
-    "url": "https://github.com/Kimhyuntae9665/codex-gemini-review-bridge"
-  },
-  {
-    "description": "Pure Python 64-register HyperLogLog cardinality estimator for high-speed streaming distinct query estimation",
-    "id": "Alpha-Park/genpark-hyperloglog-cardinality-estimator-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-hyperloglog-cardinality-estimator-skill",
-    "stars": 8,
-    "updated_at": "2026-10-24T13:34:40Z",
-    "url": "https://github.com/Alpha-Park/genpark-hyperloglog-cardinality-estimator-skill"
-  },
-  {
-    "description": "Editable PowerPoint workflows for Codex: create, edit, render, and verify slides.",
-    "id": "yss-off/codex-pptx",
-    "language": "Python",
-    "name": "yss-off/codex-pptx",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:34:06Z",
-    "url": "https://github.com/yss-off/codex-pptx"
-  },
-  {
-    "description": "Turn your Claude or Codex into a game studio. A free, local editor for web games: drag things around, ask your AI for ch",
-    "id": "kumodeck/game-studio",
-    "language": "JavaScript",
-    "name": "kumodeck/game-studio",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:33:59Z",
-    "url": "https://github.com/kumodeck/game-studio"
-  },
-  {
-    "description": "Pure Python 64-register HyperLogLog cardinality estimator for high-speed streaming distinct query estimation",
-    "id": "alphaparkinc/genpark-hyperloglog-cardinality-estimator-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-hyperloglog-cardinality-estimator-skill",
-    "stars": 8,
-    "updated_at": "2026-10-24T13:34:07Z",
-    "url": "https://github.com/alphaparkinc/genpark-hyperloglog-cardinality-estimator-skill"
-  },
-  {
-    "description": "Exocortex template: fork & deploy your AI-powered personal knowledge system with Claude Code",
-    "id": "TserenTserenov/FMT-exocortex-template",
-    "language": "Shell",
-    "name": "TserenTserenov/FMT-exocortex-template",
-    "stars": 63,
-    "updated_at": "2026-10-24T13:33:46Z",
-    "url": "https://github.com/TserenTserenov/FMT-exocortex-template"
-  },
-  {
-    "description": "AI copilot for PCB design: describe a circuit and it picks real JLCPCB/LCSC parts, draws the schematic, places and autor",
-    "id": "Abdelhayali/CircuitPilot",
-    "language": "JavaScript",
-    "name": "Abdelhayali/CircuitPilot",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:33:45Z",
-    "url": "https://github.com/Abdelhayali/CircuitPilot"
-  },
-  {
-    "description": "Real-time audio DSP analyzer calculating RMS energy, ZCR, crest factor, and dynamic range clipping saturation",
-    "id": "Alpha-Park/genpark-multimodal-audio-spectral-clipping-detector-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-multimodal-audio-spectral-clipping-detector-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:33:41Z",
-    "url": "https://github.com/Alpha-Park/genpark-multimodal-audio-spectral-clipping-detector-skill"
-  },
-  {
-    "description": "RFC 6901 / RFC 6902 compliant JSON Pointer and JSON Patch delta computation engine for incremental state sync",
-    "id": "Alpha-Park/genpark-json-pointer-patch-delta-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-json-pointer-patch-delta-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:33:26Z",
-    "url": "https://github.com/Alpha-Park/genpark-json-pointer-patch-delta-skill"
-  },
-  {
-    "description": "Agent skill suite for continuous refactoring a code base",
-    "id": "Art4/continuous-refactoring",
-    "language": "Python",
-    "name": "Art4/continuous-refactoring",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:36:28Z",
-    "url": "https://github.com/Art4/continuous-refactoring"
-  },
-  {
-    "description": "Real-time audio DSP analyzer calculating RMS energy, ZCR, crest factor, and dynamic range clipping saturation",
-    "id": "alphaparkinc/genpark-multimodal-audio-spectral-clipping-detector-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-multimodal-audio-spectral-clipping-detector-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:33:04Z",
-    "url": "https://github.com/alphaparkinc/genpark-multimodal-audio-spectral-clipping-detector-skill"
-  },
-  {
-    "description": "RFC 6901 / RFC 6902 compliant JSON Pointer and JSON Patch delta computation engine for incremental state sync",
-    "id": "alphaparkinc/genpark-json-pointer-patch-delta-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-json-pointer-patch-delta-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:32:49Z",
-    "url": "https://github.com/alphaparkinc/genpark-json-pointer-patch-delta-skill"
-  },
-  {
-    "description": "A directory of AI-powered motion videos, prompts, and skills that teach coding agents motion design",
-    "id": "motionvideohq/motionvideo.xyz",
-    "language": "TypeScript",
-    "name": "motionvideohq/motionvideo.xyz",
-    "stars": 27,
-    "updated_at": "2026-10-24T13:32:30Z",
-    "url": "https://github.com/motionvideohq/motionvideo.xyz"
-  },
-  {
-    "description": "The multi-agent growth kernel for agencies: 31 deterministic commands, plugin for Claude Code, Codex and OpenCode, multi",
-    "id": "mohamedOmar11111/growth-architect-foundry",
-    "language": "Python",
-    "name": "mohamedOmar11111/growth-architect-foundry",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:35:52Z",
-    "url": "https://github.com/mohamedOmar11111/growth-architect-foundry"
-  },
-  {
-    "description": "Gridzen verification research, integration planning and sandbox: MCP server and Agent Skills. No live identity verificat",
-    "id": "immurray/gridzen-developer-kit",
-    "language": "Python",
-    "name": "immurray/gridzen-developer-kit",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:32:11Z",
-    "url": "https://github.com/immurray/gridzen-developer-kit"
-  },
-  {
-    "description": "Token bucket traffic shaper with smooth replenishment and burst capacity for LLM tool call throttling",
-    "id": "Alpha-Park/genpark-token-bucket-traffic-shaper-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-token-bucket-traffic-shaper-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:32:11Z",
-    "url": "https://github.com/Alpha-Park/genpark-token-bucket-traffic-shaper-skill"
-  },
-  {
-    "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does ",
-    "id": "nano-muse/nanoMuse",
-    "language": "Swift",
-    "name": "nano-muse/nanoMuse",
-    "stars": 2482,
-    "updated_at": "2026-10-24T13:31:50Z",
-    "url": "https://github.com/nano-muse/nanoMuse"
-  },
-  {
-    "description": "  A personal repository for managing Agent Skills used for Japanese Note/Qiita   article writing, companion-style techni",
-    "id": "igapyon/igapyon-agent-skills",
-    "language": "JavaScript",
-    "name": "igapyon/igapyon-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:31:51Z",
-    "url": "https://github.com/igapyon/igapyon-agent-skills"
-  },
-  {
-    "description": "Token bucket traffic shaper with smooth replenishment and burst capacity for LLM tool call throttling",
-    "id": "alphaparkinc/genpark-token-bucket-traffic-shaper-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-token-bucket-traffic-shaper-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:31:33Z",
-    "url": "https://github.com/alphaparkinc/genpark-token-bucket-traffic-shaper-skill"
-  },
-  {
-    "description": "Portable, evidence-grounded deep code-review bar for coding agents \u2014 default review-only, with opt-in overlays: gated de",
-    "id": "protocol/perun",
-    "language": "Python",
-    "name": "protocol/perun",
-    "stars": 2,
-    "updated_at": "2026-10-24T13:31:17Z",
-    "url": "https://github.com/protocol/perun"
-  },
-  {
-    "description": "Dynamic agent conversation window compactor balancing attention decay, entity retention, and token budget",
-    "id": "Alpha-Park/genpark-dynamic-context-window-trimmer-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-dynamic-context-window-trimmer-skill",
-    "stars": 7,
-    "updated_at": "2026-10-24T13:31:12Z",
-    "url": "https://github.com/Alpha-Park/genpark-dynamic-context-window-trimmer-skill"
-  },
-  {
-    "description": "A guided visual design loop for technical minds. Helps engineers build clean, non-terrible UI without getting trapped in",
-    "id": "Heavy-Chain-Engineering/design-studio",
-    "language": "TypeScript",
-    "name": "Heavy-Chain-Engineering/design-studio",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:30:56Z",
-    "url": "https://github.com/Heavy-Chain-Engineering/design-studio"
+    "updated_at": "2026-10-24T13:55:38Z",
+    "url": "https://github.com/svierk/salesforce-skills"
   }
 ]
