@@ -204,3 +204,4 @@ MIT — see `LICENSE`.
 - [**Prompt Tools Live**](https://github.com/linny006/prompt-tools-live) — Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 minutes (⭐ 0)
 
 - [**LLMOps Radar**](https://github.com/linny006/llmops-radar) — Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment (⭐ 0)
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`), HTTP 402 payment wall, and MCP tool server for verifying Layer-1 `DOOM` and Base Mainnet `wDOOM` payments.
