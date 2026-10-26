@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 12:45 UTC
+> ⏰ Last updated: 2026-10-26 13:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lhg-plugs/lhg-cs-script](https://github.com/lhg-plugs/lhg-cs-script) | 0 | Python | 2026-10-26 | 客服话术专家：高频场景话术库生成 + 差评管理（review-care）+ 话术自查 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-cs-script |
-| 2 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 77449 | JavaScript | 2026-10-26 | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta |
-| 3 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-10-26 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
-| 4 | [lhg-plugs/lhg-event-plan](https://github.com/lhg-plugs/lhg-event-plan) | 0 | Python | 2026-10-26 | 小白一句话→完整活动方案：目标拆解、预算编制、排期甘特、风险清单、物料核查、复盘报告一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-event-plan |
-| 5 | [furedea/agent-harness](https://github.com/furedea/agent-harness) | 2 | Rust | 2026-10-26 | A Nix-native, composable agent harness that renders hooks, skills, permissions, and safety policies for Claude Code, Cod |
-| 6 | [safecreative/safecreative-platform-skill](https://github.com/safecreative/safecreative-platform-skill) | 0 | Python | 2026-10-26 |  Agent Skill for the Safe Creative Platform API: register events with a qualified timestamp, request verifiable certific |
-| 7 | [JacobStephens2/thirdshift](https://github.com/JacobStephens2/thirdshift) | 1 | Rust | 2026-10-26 | Turn GitHub issues into reviewed pull requests with unattended coding agents. Claude Code, Codex and more; multi-ticket  |
-| 8 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 9 | [lhg-plugs/lhg-mobile-app](https://github.com/lhg-plugs/lhg-mobile-app) | 0 | Python | 2026-10-26 | 移动 App 专家：想法→MVP 范围→跨端选型→上架 checklist，规划一次到位 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-mobile-app |
-| 10 | [lhg-plugs/lhg-user-research](https://github.com/lhg-plugs/lhg-user-research) | 0 | Python | 2026-10-26 | 小白也能做专业用户调研：目标→问卷→访谈→分析→洞察报告一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-user-research |
-| 11 | [morluto/rea](https://github.com/morluto/rea) | 388510 | TypeScript | 2026-10-26 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 12 | [BytesFromToby/Walkdown](https://github.com/BytesFromToby/Walkdown) | 3 | Python | 2026-10-26 | Audits the instruction layer of AI skills and agents: what the text asks a model to do and what installing it grants, ci |
-| 13 | [lhg-plugs/lhg-amazon-listing](https://github.com/lhg-plugs/lhg-amazon-listing) | 0 | Python | 2026-10-26 | 亚马逊卖家 Listing 方法论：标题/五点/关键词/评分/合规一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-amazon-listing |
-| 14 | [lhg-plugs/lhg-growth-lab](https://github.com/lhg-plugs/lhg-growth-lab) | 0 | Python | 2026-10-26 | 小白也能做严谨 A/B 实验：从假设到显著性判定 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-growth-lab |
-| 15 | [li-bruce/VibeLens](https://github.com/li-bruce/VibeLens) | 0 | Python | 2026-10-26 | Understand and debug AI-built software through state graphs. |
-| 16 | [lhg-plugs/lhg-sql](https://github.com/lhg-plugs/lhg-sql) | 0 | Python | 2026-10-26 | SQL取数专家：中文业务问题→表结构理解→SQL生成→方言适配→权限与性能自检 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-sql |
-| 17 | [jamdotdev/skills](https://github.com/jamdotdev/skills) | 10 | JavaScript | 2026-10-26 | Agent skills that make coding agents show their work: read a Jam, prove a change, point at the problem, test a flow. Wor |
-| 18 | [lhg-plugs/lhg-email](https://github.com/lhg-plugs/lhg-email) | 0 | Python | 2026-10-26 | 邮件营销专家：用户分层→序列规划→标题正文→送达率 checklist ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-email |
-| 19 | [lhg-plugs/lhg-promo](https://github.com/lhg-plugs/lhg-promo) | 1 | Python | 2026-10-26 | 小白也能做赚钱的促销：目标→档期→玩法→利润测算→执行→复盘一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-promo |
-| 20 | [karefined-eng/information-is-beautiful-skill](https://github.com/karefined-eng/information-is-beautiful-skill) | 2 | TypeScript | 2026-10-26 | Beautiful, honest data visualization as an Agent Skill — five laws, a chart matcher, a 25-point beauty audit. For Claude |
-| 21 | [lhg-plugs/lhg-webscraper](https://github.com/lhg-plugs/lhg-webscraper) | 0 | Python | 2026-10-26 | 爬虫采集专家：目标站点→采集方案→反爬应对→数据清洗→交付，合规优先红线拒绝 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-webscraper |
-| 22 | [navin-labs/forge-content-studio](https://github.com/navin-labs/forge-content-studio) | 1 | TypeScript | 2026-10-26 | FORGE Content Studio: evidence-first short videos rendered in code with Remotion, word-accurate local Kokoro voice, dete |
-| 23 | [LogBrewCo/skills](https://github.com/LogBrewCo/skills) | 0 | Shell | 2026-10-26 | Agent skills for debugging production errors, adding error tracking, and checking releases with LogBrew. |
-| 24 | [lhg-plugs/lhg-user-growth](https://github.com/lhg-plugs/lhg-user-growth) | 0 | Python | 2026-10-26 | 小白可执行的增长实验清单：从杠杆诊断到复盘 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-user-growth |
-| 25 | [lhg-plugs/lhg-ads](https://github.com/lhg-plugs/lhg-ads) | 0 | Python | 2026-10-26 | 小白也能用的广告投放方法论：策略/素材/复盘一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ads |
-| 26 | [lhg-plugs/lhg-api-integration](https://github.com/lhg-plugs/lhg-api-integration) | 0 | Python | 2026-10-26 | API 对接专家：文档→鉴权→封装→重试限流→联调自检一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-api-integration |
-| 27 | [lhg-plugs/lhg-motion-video](https://github.com/lhg-plugs/lhg-motion-video) | 0 | Python | 2026-10-26 | 动效视频专家：需求→导演brief→纯代码渲染→成片导出 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-motion-video |
-| 28 | [lhg-plugs/lhg-podcast](https://github.com/lhg-plugs/lhg-podcast) | 0 | Python | 2026-10-26 | 播客制作专家：选题→录制→剪辑→shownotes→分发，一期节目全流程 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-podcast |
-| 29 | [lhg-plugs/lhg-oss-launch](https://github.com/lhg-plugs/lhg-oss-launch) | 0 | Python | 2026-10-26 | 开源冷启动专家：README→launch 素材→一键成片指引 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-oss-launch |
-| 30 | [axisrow/tg_content_factory](https://github.com/axisrow/tg_content_factory) | 37 | Python | 2026-10-26 | Telegram automation for coding agents — Claude Code plugin + tg-agent CLI. Read/send messages, manage channels, media, a |
-| 31 | [lhg-plugs/lhg-sop](https://github.com/lhg-plugs/lhg-sop) | 1 | Python | 2026-10-26 | SOP沉淀专家：流程访谈提纲→SOP文档生成→检查清单→版本管理 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-sop |
-| 32 | [lhg-plugs/lhg-taobao](https://github.com/lhg-plugs/lhg-taobao) | 0 | Python | 2026-10-26 | 店铺运营专家：选品→上架→标题/主图优化→数据复盘，方法论与检查清单一次配齐 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-taobao |
-| 33 | [chrysogonus/power-agents](https://github.com/chrysogonus/power-agents) | 2 | Python | 2026-10-26 | Lets you centrally define and sync your coding agent configurations, skills and instructions |
-| 34 | [lhg-plugs/lhg-community](https://github.com/lhg-plugs/lhg-community) | 0 | Python | 2026-10-26 | 社群运营专家：一句话搭出能留人的社群（定位→入群SOP→内容日历→转化话术→流失召回） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-community |
-| 35 | [lhg-plugs/lhg-labor-rights](https://github.com/lhg-plugs/lhg-labor-rights) | 0 | Python | 2026-10-26 | 劳动维权助手：纠纷场景→仲裁流程指引→文书模板→证据清单 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-labor-rights |
-| 36 | [starpia-forge/codex-delegate](https://github.com/starpia-forge/codex-delegate) | 0 | JavaScript | 2026-10-26 | Codex delegation for mattpocock/skills (unofficial): Claude Code leads, Codex workers research, review plans and impleme |
-| 37 | [lhg-plugs/lhg-pet-care](https://github.com/lhg-plugs/lhg-pet-care) | 0 | Python | 2026-10-26 | 宠物养护专家：档案→驱虫/疫苗/饮食时间表→健康 checklist 一键生成 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-pet-care |
-| 38 | [arminazimi/seaworthy](https://github.com/arminazimi/seaworthy) | 0 | TypeScript | 2026-10-26 | Seaworthy verifies websites for agents: one command checks any built static site and returns a versioned report with loc |
-| 39 | [lhg-plugs/lhg-sci-figure](https://github.com/lhg-plugs/lhg-sci-figure) | 0 | Python | 2026-10-26 | 学术图表专家：数据→期刊配图规范→图表生成→规范脚本校验，投稿前一次过关 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-sci-figure |
-| 40 | [galasulin/linkedin-agent-he](https://github.com/galasulin/linkedin-agent-he) | 0 | Python | 2026-10-26 | Hebrew-first LinkedIn agent skill for Claude: writes posts in natural Israeli Hebrew, humanizes and scores every draft,  |
-| 41 | [lhg-plugs/lhg-product-pick](https://github.com/lhg-plugs/lhg-product-pick) | 0 | Python | 2026-10-26 | 跨境选品专家：目标市场→五维打分表→供应链 checklist→风险清单 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-product-pick |
-| 42 | [lhg-plugs/lhg-survey](https://github.com/lhg-plugs/lhg-survey) | 0 | Python | 2026-10-26 | 问卷分析专家：CSV问卷数据→清洗→统计→图表→结论报告一键生成 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-survey |
-| 43 | [lhg-plugs/lhg-bp](https://github.com/lhg-plugs/lhg-bp) | 0 | Python | 2026-10-26 | 商业计划书专家：信息输入→九章生成→投资人自检→10页路演版 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-bp |
-| 44 | [minhnhattonthat/translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) | 7 | Python | 2026-10-26 | Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text |
-| 45 | [lhg-plugs/lhg-browser-ext](https://github.com/lhg-plugs/lhg-browser-ext) | 0 | Python | 2026-10-26 | 浏览器插件专家：一句话想法生成MV3浏览器插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-browser-ext |
-| 46 | [markksantos/caption-checker](https://github.com/markksantos/caption-checker) | 0 | Python | 2026-10-26 | Check SRT and WebVTT captions against Netflix, BBC and DCMP Captioning Key limits: reading speed, line length, lines, du |
-| 47 | [artemnovichkov/hinge](https://github.com/artemnovichkov/hinge) | 24 | Shell | 2026-10-26 | Control the hinge angle of iPhone Duo Simulator from the CLI or AI agents |
-| 48 | [intel/dokimi](https://github.com/intel/dokimi) | 8 | Python | 2026-10-26 | Dokimi (Greek δοκιμή, "test, proof") measures whether a skill, MCP doc source, agent profile or repository guidance actu |
-| 49 | [lhg-plugs/lhg-course-create](https://github.com/lhg-plugs/lhg-course-create) | 0 | Python | 2026-10-26 | 课程制作专家：大纲到试听课，一门知识付费课从 0 到可交付 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-course-create |
-| 50 | [azrianobr/dramazing](https://github.com/azrianobr/dramazing) | 1 | JavaScript | 2026-10-26 | An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar |
-| 51 | [lhg-plugs/lhg-mini-game](https://github.com/lhg-plugs/lhg-mini-game) | 0 | Python | 2026-10-26 | H5游戏专家：一句话生成可玩的H5小游戏 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-mini-game |
-| 52 | [ehsandaryaei/prism-council](https://github.com/ehsandaryaei/prism-council) | 0 | Python | 2026-10-26 | Pressure-test decisions with a 5-seat AI council: four opposed advisors + a zero-context Outsider who delivers the verdi |
-| 53 | [lhg-plugs/lhg-live-script](https://github.com/lhg-plugs/lhg-live-script) | 0 | Python | 2026-10-26 | 直播话术专家：开播钩子到逼单成交，直播话术一次写完 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-live-script |
-| 54 | [lhg-plugs/lhg-infographic](https://github.com/lhg-plugs/lhg-infographic) | 0 | Python | 2026-10-26 | 信息图表专家：数据/文章→图表选型→Canvas 确定性绘制→手机端可读性审计，小白也能做出版级信息图 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-infographic |
-| 55 | [lhg-plugs/lhg-logo](https://github.com/lhg-plugs/lhg-logo) | 0 | Python | 2026-10-26 | Logo设计专家：品牌简介→多版概念→几何规范→多尺寸导出→应用自检 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-logo |
-| 56 | [lhg-plugs/lhg-dashboard](https://github.com/lhg-plugs/lhg-dashboard) | 0 | Python | 2026-10-26 | 小白一句话生成数据看板规格的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-dashboard |
-| 57 | [invergent-ai/surogates](https://github.com/invergent-ai/surogates) | 28 | Python | 2026-10-26 | Open platform for running Managed Agents at scale |
-| 58 | [lhg-plugs/lhg-ecom-report](https://github.com/lhg-plugs/lhg-ecom-report) | 0 | Python | 2026-10-26 | 小白也能写专业复盘的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ecom-report |
-| 59 | [lhg-plugs/lhg-social-ops](https://github.com/lhg-plugs/lhg-social-ops) | 0 | Python | 2026-10-26 | 社媒运营专家：账号定位→内容日历→多平台分发策略→数据复盘，策略+复盘闭环 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-social-ops |
-| 60 | [ssinder/bioinformatics-agent-skills](https://github.com/ssinder/bioinformatics-agent-skills) | 0 | Python | 2026-10-26 | Agent Skills for computational biology — RNA-seq, single-cell, protein structure, molecular dynamics, peptide design, li |
-| 61 | [lhg-plugs/lhg-ecom-design](https://github.com/lhg-plugs/lhg-ecom-design) | 0 | Python | 2026-10-26 | 小白也能做出高点击主图的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ecom-design |
-| 62 | [lhg-plugs/lhg-book-translate](https://github.com/lhg-plugs/lhg-book-translate) | 0 | Python | 2026-10-26 | 书籍翻译专家：术语表锁定→章节翻译→一致性审计→译者体润色，交付出版级中文译稿 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-book-translate |
-| 63 | [lhg-plugs/lhg-lesson-plan](https://github.com/lhg-plugs/lhg-lesson-plan) | 0 | Python | 2026-10-26 | 小白一句话生成完整教案的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-lesson-plan |
-| 64 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 19660 | JavaScript | 2026-10-26 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI |
-| 65 | [lhg-plugs/lhg-headline](https://github.com/lhg-plugs/lhg-headline) | 0 | Python | 2026-10-26 | 爆款标题专家：主题/内容→多平台标题公式生成→敏感词检测→点击率打分 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-headline |
-| 66 | [lhg-plugs/lhg-competitor](https://github.com/lhg-plugs/lhg-competitor) | 0 | Python | 2026-10-26 | 竞品分析专家：一句话生成竞品情报报告（五维框架+对比矩阵+SWOT+差异化建议） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-competitor |
-| 67 | [jangabrielsson/flua](https://github.com/jangabrielsson/flua) | 1 | HTML | 2026-10-26 | Development tool for Fibaro Home automation QuickApps |
-| 68 | [MalikKhaledSaid/agent-skills](https://github.com/MalikKhaledSaid/agent-skills) | 0 | Python | 2026-10-26 | Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry. |
-| 69 | [lhg-plugs/lhg-salary-talk](https://github.com/lhg-plugs/lhg-salary-talk) | 0 | Python | 2026-10-26 | 薪酬谈判专家：策略到话术演练的谈判准备 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-salary-talk |
-| 70 | [LeifDai/MACKORN-hydraulic-cone-crusher](https://github.com/LeifDai/MACKORN-hydraulic-cone-crusher) | 2 | JavaScript | 2026-10-26 | mining industry vertical-domain MACKORN cone crusher plugin: MACKORN NH/NS hydraulic cone crushers, comparable to Sandvi |
-| 71 | [achappey/aihappey-chat](https://github.com/achappey/aihappey-chat) | 6 | TypeScript | 2026-10-26 | Browser-native multi-provider AI client with chat, Agents, MCP, Skills, Plugins, Decisions, BYOK/OAuth and human-in-the- |
-| 72 | [lhg-plugs/lhg-meal-plan](https://github.com/lhg-plugs/lhg-meal-plan) | 0 | Python | 2026-10-26 | 营养食谱专家：一周食谱与采购清单一键生成 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-meal-plan |
-| 73 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 1146 | Python | 2026-10-26 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
-| 74 | [lhg-plugs/lhg-biz-report](https://github.com/lhg-plugs/lhg-biz-report) | 0 | Python | 2026-10-26 | 商业分析报告专家：原始数据到图文报告一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-biz-report |
-| 75 | [lhg-plugs/lhg-shopify](https://github.com/lhg-plugs/lhg-shopify) | 0 | Python | 2026-10-26 | 独立站建站专家：从选品页到结账的开店流水线 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-shopify |
-| 76 | [lhg-plugs/lhg-drama-script](https://github.com/lhg-plugs/lhg-drama-script) | 0 | Python | 2026-10-26 | 短剧剧本专家：题材到分集剧本的爆款流水线 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-drama-script |
-| 77 | [lhg-plugs/lhg-fiction](https://github.com/lhg-plugs/lhg-fiction) | 0 | Python | 2026-10-26 | 网文写作专家：题材到逐章连载的写作流水线 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-fiction |
-| 78 | [lhg-plugs/lhg-lit-review](https://github.com/lhg-plugs/lhg-lit-review) | 0 | Python | 2026-10-26 | 文献综述专家：从文献收集到规范引用的写作流水线 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-lit-review |
-| 79 | [domehahn/skil](https://github.com/domehahn/skil) | 1 | Go | 2026-10-26 | Vendor-neutral security, verification, and enforcement framework for AI agent skills |
-| 80 | [lhg-plugs/lhg-study-abroad](https://github.com/lhg-plugs/lhg-study-abroad) | 0 | Python | 2026-10-26 | 留学文书专家：PS与推荐信的结构化写作 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-study-abroad |
-| 81 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 2326 | TypeScript | 2026-10-26 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
-| 82 | [newsbubbles/ismail](https://github.com/newsbubbles/ismail) | 17 | Python | 2026-10-26 | Ismail: A high bandwidth agentic interface. Includes Agentic DAW and Agentic VR stage with Evolvable Phone Interface. Ha |
-| 83 | [lhg-plugs/marketplace](https://github.com/lhg-plugs/marketplace) | 0 | — | 2026-10-26 | 小白专家插件市场：86 个一句话调用的垂直领域插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/marketplace |
-| 84 | [lhg-plugs/lhg-xiaohongshu](https://github.com/lhg-plugs/lhg-xiaohongshu) | 0 | Python | 2026-10-26 | 小红书种草专家：卖点到爆款笔记一键生成 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-xiaohongshu |
-| 85 | [lhg-plugs/lhg-ppt](https://github.com/lhg-plugs/lhg-ppt) | 0 | Python | 2026-10-26 | PPT制作专家：述职融资答辩一键成稿 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ppt |
-| 86 | [adaltomatos01/perfex-crm-guardrails](https://github.com/adaltomatos01/perfex-crm-guardrails) | 2 | HTML | 2026-10-26 | 9 Hidden Perfex CRM Module Breaking Rules 2026 – Best Developer Safety Checklist |
-| 87 | [lhg-plugs/lhg-wechat-article](https://github.com/lhg-plugs/lhg-wechat-article) | 0 | Python | 2026-10-26 | 公众号写作专家：选题到排版一气呵成 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-wechat-article |
-| 88 | [lhg-plugs/lhg-resume](https://github.com/lhg-plugs/lhg-resume) | 0 | Python | 2026-10-26 | 简历优化专家：ATS诊断到模拟面试一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-resume |
-| 89 | [mindtheflo/notis-skills](https://github.com/mindtheflo/notis-skills) | 0 | Python | 2026-10-26 | Open-source Notis skills and hosted MCP integration metadata |
-| 90 | [dmgrok/agent-plugins](https://github.com/dmgrok/agent-plugins) | 19 | Python | 2026-10-26 | Discover and install plugins and skills for AI coding agents, with a searchable catalog and automated provider updates. |
-| 91 | [lhg-plugs/lhg-contract](https://github.com/lhg-plugs/lhg-contract) | 0 | Python | 2026-10-26 | 合同审查助手：风险条款标红+修改建议 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-contract |
-| 92 | [pillumina/ascend-sleuth](https://github.com/pillumina/ascend-sleuth) | 5 | Python | 2026-10-26 | 知识驱动的昇腾训练/推理诊断 skill 套件 — Ascend training/inference diagnosis skill suite (5 skills + 3-tier knowledge base, Agent Skill |
-| 93 | [m4bwav/threewright](https://github.com/m4bwav/threewright) | 0 | JavaScript | 2026-10-26 | Evergreen three.js skills, knowledge base and verification CLI for AI agents |
-| 94 | [Raidiant-io/notifai](https://github.com/Raidiant-io/notifai) | 2 | TypeScript | 2026-10-26 | Notifications and questions from your coding agents to your phone. Your answer goes back to the exact session that asked |
-| 95 | [protocol/perun](https://github.com/protocol/perun) | 2 | Python | 2026-10-26 | Portable, evidence-grounded deep code-review bar for coding agents — default review-only, with opt-in overlays: gated de |
-| 96 | [shoji9x9/skills](https://github.com/shoji9x9/skills) | 0 | JavaScript | 2026-10-26 |  |
-| 97 | [lhg-plugs/lhg-miniprogram](https://github.com/lhg-plugs/lhg-miniprogram) | 0 | Python | 2026-10-26 | 小程序开发专家：一句话生成微信小程序 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-miniprogram |
-| 98 | [lhg-plugs/lhg-video-edit](https://github.com/lhg-plugs/lhg-video-edit) | 0 | Python | 2026-10-26 | 口播剪辑专家：一句话把口播素材剪成爆款短视频 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-video-edit |
-| 99 | [creedants/pstack-t3](https://github.com/creedants/pstack-t3) | 16 | Python | 2026-10-26 | Lauren Tan's pstack agent skills, ported to T3 Code so any model can lead and other models can review the work. Adds bri |
-| 100 | [lhg-plugs/lhg-fullstack](https://github.com/lhg-plugs/lhg-fullstack) | 0 | Python | 2026-10-26 | 小白一句话生成高质量全栈应用：Next.js+Supabase 前后端＋62 条确定性自查 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-fullstack |
+| 1 | [modelplan/modelplan](https://github.com/modelplan/modelplan) | 41 | Swift | 2026-10-26 | Which AI coding model, at which effort, on which plan? Recommended efforts, a leaderboard at those efforts and plan advi |
+| 2 | [mumez/pharo-agentic-browser](https://github.com/mumez/pharo-agentic-browser) | 10 | Smalltalk | 2026-10-26 | A multi-agent AI coding workspace and orchestration environment for Pharo Smalltalk, featuring native and mobile-friendl |
+| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 6 | Python | 2026-10-26 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
+| 4 | [baeroe/herdr-skilltri](https://github.com/baeroe/herdr-skilltri) | 0 | Shell | 2026-10-26 | Run skilltri (MCP gateway and agent skill manager with per-folder rules) in a herdr split pane, its own tab or a popup. |
+| 5 | [safecreative/safecreative-platform-skill](https://github.com/safecreative/safecreative-platform-skill) | 0 | Python | 2026-10-26 |  Agent Skill for the Safe Creative Platform API: register events with a qualified timestamp, request verifiable certific |
+| 6 | [AmethystLuna/dsh-model-everything](https://github.com/AmethystLuna/dsh-model-everything) | 0 | JavaScript | 2026-10-26 | 设计与代码的建模与自动化审查：把断言抽成可执行模型再判定——UML、状态机与协议、数据模型与迁移、并发断言路由、结构审查、外部检查器导出、报告对比。dsh 原生插件。 \| Modeling and automated review for  |
+| 7 | [jackburrus/topology-index](https://github.com/jackburrus/topology-index) | 0 | Shell | 2026-10-26 | Multi-agent topology patterns for AI agents: orchestrator-worker, planner-executor, evaluator-optimizer, map-reduce, rou |
+| 8 | [cig13zs/hf-kit](https://github.com/cig13zs/hf-kit) | 0 | Python | 2026-10-26 | HyperFrames blocks, sound presets and style targets measured from 48 YouTube videos in 16 niches |
+| 9 | [intel/dokimi](https://github.com/intel/dokimi) | 8 | Python | 2026-10-26 | Dokimi (Greek δοκιμή, "test, proof") measures whether a skill, MCP doc source, agent profile or repository guidance actu |
+| 10 | [davidscotttufts/hyvemind](https://github.com/davidscotttufts/hyvemind) | 0 | JavaScript | 2026-10-26 | Evidence-gated, model-adaptive SDLC skills for any coding agent, plus a CLI that proves each skill still beats the bare  |
+| 11 | [A-Box-of-Tools/abox-tools-plugin](https://github.com/A-Box-of-Tools/abox-tools-plugin) | 0 | JavaScript | 2026-10-26 | Local image, PDF, metadata and checksum tools for agents, published by Abox Technologies. |
+| 12 | [cyanseek/dsh-landscape](https://github.com/cyanseek/dsh-landscape) | 6 | JavaScript | 2026-10-26 | Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate b |
+| 13 | [baskingspot/skills](https://github.com/baskingspot/skills) | 1 | Python | 2026-10-26 | Agent skills for Zig, so a model writes it the way we do. |
+| 14 | [m4bwav/artwright](https://github.com/m4bwav/artwright) | 0 | Python | 2026-10-26 | Evergreen art skills for AI agents: pairwise image judging in both orders, critique tied to regions, style and movement  |
+| 15 | [Escoto/knowledge_sharing](https://github.com/Escoto/knowledge_sharing) | 0 | HTML | 2026-10-26 | Claude Code skills for clear, simple engineering documentation (ASD-STE100) |
+| 16 | [morluto/rea](https://github.com/morluto/rea) | 388609 | TypeScript | 2026-10-26 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 17 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 104075 | TypeScript | 2026-10-26 | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, |
+| 18 | [m4bwav/cinewright](https://github.com/m4bwav/cinewright) | 0 | Python | 2026-10-26 | Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot |
+| 19 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-26 | Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
+| 20 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 28747 | Python | 2026-10-26 | 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references,  |
+| 21 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 8206 | TypeScript | 2026-10-26 | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned w |
+| 22 | [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | 297 | TypeScript | 2026-10-26 | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent e |
+| 23 | [JasperLin2333/yuanxing](https://github.com/JasperLin2333/yuanxing) | 4 | JavaScript | 2026-10-26 | 人和 AI 共同设计产品的工作台。把产品想法变成团队能讨论、能体验、能继续修改的共同设计。 |
+| 24 | [markksantos/caption-checker](https://github.com/markksantos/caption-checker) | 0 | Python | 2026-10-26 | Check SRT and WebVTT captions against Netflix, BBC and DCMP Captioning Key limits: reading speed, line length, lines, du |
+| 25 | [theadamdanielsson/grill](https://github.com/theadamdanielsson/grill) | 3 | TypeScript | 2026-10-26 | An agentic learning system. Grill keeps state on what you know, note by note. Chat, tests and your other agents all work |
+| 26 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 107499 | TypeScript | 2026-10-26 | The open-source app everyone uses to manage agents at work |
+| 27 | [eph5xx/tweakidea](https://github.com/eph5xx/tweakidea) | 54 | Python | 2026-10-26 | Evaluate your startup idea from 1 to 5 |
+| 28 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 77452 | JavaScript | 2026-10-26 | Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta |
+| 29 | [vibeview/skills](https://github.com/vibeview/skills) | 0 | — | 2026-10-26 | Agent skills and MCP server for driving live iOS, Android, Apple TV, Android TV and Roku devices in the cloud with VibeV |
+| 30 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | 1805 | Python | 2026-10-26 | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be |
+| 31 | [internet-court/internet-court-skill](https://github.com/internet-court/internet-court-skill) | 7017 | TypeScript | 2026-10-26 | The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments,  |
+| 32 | [danoszz/penthera](https://github.com/danoszz/penthera) | 69 | JavaScript | 2026-10-26 | Offline cyber security agent for your apps and AI coding tools. Open R&D: measured in public, improved every release. |
+| 33 | [MotleyAI/living-architecture](https://github.com/MotleyAI/living-architecture) | 4 | Python | 2026-10-26 | Claude Code plugin + CLI that keeps coding agents from eroding your architecture: normative principles attached to a Lik |
+| 34 | [zachhhhh/trending-ai-agents](https://github.com/zachhhhh/trending-ai-agents) | 0 | JavaScript | 2026-10-26 | The fastest-rising new GitHub repos for AI coding agents: Claude Code, Codex, agent skills and MCP servers. Auto-updated |
+| 35 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 1 | TypeScript | 2026-10-26 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
+| 36 | [shikanime-labs/skills](https://github.com/shikanime-labs/skills) | 2 | Python | 2026-10-26 | A curated catalog of self-improved agent skills for Hermes and compatible agents |
+| 37 | [samber/developer-platform-skills](https://github.com/samber/developer-platform-skills) | 7 | Python | 2026-10-26 | 🔁 Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding |
+| 38 | [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard) | 21 | Python | 2026-10-26 | Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns. A  |
+| 39 | [firecrawl/cli](https://github.com/firecrawl/cli) | 671 | TypeScript | 2026-10-26 | Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus p |
+| 40 | [chrislacey89/skills](https://github.com/chrislacey89/skills) | 4 | Shell | 2026-10-26 | Pipeline-first Claude Code skills pack — 30 composable skills for structured feature delivery from shape to ship |
+| 41 | [bubbuild/bub](https://github.com/bubbuild/bub) | 1689 | Python | 2026-10-26 | Bub it. Build it. A tiny agent runtime, composable with plugins. |
+| 42 | [xazaj/sdlc-playbook](https://github.com/xazaj/sdlc-playbook) | 0 | Astro | 2026-10-26 | Decision playbooks for coding agents — 给 coding agent 的开发全链路决策手册。每个 SDLC 阶段一份选型矩阵：该装什么、用哪套设计系统、走 SDD 还是 TDD。 |
+| 43 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 1146 | Python | 2026-10-26 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
+| 44 | [TheColliery/CoalWash](https://github.com/TheColliery/CoalWash) | 11 | JavaScript | 2026-10-26 | Memory washer/defragmenter for AI agent memory: class-B semantic wash (fidelity-gated, blocks any structured-token drop, |
+| 45 | [stephaneberle9/skillship](https://github.com/stephaneberle9/skillship) | 0 | — | 2026-10-26 | Resolve, lock and deliver curated subsets ("distros") of Agent Skills, with their declared dependencies, as zips, skill  |
+| 46 | [hugefiver/ocmm](https://github.com/hugefiver/ocmm) | 0 | TypeScript | 2026-10-26 | An alternative of omo. |
+| 47 | [hugefiver/dsmm](https://github.com/hugefiver/dsmm) | 1 | TypeScript | 2026-10-26 | Native Deepwork roles, routing, profiles, and permission controls for DeepSeek Harness. |
+| 48 | [ScriptNegative/relaycrew](https://github.com/ScriptNegative/relaycrew) | 0 | JavaScript | 2026-10-26 | Coordinate parallel AI coding with clear file ownership, focused handoffs, and failure-aware task plans. A portable Agen |
+| 49 | [critias-ai/critias-pricing-agent](https://github.com/critias-ai/critias-pricing-agent) | 0 | TypeScript | 2026-10-26 | Open-source pricing analyst: margin, price-volume-mix and price realisation analysis on your own data, with every figure |
+| 50 | [maplibre/maplibre-agent-skills](https://github.com/maplibre/maplibre-agent-skills) | 155 | JavaScript | 2026-10-26 | Community-maintained agent skills for MapLibre GL JS — helping AI coding assistants write better mapping code |
+| 51 | [akunzai/agent-skills](https://github.com/akunzai/agent-skills) | 5 | Shell | 2026-10-26 | Charley's Agent Skills |
+| 52 | [MikeMoore1337/ai-development-toolkit](https://github.com/MikeMoore1337/ai-development-toolkit) | 1 | Python | 2026-10-26 | Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development |
+| 53 | [Youzini-afk/Varin](https://github.com/Youzini-afk/Varin) | 26 | TypeScript | 2026-10-26 | The open-source agent harness, ready out of the box and customizable in depth. Tools, context, durable execution, permis |
+| 54 | [m4bwav/pixelwright](https://github.com/m4bwav/pixelwright) | 0 | Python | 2026-10-26 | Pixel art for AI agents, made and animated in code and proved by gates: true-grid snap, palette lock, cleanup, tiles, ma |
+| 55 | [sisodiabhumca/agent-skills](https://github.com/sisodiabhumca/agent-skills) | 0 | Python | 2026-10-26 | Production-Ready Agent Skills : product analytics, growth experiments, CRM, research synthesis, postmortems, data contra |
+| 56 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 2335 | TypeScript | 2026-10-26 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| 57 | [exmergo/dex](https://github.com/exmergo/dex) | 100 | Python | 2026-10-26 | Dex lets your agent build your analytics. |
+| 58 | [mbart75/appsec-skills](https://github.com/mbart75/appsec-skills) | 1 | Shell | 2026-10-26 | Security skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini CLI): threat modelling, verified secur |
+| 59 | [navin-labs/forge-content-studio](https://github.com/navin-labs/forge-content-studio) | 1 | TypeScript | 2026-10-26 | FORGE Content Studio: evidence-first short videos rendered in code with Remotion, word-accurate local Kokoro voice, dete |
+| 60 | [sukida678/ppt-to-microcourse-video](https://github.com/sukida678/ppt-to-microcourse-video) | 1 | Python | 2026-10-26 | Turn a PPT deck into a narrated micro-lecture video — free Edge TTS, word-accurate burned-in subtitles, Ken Burns motion |
+| 61 | [MalikKhaledSaid/agent-skills](https://github.com/MalikKhaledSaid/agent-skills) | 0 | Python | 2026-10-26 | Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry. |
+| 62 | [scullxbones/armature](https://github.com/scullxbones/armature) | 1 | Go | 2026-10-26 | Agent harness task DAG tracker; git-based, zero-dependency agentic context seeding with spec citation and audit tracking |
+| 63 | [li-bruce/VibeLens](https://github.com/li-bruce/VibeLens) | 0 | Python | 2026-10-26 | Understand and debug AI-built software through state graphs. |
+| 64 | [riffkit/skills](https://github.com/riffkit/skills) | 1 | Python | 2026-10-26 | Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md. |
+| 65 | [farfarfun-skills/action-daily](https://github.com/farfarfun-skills/action-daily) | 0 | — | 2026-10-26 | 组织级自动化 Actions：每小时将组织内所有 fork 从上游同步、把全部仓库镜像到 Gitee，并禁用 fork 带来的 workflow |
+| 66 | [lhg-plugs/lhg-poster](https://github.com/lhg-plugs/lhg-poster) | 0 | Python | 2026-10-26 | 海报设计专家：一句话生成手机端可读的海报 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-poster |
+| 67 | [pacphi/riverwright](https://github.com/pacphi/riverwright) | 1 | — | 2026-10-26 | Approval-gated agent toolkit that reproduces bugs in your upstream dependencies, fixes them, proposes the pull request,  |
+| 68 | [lhg-plugs/lhg-tech-blog](https://github.com/lhg-plugs/lhg-tech-blog) | 0 | Python | 2026-10-26 | 技术博客专家，技术主题一句话成文，代码示例自动校验 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-tech-blog |
+| 69 | [lhg-plugs/lhg-solopreneur](https://github.com/lhg-plugs/lhg-solopreneur) | 0 | Python | 2026-10-26 | 独立开发专家，一人公司从想法到冷启动一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-solopreneur |
+| 70 | [ranbot-ai/awesome-skills](https://github.com/ranbot-ai/awesome-skills) | 7 | TypeScript | 2026-10-26 | Awesome Claude Skills, Tools for Customizing Claude AI workflows |
+| 71 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 19663 | JavaScript | 2026-10-26 | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI |
+| 72 | [lhg-plugs/lhg-landing-page](https://github.com/lhg-plugs/lhg-landing-page) | 0 | Python | 2026-10-26 | 落地页专家，一句话生成高转化营销落地页 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-landing-page |
+| 73 | [lhg-plugs/lhg-earnings](https://github.com/lhg-plugs/lhg-earnings) | 0 | Python | 2026-10-26 | 财报分析助手，财报丢进来出指标解读与风险清单（非投资建议） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-earnings |
+| 74 | [hamadou-08/roboclaw-reports](https://github.com/hamadou-08/roboclaw-reports) | 3 | HTML | 2026-10-26 | AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports |
+| 75 | [Samsung/tizen-agent-skills](https://github.com/Samsung/tizen-agent-skills) | 11 | JavaScript | 2026-10-26 | Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web, |
+| 76 | [lhg-plugs/lhg-kids-code](https://github.com/lhg-plugs/lhg-kids-code) | 0 | Python | 2026-10-26 | 少儿编程助手，帮家长老师备出生动有趣的编程课（需成人审核） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-kids-code |
+| 77 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52995 | TypeScript | 2026-10-26 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 78 | [lhg-plugs/lhg-auto-test](https://github.com/lhg-plugs/lhg-auto-test) | 0 | Python | 2026-10-26 | 自动测试专家，一句话生成可执行的测试用例与脚本 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-auto-test |
+| 79 | [lhg-plugs/lhg-tax](https://github.com/lhg-plugs/lhg-tax) | 0 | Python | 2026-10-26 | 个人税务助手，扣除项清单与申报checklist整理（仅供参考） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-tax |
+| 80 | [lhg-plugs/lhg-secondhand](https://github.com/lhg-plugs/lhg-secondhand) | 0 | Python | 2026-10-26 | 二手避坑助手：分品类验机清单、成色定价框架、交易安全模板，小白收二手不踩坑 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-secondhand |
+| 81 | [isas1/daily-team](https://github.com/isas1/daily-team) | 61 | HTML | 2026-10-26 | A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitH |
+| 82 | [OskarRabenda/exam-stack-skill](https://github.com/OskarRabenda/exam-stack-skill) | 0 | HTML | 2026-10-26 | Agent skill: turn a course's past exams into a prioritized, interactive study page (an exam stack). |
+| 83 | [lhg-plugs/lhg-patent](https://github.com/lhg-plugs/lhg-patent) | 0 | Python | 2026-10-26 | 专利撰写助手：交底书→权利要求书→说明书→新创性自检 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-patent |
+| 84 | [reem-plus/quiver-compass](https://github.com/reem-plus/quiver-compass) | 0 | HTML | 2026-10-26 | GTM Research & Competitive AI Toolkit 2026 - Raine Soriano |
+| 85 | [lhg-plugs/lhg-experiment](https://github.com/lhg-plugs/lhg-experiment) | 0 | Python | 2026-10-26 | 小白也能做靠谱实验：假设→设计→功效测算→结果解读一条龙 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-experiment |
+| 86 | [Mutakisa/game-slop-purge](https://github.com/Mutakisa/game-slop-purge) | 71 | HTML | 2026-10-26 | Best Game UI Cleanup Agent Skill 2026: Remove Slop, Keep Fun |
+| 87 | [lhg-plugs/lhg-fund-dca](https://github.com/lhg-plugs/lhg-fund-dca) | 0 | Python | 2026-10-26 | 基金定投计划工具的 Claude Code 插件（非投资建议） ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-fund-dca |
+| 88 | [MetaX5/DirectiveBench](https://github.com/MetaX5/DirectiveBench) | 0 | TypeScript | 2026-10-26 | Benchmarking AI agent skills, instructions & rules. |
+| 89 | [lhg-plugs/lhg-ip](https://github.com/lhg-plugs/lhg-ip) | 0 | Python | 2026-10-26 | 知产保护助手：商标/著作权/专利/商业秘密四象限判断→申请流程→维权清单 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-ip |
+| 90 | [lhg-plugs/lhg-startup-legal](https://github.com/lhg-plugs/lhg-startup-legal) | 0 | Python | 2026-10-26 | 创业法务助手：公司类型选择→注册流程清单→股权结构设计→核心协议清单 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-startup-legal |
+| 91 | [lhg-plugs/lhg-rental](https://github.com/lhg-plugs/lhg-rental) | 0 | Python | 2026-10-26 | 租房避坑助手：合同风险扫描、押金退还、纠纷应对，小白租房不踩坑 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-rental |
+| 92 | [lhg-plugs/lhg-wedding](https://github.com/lhg-plugs/lhg-wedding) | 0 | Python | 2026-10-26 | 备婚全流程管家的 Claude Code 插件 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-wedding |
+| 93 | [lhg-plugs/lhg-rebuttal](https://github.com/lhg-plugs/lhg-rebuttal) | 0 | Python | 2026-10-26 | 论文返修一次过：审稿意见逐条拆解、回应策略、修改对照表、礼貌化学术英语润色 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-rebuttal |
+| 94 | [lhg-plugs/lhg-travel](https://github.com/lhg-plugs/lhg-travel) | 0 | Python | 2026-10-26 | 旅行规划专家：日行程→POI清单→预算表→打包清单，16条规则审计 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-travel |
+| 95 | [gurutersesat24/ai-site-forge](https://github.com/gurutersesat24/ai-site-forge) | 0 | HTML | 2026-10-26 | Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor |
+| 96 | [linny006/awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) | 44 | Python | 2026-10-26 | Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a |
+| 97 | [linny006/skills-tracker](https://github.com/linny006/skills-tracker) | 30 | Python | 2026-10-26 | Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend |
+| 98 | [lhg-plugs/lhg-job-desc](https://github.com/lhg-plugs/lhg-job-desc) | 0 | Python | 2026-10-26 | JD撰写专家：岗位信息→职责/任职资格→评分→多版本，18条规则审计偏见词 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-job-desc |
+| 99 | [lhg-plugs/lhg-cs-script](https://github.com/lhg-plugs/lhg-cs-script) | 0 | Python | 2026-10-26 | 客服话术专家：高频场景话术库生成 + 差评管理（review-care）+ 话术自查 ｜ 一键安装：/plugin marketplace add lhg-plugs/lhg-cs-script |
+| 100 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-10-26 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
 <!-- TRACKER_TABLE_END -->
 
 ---

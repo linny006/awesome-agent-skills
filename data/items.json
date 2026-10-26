@@ -1,5 +1,887 @@
 [
   {
+    "description": "Which AI coding model, at which effort, on which plan? Recommended efforts, a leaderboard at those efforts and plan advi",
+    "id": "modelplan/modelplan",
+    "language": "Swift",
+    "name": "modelplan/modelplan",
+    "stars": 41,
+    "updated_at": "2026-10-26T13:00:24Z",
+    "url": "https://github.com/modelplan/modelplan"
+  },
+  {
+    "description": "A multi-agent AI coding workspace and orchestration environment for Pharo Smalltalk, featuring native and mobile-friendl",
+    "id": "mumez/pharo-agentic-browser",
+    "language": "Smalltalk",
+    "name": "mumez/pharo-agentic-browser",
+    "stars": 10,
+    "updated_at": "2026-10-26T13:00:20Z",
+    "url": "https://github.com/mumez/pharo-agentic-browser"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-26T13:00:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Run skilltri (MCP gateway and agent skill manager with per-folder rules) in a herdr split pane, its own tab or a popup.",
+    "id": "baeroe/herdr-skilltri",
+    "language": "Shell",
+    "name": "baeroe/herdr-skilltri",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:00:01Z",
+    "url": "https://github.com/baeroe/herdr-skilltri"
+  },
+  {
+    "description": " Agent Skill for the Safe Creative Platform API: register events with a qualified timestamp, request verifiable certific",
+    "id": "safecreative/safecreative-platform-skill",
+    "language": "Python",
+    "name": "safecreative/safecreative-platform-skill",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:00:00Z",
+    "url": "https://github.com/safecreative/safecreative-platform-skill"
+  },
+  {
+    "description": "\u8bbe\u8ba1\u4e0e\u4ee3\u7801\u7684\u5efa\u6a21\u4e0e\u81ea\u52a8\u5316\u5ba1\u67e5\uff1a\u628a\u65ad\u8a00\u62bd\u6210\u53ef\u6267\u884c\u6a21\u578b\u518d\u5224\u5b9a\u2014\u2014UML\u3001\u72b6\u6001\u673a\u4e0e\u534f\u8bae\u3001\u6570\u636e\u6a21\u578b\u4e0e\u8fc1\u79fb\u3001\u5e76\u53d1\u65ad\u8a00\u8def\u7531\u3001\u7ed3\u6784\u5ba1\u67e5\u3001\u5916\u90e8\u68c0\u67e5\u5668\u5bfc\u51fa\u3001\u62a5\u544a\u5bf9\u6bd4\u3002dsh \u539f\u751f\u63d2\u4ef6\u3002 | Modeling and automated review for ",
+    "id": "AmethystLuna/dsh-model-everything",
+    "language": "JavaScript",
+    "name": "AmethystLuna/dsh-model-everything",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:59:53Z",
+    "url": "https://github.com/AmethystLuna/dsh-model-everything"
+  },
+  {
+    "description": "Multi-agent topology patterns for AI agents: orchestrator-worker, planner-executor, evaluator-optimizer, map-reduce, rou",
+    "id": "jackburrus/topology-index",
+    "language": "Shell",
+    "name": "jackburrus/topology-index",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:59:38Z",
+    "url": "https://github.com/jackburrus/topology-index"
+  },
+  {
+    "description": "HyperFrames blocks, sound presets and style targets measured from 48 YouTube videos in 16 niches",
+    "id": "cig13zs/hf-kit",
+    "language": "Python",
+    "name": "cig13zs/hf-kit",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:00:23Z",
+    "url": "https://github.com/cig13zs/hf-kit"
+  },
+  {
+    "description": "Dokimi (Greek \u03b4\u03bf\u03ba\u03b9\u03bc\u03ae, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actu",
+    "id": "intel/dokimi",
+    "language": "Python",
+    "name": "intel/dokimi",
+    "stars": 8,
+    "updated_at": "2026-10-26T12:58:55Z",
+    "url": "https://github.com/intel/dokimi"
+  },
+  {
+    "description": "Evidence-gated, model-adaptive SDLC skills for any coding agent, plus a CLI that proves each skill still beats the bare ",
+    "id": "davidscotttufts/hyvemind",
+    "language": "JavaScript",
+    "name": "davidscotttufts/hyvemind",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:58:49Z",
+    "url": "https://github.com/davidscotttufts/hyvemind"
+  },
+  {
+    "description": "Local image, PDF, metadata and checksum tools for agents, published by Abox Technologies.",
+    "id": "A-Box-of-Tools/abox-tools-plugin",
+    "language": "JavaScript",
+    "name": "A-Box-of-Tools/abox-tools-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:58:26Z",
+    "url": "https://github.com/A-Box-of-Tools/abox-tools-plugin"
+  },
+  {
+    "description": "Agent-first DeepSeek Harness plugin intelligence: verify existing plugins, identify missing capabilities, and generate b",
+    "id": "cyanseek/dsh-landscape",
+    "language": "JavaScript",
+    "name": "cyanseek/dsh-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-26T12:58:25Z",
+    "url": "https://github.com/cyanseek/dsh-landscape"
+  },
+  {
+    "description": "Agent skills for Zig, so a model writes it the way we do.",
+    "id": "baskingspot/skills",
+    "language": "Python",
+    "name": "baskingspot/skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:58:08Z",
+    "url": "https://github.com/baskingspot/skills"
+  },
+  {
+    "description": "Evergreen art skills for AI agents: pairwise image judging in both orders, critique tied to regions, style and movement ",
+    "id": "m4bwav/artwright",
+    "language": "Python",
+    "name": "m4bwav/artwright",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:58:05Z",
+    "url": "https://github.com/m4bwav/artwright"
+  },
+  {
+    "description": "Claude Code skills for clear, simple engineering documentation (ASD-STE100)",
+    "id": "Escoto/knowledge_sharing",
+    "language": "HTML",
+    "name": "Escoto/knowledge_sharing",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:00:03Z",
+    "url": "https://github.com/Escoto/knowledge_sharing"
+  },
+  {
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "id": "morluto/rea",
+    "language": "TypeScript",
+    "name": "morluto/rea",
+    "stars": 388609,
+    "updated_at": "2026-10-26T12:57:51Z",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps,",
+    "id": "nexu-io/open-design",
+    "language": "TypeScript",
+    "name": "nexu-io/open-design",
+    "stars": 104075,
+    "updated_at": "2026-10-26T12:58:06Z",
+    "url": "https://github.com/nexu-io/open-design"
+  },
+  {
+    "description": "Film craft and AI video direction skills for Claude Code, Claude Desktop and GitHub Copilot",
+    "id": "m4bwav/cinewright",
+    "language": "Python",
+    "name": "m4bwav/cinewright",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:57:44Z",
+    "url": "https://github.com/m4bwav/cinewright"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:57:22Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
+    "id": "alirezarezvani/claude-skills",
+    "language": "Python",
+    "name": "alirezarezvani/claude-skills",
+    "stars": 28747,
+    "updated_at": "2026-10-26T12:56:57Z",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned w",
+    "id": "mvschwarz/openrig",
+    "language": "TypeScript",
+    "name": "mvschwarz/openrig",
+    "stars": 8206,
+    "updated_at": "2026-10-26T12:56:43Z",
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent e",
+    "id": "squirrelscan/squirrelscan",
+    "language": "TypeScript",
+    "name": "squirrelscan/squirrelscan",
+    "stars": 297,
+    "updated_at": "2026-10-26T12:56:48Z",
+    "url": "https://github.com/squirrelscan/squirrelscan"
+  },
+  {
+    "description": "\u4eba\u548c AI \u5171\u540c\u8bbe\u8ba1\u4ea7\u54c1\u7684\u5de5\u4f5c\u53f0\u3002\u628a\u4ea7\u54c1\u60f3\u6cd5\u53d8\u6210\u56e2\u961f\u80fd\u8ba8\u8bba\u3001\u80fd\u4f53\u9a8c\u3001\u80fd\u7ee7\u7eed\u4fee\u6539\u7684\u5171\u540c\u8bbe\u8ba1\u3002",
+    "id": "JasperLin2333/yuanxing",
+    "language": "JavaScript",
+    "name": "JasperLin2333/yuanxing",
+    "stars": 4,
+    "updated_at": "2026-10-26T12:57:14Z",
+    "url": "https://github.com/JasperLin2333/yuanxing"
+  },
+  {
+    "description": "Check SRT and WebVTT captions against Netflix, BBC and DCMP Captioning Key limits: reading speed, line length, lines, du",
+    "id": "markksantos/caption-checker",
+    "language": "Python",
+    "name": "markksantos/caption-checker",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:56:28Z",
+    "url": "https://github.com/markksantos/caption-checker"
+  },
+  {
+    "description": "An agentic learning system. Grill keeps state on what you know, note by note. Chat, tests and your other agents all work",
+    "id": "theadamdanielsson/grill",
+    "language": "TypeScript",
+    "name": "theadamdanielsson/grill",
+    "stars": 3,
+    "updated_at": "2026-10-26T12:56:20Z",
+    "url": "https://github.com/theadamdanielsson/grill"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107499,
+    "updated_at": "2026-10-26T12:58:16Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Evaluate your startup idea from 1 to 5",
+    "id": "eph5xx/tweakidea",
+    "language": "Python",
+    "name": "eph5xx/tweakidea",
+    "stars": 54,
+    "updated_at": "2026-10-26T12:55:54Z",
+    "url": "https://github.com/eph5xx/tweakidea"
+  },
+  {
+    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta",
+    "id": "career-ops-hq/career-ops",
+    "language": "JavaScript",
+    "name": "career-ops-hq/career-ops",
+    "stars": 77452,
+    "updated_at": "2026-10-26T12:59:39Z",
+    "url": "https://github.com/career-ops-hq/career-ops"
+  },
+  {
+    "description": "Agent skills and MCP server for driving live iOS, Android, Apple TV, Android TV and Roku devices in the cloud with VibeV",
+    "id": "vibeview/skills",
+    "language": "\u2014",
+    "name": "vibeview/skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:55:20Z",
+    "url": "https://github.com/vibeview/skills"
+  },
+  {
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be",
+    "id": "zhuyansen/new-term-radar",
+    "language": "Python",
+    "name": "zhuyansen/new-term-radar",
+    "stars": 1805,
+    "updated_at": "2026-10-26T12:55:15Z",
+    "url": "https://github.com/zhuyansen/new-term-radar"
+  },
+  {
+    "description": "The trust layer for agent-to-agent commerce \u2014 natural-language mandates, ERC-7710 delegated permissions, x402 payments, ",
+    "id": "internet-court/internet-court-skill",
+    "language": "TypeScript",
+    "name": "internet-court/internet-court-skill",
+    "stars": 7017,
+    "updated_at": "2026-10-26T12:55:11Z",
+    "url": "https://github.com/internet-court/internet-court-skill"
+  },
+  {
+    "description": "Offline cyber security agent for your apps and AI coding tools. Open R&D: measured in public, improved every release.",
+    "id": "danoszz/penthera",
+    "language": "JavaScript",
+    "name": "danoszz/penthera",
+    "stars": 69,
+    "updated_at": "2026-10-26T12:55:03Z",
+    "url": "https://github.com/danoszz/penthera"
+  },
+  {
+    "description": "Claude Code plugin + CLI that keeps coding agents from eroding your architecture: normative principles attached to a Lik",
+    "id": "MotleyAI/living-architecture",
+    "language": "Python",
+    "name": "MotleyAI/living-architecture",
+    "stars": 4,
+    "updated_at": "2026-10-26T12:54:58Z",
+    "url": "https://github.com/MotleyAI/living-architecture"
+  },
+  {
+    "description": "The fastest-rising new GitHub repos for AI coding agents: Claude Code, Codex, agent skills and MCP servers. Auto-updated",
+    "id": "zachhhhh/trending-ai-agents",
+    "language": "JavaScript",
+    "name": "zachhhhh/trending-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:54:57Z",
+    "url": "https://github.com/zachhhhh/trending-ai-agents"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:54:53Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "A curated catalog of self-improved agent skills for Hermes and compatible agents",
+    "id": "shikanime-labs/skills",
+    "language": "Python",
+    "name": "shikanime-labs/skills",
+    "stars": 2,
+    "updated_at": "2026-10-26T12:55:00Z",
+    "url": "https://github.com/shikanime-labs/skills"
+  },
+  {
+    "description": "\ud83d\udd01 Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding",
+    "id": "samber/developer-platform-skills",
+    "language": "Python",
+    "name": "samber/developer-platform-skills",
+    "stars": 7,
+    "updated_at": "2026-10-26T12:54:34Z",
+    "url": "https://github.com/samber/developer-platform-skills"
+  },
+  {
+    "description": "Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns. A ",
+    "id": "zhuyansen/backlink-guard",
+    "language": "Python",
+    "name": "zhuyansen/backlink-guard",
+    "stars": 21,
+    "updated_at": "2026-10-26T12:54:30Z",
+    "url": "https://github.com/zhuyansen/backlink-guard"
+  },
+  {
+    "description": "Firecrawl CLI and agent skills: search, scrape, and interact with the web from your terminal or any coding agent, plus p",
+    "id": "firecrawl/cli",
+    "language": "TypeScript",
+    "name": "firecrawl/cli",
+    "stars": 671,
+    "updated_at": "2026-10-26T12:53:52Z",
+    "url": "https://github.com/firecrawl/cli"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-26T12:53:39Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Bub it. Build it. A tiny agent runtime, composable with plugins.",
+    "id": "bubbuild/bub",
+    "language": "Python",
+    "name": "bubbuild/bub",
+    "stars": 1689,
+    "updated_at": "2026-10-26T12:53:27Z",
+    "url": "https://github.com/bubbuild/bub"
+  },
+  {
+    "description": "Decision playbooks for coding agents \u2014 \u7ed9 coding agent \u7684\u5f00\u53d1\u5168\u94fe\u8def\u51b3\u7b56\u624b\u518c\u3002\u6bcf\u4e2a SDLC \u9636\u6bb5\u4e00\u4efd\u9009\u578b\u77e9\u9635\uff1a\u8be5\u88c5\u4ec0\u4e48\u3001\u7528\u54ea\u5957\u8bbe\u8ba1\u7cfb\u7edf\u3001\u8d70 SDD \u8fd8\u662f TDD\u3002",
+    "id": "xazaj/sdlc-playbook",
+    "language": "Astro",
+    "name": "xazaj/sdlc-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:53:20Z",
+    "url": "https://github.com/xazaj/sdlc-playbook"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 1146,
+    "updated_at": "2026-10-26T12:53:33Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Memory washer/defragmenter for AI agent memory: class-B semantic wash (fidelity-gated, blocks any structured-token drop,",
+    "id": "TheColliery/CoalWash",
+    "language": "JavaScript",
+    "name": "TheColliery/CoalWash",
+    "stars": 11,
+    "updated_at": "2026-10-26T12:52:49Z",
+    "url": "https://github.com/TheColliery/CoalWash"
+  },
+  {
+    "description": "Resolve, lock and deliver curated subsets (\"distros\") of Agent Skills, with their declared dependencies, as zips, skill ",
+    "id": "stephaneberle9/skillship",
+    "language": "\u2014",
+    "name": "stephaneberle9/skillship",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:52:47Z",
+    "url": "https://github.com/stephaneberle9/skillship"
+  },
+  {
+    "description": "An alternative of omo.",
+    "id": "hugefiver/ocmm",
+    "language": "TypeScript",
+    "name": "hugefiver/ocmm",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:52:38Z",
+    "url": "https://github.com/hugefiver/ocmm"
+  },
+  {
+    "description": "Native Deepwork roles, routing, profiles, and permission controls for DeepSeek Harness.",
+    "id": "hugefiver/dsmm",
+    "language": "TypeScript",
+    "name": "hugefiver/dsmm",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:52:24Z",
+    "url": "https://github.com/hugefiver/dsmm"
+  },
+  {
+    "description": "Coordinate parallel AI coding with clear file ownership, focused handoffs, and failure-aware task plans. A portable Agen",
+    "id": "ScriptNegative/relaycrew",
+    "language": "JavaScript",
+    "name": "ScriptNegative/relaycrew",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:53:33Z",
+    "url": "https://github.com/ScriptNegative/relaycrew"
+  },
+  {
+    "description": "Open-source pricing analyst: margin, price-volume-mix and price realisation analysis on your own data, with every figure",
+    "id": "critias-ai/critias-pricing-agent",
+    "language": "TypeScript",
+    "name": "critias-ai/critias-pricing-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:52:03Z",
+    "url": "https://github.com/critias-ai/critias-pricing-agent"
+  },
+  {
+    "description": "Community-maintained agent skills for MapLibre GL JS \u2014 helping AI coding assistants write better mapping code",
+    "id": "maplibre/maplibre-agent-skills",
+    "language": "JavaScript",
+    "name": "maplibre/maplibre-agent-skills",
+    "stars": 155,
+    "updated_at": "2026-10-26T12:51:54Z",
+    "url": "https://github.com/maplibre/maplibre-agent-skills"
+  },
+  {
+    "description": "Charley's Agent Skills",
+    "id": "akunzai/agent-skills",
+    "language": "Shell",
+    "name": "akunzai/agent-skills",
+    "stars": 5,
+    "updated_at": "2026-10-26T12:52:32Z",
+    "url": "https://github.com/akunzai/agent-skills"
+  },
+  {
+    "description": "Portable agent skills, QA workflows, specialist roles and tools for reliable AI-assisted development",
+    "id": "MikeMoore1337/ai-development-toolkit",
+    "language": "Python",
+    "name": "MikeMoore1337/ai-development-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:51:30Z",
+    "url": "https://github.com/MikeMoore1337/ai-development-toolkit"
+  },
+  {
+    "description": "The open-source agent harness, ready out of the box and customizable in depth. Tools, context, durable execution, permis",
+    "id": "Youzini-afk/Varin",
+    "language": "TypeScript",
+    "name": "Youzini-afk/Varin",
+    "stars": 26,
+    "updated_at": "2026-10-26T12:51:21Z",
+    "url": "https://github.com/Youzini-afk/Varin"
+  },
+  {
+    "description": "Pixel art for AI agents, made and animated in code and proved by gates: true-grid snap, palette lock, cleanup, tiles, ma",
+    "id": "m4bwav/pixelwright",
+    "language": "Python",
+    "name": "m4bwav/pixelwright",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:51:34Z",
+    "url": "https://github.com/m4bwav/pixelwright"
+  },
+  {
+    "description": "Production-Ready Agent Skills : product analytics, growth experiments, CRM, research synthesis, postmortems, data contra",
+    "id": "sisodiabhumca/agent-skills",
+    "language": "Python",
+    "name": "sisodiabhumca/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:51:06Z",
+    "url": "https://github.com/sisodiabhumca/agent-skills"
+  },
+  {
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "id": "JetBrains/thinkrail",
+    "language": "TypeScript",
+    "name": "JetBrains/thinkrail",
+    "stars": 2335,
+    "updated_at": "2026-10-26T12:50:44Z",
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "description": "Dex lets your agent build your analytics.",
+    "id": "exmergo/dex",
+    "language": "Python",
+    "name": "exmergo/dex",
+    "stars": 100,
+    "updated_at": "2026-10-26T12:50:41Z",
+    "url": "https://github.com/exmergo/dex"
+  },
+  {
+    "description": "Security skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini CLI): threat modelling, verified secur",
+    "id": "mbart75/appsec-skills",
+    "language": "Shell",
+    "name": "mbart75/appsec-skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:56:37Z",
+    "url": "https://github.com/mbart75/appsec-skills"
+  },
+  {
+    "description": "FORGE Content Studio: evidence-first short videos rendered in code with Remotion, word-accurate local Kokoro voice, dete",
+    "id": "navin-labs/forge-content-studio",
+    "language": "TypeScript",
+    "name": "navin-labs/forge-content-studio",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:50:31Z",
+    "url": "https://github.com/navin-labs/forge-content-studio"
+  },
+  {
+    "description": "Turn a PPT deck into a narrated micro-lecture video \u2014 free Edge TTS, word-accurate burned-in subtitles, Ken Burns motion",
+    "id": "sukida678/ppt-to-microcourse-video",
+    "language": "Python",
+    "name": "sukida678/ppt-to-microcourse-video",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:49:51Z",
+    "url": "https://github.com/sukida678/ppt-to-microcourse-video"
+  },
+  {
+    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
+    "id": "MalikKhaledSaid/agent-skills",
+    "language": "Python",
+    "name": "MalikKhaledSaid/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:49:33Z",
+    "url": "https://github.com/MalikKhaledSaid/agent-skills"
+  },
+  {
+    "description": "Agent harness task DAG tracker; git-based, zero-dependency agentic context seeding with spec citation and audit tracking",
+    "id": "scullxbones/armature",
+    "language": "Go",
+    "name": "scullxbones/armature",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:59:31Z",
+    "url": "https://github.com/scullxbones/armature"
+  },
+  {
+    "description": "Understand and debug AI-built software through state graphs.",
+    "id": "li-bruce/VibeLens",
+    "language": "Python",
+    "name": "li-bruce/VibeLens",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:49:01Z",
+    "url": "https://github.com/li-bruce/VibeLens"
+  },
+  {
+    "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
+    "id": "riffkit/skills",
+    "language": "Python",
+    "name": "riffkit/skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:48:57Z",
+    "url": "https://github.com/riffkit/skills"
+  },
+  {
+    "description": "\u7ec4\u7ec7\u7ea7\u81ea\u52a8\u5316 Actions\uff1a\u6bcf\u5c0f\u65f6\u5c06\u7ec4\u7ec7\u5185\u6240\u6709 fork \u4ece\u4e0a\u6e38\u540c\u6b65\u3001\u628a\u5168\u90e8\u4ed3\u5e93\u955c\u50cf\u5230 Gitee\uff0c\u5e76\u7981\u7528 fork \u5e26\u6765\u7684 workflow",
+    "id": "farfarfun-skills/action-daily",
+    "language": "\u2014",
+    "name": "farfarfun-skills/action-daily",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:48:15Z",
+    "url": "https://github.com/farfarfun-skills/action-daily"
+  },
+  {
+    "description": "\u6d77\u62a5\u8bbe\u8ba1\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u751f\u6210\u624b\u673a\u7aef\u53ef\u8bfb\u7684\u6d77\u62a5 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-poster",
+    "id": "lhg-plugs/lhg-poster",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-poster",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:47:54Z",
+    "url": "https://github.com/lhg-plugs/lhg-poster"
+  },
+  {
+    "description": "Approval-gated agent toolkit that reproduces bugs in your upstream dependencies, fixes them, proposes the pull request, ",
+    "id": "pacphi/riverwright",
+    "language": "\u2014",
+    "name": "pacphi/riverwright",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:47:37Z",
+    "url": "https://github.com/pacphi/riverwright"
+  },
+  {
+    "description": "\u6280\u672f\u535a\u5ba2\u4e13\u5bb6\uff0c\u6280\u672f\u4e3b\u9898\u4e00\u53e5\u8bdd\u6210\u6587\uff0c\u4ee3\u7801\u793a\u4f8b\u81ea\u52a8\u6821\u9a8c \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-tech-blog",
+    "id": "lhg-plugs/lhg-tech-blog",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-tech-blog",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:47:21Z",
+    "url": "https://github.com/lhg-plugs/lhg-tech-blog"
+  },
+  {
+    "description": "\u72ec\u7acb\u5f00\u53d1\u4e13\u5bb6\uff0c\u4e00\u4eba\u516c\u53f8\u4ece\u60f3\u6cd5\u5230\u51b7\u542f\u52a8\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-solopreneur",
+    "id": "lhg-plugs/lhg-solopreneur",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-solopreneur",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:47:16Z",
+    "url": "https://github.com/lhg-plugs/lhg-solopreneur"
+  },
+  {
+    "description": "Awesome Claude Skills, Tools for Customizing Claude AI workflows",
+    "id": "ranbot-ai/awesome-skills",
+    "language": "TypeScript",
+    "name": "ranbot-ai/awesome-skills",
+    "stars": 7,
+    "updated_at": "2026-10-26T12:47:15Z",
+    "url": "https://github.com/ranbot-ai/awesome-skills"
+  },
+  {
+    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI",
+    "id": "citrolabs/ego-lite",
+    "language": "JavaScript",
+    "name": "citrolabs/ego-lite",
+    "stars": 19663,
+    "updated_at": "2026-10-26T12:47:14Z",
+    "url": "https://github.com/citrolabs/ego-lite"
+  },
+  {
+    "description": "\u843d\u5730\u9875\u4e13\u5bb6\uff0c\u4e00\u53e5\u8bdd\u751f\u6210\u9ad8\u8f6c\u5316\u8425\u9500\u843d\u5730\u9875 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-landing-page",
+    "id": "lhg-plugs/lhg-landing-page",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-landing-page",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:47:10Z",
+    "url": "https://github.com/lhg-plugs/lhg-landing-page"
+  },
+  {
+    "description": "\u8d22\u62a5\u5206\u6790\u52a9\u624b\uff0c\u8d22\u62a5\u4e22\u8fdb\u6765\u51fa\u6307\u6807\u89e3\u8bfb\u4e0e\u98ce\u9669\u6e05\u5355\uff08\u975e\u6295\u8d44\u5efa\u8bae\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-earnings",
+    "id": "lhg-plugs/lhg-earnings",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-earnings",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:47:02Z",
+    "url": "https://github.com/lhg-plugs/lhg-earnings"
+  },
+  {
+    "description": "AI Robotics Demos 2026 - VLM Policies, MCP Skills & HTML Reports",
+    "id": "hamadou-08/roboclaw-reports",
+    "language": "HTML",
+    "name": "hamadou-08/roboclaw-reports",
+    "stars": 3,
+    "updated_at": "2026-10-26T12:47:02Z",
+    "url": "https://github.com/hamadou-08/roboclaw-reports"
+  },
+  {
+    "description": "Tizen development skills & plugins for AI coding agents: install the Tizen SDK, create, build, debug and test Tizen Web,",
+    "id": "Samsung/tizen-agent-skills",
+    "language": "JavaScript",
+    "name": "Samsung/tizen-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-10-26T12:47:26Z",
+    "url": "https://github.com/Samsung/tizen-agent-skills"
+  },
+  {
+    "description": "\u5c11\u513f\u7f16\u7a0b\u52a9\u624b\uff0c\u5e2e\u5bb6\u957f\u8001\u5e08\u5907\u51fa\u751f\u52a8\u6709\u8da3\u7684\u7f16\u7a0b\u8bfe\uff08\u9700\u6210\u4eba\u5ba1\u6838\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-kids-code",
+    "id": "lhg-plugs/lhg-kids-code",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-kids-code",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:56Z",
+    "url": "https://github.com/lhg-plugs/lhg-kids-code"
+  },
+  {
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "id": "CherryHQ/cherry-studio",
+    "language": "TypeScript",
+    "name": "CherryHQ/cherry-studio",
+    "stars": 52995,
+    "updated_at": "2026-10-26T12:58:21Z",
+    "url": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "description": "\u81ea\u52a8\u6d4b\u8bd5\u4e13\u5bb6\uff0c\u4e00\u53e5\u8bdd\u751f\u6210\u53ef\u6267\u884c\u7684\u6d4b\u8bd5\u7528\u4f8b\u4e0e\u811a\u672c \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-auto-test",
+    "id": "lhg-plugs/lhg-auto-test",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-auto-test",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:50Z",
+    "url": "https://github.com/lhg-plugs/lhg-auto-test"
+  },
+  {
+    "description": "\u4e2a\u4eba\u7a0e\u52a1\u52a9\u624b\uff0c\u6263\u9664\u9879\u6e05\u5355\u4e0e\u7533\u62a5checklist\u6574\u7406\uff08\u4ec5\u4f9b\u53c2\u8003\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-tax",
+    "id": "lhg-plugs/lhg-tax",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-tax",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:44Z",
+    "url": "https://github.com/lhg-plugs/lhg-tax"
+  },
+  {
+    "description": "\u4e8c\u624b\u907f\u5751\u52a9\u624b\uff1a\u5206\u54c1\u7c7b\u9a8c\u673a\u6e05\u5355\u3001\u6210\u8272\u5b9a\u4ef7\u6846\u67b6\u3001\u4ea4\u6613\u5b89\u5168\u6a21\u677f\uff0c\u5c0f\u767d\u6536\u4e8c\u624b\u4e0d\u8e29\u5751 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-secondhand",
+    "id": "lhg-plugs/lhg-secondhand",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-secondhand",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:39Z",
+    "url": "https://github.com/lhg-plugs/lhg-secondhand"
+  },
+  {
+    "description": "A new four-person creative team every day, and the small web tool it built. Generated with Claude Code, recorded on GitH",
+    "id": "isas1/daily-team",
+    "language": "HTML",
+    "name": "isas1/daily-team",
+    "stars": 61,
+    "updated_at": "2026-10-26T12:46:36Z",
+    "url": "https://github.com/isas1/daily-team"
+  },
+  {
+    "description": "Agent skill: turn a course's past exams into a prioritized, interactive study page (an exam stack).",
+    "id": "OskarRabenda/exam-stack-skill",
+    "language": "HTML",
+    "name": "OskarRabenda/exam-stack-skill",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:34Z",
+    "url": "https://github.com/OskarRabenda/exam-stack-skill"
+  },
+  {
+    "description": "\u4e13\u5229\u64b0\u5199\u52a9\u624b\uff1a\u4ea4\u5e95\u4e66\u2192\u6743\u5229\u8981\u6c42\u4e66\u2192\u8bf4\u660e\u4e66\u2192\u65b0\u521b\u6027\u81ea\u68c0 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-patent",
+    "id": "lhg-plugs/lhg-patent",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-patent",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:34Z",
+    "url": "https://github.com/lhg-plugs/lhg-patent"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:32Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "\u5c0f\u767d\u4e5f\u80fd\u505a\u9760\u8c31\u5b9e\u9a8c\uff1a\u5047\u8bbe\u2192\u8bbe\u8ba1\u2192\u529f\u6548\u6d4b\u7b97\u2192\u7ed3\u679c\u89e3\u8bfb\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-experiment",
+    "id": "lhg-plugs/lhg-experiment",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-experiment",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:28Z",
+    "url": "https://github.com/lhg-plugs/lhg-experiment"
+  },
+  {
+    "description": "Best Game UI Cleanup Agent Skill 2026: Remove Slop, Keep Fun",
+    "id": "Mutakisa/game-slop-purge",
+    "language": "HTML",
+    "name": "Mutakisa/game-slop-purge",
+    "stars": 71,
+    "updated_at": "2026-10-26T12:46:24Z",
+    "url": "https://github.com/Mutakisa/game-slop-purge"
+  },
+  {
+    "description": "\u57fa\u91d1\u5b9a\u6295\u8ba1\u5212\u5de5\u5177\u7684 Claude Code \u63d2\u4ef6\uff08\u975e\u6295\u8d44\u5efa\u8bae\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-fund-dca",
+    "id": "lhg-plugs/lhg-fund-dca",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-fund-dca",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:23Z",
+    "url": "https://github.com/lhg-plugs/lhg-fund-dca"
+  },
+  {
+    "description": "Benchmarking AI agent skills, instructions & rules.",
+    "id": "MetaX5/DirectiveBench",
+    "language": "TypeScript",
+    "name": "MetaX5/DirectiveBench",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:14Z",
+    "url": "https://github.com/MetaX5/DirectiveBench"
+  },
+  {
+    "description": "\u77e5\u4ea7\u4fdd\u62a4\u52a9\u624b\uff1a\u5546\u6807/\u8457\u4f5c\u6743/\u4e13\u5229/\u5546\u4e1a\u79d8\u5bc6\u56db\u8c61\u9650\u5224\u65ad\u2192\u7533\u8bf7\u6d41\u7a0b\u2192\u7ef4\u6743\u6e05\u5355 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-ip",
+    "id": "lhg-plugs/lhg-ip",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-ip",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:14Z",
+    "url": "https://github.com/lhg-plugs/lhg-ip"
+  },
+  {
+    "description": "\u521b\u4e1a\u6cd5\u52a1\u52a9\u624b\uff1a\u516c\u53f8\u7c7b\u578b\u9009\u62e9\u2192\u6ce8\u518c\u6d41\u7a0b\u6e05\u5355\u2192\u80a1\u6743\u7ed3\u6784\u8bbe\u8ba1\u2192\u6838\u5fc3\u534f\u8bae\u6e05\u5355 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-startup-legal",
+    "id": "lhg-plugs/lhg-startup-legal",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-startup-legal",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:07Z",
+    "url": "https://github.com/lhg-plugs/lhg-startup-legal"
+  },
+  {
+    "description": "\u79df\u623f\u907f\u5751\u52a9\u624b\uff1a\u5408\u540c\u98ce\u9669\u626b\u63cf\u3001\u62bc\u91d1\u9000\u8fd8\u3001\u7ea0\u7eb7\u5e94\u5bf9\uff0c\u5c0f\u767d\u79df\u623f\u4e0d\u8e29\u5751 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-rental",
+    "id": "lhg-plugs/lhg-rental",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-rental",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:46:02Z",
+    "url": "https://github.com/lhg-plugs/lhg-rental"
+  },
+  {
+    "description": "\u5907\u5a5a\u5168\u6d41\u7a0b\u7ba1\u5bb6\u7684 Claude Code \u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-wedding",
+    "id": "lhg-plugs/lhg-wedding",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-wedding",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:45:56Z",
+    "url": "https://github.com/lhg-plugs/lhg-wedding"
+  },
+  {
+    "description": "\u8bba\u6587\u8fd4\u4fee\u4e00\u6b21\u8fc7\uff1a\u5ba1\u7a3f\u610f\u89c1\u9010\u6761\u62c6\u89e3\u3001\u56de\u5e94\u7b56\u7565\u3001\u4fee\u6539\u5bf9\u7167\u8868\u3001\u793c\u8c8c\u5316\u5b66\u672f\u82f1\u8bed\u6da6\u8272 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-rebuttal",
+    "id": "lhg-plugs/lhg-rebuttal",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-rebuttal",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:45:48Z",
+    "url": "https://github.com/lhg-plugs/lhg-rebuttal"
+  },
+  {
+    "description": "\u65c5\u884c\u89c4\u5212\u4e13\u5bb6\uff1a\u65e5\u884c\u7a0b\u2192POI\u6e05\u5355\u2192\u9884\u7b97\u8868\u2192\u6253\u5305\u6e05\u5355\uff0c16\u6761\u89c4\u5219\u5ba1\u8ba1 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-travel",
+    "id": "lhg-plugs/lhg-travel",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-travel",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:45:43Z",
+    "url": "https://github.com/lhg-plugs/lhg-travel"
+  },
+  {
+    "description": "Ultimate AI Static Site Generator 2026 \u2013 Free No-Lock-in Build Tool for Claude & Cursor",
+    "id": "gurutersesat24/ai-site-forge",
+    "language": "HTML",
+    "name": "gurutersesat24/ai-site-forge",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:45:40Z",
+    "url": "https://github.com/gurutersesat24/ai-site-forge"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 44,
+    "updated_at": "2026-10-26T12:45:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 30,
+    "updated_at": "2026-10-26T12:45:37Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "JD\u64b0\u5199\u4e13\u5bb6\uff1a\u5c97\u4f4d\u4fe1\u606f\u2192\u804c\u8d23/\u4efb\u804c\u8d44\u683c\u2192\u8bc4\u5206\u2192\u591a\u7248\u672c\uff0c18\u6761\u89c4\u5219\u5ba1\u8ba1\u504f\u89c1\u8bcd \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-job-desc",
+    "id": "lhg-plugs/lhg-job-desc",
+    "language": "Python",
+    "name": "lhg-plugs/lhg-job-desc",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:45:34Z",
+    "url": "https://github.com/lhg-plugs/lhg-job-desc"
+  },
+  {
     "description": "\u5ba2\u670d\u8bdd\u672f\u4e13\u5bb6\uff1a\u9ad8\u9891\u573a\u666f\u8bdd\u672f\u5e93\u751f\u6210 + \u5dee\u8bc4\u7ba1\u7406\uff08review-care\uff09+ \u8bdd\u672f\u81ea\u67e5 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-cs-script",
     "id": "lhg-plugs/lhg-cs-script",
     "language": "Python",
@@ -9,15 +891,6 @@
     "url": "https://github.com/lhg-plugs/lhg-cs-script"
   },
   {
-    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, ta",
-    "id": "career-ops-hq/career-ops",
-    "language": "JavaScript",
-    "name": "career-ops-hq/career-ops",
-    "stars": 77449,
-    "updated_at": "2026-10-26T12:45:28Z",
-    "url": "https://github.com/career-ops-hq/career-ops"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -25,878 +898,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T12:45:23Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e00\u53e5\u8bdd\u2192\u5b8c\u6574\u6d3b\u52a8\u65b9\u6848\uff1a\u76ee\u6807\u62c6\u89e3\u3001\u9884\u7b97\u7f16\u5236\u3001\u6392\u671f\u7518\u7279\u3001\u98ce\u9669\u6e05\u5355\u3001\u7269\u6599\u6838\u67e5\u3001\u590d\u76d8\u62a5\u544a\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-event-plan",
-    "id": "lhg-plugs/lhg-event-plan",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-event-plan",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:45:23Z",
-    "url": "https://github.com/lhg-plugs/lhg-event-plan"
-  },
-  {
-    "description": "A Nix-native, composable agent harness that renders hooks, skills, permissions, and safety policies for Claude Code, Cod",
-    "id": "furedea/agent-harness",
-    "language": "Rust",
-    "name": "furedea/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:45:32Z",
-    "url": "https://github.com/furedea/agent-harness"
-  },
-  {
-    "description": " Agent Skill for the Safe Creative Platform API: register events with a qualified timestamp, request verifiable certific",
-    "id": "safecreative/safecreative-platform-skill",
-    "language": "Python",
-    "name": "safecreative/safecreative-platform-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:45:21Z",
-    "url": "https://github.com/safecreative/safecreative-platform-skill"
-  },
-  {
-    "description": "Turn GitHub issues into reviewed pull requests with unattended coding agents. Claude Code, Codex and more; multi-ticket ",
-    "id": "JacobStephens2/thirdshift",
-    "language": "Rust",
-    "name": "JacobStephens2/thirdshift",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:45:29Z",
-    "url": "https://github.com/JacobStephens2/thirdshift"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 6,
-    "updated_at": "2026-10-26T12:45:19Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
-    "description": "\u79fb\u52a8 App \u4e13\u5bb6\uff1a\u60f3\u6cd5\u2192MVP \u8303\u56f4\u2192\u8de8\u7aef\u9009\u578b\u2192\u4e0a\u67b6 checklist\uff0c\u89c4\u5212\u4e00\u6b21\u5230\u4f4d \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-mobile-app",
-    "id": "lhg-plugs/lhg-mobile-app",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-mobile-app",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:45:17Z",
-    "url": "https://github.com/lhg-plugs/lhg-mobile-app"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u505a\u4e13\u4e1a\u7528\u6237\u8c03\u7814\uff1a\u76ee\u6807\u2192\u95ee\u5377\u2192\u8bbf\u8c08\u2192\u5206\u6790\u2192\u6d1e\u5bdf\u62a5\u544a\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-user-research",
-    "id": "lhg-plugs/lhg-user-research",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-user-research",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:45:09Z",
-    "url": "https://github.com/lhg-plugs/lhg-user-research"
-  },
-  {
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "id": "morluto/rea",
-    "language": "TypeScript",
-    "name": "morluto/rea",
-    "stars": 388510,
-    "updated_at": "2026-10-26T12:45:06Z",
-    "url": "https://github.com/morluto/rea"
-  },
-  {
-    "description": "Audits the instruction layer of AI skills and agents: what the text asks a model to do and what installing it grants, ci",
-    "id": "BytesFromToby/Walkdown",
-    "language": "Python",
-    "name": "BytesFromToby/Walkdown",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:45:04Z",
-    "url": "https://github.com/BytesFromToby/Walkdown"
-  },
-  {
-    "description": "\u4e9a\u9a6c\u900a\u5356\u5bb6 Listing \u65b9\u6cd5\u8bba\uff1a\u6807\u9898/\u4e94\u70b9/\u5173\u952e\u8bcd/\u8bc4\u5206/\u5408\u89c4\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-amazon-listing",
-    "id": "lhg-plugs/lhg-amazon-listing",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-amazon-listing",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:45:03Z",
-    "url": "https://github.com/lhg-plugs/lhg-amazon-listing"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u505a\u4e25\u8c28 A/B \u5b9e\u9a8c\uff1a\u4ece\u5047\u8bbe\u5230\u663e\u8457\u6027\u5224\u5b9a \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-growth-lab",
-    "id": "lhg-plugs/lhg-growth-lab",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-growth-lab",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:58Z",
-    "url": "https://github.com/lhg-plugs/lhg-growth-lab"
-  },
-  {
-    "description": "Understand and debug AI-built software through state graphs.",
-    "id": "li-bruce/VibeLens",
-    "language": "Python",
-    "name": "li-bruce/VibeLens",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:57Z",
-    "url": "https://github.com/li-bruce/VibeLens"
-  },
-  {
-    "description": "SQL\u53d6\u6570\u4e13\u5bb6\uff1a\u4e2d\u6587\u4e1a\u52a1\u95ee\u9898\u2192\u8868\u7ed3\u6784\u7406\u89e3\u2192SQL\u751f\u6210\u2192\u65b9\u8a00\u9002\u914d\u2192\u6743\u9650\u4e0e\u6027\u80fd\u81ea\u68c0 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-sql",
-    "id": "lhg-plugs/lhg-sql",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-sql",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:52Z",
-    "url": "https://github.com/lhg-plugs/lhg-sql"
-  },
-  {
-    "description": "Agent skills that make coding agents show their work: read a Jam, prove a change, point at the problem, test a flow. Wor",
-    "id": "jamdotdev/skills",
-    "language": "JavaScript",
-    "name": "jamdotdev/skills",
-    "stars": 10,
-    "updated_at": "2026-10-26T12:44:51Z",
-    "url": "https://github.com/jamdotdev/skills"
-  },
-  {
-    "description": "\u90ae\u4ef6\u8425\u9500\u4e13\u5bb6\uff1a\u7528\u6237\u5206\u5c42\u2192\u5e8f\u5217\u89c4\u5212\u2192\u6807\u9898\u6b63\u6587\u2192\u9001\u8fbe\u7387 checklist \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-email",
-    "id": "lhg-plugs/lhg-email",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-email",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:46Z",
-    "url": "https://github.com/lhg-plugs/lhg-email"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u505a\u8d5a\u94b1\u7684\u4fc3\u9500\uff1a\u76ee\u6807\u2192\u6863\u671f\u2192\u73a9\u6cd5\u2192\u5229\u6da6\u6d4b\u7b97\u2192\u6267\u884c\u2192\u590d\u76d8\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-promo",
-    "id": "lhg-plugs/lhg-promo",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-promo",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:44:41Z",
-    "url": "https://github.com/lhg-plugs/lhg-promo"
-  },
-  {
-    "description": "Beautiful, honest data visualization as an Agent Skill \u2014 five laws, a chart matcher, a 25-point beauty audit. For Claude",
-    "id": "karefined-eng/information-is-beautiful-skill",
-    "language": "TypeScript",
-    "name": "karefined-eng/information-is-beautiful-skill",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:44:35Z",
-    "url": "https://github.com/karefined-eng/information-is-beautiful-skill"
-  },
-  {
-    "description": "\u722c\u866b\u91c7\u96c6\u4e13\u5bb6\uff1a\u76ee\u6807\u7ad9\u70b9\u2192\u91c7\u96c6\u65b9\u6848\u2192\u53cd\u722c\u5e94\u5bf9\u2192\u6570\u636e\u6e05\u6d17\u2192\u4ea4\u4ed8\uff0c\u5408\u89c4\u4f18\u5148\u7ea2\u7ebf\u62d2\u7edd \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-webscraper",
-    "id": "lhg-plugs/lhg-webscraper",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-webscraper",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:35Z",
-    "url": "https://github.com/lhg-plugs/lhg-webscraper"
-  },
-  {
-    "description": "FORGE Content Studio: evidence-first short videos rendered in code with Remotion, word-accurate local Kokoro voice, dete",
-    "id": "navin-labs/forge-content-studio",
-    "language": "TypeScript",
-    "name": "navin-labs/forge-content-studio",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:44:35Z",
-    "url": "https://github.com/navin-labs/forge-content-studio"
-  },
-  {
-    "description": "Agent skills for debugging production errors, adding error tracking, and checking releases with LogBrew.",
-    "id": "LogBrewCo/skills",
-    "language": "Shell",
-    "name": "LogBrewCo/skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:34Z",
-    "url": "https://github.com/LogBrewCo/skills"
-  },
-  {
-    "description": "\u5c0f\u767d\u53ef\u6267\u884c\u7684\u589e\u957f\u5b9e\u9a8c\u6e05\u5355\uff1a\u4ece\u6760\u6746\u8bca\u65ad\u5230\u590d\u76d8 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-user-growth",
-    "id": "lhg-plugs/lhg-user-growth",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-user-growth",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:29Z",
-    "url": "https://github.com/lhg-plugs/lhg-user-growth"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u7528\u7684\u5e7f\u544a\u6295\u653e\u65b9\u6cd5\u8bba\uff1a\u7b56\u7565/\u7d20\u6750/\u590d\u76d8\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-ads",
-    "id": "lhg-plugs/lhg-ads",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-ads",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:24Z",
-    "url": "https://github.com/lhg-plugs/lhg-ads"
-  },
-  {
-    "description": "API \u5bf9\u63a5\u4e13\u5bb6\uff1a\u6587\u6863\u2192\u9274\u6743\u2192\u5c01\u88c5\u2192\u91cd\u8bd5\u9650\u6d41\u2192\u8054\u8c03\u81ea\u68c0\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-api-integration",
-    "id": "lhg-plugs/lhg-api-integration",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-api-integration",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:18Z",
-    "url": "https://github.com/lhg-plugs/lhg-api-integration"
-  },
-  {
-    "description": "\u52a8\u6548\u89c6\u9891\u4e13\u5bb6\uff1a\u9700\u6c42\u2192\u5bfc\u6f14brief\u2192\u7eaf\u4ee3\u7801\u6e32\u67d3\u2192\u6210\u7247\u5bfc\u51fa \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-motion-video",
-    "id": "lhg-plugs/lhg-motion-video",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-motion-video",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:13Z",
-    "url": "https://github.com/lhg-plugs/lhg-motion-video"
-  },
-  {
-    "description": "\u64ad\u5ba2\u5236\u4f5c\u4e13\u5bb6\uff1a\u9009\u9898\u2192\u5f55\u5236\u2192\u526a\u8f91\u2192shownotes\u2192\u5206\u53d1\uff0c\u4e00\u671f\u8282\u76ee\u5168\u6d41\u7a0b \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-podcast",
-    "id": "lhg-plugs/lhg-podcast",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-podcast",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:07Z",
-    "url": "https://github.com/lhg-plugs/lhg-podcast"
-  },
-  {
-    "description": "\u5f00\u6e90\u51b7\u542f\u52a8\u4e13\u5bb6\uff1aREADME\u2192launch \u7d20\u6750\u2192\u4e00\u952e\u6210\u7247\u6307\u5f15 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-oss-launch",
-    "id": "lhg-plugs/lhg-oss-launch",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-oss-launch",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:01Z",
-    "url": "https://github.com/lhg-plugs/lhg-oss-launch"
-  },
-  {
-    "description": "Telegram automation for coding agents \u2014 Claude Code plugin + tg-agent CLI. Read/send messages, manage channels, media, a",
-    "id": "axisrow/tg_content_factory",
-    "language": "Python",
-    "name": "axisrow/tg_content_factory",
-    "stars": 37,
-    "updated_at": "2026-10-26T12:43:57Z",
-    "url": "https://github.com/axisrow/tg_content_factory"
-  },
-  {
-    "description": "SOP\u6c89\u6dc0\u4e13\u5bb6\uff1a\u6d41\u7a0b\u8bbf\u8c08\u63d0\u7eb2\u2192SOP\u6587\u6863\u751f\u6210\u2192\u68c0\u67e5\u6e05\u5355\u2192\u7248\u672c\u7ba1\u7406 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-sop",
-    "id": "lhg-plugs/lhg-sop",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-sop",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:43:55Z",
-    "url": "https://github.com/lhg-plugs/lhg-sop"
-  },
-  {
-    "description": "\u5e97\u94fa\u8fd0\u8425\u4e13\u5bb6\uff1a\u9009\u54c1\u2192\u4e0a\u67b6\u2192\u6807\u9898/\u4e3b\u56fe\u4f18\u5316\u2192\u6570\u636e\u590d\u76d8\uff0c\u65b9\u6cd5\u8bba\u4e0e\u68c0\u67e5\u6e05\u5355\u4e00\u6b21\u914d\u9f50 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-taobao",
-    "id": "lhg-plugs/lhg-taobao",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-taobao",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:49Z",
-    "url": "https://github.com/lhg-plugs/lhg-taobao"
-  },
-  {
-    "description": "Lets you centrally define and sync your coding agent configurations, skills and instructions",
-    "id": "chrysogonus/power-agents",
-    "language": "Python",
-    "name": "chrysogonus/power-agents",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:43:47Z",
-    "url": "https://github.com/chrysogonus/power-agents"
-  },
-  {
-    "description": "\u793e\u7fa4\u8fd0\u8425\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u642d\u51fa\u80fd\u7559\u4eba\u7684\u793e\u7fa4\uff08\u5b9a\u4f4d\u2192\u5165\u7fa4SOP\u2192\u5185\u5bb9\u65e5\u5386\u2192\u8f6c\u5316\u8bdd\u672f\u2192\u6d41\u5931\u53ec\u56de\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-community",
-    "id": "lhg-plugs/lhg-community",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-community",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:43Z",
-    "url": "https://github.com/lhg-plugs/lhg-community"
-  },
-  {
-    "description": "\u52b3\u52a8\u7ef4\u6743\u52a9\u624b\uff1a\u7ea0\u7eb7\u573a\u666f\u2192\u4ef2\u88c1\u6d41\u7a0b\u6307\u5f15\u2192\u6587\u4e66\u6a21\u677f\u2192\u8bc1\u636e\u6e05\u5355 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-labor-rights",
-    "id": "lhg-plugs/lhg-labor-rights",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-labor-rights",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:37Z",
-    "url": "https://github.com/lhg-plugs/lhg-labor-rights"
-  },
-  {
-    "description": "Codex delegation for mattpocock/skills (unofficial): Claude Code leads, Codex workers research, review plans and impleme",
-    "id": "starpia-forge/codex-delegate",
-    "language": "JavaScript",
-    "name": "starpia-forge/codex-delegate",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:33Z",
-    "url": "https://github.com/starpia-forge/codex-delegate"
-  },
-  {
-    "description": "\u5ba0\u7269\u517b\u62a4\u4e13\u5bb6\uff1a\u6863\u6848\u2192\u9a71\u866b/\u75ab\u82d7/\u996e\u98df\u65f6\u95f4\u8868\u2192\u5065\u5eb7 checklist \u4e00\u952e\u751f\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-pet-care",
-    "id": "lhg-plugs/lhg-pet-care",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-pet-care",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:32Z",
-    "url": "https://github.com/lhg-plugs/lhg-pet-care"
-  },
-  {
-    "description": "Seaworthy verifies websites for agents: one command checks any built static site and returns a versioned report with loc",
-    "id": "arminazimi/seaworthy",
-    "language": "TypeScript",
-    "name": "arminazimi/seaworthy",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:29Z",
-    "url": "https://github.com/arminazimi/seaworthy"
-  },
-  {
-    "description": "\u5b66\u672f\u56fe\u8868\u4e13\u5bb6\uff1a\u6570\u636e\u2192\u671f\u520a\u914d\u56fe\u89c4\u8303\u2192\u56fe\u8868\u751f\u6210\u2192\u89c4\u8303\u811a\u672c\u6821\u9a8c\uff0c\u6295\u7a3f\u524d\u4e00\u6b21\u8fc7\u5173 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-sci-figure",
-    "id": "lhg-plugs/lhg-sci-figure",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-sci-figure",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:26Z",
-    "url": "https://github.com/lhg-plugs/lhg-sci-figure"
-  },
-  {
-    "description": "Hebrew-first LinkedIn agent skill for Claude: writes posts in natural Israeli Hebrew, humanizes and scores every draft, ",
-    "id": "galasulin/linkedin-agent-he",
-    "language": "Python",
-    "name": "galasulin/linkedin-agent-he",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:24Z",
-    "url": "https://github.com/galasulin/linkedin-agent-he"
-  },
-  {
-    "description": "\u8de8\u5883\u9009\u54c1\u4e13\u5bb6\uff1a\u76ee\u6807\u5e02\u573a\u2192\u4e94\u7ef4\u6253\u5206\u8868\u2192\u4f9b\u5e94\u94fe checklist\u2192\u98ce\u9669\u6e05\u5355 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-product-pick",
-    "id": "lhg-plugs/lhg-product-pick",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-product-pick",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:20Z",
-    "url": "https://github.com/lhg-plugs/lhg-product-pick"
-  },
-  {
-    "description": "\u95ee\u5377\u5206\u6790\u4e13\u5bb6\uff1aCSV\u95ee\u5377\u6570\u636e\u2192\u6e05\u6d17\u2192\u7edf\u8ba1\u2192\u56fe\u8868\u2192\u7ed3\u8bba\u62a5\u544a\u4e00\u952e\u751f\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-survey",
-    "id": "lhg-plugs/lhg-survey",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-survey",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:15Z",
-    "url": "https://github.com/lhg-plugs/lhg-survey"
-  },
-  {
-    "description": "\u5546\u4e1a\u8ba1\u5212\u4e66\u4e13\u5bb6\uff1a\u4fe1\u606f\u8f93\u5165\u2192\u4e5d\u7ae0\u751f\u6210\u2192\u6295\u8d44\u4eba\u81ea\u68c0\u219210\u9875\u8def\u6f14\u7248 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-bp",
-    "id": "lhg-plugs/lhg-bp",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-bp",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:09Z",
-    "url": "https://github.com/lhg-plugs/lhg-bp"
-  },
-  {
-    "description": "Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text",
-    "id": "minhnhattonthat/translate-retro-game",
-    "language": "Python",
-    "name": "minhnhattonthat/translate-retro-game",
-    "stars": 7,
-    "updated_at": "2026-10-26T12:43:08Z",
-    "url": "https://github.com/minhnhattonthat/translate-retro-game"
-  },
-  {
-    "description": "\u6d4f\u89c8\u5668\u63d2\u4ef6\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u60f3\u6cd5\u751f\u6210MV3\u6d4f\u89c8\u5668\u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-browser-ext",
-    "id": "lhg-plugs/lhg-browser-ext",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-browser-ext",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:43:00Z",
-    "url": "https://github.com/lhg-plugs/lhg-browser-ext"
-  },
-  {
-    "description": "Check SRT and WebVTT captions against Netflix, BBC and DCMP Captioning Key limits: reading speed, line length, lines, du",
-    "id": "markksantos/caption-checker",
-    "language": "Python",
-    "name": "markksantos/caption-checker",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:56Z",
-    "url": "https://github.com/markksantos/caption-checker"
-  },
-  {
-    "description": "Control the hinge angle of iPhone Duo Simulator from the CLI or AI agents",
-    "id": "artemnovichkov/hinge",
-    "language": "Shell",
-    "name": "artemnovichkov/hinge",
-    "stars": 24,
-    "updated_at": "2026-10-26T12:42:49Z",
-    "url": "https://github.com/artemnovichkov/hinge"
-  },
-  {
-    "description": "Dokimi (Greek \u03b4\u03bf\u03ba\u03b9\u03bc\u03ae, \"test, proof\") measures whether a skill, MCP doc source, agent profile or repository guidance actu",
-    "id": "intel/dokimi",
-    "language": "Python",
-    "name": "intel/dokimi",
-    "stars": 8,
-    "updated_at": "2026-10-26T12:42:49Z",
-    "url": "https://github.com/intel/dokimi"
-  },
-  {
-    "description": "\u8bfe\u7a0b\u5236\u4f5c\u4e13\u5bb6\uff1a\u5927\u7eb2\u5230\u8bd5\u542c\u8bfe\uff0c\u4e00\u95e8\u77e5\u8bc6\u4ed8\u8d39\u8bfe\u4ece 0 \u5230\u53ef\u4ea4\u4ed8 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-course-create",
-    "id": "lhg-plugs/lhg-course-create",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-course-create",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:47Z",
-    "url": "https://github.com/lhg-plugs/lhg-course-create"
-  },
-  {
-    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
-    "id": "azrianobr/dramazing",
-    "language": "JavaScript",
-    "name": "azrianobr/dramazing",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:42:42Z",
-    "url": "https://github.com/azrianobr/dramazing"
-  },
-  {
-    "description": "H5\u6e38\u620f\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u751f\u6210\u53ef\u73a9\u7684H5\u5c0f\u6e38\u620f \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-mini-game",
-    "id": "lhg-plugs/lhg-mini-game",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-mini-game",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:40Z",
-    "url": "https://github.com/lhg-plugs/lhg-mini-game"
-  },
-  {
-    "description": "Pressure-test decisions with a 5-seat AI council: four opposed advisors + a zero-context Outsider who delivers the verdi",
-    "id": "ehsandaryaei/prism-council",
-    "language": "Python",
-    "name": "ehsandaryaei/prism-council",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:37Z",
-    "url": "https://github.com/ehsandaryaei/prism-council"
-  },
-  {
-    "description": "\u76f4\u64ad\u8bdd\u672f\u4e13\u5bb6\uff1a\u5f00\u64ad\u94a9\u5b50\u5230\u903c\u5355\u6210\u4ea4\uff0c\u76f4\u64ad\u8bdd\u672f\u4e00\u6b21\u5199\u5b8c \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-live-script",
-    "id": "lhg-plugs/lhg-live-script",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-live-script",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:35Z",
-    "url": "https://github.com/lhg-plugs/lhg-live-script"
-  },
-  {
-    "description": "\u4fe1\u606f\u56fe\u8868\u4e13\u5bb6\uff1a\u6570\u636e/\u6587\u7ae0\u2192\u56fe\u8868\u9009\u578b\u2192Canvas \u786e\u5b9a\u6027\u7ed8\u5236\u2192\u624b\u673a\u7aef\u53ef\u8bfb\u6027\u5ba1\u8ba1\uff0c\u5c0f\u767d\u4e5f\u80fd\u505a\u51fa\u7248\u7ea7\u4fe1\u606f\u56fe \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-infographic",
-    "id": "lhg-plugs/lhg-infographic",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-infographic",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:29Z",
-    "url": "https://github.com/lhg-plugs/lhg-infographic"
-  },
-  {
-    "description": "Logo\u8bbe\u8ba1\u4e13\u5bb6\uff1a\u54c1\u724c\u7b80\u4ecb\u2192\u591a\u7248\u6982\u5ff5\u2192\u51e0\u4f55\u89c4\u8303\u2192\u591a\u5c3a\u5bf8\u5bfc\u51fa\u2192\u5e94\u7528\u81ea\u68c0 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-logo",
-    "id": "lhg-plugs/lhg-logo",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-logo",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:23Z",
-    "url": "https://github.com/lhg-plugs/lhg-logo"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e00\u53e5\u8bdd\u751f\u6210\u6570\u636e\u770b\u677f\u89c4\u683c\u7684 Claude Code \u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-dashboard",
-    "id": "lhg-plugs/lhg-dashboard",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:18Z",
-    "url": "https://github.com/lhg-plugs/lhg-dashboard"
-  },
-  {
-    "description": "Open platform for running Managed Agents at scale",
-    "id": "invergent-ai/surogates",
-    "language": "Python",
-    "name": "invergent-ai/surogates",
-    "stars": 28,
-    "updated_at": "2026-10-26T12:44:42Z",
-    "url": "https://github.com/invergent-ai/surogates"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u5199\u4e13\u4e1a\u590d\u76d8\u7684 Claude Code \u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-ecom-report",
-    "id": "lhg-plugs/lhg-ecom-report",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-ecom-report",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:12Z",
-    "url": "https://github.com/lhg-plugs/lhg-ecom-report"
-  },
-  {
-    "description": "\u793e\u5a92\u8fd0\u8425\u4e13\u5bb6\uff1a\u8d26\u53f7\u5b9a\u4f4d\u2192\u5185\u5bb9\u65e5\u5386\u2192\u591a\u5e73\u53f0\u5206\u53d1\u7b56\u7565\u2192\u6570\u636e\u590d\u76d8\uff0c\u7b56\u7565+\u590d\u76d8\u95ed\u73af \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-social-ops",
-    "id": "lhg-plugs/lhg-social-ops",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-social-ops",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:06Z",
-    "url": "https://github.com/lhg-plugs/lhg-social-ops"
-  },
-  {
-    "description": "Agent Skills for computational biology \u2014 RNA-seq, single-cell, protein structure, molecular dynamics, peptide design, li",
-    "id": "ssinder/bioinformatics-agent-skills",
-    "language": "Python",
-    "name": "ssinder/bioinformatics-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:01Z",
-    "url": "https://github.com/ssinder/bioinformatics-agent-skills"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e5f\u80fd\u505a\u51fa\u9ad8\u70b9\u51fb\u4e3b\u56fe\u7684 Claude Code \u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-ecom-design",
-    "id": "lhg-plugs/lhg-ecom-design",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-ecom-design",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:42:00Z",
-    "url": "https://github.com/lhg-plugs/lhg-ecom-design"
-  },
-  {
-    "description": "\u4e66\u7c4d\u7ffb\u8bd1\u4e13\u5bb6\uff1a\u672f\u8bed\u8868\u9501\u5b9a\u2192\u7ae0\u8282\u7ffb\u8bd1\u2192\u4e00\u81f4\u6027\u5ba1\u8ba1\u2192\u8bd1\u8005\u4f53\u6da6\u8272\uff0c\u4ea4\u4ed8\u51fa\u7248\u7ea7\u4e2d\u6587\u8bd1\u7a3f \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-book-translate",
-    "id": "lhg-plugs/lhg-book-translate",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-book-translate",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:54Z",
-    "url": "https://github.com/lhg-plugs/lhg-book-translate"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e00\u53e5\u8bdd\u751f\u6210\u5b8c\u6574\u6559\u6848\u7684 Claude Code \u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-lesson-plan",
-    "id": "lhg-plugs/lhg-lesson-plan",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-lesson-plan",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:49Z",
-    "url": "https://github.com/lhg-plugs/lhg-lesson-plan"
-  },
-  {
-    "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI",
-    "id": "citrolabs/ego-lite",
-    "language": "JavaScript",
-    "name": "citrolabs/ego-lite",
-    "stars": 19660,
-    "updated_at": "2026-10-26T12:41:47Z",
-    "url": "https://github.com/citrolabs/ego-lite"
-  },
-  {
-    "description": "\u7206\u6b3e\u6807\u9898\u4e13\u5bb6\uff1a\u4e3b\u9898/\u5185\u5bb9\u2192\u591a\u5e73\u53f0\u6807\u9898\u516c\u5f0f\u751f\u6210\u2192\u654f\u611f\u8bcd\u68c0\u6d4b\u2192\u70b9\u51fb\u7387\u6253\u5206 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-headline",
-    "id": "lhg-plugs/lhg-headline",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-headline",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:43Z",
-    "url": "https://github.com/lhg-plugs/lhg-headline"
-  },
-  {
-    "description": "\u7ade\u54c1\u5206\u6790\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u751f\u6210\u7ade\u54c1\u60c5\u62a5\u62a5\u544a\uff08\u4e94\u7ef4\u6846\u67b6+\u5bf9\u6bd4\u77e9\u9635+SWOT+\u5dee\u5f02\u5316\u5efa\u8bae\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-competitor",
-    "id": "lhg-plugs/lhg-competitor",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-competitor",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:37Z",
-    "url": "https://github.com/lhg-plugs/lhg-competitor"
-  },
-  {
-    "description": "Development tool for Fibaro Home automation QuickApps",
-    "id": "jangabrielsson/flua",
-    "language": "HTML",
-    "name": "jangabrielsson/flua",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:41:35Z",
-    "url": "https://github.com/jangabrielsson/flua"
-  },
-  {
-    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
-    "id": "MalikKhaledSaid/agent-skills",
-    "language": "Python",
-    "name": "MalikKhaledSaid/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:34Z",
-    "url": "https://github.com/MalikKhaledSaid/agent-skills"
-  },
-  {
-    "description": "\u85aa\u916c\u8c08\u5224\u4e13\u5bb6\uff1a\u7b56\u7565\u5230\u8bdd\u672f\u6f14\u7ec3\u7684\u8c08\u5224\u51c6\u5907 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-salary-talk",
-    "id": "lhg-plugs/lhg-salary-talk",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-salary-talk",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:32Z",
-    "url": "https://github.com/lhg-plugs/lhg-salary-talk"
-  },
-  {
-    "description": "mining industry vertical-domain MACKORN cone crusher plugin: MACKORN NH/NS hydraulic cone crushers, comparable to Sandvi",
-    "id": "LeifDai/MACKORN-hydraulic-cone-crusher",
-    "language": "JavaScript",
-    "name": "LeifDai/MACKORN-hydraulic-cone-crusher",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:41:32Z",
-    "url": "https://github.com/LeifDai/MACKORN-hydraulic-cone-crusher"
-  },
-  {
-    "description": "Browser-native multi-provider AI client with chat, Agents, MCP, Skills, Plugins, Decisions, BYOK/OAuth and human-in-the-",
-    "id": "achappey/aihappey-chat",
-    "language": "TypeScript",
-    "name": "achappey/aihappey-chat",
-    "stars": 6,
-    "updated_at": "2026-10-26T12:41:29Z",
-    "url": "https://github.com/achappey/aihappey-chat"
-  },
-  {
-    "description": "\u8425\u517b\u98df\u8c31\u4e13\u5bb6\uff1a\u4e00\u5468\u98df\u8c31\u4e0e\u91c7\u8d2d\u6e05\u5355\u4e00\u952e\u751f\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-meal-plan",
-    "id": "lhg-plugs/lhg-meal-plan",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-meal-plan",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:27Z",
-    "url": "https://github.com/lhg-plugs/lhg-meal-plan"
-  },
-  {
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
-    "id": "scenario-labs/skills",
-    "language": "Python",
-    "name": "scenario-labs/skills",
-    "stars": 1146,
-    "updated_at": "2026-10-26T12:41:51Z",
-    "url": "https://github.com/scenario-labs/skills"
-  },
-  {
-    "description": "\u5546\u4e1a\u5206\u6790\u62a5\u544a\u4e13\u5bb6\uff1a\u539f\u59cb\u6570\u636e\u5230\u56fe\u6587\u62a5\u544a\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-biz-report",
-    "id": "lhg-plugs/lhg-biz-report",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-biz-report",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:20Z",
-    "url": "https://github.com/lhg-plugs/lhg-biz-report"
-  },
-  {
-    "description": "\u72ec\u7acb\u7ad9\u5efa\u7ad9\u4e13\u5bb6\uff1a\u4ece\u9009\u54c1\u9875\u5230\u7ed3\u8d26\u7684\u5f00\u5e97\u6d41\u6c34\u7ebf \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-shopify",
-    "id": "lhg-plugs/lhg-shopify",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-shopify",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:15Z",
-    "url": "https://github.com/lhg-plugs/lhg-shopify"
-  },
-  {
-    "description": "\u77ed\u5267\u5267\u672c\u4e13\u5bb6\uff1a\u9898\u6750\u5230\u5206\u96c6\u5267\u672c\u7684\u7206\u6b3e\u6d41\u6c34\u7ebf \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-drama-script",
-    "id": "lhg-plugs/lhg-drama-script",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-drama-script",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:07Z",
-    "url": "https://github.com/lhg-plugs/lhg-drama-script"
-  },
-  {
-    "description": "\u7f51\u6587\u5199\u4f5c\u4e13\u5bb6\uff1a\u9898\u6750\u5230\u9010\u7ae0\u8fde\u8f7d\u7684\u5199\u4f5c\u6d41\u6c34\u7ebf \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-fiction",
-    "id": "lhg-plugs/lhg-fiction",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-fiction",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:41:02Z",
-    "url": "https://github.com/lhg-plugs/lhg-fiction"
-  },
-  {
-    "description": "\u6587\u732e\u7efc\u8ff0\u4e13\u5bb6\uff1a\u4ece\u6587\u732e\u6536\u96c6\u5230\u89c4\u8303\u5f15\u7528\u7684\u5199\u4f5c\u6d41\u6c34\u7ebf \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-lit-review",
-    "id": "lhg-plugs/lhg-lit-review",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-lit-review",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:56Z",
-    "url": "https://github.com/lhg-plugs/lhg-lit-review"
-  },
-  {
-    "description": "Vendor-neutral security, verification, and enforcement framework for AI agent skills",
-    "id": "domehahn/skil",
-    "language": "Go",
-    "name": "domehahn/skil",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:40:54Z",
-    "url": "https://github.com/domehahn/skil"
-  },
-  {
-    "description": "\u7559\u5b66\u6587\u4e66\u4e13\u5bb6\uff1aPS\u4e0e\u63a8\u8350\u4fe1\u7684\u7ed3\u6784\u5316\u5199\u4f5c \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-study-abroad",
-    "id": "lhg-plugs/lhg-study-abroad",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-study-abroad",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:50Z",
-    "url": "https://github.com/lhg-plugs/lhg-study-abroad"
-  },
-  {
-    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
-    "id": "JetBrains/thinkrail",
-    "language": "TypeScript",
-    "name": "JetBrains/thinkrail",
-    "stars": 2326,
-    "updated_at": "2026-10-26T12:40:47Z",
-    "url": "https://github.com/JetBrains/thinkrail"
-  },
-  {
-    "description": "Ismail: A high bandwidth agentic interface. Includes Agentic DAW and Agentic VR stage with Evolvable Phone Interface. Ha",
-    "id": "newsbubbles/ismail",
-    "language": "Python",
-    "name": "newsbubbles/ismail",
-    "stars": 17,
-    "updated_at": "2026-10-26T12:44:48Z",
-    "url": "https://github.com/newsbubbles/ismail"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e13\u5bb6\u63d2\u4ef6\u5e02\u573a\uff1a86 \u4e2a\u4e00\u53e5\u8bdd\u8c03\u7528\u7684\u5782\u76f4\u9886\u57df\u63d2\u4ef6 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/marketplace",
-    "id": "lhg-plugs/marketplace",
-    "language": "\u2014",
-    "name": "lhg-plugs/marketplace",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:42Z",
-    "url": "https://github.com/lhg-plugs/marketplace"
-  },
-  {
-    "description": "\u5c0f\u7ea2\u4e66\u79cd\u8349\u4e13\u5bb6\uff1a\u5356\u70b9\u5230\u7206\u6b3e\u7b14\u8bb0\u4e00\u952e\u751f\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-xiaohongshu",
-    "id": "lhg-plugs/lhg-xiaohongshu",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-xiaohongshu",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:37Z",
-    "url": "https://github.com/lhg-plugs/lhg-xiaohongshu"
-  },
-  {
-    "description": "PPT\u5236\u4f5c\u4e13\u5bb6\uff1a\u8ff0\u804c\u878d\u8d44\u7b54\u8fa9\u4e00\u952e\u6210\u7a3f \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-ppt",
-    "id": "lhg-plugs/lhg-ppt",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-ppt",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:32Z",
-    "url": "https://github.com/lhg-plugs/lhg-ppt"
-  },
-  {
-    "description": "9 Hidden Perfex CRM Module Breaking Rules 2026 \u2013 Best Developer Safety Checklist",
-    "id": "adaltomatos01/perfex-crm-guardrails",
-    "language": "HTML",
-    "name": "adaltomatos01/perfex-crm-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:40:31Z",
-    "url": "https://github.com/adaltomatos01/perfex-crm-guardrails"
-  },
-  {
-    "description": "\u516c\u4f17\u53f7\u5199\u4f5c\u4e13\u5bb6\uff1a\u9009\u9898\u5230\u6392\u7248\u4e00\u6c14\u5475\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-wechat-article",
-    "id": "lhg-plugs/lhg-wechat-article",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-wechat-article",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:26Z",
-    "url": "https://github.com/lhg-plugs/lhg-wechat-article"
-  },
-  {
-    "description": "\u7b80\u5386\u4f18\u5316\u4e13\u5bb6\uff1aATS\u8bca\u65ad\u5230\u6a21\u62df\u9762\u8bd5\u4e00\u6761\u9f99 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-resume",
-    "id": "lhg-plugs/lhg-resume",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-resume",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:21Z",
-    "url": "https://github.com/lhg-plugs/lhg-resume"
-  },
-  {
-    "description": "Open-source Notis skills and hosted MCP integration metadata",
-    "id": "mindtheflo/notis-skills",
-    "language": "Python",
-    "name": "mindtheflo/notis-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:18Z",
-    "url": "https://github.com/mindtheflo/notis-skills"
-  },
-  {
-    "description": "Discover and install plugins and skills for AI coding agents, with a searchable catalog and automated provider updates.",
-    "id": "dmgrok/agent-plugins",
-    "language": "Python",
-    "name": "dmgrok/agent-plugins",
-    "stars": 19,
-    "updated_at": "2026-10-26T12:40:15Z",
-    "url": "https://github.com/dmgrok/agent-plugins"
-  },
-  {
-    "description": "\u5408\u540c\u5ba1\u67e5\u52a9\u624b\uff1a\u98ce\u9669\u6761\u6b3e\u6807\u7ea2+\u4fee\u6539\u5efa\u8bae \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-contract",
-    "id": "lhg-plugs/lhg-contract",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-contract",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:13Z",
-    "url": "https://github.com/lhg-plugs/lhg-contract"
-  },
-  {
-    "description": "\u77e5\u8bc6\u9a71\u52a8\u7684\u6607\u817e\u8bad\u7ec3/\u63a8\u7406\u8bca\u65ad skill \u5957\u4ef6 \u2014 Ascend training/inference diagnosis skill suite (5 skills + 3-tier knowledge base, Agent Skill",
-    "id": "pillumina/ascend-sleuth",
-    "language": "Python",
-    "name": "pillumina/ascend-sleuth",
-    "stars": 5,
-    "updated_at": "2026-10-26T12:40:12Z",
-    "url": "https://github.com/pillumina/ascend-sleuth"
-  },
-  {
-    "description": "Evergreen three.js skills, knowledge base and verification CLI for AI agents",
-    "id": "m4bwav/threewright",
-    "language": "JavaScript",
-    "name": "m4bwav/threewright",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:08Z",
-    "url": "https://github.com/m4bwav/threewright"
-  },
-  {
-    "description": "Notifications and questions from your coding agents to your phone. Your answer goes back to the exact session that asked",
-    "id": "Raidiant-io/notifai",
-    "language": "TypeScript",
-    "name": "Raidiant-io/notifai",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:40:07Z",
-    "url": "https://github.com/Raidiant-io/notifai"
-  },
-  {
-    "description": "Portable, evidence-grounded deep code-review bar for coding agents \u2014 default review-only, with opt-in overlays: gated de",
-    "id": "protocol/perun",
-    "language": "Python",
-    "name": "protocol/perun",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:41:46Z",
-    "url": "https://github.com/protocol/perun"
-  },
-  {
-    "description": "",
-    "id": "shoji9x9/skills",
-    "language": "JavaScript",
-    "name": "shoji9x9/skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:18Z",
-    "url": "https://github.com/shoji9x9/skills"
-  },
-  {
-    "description": "\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u751f\u6210\u5fae\u4fe1\u5c0f\u7a0b\u5e8f \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-miniprogram",
-    "id": "lhg-plugs/lhg-miniprogram",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-miniprogram",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:40:04Z",
-    "url": "https://github.com/lhg-plugs/lhg-miniprogram"
-  },
-  {
-    "description": "\u53e3\u64ad\u526a\u8f91\u4e13\u5bb6\uff1a\u4e00\u53e5\u8bdd\u628a\u53e3\u64ad\u7d20\u6750\u526a\u6210\u7206\u6b3e\u77ed\u89c6\u9891 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-video-edit",
-    "id": "lhg-plugs/lhg-video-edit",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-video-edit",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:39:58Z",
-    "url": "https://github.com/lhg-plugs/lhg-video-edit"
-  },
-  {
-    "description": "Lauren Tan's pstack agent skills, ported to T3 Code so any model can lead and other models can review the work. Adds bri",
-    "id": "creedants/pstack-t3",
-    "language": "Python",
-    "name": "creedants/pstack-t3",
-    "stars": 16,
-    "updated_at": "2026-10-26T12:39:57Z",
-    "url": "https://github.com/creedants/pstack-t3"
-  },
-  {
-    "description": "\u5c0f\u767d\u4e00\u53e5\u8bdd\u751f\u6210\u9ad8\u8d28\u91cf\u5168\u6808\u5e94\u7528\uff1aNext.js+Supabase \u524d\u540e\u7aef\uff0b62 \u6761\u786e\u5b9a\u6027\u81ea\u67e5 \uff5c \u4e00\u952e\u5b89\u88c5\uff1a/plugin marketplace add lhg-plugs/lhg-fullstack",
-    "id": "lhg-plugs/lhg-fullstack",
-    "language": "Python",
-    "name": "lhg-plugs/lhg-fullstack",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:39:52Z",
-    "url": "https://github.com/lhg-plugs/lhg-fullstack"
   }
 ]
