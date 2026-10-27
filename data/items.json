@@ -1,12 +1,507 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-27T04:15:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "id": "morluto/rea",
+    "language": "TypeScript",
+    "name": "morluto/rea",
+    "stars": 392600,
+    "updated_at": "2026-10-27T04:15:14Z",
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "description": "Browser-native multi-provider AI client with chat, Agents, MCP, Skills, Plugins, Decisions, BYOK/OAuth and human-in-the-",
+    "id": "achappey/aihappey-chat",
+    "language": "TypeScript",
+    "name": "achappey/aihappey-chat",
+    "stars": 6,
+    "updated_at": "2026-10-27T04:15:01Z",
+    "url": "https://github.com/achappey/aihappey-chat"
+  },
+  {
+    "description": "Working rules and skills for AI coding agents: core rules, opt-in modifiers, your own layer and each repo's AGENTS.md",
+    "id": "bompus/house-rules",
+    "language": "JavaScript",
+    "name": "bompus/house-rules",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:14:57Z",
+    "url": "https://github.com/bompus/house-rules"
+  },
+  {
+    "description": "Production-grade Claude Code & Cowork plugins: skills, agents, hooks, MCP and LSP servers that automate everyday workflo",
+    "id": "nerymurillohnd/the-claude-factory",
+    "language": "Python",
+    "name": "nerymurillohnd/the-claude-factory",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:14:45Z",
+    "url": "https://github.com/nerymurillohnd/the-claude-factory"
+  },
+  {
+    "description": "Portable, evidence-grounded deep code-review bar for coding agents \u2014 default review-only, with opt-in overlays: gated de",
+    "id": "protocol/perun",
+    "language": "Python",
+    "name": "protocol/perun",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:14:16Z",
+    "url": "https://github.com/protocol/perun"
+  },
+  {
+    "description": "Portable engineering workflows for Cursor, Claude Code, and Codex",
+    "id": "csark0812/toolbox",
+    "language": "JavaScript",
+    "name": "csark0812/toolbox",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:13:32Z",
+    "url": "https://github.com/csark0812/toolbox"
+  },
+  {
+    "description": "Hermes Agent Production Knowledge Repository \u2014 406+ repos, AI Agent Marketplace, MCP servers, autonomous AI agent patter",
+    "id": "CorpusIQ/corpusiq-docs",
+    "language": "Python",
+    "name": "CorpusIQ/corpusiq-docs",
+    "stars": 26,
+    "updated_at": "2026-10-27T04:13:26Z",
+    "url": "https://github.com/CorpusIQ/corpusiq-docs"
+  },
+  {
+    "description": "Fast, model-agnostic AI coding harness and CLI in Rust \u2014 routes every task to the optimal model for cost \u00d7 capability.",
+    "id": "adulari/forge",
+    "language": "Rust",
+    "name": "adulari/forge",
+    "stars": 11,
+    "updated_at": "2026-10-27T04:13:16Z",
+    "url": "https://github.com/adulari/forge"
+  },
+  {
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent e",
+    "id": "squirrelscan/squirrelscan",
+    "language": "TypeScript",
+    "name": "squirrelscan/squirrelscan",
+    "stars": 298,
+    "updated_at": "2026-10-27T04:14:04Z",
+    "url": "https://github.com/squirrelscan/squirrelscan"
+  },
+  {
+    "description": "Drop-in thinking-partner personality layer for Claude Code, Cursor, ChatGPT, and 20+ AI agent runtimes. MIT. Plaintext. ",
+    "id": "agoradynamics/wick",
+    "language": "JavaScript",
+    "name": "agoradynamics/wick",
+    "stars": 4,
+    "updated_at": "2026-10-27T04:13:24Z",
+    "url": "https://github.com/agoradynamics/wick"
+  },
+  {
+    "description": "Actually good web retrieval for agents",
+    "id": "Alpine-Computing-Research/webtronix",
+    "language": "Rust",
+    "name": "Alpine-Computing-Research/webtronix",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:12:50Z",
+    "url": "https://github.com/Alpine-Computing-Research/webtronix"
+  },
+  {
+    "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Ch",
+    "id": "OyadotAI/oya-browser",
+    "language": "Rust",
+    "name": "OyadotAI/oya-browser",
+    "stars": 352,
+    "updated_at": "2026-10-27T04:12:36Z",
+    "url": "https://github.com/OyadotAI/oya-browser"
+  },
+  {
+    "description": "",
+    "id": "shoji9x9/skills",
+    "language": "JavaScript",
+    "name": "shoji9x9/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:13:55Z",
+    "url": "https://github.com/shoji9x9/skills"
+  },
+  {
+    "description": "Your users\u2019 questions fill the screen, then fold up over your product\u2019s real answers. Free omnigami skill for Claude Cod",
+    "id": "omnigami-ai/question-film",
+    "language": "JavaScript",
+    "name": "omnigami-ai/question-film",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:12:11Z",
+    "url": "https://github.com/omnigami-ai/question-film"
+  },
+  {
+    "description": "A personal marketplace of Agent Skills for organizing an Obsidian vault, compiling research into wikis, and writing prom",
+    "id": "bryancowan/skills",
+    "language": "Python",
+    "name": "bryancowan/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:12:08Z",
+    "url": "https://github.com/bryancowan/skills"
+  },
+  {
+    "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and a",
+    "id": "tedix-hq/tedix",
+    "language": "TypeScript",
+    "name": "tedix-hq/tedix",
+    "stars": 28,
+    "updated_at": "2026-10-27T04:12:08Z",
+    "url": "https://github.com/tedix-hq/tedix"
+  },
+  {
+    "description": "Antu (\u6848\u56fe): turn structured JSON into one offline HTML legal diagram: fact timelines, procedure flowcharts, relationship ",
+    "id": "zh-xx/Antu",
+    "language": "JavaScript",
+    "name": "zh-xx/Antu",
+    "stars": 8,
+    "updated_at": "2026-10-27T04:12:04Z",
+    "url": "https://github.com/zh-xx/Antu"
+  },
+  {
+    "description": "A ready-made setup to adopt with Repo Standards: AGENTS.md, agent skills, contribution guidelines, issue and PR template",
+    "id": "lutzseverino/repo-canon",
+    "language": "JavaScript",
+    "name": "lutzseverino/repo-canon",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:11:57Z",
+    "url": "https://github.com/lutzseverino/repo-canon"
+  },
+  {
+    "description": "Every claim machine-checked, including the artifact counts in these badges \u2014 governed skills, rules and replayable state",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 16,
+    "updated_at": "2026-10-27T04:11:13Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Publish HTML from your coding agent, share a link anyone can comment on, and pull the feedback back into chat. A skill f",
+    "id": "JeffreySun/artifacts-beam",
+    "language": "JavaScript",
+    "name": "JeffreySun/artifacts-beam",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:10:37Z",
+    "url": "https://github.com/JeffreySun/artifacts-beam"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107721,
+    "updated_at": "2026-10-27T04:10:24Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Portable agent skills with a guarded deployer for Claude Code, Codex, and GitHub Copilot",
+    "id": "EJRyan89/coding-agent-skills",
+    "language": "Python",
+    "name": "EJRyan89/coding-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:10:14Z",
+    "url": "https://github.com/EJRyan89/coding-agent-skills"
+  },
+  {
+    "description": "Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creati",
+    "id": "pycodebr/heditor",
+    "language": "Python",
+    "name": "pycodebr/heditor",
+    "stars": 100,
+    "updated_at": "2026-10-27T04:11:21Z",
+    "url": "https://github.com/pycodebr/heditor"
+  },
+  {
+    "description": "Agent skill that finds, vets, and installs free open-source tools and self-hosted alternatives from GitHub, with a trend",
+    "id": "aboalrejalai/find-oss",
+    "language": "\u2014",
+    "name": "aboalrejalai/find-oss",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:09:38Z",
+    "url": "https://github.com/aboalrejalai/find-oss"
+  },
+  {
+    "description": "Official agent skills for building with Blazing Agents",
+    "id": "blazingagents/skills",
+    "language": "JavaScript",
+    "name": "blazingagents/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:09:37Z",
+    "url": "https://github.com/blazingagents/skills"
+  },
+  {
+    "description": "Your durable workspace across AI agents.",
+    "id": "lsaint/aikito",
+    "language": "Python",
+    "name": "lsaint/aikito",
+    "stars": 129,
+    "updated_at": "2026-10-27T04:09:29Z",
+    "url": "https://github.com/lsaint/aikito"
+  },
+  {
+    "description": "AI agent skills for video, image, speech & music generation. Works with Claude Code, Cursor, Windsurf, OpenCode, ClawHub",
+    "id": "vargHQ/skills",
+    "language": "JavaScript",
+    "name": "vargHQ/skills",
+    "stars": 21,
+    "updated_at": "2026-10-27T04:08:53Z",
+    "url": "https://github.com/vargHQ/skills"
+  },
+  {
+    "description": "Java method tracing profiler. Records every method call under the methods you choose, with nothing sampled, and shows ea",
+    "id": "yagipass/verbatime",
+    "language": "Java",
+    "name": "yagipass/verbatime",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:08:56Z",
+    "url": "https://github.com/yagipass/verbatime"
+  },
+  {
+    "description": "Autonomous coding delivery for Hermes Agent: hand over a task, get back reviewed, verified code. Tests first, the projec",
+    "id": "chryzxc/cpipe",
+    "language": "Python",
+    "name": "chryzxc/cpipe",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:08:34Z",
+    "url": "https://github.com/chryzxc/cpipe"
+  },
+  {
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "id": "CherryHQ/cherry-studio",
+    "language": "TypeScript",
+    "name": "CherryHQ/cherry-studio",
+    "stars": 53012,
+    "updated_at": "2026-10-27T04:12:23Z",
+    "url": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "description": "AI media generation skills for Codex, Claude Code and other agents. Images, video and audio workflows using Magic Hour M",
+    "id": "magichourhq/skills",
+    "language": "Python",
+    "name": "magichourhq/skills",
+    "stars": 12,
+    "updated_at": "2026-10-27T04:08:19Z",
+    "url": "https://github.com/magichourhq/skills"
+  },
+  {
+    "description": "The open standard for agent coordination",
+    "id": "Cotal-AI/Cotal",
+    "language": "TypeScript",
+    "name": "Cotal-AI/Cotal",
+    "stars": 361,
+    "updated_at": "2026-10-27T04:14:39Z",
+    "url": "https://github.com/Cotal-AI/Cotal"
+  },
+  {
+    "description": "A personal catalog of explicit-use agent skills.",
+    "id": "newkirkjosh/skills",
+    "language": "Shell",
+    "name": "newkirkjosh/skills",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:07:57Z",
+    "url": "https://github.com/newkirkjosh/skills"
+  },
+  {
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "id": "github/awesome-copilot",
+    "language": "JavaScript",
+    "name": "github/awesome-copilot",
+    "stars": 40455,
+    "updated_at": "2026-10-27T04:07:42Z",
+    "url": "https://github.com/github/awesome-copilot"
+  },
+  {
+    "description": "Explicit, testable reasoning methods packaged as portable Agent Skills",
+    "id": "marcusrbrown/metacogs",
+    "language": "TypeScript",
+    "name": "marcusrbrown/metacogs",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:11:27Z",
+    "url": "https://github.com/marcusrbrown/metacogs"
+  },
+  {
+    "description": "\u500b\u4eba\u3067\u4f7f\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u306e\u30b9\u30ad\u30eb\u96c6\u3002",
+    "id": "rillflow/skills",
+    "language": "Python",
+    "name": "rillflow/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:06:31Z",
+    "url": "https://github.com/rillflow/skills"
+  },
+  {
+    "description": "Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plu",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 21,
+    "updated_at": "2026-10-27T04:05:53Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "Agent Skills that write logically structured HWPX, DOCX and PPTX documents. HWPX, DOCX, PPTX \ubb38\uc11c\ub97c \ub17c\ub9ac\uc801\uc73c\ub85c \uc791\uc131\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/biz-docgen-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/biz-docgen-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:05:48Z",
+    "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
+  },
+  {
+    "description": "Stop attackers from going around Cloudflare: an Agent Skill and zero-dependency tools to find, close and prove closed ev",
+    "id": "nizarchtioui/cloudflare-origin-protection",
+    "language": "Python",
+    "name": "nizarchtioui/cloudflare-origin-protection",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:06:29Z",
+    "url": "https://github.com/nizarchtioui/cloudflare-origin-protection"
+  },
+  {
+    "description": "BenchKeeper keeps your AI coding agents' workbench in order: Claude Code or Codex runs its skills to install and check r",
+    "id": "ESchuderer/BenchKeeper",
+    "language": "JavaScript",
+    "name": "ESchuderer/BenchKeeper",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:04:26Z",
+    "url": "https://github.com/ESchuderer/BenchKeeper"
+  },
+  {
     "description": "Where my hug at? Tell your AI agent what you want a model to do. It finds what Hugging Face, Kaggle, Zenodo, ModelScope ",
     "id": "bikemeardsley/where-my-hug",
     "language": "TypeScript",
     "name": "bikemeardsley/where-my-hug",
     "stars": 1,
-    "updated_at": "2026-10-27T04:00:27Z",
+    "updated_at": "2026-10-27T04:04:10Z",
     "url": "https://github.com/bikemeardsley/where-my-hug"
+  },
+  {
+    "description": "The open-source agent harness, ready out of the box and customizable in depth. Tools, context, durable execution, permis",
+    "id": "Youzini-afk/Varin",
+    "language": "TypeScript",
+    "name": "Youzini-afk/Varin",
+    "stars": 26,
+    "updated_at": "2026-10-27T04:10:23Z",
+    "url": "https://github.com/Youzini-afk/Varin"
+  },
+  {
+    "description": "Evidence-driven Agent Skills for Amazon product research, VOC intelligence, design patent risk, supplier feasibility, an",
+    "id": "PDBen-Auto/PDBen-Auto",
+    "language": "\u2014",
+    "name": "PDBen-Auto/PDBen-Auto",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:02:28Z",
+    "url": "https://github.com/PDBen-Auto/PDBen-Auto"
+  },
+  {
+    "description": "Create reviewable launch videos and OSS promotion packets from repositories, products, briefs, and media.",
+    "id": "rogerchappel/launchclip",
+    "language": "JavaScript",
+    "name": "rogerchappel/launchclip",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:02:10Z",
+    "url": "https://github.com/rogerchappel/launchclip"
+  },
+  {
+    "description": "Evidence-traceable multi-channel user personas, behavioral segmentation, variant screening, and A/B test planning. Indus",
+    "id": "PDBen-Auto/multi-channel-persona-research-skill",
+    "language": "Python",
+    "name": "PDBen-Auto/multi-channel-persona-research-skill",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:06:14Z",
+    "url": "https://github.com/PDBen-Auto/multi-channel-persona-research-skill"
+  },
+  {
+    "description": "Beautiful, AI-native markdown IDE and LLM wiki",
+    "id": "inkeep/open-knowledge",
+    "language": "TypeScript",
+    "name": "inkeep/open-knowledge",
+    "stars": 4707,
+    "updated_at": "2026-10-27T04:02:05Z",
+    "url": "https://github.com/inkeep/open-knowledge"
+  },
+  {
+    "description": "Agent skills collection for git, gh, and other workflows. Install with npx skills add cemcakirlar/skills",
+    "id": "cemcakirlar/skills",
+    "language": "Shell",
+    "name": "cemcakirlar/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:01:43Z",
+    "url": "https://github.com/cemcakirlar/skills"
+  },
+  {
+    "description": "ReaCut \u2014 REA \u00d7 CapCut: an independent, open-source video editor rebuilt from REA-assisted, authorized local behavior and",
+    "id": "Xiangyu-CAS/rea-capcut",
+    "language": "TypeScript",
+    "name": "Xiangyu-CAS/rea-capcut",
+    "stars": 83,
+    "updated_at": "2026-10-27T04:01:16Z",
+    "url": "https://github.com/Xiangyu-CAS/rea-capcut"
+  },
+  {
+    "description": "Original, portable agent skills for Claude Code, Codex, and other AI agents \u2014 with a searchable GitHub Pages catalog.",
+    "id": "TriunaLabs/skills",
+    "language": "HTML",
+    "name": "TriunaLabs/skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:01:13Z",
+    "url": "https://github.com/TriunaLabs/skills"
+  },
+  {
+    "description": "AI career journal + resume builder for Claude Code, Codex, Cursor & Antigravity. Log your wins as they happen (a brag do",
+    "id": "mileschintw/career-log-template",
+    "language": "Python",
+    "name": "mileschintw/career-log-template",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:01:15Z",
+    "url": "https://github.com/mileschintw/career-log-template"
+  },
+  {
+    "description": "See what your AI actually wrote. Watch it run. Check what it really did.",
+    "id": "RunReel/RunReel",
+    "language": "Python",
+    "name": "RunReel/RunReel",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:00:53Z",
+    "url": "https://github.com/RunReel/RunReel"
+  },
+  {
+    "description": "A Claude skill that checks your launch messaging everywhere it lives and tells you if it's safe to ship. For solo PMMs o",
+    "id": "samuelcahoon/launch-hygiene",
+    "language": "Python",
+    "name": "samuelcahoon/launch-hygiene",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:00:47Z",
+    "url": "https://github.com/samuelcahoon/launch-hygiene"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 44,
+    "updated_at": "2026-10-27T04:00:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 30,
+    "updated_at": "2026-10-27T04:00:35Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Build and revise procedural 3D assets with your coding agent. Local MCP server, CLI and TypeScript engine with rendered ",
+    "id": "instruktlabs/kiln",
+    "language": "TypeScript",
+    "name": "instruktlabs/kiln",
+    "stars": 299,
+    "updated_at": "2026-10-27T04:15:17Z",
+    "url": "https://github.com/instruktlabs/kiln"
   },
   {
     "description": "Agent skills for Claude Code, OpenCode, Codex and pi: font design, specs and tasks, pixel-perfect UI, TDD/EDD, multi-age",
@@ -36,42 +531,6 @@
     "url": "https://github.com/DDDFXYqiming/dsh-layered-memory"
   },
   {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 6,
-    "updated_at": "2026-10-27T04:00:18Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "id": "morluto/rea",
-    "language": "TypeScript",
-    "name": "morluto/rea",
-    "stars": 392542,
-    "updated_at": "2026-10-27T03:59:53Z",
-    "url": "https://github.com/morluto/rea"
-  },
-  {
-    "description": "Autonomous coding delivery for Hermes Agent: hand over a task, get back reviewed, verified code. Tests first, the projec",
-    "id": "chryzxc/cpipe",
-    "language": "Python",
-    "name": "chryzxc/cpipe",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:59:43Z",
-    "url": "https://github.com/chryzxc/cpipe"
-  },
-  {
-    "description": "Antu (\u6848\u56fe): turn structured JSON into one offline HTML legal diagram: fact timelines, procedure flowcharts, relationship ",
-    "id": "zh-xx/Antu",
-    "language": "JavaScript",
-    "name": "zh-xx/Antu",
-    "stars": 8,
-    "updated_at": "2026-10-27T03:59:34Z",
-    "url": "https://github.com/zh-xx/Antu"
-  },
-  {
     "description": "Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC",
     "id": "mblauberg/provenant",
     "language": "Rust",
@@ -86,17 +545,8 @@
     "language": "TypeScript",
     "name": "allxsmith/bestax",
     "stars": 13,
-    "updated_at": "2026-10-27T03:58:54Z",
+    "updated_at": "2026-10-27T04:14:28Z",
     "url": "https://github.com/allxsmith/bestax"
-  },
-  {
-    "description": "See what your AI actually wrote. Watch it run. Check what it really did.",
-    "id": "RunReel/RunReel",
-    "language": "Python",
-    "name": "RunReel/RunReel",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:59:15Z",
-    "url": "https://github.com/RunReel/RunReel"
   },
   {
     "description": "Ten reusable skills for projects, browsers, artifacts and computers connected through Paseo.",
@@ -104,7 +554,7 @@
     "language": "Python",
     "name": "wilgon456/Paseobility",
     "stars": 24,
-    "updated_at": "2026-10-27T03:58:29Z",
+    "updated_at": "2026-10-27T04:11:51Z",
     "url": "https://github.com/wilgon456/Paseobility"
   },
   {
@@ -135,6 +585,24 @@
     "url": "https://github.com/hesprs/harness"
   },
   {
+    "description": "One unified frontend design skill merging 7 open-source tools: design system extraction, anti-slop art direction, 24 pol",
+    "id": "CTO-DRS/design-arsenal",
+    "language": "TypeScript",
+    "name": "CTO-DRS/design-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-27T03:57:59Z",
+    "url": "https://github.com/CTO-DRS/design-arsenal"
+  },
+  {
+    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps,",
+    "id": "nexu-io/open-design",
+    "language": "TypeScript",
+    "name": "nexu-io/open-design",
+    "stars": 104193,
+    "updated_at": "2026-10-27T04:14:28Z",
+    "url": "https://github.com/nexu-io/open-design"
+  },
+  {
     "description": "Safe, quality-gated model+effort router for Claude Code - delegates cheap work down to save tokens, escalates hard/sensi",
     "id": "TheColliery/CoalTipple",
     "language": "JavaScript",
@@ -158,7 +626,7 @@
     "language": "TypeScript",
     "name": "mvschwarz/openrig",
     "stars": 8230,
-    "updated_at": "2026-10-27T03:57:22Z",
+    "updated_at": "2026-10-27T04:06:39Z",
     "url": "https://github.com/mvschwarz/openrig"
   },
   {
@@ -189,33 +657,6 @@
     "url": "https://github.com/sirkirby/routr"
   },
   {
-    "description": "A ready-made setup to adopt with Repo Standards: AGENTS.md, agent skills, contribution guidelines, issue and PR template",
-    "id": "lutzseverino/repo-canon",
-    "language": "JavaScript",
-    "name": "lutzseverino/repo-canon",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:56:54Z",
-    "url": "https://github.com/lutzseverino/repo-canon"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107717,
-    "updated_at": "2026-10-27T03:56:35Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "A Claude skill that checks your launch messaging everywhere it lives and tells you if it's safe to ship. For solo PMMs o",
-    "id": "samuelcahoon/launch-hygiene",
-    "language": "Python",
-    "name": "samuelcahoon/launch-hygiene",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:56:32Z",
-    "url": "https://github.com/samuelcahoon/launch-hygiene"
-  },
-  {
     "description": "AI-driven COMSOL automation for ethylene glycol electrolysis: verified 0D balances, 2D/3D reaction scenarios, literature",
     "id": "leoyong1983-spec/AI-COMSOL-Skill",
     "language": "Python",
@@ -232,33 +673,6 @@
     "stars": 128,
     "updated_at": "2026-10-27T03:56:24Z",
     "url": "https://github.com/apache/magpie"
-  },
-  {
-    "description": "One unified frontend design skill merging 7 open-source tools: design system extraction, anti-slop art direction, 24 pol",
-    "id": "CTO-DRS/design-arsenal",
-    "language": "TypeScript",
-    "name": "CTO-DRS/design-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:57:59Z",
-    "url": "https://github.com/CTO-DRS/design-arsenal"
-  },
-  {
-    "description": "Actually good web retrieval for agents",
-    "id": "Alpine-Computing-Research/webtronix",
-    "language": "Rust",
-    "name": "Alpine-Computing-Research/webtronix",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:55:43Z",
-    "url": "https://github.com/Alpine-Computing-Research/webtronix"
-  },
-  {
-    "description": "Create reviewable launch videos and OSS promotion packets from repositories, products, briefs, and media.",
-    "id": "rogerchappel/launchclip",
-    "language": "JavaScript",
-    "name": "rogerchappel/launchclip",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:55:35Z",
-    "url": "https://github.com/rogerchappel/launchclip"
   },
   {
     "description": "Dub a voice-over into another language with an AI agent: TTS timed to the original speaker, one profile per client",
@@ -288,15 +702,6 @@
     "url": "https://github.com/arminzou/dotbrain"
   },
   {
-    "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and a",
-    "id": "tedix-hq/tedix",
-    "language": "TypeScript",
-    "name": "tedix-hq/tedix",
-    "stars": 28,
-    "updated_at": "2026-10-27T03:54:22Z",
-    "url": "https://github.com/tedix-hq/tedix"
-  },
-  {
     "description": "Blueprints with Teeth \u2014 the blueprint conformance engine: authored architectural intent, enforced in CI.",
     "id": "blueprint-conformance/bce",
     "language": "HTML",
@@ -315,6 +720,15 @@
     "url": "https://github.com/mur4i/threads-autopilot"
   },
   {
+    "description": "Repair DSH sessions whose requests fail because historical attachment objects are missing from the local attachment stor",
+    "id": "chenkui-luo/dsh-session-attachment-repair",
+    "language": "JavaScript",
+    "name": "chenkui-luo/dsh-session-attachment-repair",
+    "stars": 0,
+    "updated_at": "2026-10-27T03:53:54Z",
+    "url": "https://github.com/chenkui-luo/dsh-session-attachment-repair"
+  },
+  {
     "description": "How I build software with coding agents: standing rules, skills and slash commands for omp",
     "id": "nategriffin26/nstack",
     "language": "Python",
@@ -331,15 +745,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:53:12Z",
     "url": "https://github.com/andresnator/agents-orchestrator"
-  },
-  {
-    "description": "Agent skill for designing and operating digital twins of ecosystems \u2014 lakes, rivers, agricultural land, air basins, cons",
-    "id": "Rigjite/Ecosystem-Digital-Twin",
-    "language": "Python",
-    "name": "Rigjite/Ecosystem-Digital-Twin",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:57:14Z",
-    "url": "https://github.com/Rigjite/Ecosystem-Digital-Twin"
   },
   {
     "description": "Spec-driven development where the review gate is enforced by a hook, not requested by prose. One plugin for Claude Code ",
@@ -369,15 +774,6 @@
     "url": "https://github.com/DarkWorldCoder/market-mirror"
   },
   {
-    "description": "Evidence-traceable multi-channel user personas, behavioral segmentation, variant screening, and A/B test planning. Indus",
-    "id": "PDBen-Auto/multi-channel-persona-research-skill",
-    "language": "Python",
-    "name": "PDBen-Auto/multi-channel-persona-research-skill",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:52:01Z",
-    "url": "https://github.com/PDBen-Auto/multi-channel-persona-research-skill"
-  },
-  {
     "description": "Cross-platform dotfiles managed by Chezmoi with Homebrew/apt and per-language version managers. One-command bootstrap fo",
     "id": "urmzd/dotfiles",
     "language": "Shell",
@@ -392,17 +788,8 @@
     "language": "Rust",
     "name": "JacobStephens2/thirdshift",
     "stars": 1,
-    "updated_at": "2026-10-27T03:51:31Z",
+    "updated_at": "2026-10-27T04:07:40Z",
     "url": "https://github.com/JacobStephens2/thirdshift"
-  },
-  {
-    "description": "A personal catalog of explicit-use agent skills.",
-    "id": "newkirkjosh/skills",
-    "language": "Shell",
-    "name": "newkirkjosh/skills",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:51:26Z",
-    "url": "https://github.com/newkirkjosh/skills"
   },
   {
     "description": "Reusable Agent Skills by VdustR",
@@ -410,7 +797,7 @@
     "language": "JavaScript",
     "name": "VdustR/skills",
     "stars": 1,
-    "updated_at": "2026-10-27T03:51:10Z",
+    "updated_at": "2026-10-27T04:11:38Z",
     "url": "https://github.com/VdustR/skills"
   },
   {
@@ -436,7 +823,7 @@
     "id": "DUNHKpcc/Claude-Guardian",
     "language": "Python",
     "name": "DUNHKpcc/Claude-Guardian",
-    "stars": 1009,
+    "stars": 1012,
     "updated_at": "2026-10-27T03:50:31Z",
     "url": "https://github.com/DUNHKpcc/Claude-Guardian"
   },
@@ -457,15 +844,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T03:50:01Z",
     "url": "https://github.com/sreejithraman/SreeStack"
-  },
-  {
-    "description": "Working rules and skills for AI coding agents: core rules, opt-in modifiers, your own layer and each repo's AGENTS.md",
-    "id": "bompus/house-rules",
-    "language": "JavaScript",
-    "name": "bompus/house-rules",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:58:12Z",
-    "url": "https://github.com/bompus/house-rules"
   },
   {
     "description": "A collection of AI agent skills and plugins for Hermes Agent \u2014 research, creative, productivity, devops, and more. Each ",
@@ -520,383 +898,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:48:10Z",
     "url": "https://github.com/ubeann/skills"
-  },
-  {
-    "description": "AI-authored 2D rigging and animation, verified before it is written. rigc compiles a rig spec into skeleton data in the ",
-    "id": "rig-c/core",
-    "language": "TypeScript",
-    "name": "rig-c/core",
-    "stars": 20,
-    "updated_at": "2026-10-27T03:47:44Z",
-    "url": "https://github.com/rig-c/core"
-  },
-  {
-    "description": "  A personal repository for managing Agent Skills used for Japanese Note/Qiita   article writing, companion-style techni",
-    "id": "igapyon/igapyon-agent-skills",
-    "language": "JavaScript",
-    "name": "igapyon/igapyon-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:47:32Z",
-    "url": "https://github.com/igapyon/igapyon-agent-skills"
-  },
-  {
-    "description": "Agent Skills as project dependencies: versioned, auditable, reproducible.",
-    "id": "AwayerCode/Harn",
-    "language": "Go",
-    "name": "AwayerCode/Harn",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:47:31Z",
-    "url": "https://github.com/AwayerCode/Harn"
-  },
-  {
-    "description": "Give AI agents ambitious work without losing the plot. nac is an open-source harness for long-running tasks, using a cen",
-    "id": "arcee-ai/nac",
-    "language": "Rust",
-    "name": "arcee-ai/nac",
-    "stars": 292,
-    "updated_at": "2026-10-27T03:59:53Z",
-    "url": "https://github.com/arcee-ai/nac"
-  },
-  {
-    "description": "Resources and demos for Build once, run on any agent.",
-    "id": "githubevents/build-once-run-on-any-agent",
-    "language": "JavaScript",
-    "name": "githubevents/build-once-run-on-any-agent",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:47:00Z",
-    "url": "https://github.com/githubevents/build-once-run-on-any-agent"
-  },
-  {
-    "description": "Development tools backing a-novel and a-novel-kit. Home of the a-novel CLI and AI skills.",
-    "id": "a-novel-kit/stack",
-    "language": "Go",
-    "name": "a-novel-kit/stack",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:46:57Z",
-    "url": "https://github.com/a-novel-kit/stack"
-  },
-  {
-    "description": "Portable, evidence-grounded deep code-review bar for coding agents \u2014 default review-only, with opt-in overlays: gated de",
-    "id": "protocol/perun",
-    "language": "Python",
-    "name": "protocol/perun",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:46:56Z",
-    "url": "https://github.com/protocol/perun"
-  },
-  {
-    "description": "Pulls the relevant changes from a pull request or a commit range, with the context a reviewer needs, into one verified r",
-    "id": "david-engelmann/recognitio",
-    "language": "Python",
-    "name": "david-engelmann/recognitio",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:45:55Z",
-    "url": "https://github.com/david-engelmann/recognitio"
-  },
-  {
-    "description": "\u901a\u7528 Agent Skill\uff1a45\u201390 \u79d2\u7ad6\u5c4f\u77ed\u89c6\u9891\u5236\u4f5c\u3001\u5b57\u5e55\u3001\u5305\u88c5\u3001\u72ec\u7acb\u5ba1\u6838\u4e0e\u7248\u672c\u4fdd\u62a4\u3002A host-agnostic video-production skill.",
-    "id": "YI163/video-production",
-    "language": "Python",
-    "name": "YI163/video-production",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:45:49Z",
-    "url": "https://github.com/YI163/video-production"
-  },
-  {
-    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-    "id": "CherryHQ/cherry-studio",
-    "language": "TypeScript",
-    "name": "CherryHQ/cherry-studio",
-    "stars": 53012,
-    "updated_at": "2026-10-27T03:45:45Z",
-    "url": "https://github.com/CherryHQ/cherry-studio"
-  },
-  {
-    "description": "\u9762\u5411\u4ea7\u54c1\u3001\u7814\u53d1\u3001\u6d4b\u8bd5\u4e09\u8f68\u7684 AI \u5de5\u4f5c\u6d41\u89c4\u8303\uff1a\u58f0\u660e\u5f0f YAML\u3001\u591a Agent \u534f\u4f5c\u3001HITL \u786e\u8ba4\u95e8\u3001\u5185\u7f6e\u6280\u80fd\u4e0e\u6587\u6863\u6cbb\u7406\u3002",
-    "id": "zhipenghhuang/AIWorkflow",
-    "language": "Python",
-    "name": "zhipenghhuang/AIWorkflow",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:45:43Z",
-    "url": "https://github.com/zhipenghhuang/AIWorkflow"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 44,
-    "updated_at": "2026-10-27T03:45:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 30,
-    "updated_at": "2026-10-27T04:00:35Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Read CrowdStrike Falcon from the shell with compact, structured results for agents and the humans running them.",
-    "id": "knowttl/falcon-axi",
-    "language": "Python",
-    "name": "knowttl/falcon-axi",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:45:24Z",
-    "url": "https://github.com/knowttl/falcon-axi"
-  },
-  {
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools ",
-    "id": "jmagly/aiwg",
-    "language": "TypeScript",
-    "name": "jmagly/aiwg",
-    "stars": 224,
-    "updated_at": "2026-10-27T03:45:11Z",
-    "url": "https://github.com/jmagly/aiwg"
-  },
-  {
-    "description": "\u77e5\u8862\uff1a\u9762\u5411\u9ad8\u8003\u3001\u8bfb\u7814\u4e0e\u6c42\u804c\u7684\u53d1\u5c55\u89c4\u5212\u6280\u80fd\u3002\u95ee\u5377 + AI Agent\uff0c\u7528\u5b98\u65b9\u6570\u636e\u7b97\u5fd7\u613f\u8868\u3001\u6bd4\u8f83\u8bfb\u7814\u8def\u5f84\u548c offer\u3002",
-    "id": "WJSGZZ/Zhiqu",
-    "language": "HTML",
-    "name": "WJSGZZ/Zhiqu",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:45:03Z",
-    "url": "https://github.com/WJSGZZ/Zhiqu"
-  },
-  {
-    "description": "\u4e3a DeepSeek Harness \u63d0\u4f9b\u7535\u8111\u63a7\u5236\u63d2\u4ef6\uff1a\u65b0\u9c9c Accessibility \u89c2\u6d4b\u3001\u8fc7\u671f\u72b6\u6001\u62d2\u7edd\u3001\u4f5c\u7528\u57df\u6743\u9650\u4e0e\u5b89\u5168\u8f93\u5165\uff08\u76ee\u524d\u652f\u6301macos\uff09\uff5cAccessibility-first macOS Computer Use bund",
-    "id": "Anionex/dsh-computer-use",
-    "language": "TypeScript",
-    "name": "Anionex/dsh-computer-use",
-    "stars": 75,
-    "updated_at": "2026-10-27T03:46:17Z",
-    "url": "https://github.com/Anionex/dsh-computer-use"
-  },
-  {
-    "description": "Ad Agent MCP plugin for Claude Code and Codex: plan, generate, edit and ship video ads with Creatify",
-    "id": "creatify-ai/creatify-ad-agent-skill",
-    "language": "JavaScript",
-    "name": "creatify-ai/creatify-ad-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:42:58Z",
-    "url": "https://github.com/creatify-ai/creatify-ad-agent-skill"
-  },
-  {
-    "description": "Which AI coding model, at which effort, on which plan? Recommended efforts, a leaderboard at those efforts and plan advi",
-    "id": "modelplan/modelplan",
-    "language": "Swift",
-    "name": "modelplan/modelplan",
-    "stars": 41,
-    "updated_at": "2026-10-27T03:56:21Z",
-    "url": "https://github.com/modelplan/modelplan"
-  },
-  {
-    "description": "Original, portable agent skills for Claude Code, Codex, and other AI agents \u2014 with a searchable GitHub Pages catalog.",
-    "id": "TriunaLabs/skills",
-    "language": "HTML",
-    "name": "TriunaLabs/skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:42:46Z",
-    "url": "https://github.com/TriunaLabs/skills"
-  },
-  {
-    "description": "Run your social media from any AI tool: SociaHive skill + MCP plugin for Claude Code, Cursor, Codex, Gemini CLI and Grok",
-    "id": "sociahive/sociahive-mcp",
-    "language": "\u2014",
-    "name": "sociahive/sociahive-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:42:23Z",
-    "url": "https://github.com/sociahive/sociahive-mcp"
-  },
-  {
-    "description": "FinSkillHub \u00b7 \u91d1\u878d\u6295\u7814 AI \u6280\u80fd\u5e93 \u2014 Finance and investment research skills, examples and workflows.",
-    "id": "Jeromelll/FinSkillHub",
-    "language": "Python",
-    "name": "Jeromelll/FinSkillHub",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:42:18Z",
-    "url": "https://github.com/Jeromelll/FinSkillHub"
-  },
-  {
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent e",
-    "id": "squirrelscan/squirrelscan",
-    "language": "TypeScript",
-    "name": "squirrelscan/squirrelscan",
-    "stars": 298,
-    "updated_at": "2026-10-27T03:57:00Z",
-    "url": "https://github.com/squirrelscan/squirrelscan"
-  },
-  {
-    "description": "Install obra/superpowers directly from upstream for Codex, Pi, OpenCode, and Claude Code. Stay on a known-good release o",
-    "id": "j7an/superpowers-manager",
-    "language": "TypeScript",
-    "name": "j7an/superpowers-manager",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:41:29Z",
-    "url": "https://github.com/j7an/superpowers-manager"
-  },
-  {
-    "description": "Write pull request descriptions from the AI agent session logs already on your machine, with a preview you approve. 4-pa",
-    "id": "Tingsters/tracetoon",
-    "language": "TypeScript",
-    "name": "Tingsters/tracetoon",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:41:24Z",
-    "url": "https://github.com/Tingsters/tracetoon"
-  },
-  {
-    "description": "Agent Skills for computational biology \u2014 RNA-seq, single-cell, protein structure, molecular dynamics, peptide design, li",
-    "id": "ssinder/bioinformatics-agent-skills",
-    "language": "Python",
-    "name": "ssinder/bioinformatics-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:40:58Z",
-    "url": "https://github.com/ssinder/bioinformatics-agent-skills"
-  },
-  {
-    "description": "Run AI-driven development the same way in every repo: spec, build, verify, hand back",
-    "id": "Vorski-Imagineering/gogogo",
-    "language": "Python",
-    "name": "Vorski-Imagineering/gogogo",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:57:15Z",
-    "url": "https://github.com/Vorski-Imagineering/gogogo"
-  },
-  {
-    "description": "Publishes localhost services to the agentic web through self-hostable, trustless relays.",
-    "id": "gosuda/portal-tunnel",
-    "language": "Go",
-    "name": "gosuda/portal-tunnel",
-    "stars": 291,
-    "updated_at": "2026-10-27T03:53:55Z",
-    "url": "https://github.com/gosuda/portal-tunnel"
-  },
-  {
-    "description": "Engineering discipline and reliability for frontier coding agents: durable responsibility, adversarial verification, con",
-    "id": "LetA-Tech/mellions-coxen",
-    "language": "Go",
-    "name": "LetA-Tech/mellions-coxen",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:48:34Z",
-    "url": "https://github.com/LetA-Tech/mellions-coxen"
-  },
-  {
-    "description": "\ud83e\udd77 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.",
-    "id": "tw93/Waza",
-    "language": "Python",
-    "name": "tw93/Waza",
-    "stars": 7366,
-    "updated_at": "2026-10-27T03:39:37Z",
-    "url": "https://github.com/tw93/Waza"
-  },
-  {
-    "description": "Backend for AI coding agents on CloudBase \u2014 database, auth, functions via Plugin, Skills & MCP.",
-    "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-    "language": "TypeScript",
-    "name": "TencentCloudBase/CloudBase-AI-Toolkit",
-    "stars": 1150,
-    "updated_at": "2026-10-27T03:39:05Z",
-    "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-  },
-  {
-    "description": "Agent skill: play the Crawler Zoo Arena, 16 games for AI agents over plain HTTP or MCP",
-    "id": "mrpk-sam/crawler-zoo-arena",
-    "language": "\u2014",
-    "name": "mrpk-sam/crawler-zoo-arena",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:38:18Z",
-    "url": "https://github.com/mrpk-sam/crawler-zoo-arena"
-  },
-  {
-    "description": "Design & frontend QA skills for coding agents, with a CLI that proves the work: screenshots, pixel diffs, axe and Lighth",
-    "id": "tevra-si/design-kit",
-    "language": "TypeScript",
-    "name": "tevra-si/design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:43:30Z",
-    "url": "https://github.com/tevra-si/design-kit"
-  },
-  {
-    "description": "Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetin",
-    "id": "silverstein/minutes",
-    "language": "Rust",
-    "name": "silverstein/minutes",
-    "stars": 1572,
-    "updated_at": "2026-10-27T03:38:01Z",
-    "url": "https://github.com/silverstein/minutes"
-  },
-  {
-    "description": "My macOS dotfiles: zsh, git, Homebrew, Ghostty themes, and AI agent skills for Claude Code, Codex, Cursor and Gemini CLI",
-    "id": "jgorodetsky/dotfiles",
-    "language": "Shell",
-    "name": "jgorodetsky/dotfiles",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:37:46Z",
-    "url": "https://github.com/jgorodetsky/dotfiles"
-  },
-  {
-    "description": "An event-driven, physically-sandboxed, local-LLM powered AIOps agent.",
-    "id": "aliangmo2026/moray-aio",
-    "language": "Python",
-    "name": "aliangmo2026/moray-aio",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:37:46Z",
-    "url": "https://github.com/aliangmo2026/moray-aio"
-  },
-  {
-    "description": "Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plu",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 20,
-    "updated_at": "2026-10-27T04:00:18Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "Claude Code and Codex skills for governing AI agents with Thoth",
-    "id": "atensecurity/thoth-skills",
-    "language": "Shell",
-    "name": "atensecurity/thoth-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:37:21Z",
-    "url": "https://github.com/atensecurity/thoth-skills"
-  },
-  {
-    "description": "Startup Agent Skills Hub",
-    "id": "lensetek/Startup-Agent-Skills-Hub",
-    "language": "HTML",
-    "name": "lensetek/Startup-Agent-Skills-Hub",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:37:30Z",
-    "url": "https://github.com/lensetek/Startup-Agent-Skills-Hub"
-  },
-  {
-    "description": "",
-    "id": "sentimony/skills",
-    "language": "Python",
-    "name": "sentimony/skills",
-    "stars": 6,
-    "updated_at": "2026-10-27T03:37:20Z",
-    "url": "https://github.com/sentimony/skills"
-  },
-  {
-    "description": "turn a learning goal into a runnable course - interactive board, lessons, graded homework, mastery unlocks, spaced revie",
-    "id": "Alamoooooooo/alamo-skills",
-    "language": "Python",
-    "name": "Alamoooooooo/alamo-skills",
-    "stars": 11,
-    "updated_at": "2026-10-27T03:36:50Z",
-    "url": "https://github.com/Alamoooooooo/alamo-skills"
-  },
-  {
-    "description": "AI Skills for B2B Product Design \u2014 8 original skills for enterprise UI, prototyping, validation and data reporting.",
-    "id": "jojowang521/baux-skill-stack",
-    "language": "\u2014",
-    "name": "jojowang521/baux-skill-stack",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:36:23Z",
-    "url": "https://github.com/jojowang521/baux-skill-stack"
   }
 ]
